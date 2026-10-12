@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#113f35" />
     <meta name="description" content="Türkiye'deki market fiyatlarını karşılaştırın." />
     <title>Fiyat Bul — Market fiyatlarını karşılaştır</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=20261012-catalog" />
   </head>
   <body>
     <main class="shell">
@@ -35,6 +35,25 @@
           <button type="button" data-query="yumurta">yumurta</button>
           <button type="button" data-query="süt">süt</button>
           <button type="button" data-query="peynir">peynir</button>
+        </div>
+      </section>
+
+      <section class="catalog" aria-labelledby="catalog-title">
+        <div class="catalog-heading">
+          <div>
+            <p class="result-kicker">KATALOG</p>
+            <h2 id="catalog-title">Fiyatı bulunan ürünler</h2>
+          </div>
+          <p>Bir ürüne dokun ve fiyatları karşılaştır.</p>
+        </div>
+        <div class="catalog-grid">
+          <button class="catalog-card" type="button" data-query="yumurta m 30 adet"><span class="catalog-icon" aria-hidden="true">🥚</span><span class="catalog-name">Yumurta M</span><span class="catalog-meta">30 adet</span></button>
+          <button class="catalog-card" type="button" data-query="yumurta l 15 adet"><span class="catalog-icon" aria-hidden="true">🥚</span><span class="catalog-name">Yumurta L</span><span class="catalog-meta">15 adet</span></button>
+          <button class="catalog-card" type="button" data-query="süt 1l"><span class="catalog-icon" aria-hidden="true">🥛</span><span class="catalog-name">Süt</span><span class="catalog-meta">1 L</span></button>
+          <button class="catalog-card" type="button" data-query="makarna 500g"><span class="catalog-icon" aria-hidden="true">🍝</span><span class="catalog-name">Makarna</span><span class="catalog-meta">500 g</span></button>
+          <button class="catalog-card" type="button" data-query="pirinç 1kg"><span class="catalog-icon" aria-hidden="true">🍚</span><span class="catalog-name">Pirinç</span><span class="catalog-meta">1 kg</span></button>
+          <button class="catalog-card" type="button" data-query="tereyağı 250g"><span class="catalog-icon" aria-hidden="true">🧈</span><span class="catalog-name">Tereyağı</span><span class="catalog-meta">250 g</span></button>
+          <button class="catalog-card" type="button" data-query="yoğurt 500g"><span class="catalog-icon" aria-hidden="true">🥣</span><span class="catalog-name">Yoğurt</span><span class="catalog-meta">500 g</span></button>
         </div>
       </section>
 
