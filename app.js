@@ -26,7 +26,7 @@ function offerDetails(offer) {
   const count = offer.name.match(/\b(\d{1,3})(?:\s*adet|\s*['’]?\s*(?:li|lu|lü|lı))\b/i);
   if (count) {
     const quantity = Number(count[1]);
-    return { packageText: \`\${quantity} adet\`, unit: \`\${money(offer.price / quantity)} / adet\` };
+    return { packageText: `${quantity} adet`, unit: `${money(offer.price / quantity)} / adet` };
   }
 
   const measure = offer.name.match(/\b(\d+(?:[.,]\d+)?)\s*(lt|l|ml|kg|gr|g)\b/i);
@@ -35,15 +35,15 @@ function offerDetails(offer) {
   const quantity = Number(measure[1].replace(",", "."));
   const unit = measure[2].toLocaleLowerCase("tr-TR");
   if (unit === "lt" || unit === "l") {
-    return { packageText: \`\${quantity} L\`, unit: \`\${money(offer.price / quantity)} / L\` };
+    return { packageText: `${quantity} L`, unit: `${money(offer.price / quantity)} / L` };
   }
   if (unit === "ml") {
-    return { packageText: \`\${quantity} ml\`, unit: \`\${money(offer.price / (quantity / 1000))} / L\` };
+    return { packageText: `${quantity} ml`, unit: `${money(offer.price / (quantity / 1000))} / L` };
   }
   if (unit === "kg") {
-    return { packageText: \`\${quantity} kg\`, unit: \`\${money(offer.price / quantity)} / kg\` };
+    return { packageText: `${quantity} kg`, unit: `${money(offer.price / quantity)} / kg` };
   }
-  return { packageText: \`\${quantity} g\`, unit: \`\${money(offer.price / (quantity / 1000))} / kg\` };
+  return { packageText: `${quantity} g`, unit: `${money(offer.price / (quantity / 1000))} / kg` };
 }
 
 function formatCheckedAt(value) {
