@@ -1,8 +1,8 @@
 const storeStyle = {
-  "A101": { logo: "A101", className: "a101" },
+  "A101": { logo: "A-101", className: "a101" },
   "BİM": { logo: "BİM", className: "bim" },
   "Migros": { logo: "M", className: "migros" },
-  "Şok": { logo: "Şok", className: "sok" },
+  "Şok": { logo: "ŞOK", className: "sok" },
   "Koop Market": { logo: "KOOP", className: "koop" }
 };
 
