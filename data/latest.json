@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-10-05T00:00:00+03:00",
+  "offers": [
+    {
+      "store": "BİM",
+      "name": "Bili Bili Yumurta 53-62 Gr 30 Adet",
+      "price": 149,
+      "oldPrice": 169,
+      "sourceUrl": "https://marketfiyati.org.tr/detay/01RD/bili-bili-yumurta-53-62-gr-30-adet",
+      "checkedAt": "2026-10-05T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "name": "Kumartaşlı M Yumurta 30 Lu",
+      "price": 149,
+      "oldPrice": null,
+      "sourceUrl": "https://www.tkkoop.com.tr/urun/kumartasli-m-yumurta-30-lu",
+      "checkedAt": "2026-07-05T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "name": "Anadolu Çiftliği M Yumurta 30'lu (53-63 g)",
+      "price": 169,
+      "oldPrice": null,
+      "sourceUrl": "https://www.sokmarket.com.tr/yumurta-c-895",
+      "checkedAt": "2026-10-05T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "name": "Yumurta M Boy 53-62 Gr 30 Adet",
+      "price": 169,
+      "oldPrice": null,
+      "sourceUrl": "https://marketfiyati.org.tr/detay/3W82/yumurta-m-boy-53-62-gr-30-adet",
+      "checkedAt": "2026-10-05T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "name": "Güres Yumurta L Boy 53-62 Gr 30 Adet",
+      "price": 169.9,
+      "oldPrice": null,
+      "sourceUrl": "https://marketfiyati.org.tr/detay/0R2K/gures-yumurta-l-boy-53-62-gr-30-adet",
+      "checkedAt": "2026-10-05T00:00:00+03:00"
+    }
+  ],
+  "storesWithoutCurrentData": []
+}
+

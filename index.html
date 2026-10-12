@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#113f35" />
+    <meta name="description" content="Türkiye'deki market fiyatlarını karşılaştırın." />
+    <title>Fiyat Bul — Market fiyatlarını karşılaştır</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="Fiyat Bul ana sayfa">
+          <span class="brand-mark">f</span>
+          <span>fiyatbul</span>
+        </a>
+        <span class="version">MVP</span>
+      </header>
+
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">MARKET FİYATLARINI KARŞILAŞTIR</p>
+        <h1 id="page-title">Aradığın ürün,<br /><em>en iyi fiyat.</em></h1>
+        <p class="lede">Şok, Migros, A101, BİM ve Koop Market'teki ürünleri tek yerde karşılaştır.</p>
+        <form class="search-form" id="search-form" role="search">
+          <label class="search-box" for="search-input">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" autocomplete="off" placeholder="Ürün ara: yumurta, süt, peynir..." value="yumurta" />
+            <button type="button" class="clear-button" id="clear-search" aria-label="Aramayı temizle">×</button>
+          </label>
+          <button class="search-button" type="submit">Ara</button>
+        </form>
+        <div class="popular" aria-label="Popüler aramalar">
+          <span>Popüler:</span>
+          <button type="button" data-query="yumurta">yumurta</button>
+          <button type="button" data-query="süt">süt</button>
+          <button type="button" data-query="peynir">peynir</button>
+        </div>
+      </section>
+
+      <section class="results" aria-live="polite">
+        <div class="result-heading">
+          <div>
+            <p class="result-kicker" id="result-kicker">ARANAN ÜRÜN</p>
+            <h2 id="result-title">Yumurta</h2>
+          </div>
+          <p class="update-note" id="update-note">Kaynaklı veri yükleniyor</p>
+        </div>
+
+        <div class="filters" aria-label="Filtreler">
+          <button class="filter active" type="button" data-filter="all">Tümü</button>
+          <button class="filter" type="button" data-filter="sale">İndirimdekiler</button>
+          <button class="filter" type="button" data-filter="A101">A101</button>
+          <button class="filter" type="button" data-filter="BİM">BİM</button>
+          <button class="filter" type="button" data-filter="Migros">Migros</button>
+          <button class="filter" type="button" data-filter="Şok">Şok</button>
+          <button class="filter" type="button" data-filter="Koop Market">Koop Market</button>
+        </div>
+
+        <div id="results-list" class="results-list"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <span aria-hidden="true">⌕</span>
+          <h3>Sonuç bulunamadı</h3>
+          <p>Başka bir Türkçe ürün adıyla aramayı dene.</p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Fiyat Bul · Her kayıtta kaynak ve kontrol tarihi gösterilir.</p>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
+

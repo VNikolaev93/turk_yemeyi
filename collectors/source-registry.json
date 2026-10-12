@@ -1,0 +1,33 @@
+[
+  {
+    "store": "Şok",
+    "mode": "public_catalog",
+    "url": "https://www.sokmarket.com.tr/yumurta-c-895",
+    "notes": "Public Cepte Şok category. Availability and price can vary by delivery address."
+  },
+  {
+    "store": "A101",
+    "mode": "store_price_feed",
+    "url": "https://marketfiyati.org.tr/",
+    "notes": "Only ordinary A101 store prices are accepted. A101 Kapıda and A101 Ekstra offers are excluded."
+  },
+  {
+    "store": "Koop Market",
+    "mode": "public_catalog",
+    "url": "https://www.tkkoop.com.tr/urun-kategori/sarkuteri-kahvaltilik/yumurta",
+    "notes": "Public Koop Market category."
+  },
+  {
+    "store": "Migros",
+    "mode": "store_price_feed",
+    "url": "https://marketfiyati.org.tr/",
+    "notes": "Temporary public lookup context is never persisted, displayed or used for delivery calculations."
+  },
+  {
+    "store": "BİM",
+    "mode": "store_price_feed",
+    "url": "https://marketfiyati.org.tr/",
+    "notes": "Public ordinary-store price feed."
+  }
+]
+
