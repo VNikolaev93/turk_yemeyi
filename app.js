@@ -17,10 +17,11 @@ const filters = document.querySelectorAll(".filter");
 let activeFilter = "all";
 let offers = [];
 let unavailableStores = [];
+const DATA_REVISION = "2026-10-14-2";
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);
-const fold = (value) => String(value).toLocaleLowerCase("tr-TR").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ı/g, "i").replace(/(\d)(lt|l|ml|kg|gr|g)\b/g, "$1 $2").replace(/\blt\b/g, "l").replace(/\bgr\b/g, "g");
+const fold = (value) => String(value).toLocaleLowerCase("tr-TR").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ı/g, "i").replace(/\b(\d{1,3})\s*['’]?\s*(?:li|lu|lü|lı)\b/gi, "$1 adet").replace(/(\d)(lt|l|ml|kg|gr|g)\b/g, "$1 $2").replace(/\blt\b/g, "l").replace(/\bgr\b/g, "g");
 
 function offerDetails(offer) {
   const count = offer.name.match(/\b(\d{1,3})(?:\s*adet|\s*['’]?\s*(?:li|lu|lü|lı))\b/i);
@@ -84,7 +85,7 @@ function draw() {
 
 async function loadOffers() {
   try {
-    const response = await fetch("data/latest.json", { cache: "no-store" });
+    const response = await fetch(`data/latest.json?revision=${DATA_REVISION}`, { cache: "no-store" });
     if (!response.ok) throw new Error("data unavailable");
     const data = await response.json();
     offers = Array.isArray(data.offers) ? data.offers : [];
