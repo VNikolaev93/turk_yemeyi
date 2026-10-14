@@ -28,7 +28,6 @@ h1 em { color: #ee5b46; font-family: Georgia, serif; font-weight: 400; }
 .search-icon { font-size: 29px; line-height: 1; margin: -6px 9px 0 1px; transform: rotate(-20deg); }
 .search-box input { background: transparent; border: 0; color: var(--ink); font-size: 16px; min-width: 0; outline: none; width: 100%; }
 .search-box input::placeholder { color: #9ba8a3; }
-.clear-button { background: none; border: 0; color: #789087; font-size: 24px; line-height: 1; padding: 4px; }
 .search-button { background: var(--ink); border: 1px solid var(--ink); border-radius: 15px; color: white; font-weight: 750; padding: 0 19px; }
 .search-button:hover { background: #0b3028; }
 .popular { align-items: center; color: #788981; display: flex; flex-wrap: wrap; font-size: 13px; gap: 8px; margin-top: 14px; }

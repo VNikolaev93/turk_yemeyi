@@ -8,7 +8,6 @@ const storeStyle = {
 
 const form = document.querySelector("#search-form");
 const input = document.querySelector("#search-input");
-const clearButton = document.querySelector("#clear-search");
 const list = document.querySelector("#results-list");
 const empty = document.querySelector("#empty-state");
 const title = document.querySelector("#result-title");
@@ -104,7 +103,6 @@ async function loadOffers() {
 
 form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; draw(); });
 input.addEventListener("input", () => { activeProductId = null; draw(); });
-clearButton.addEventListener("click", () => { input.value = ""; activeProductId = null; input.focus(); draw(); });
 document.querySelectorAll("[data-query]").forEach(button => button.addEventListener("click", () => { input.value = button.dataset.query; activeProductId = button.dataset.productId ?? null; activeFilter = "all"; filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all")); draw(); }));
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
