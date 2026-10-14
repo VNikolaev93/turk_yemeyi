@@ -99,7 +99,7 @@ function showSuggestions() {
     const tokens = fold(`${product.label} ${product.query}`).split(/[^a-z0-9]+/).filter(Boolean);
     return terms.every(term => tokens.some(token => token.startsWith(term)));
   }) : [];
-  suggestions.innerHTML = matches.map((product) => `<button class="search-suggestion" type="button" role="option" data-suggestion-id="${escapeHTML(product.id)}">${escapeHTML(product.label)}</button>`).join("");
+  suggestions.innerHTML = matches.map((product) => `<button class="search-suggestion" type="button" role="option" data-suggestion-id="${escapeHTML(product.id)}"><span class="search-suggestion-name">${escapeHTML(product.label)}</span><span class="search-suggestion-detail">${escapeHTML(product.detail)}</span></button>`).join("");
   suggestions.hidden = matches.length === 0;
 }
 
