@@ -34,8 +34,6 @@ h1 em { color: #ee5b46; font-family: Georgia, serif; font-weight: 400; }
 .search-suggestion:hover, .search-suggestion:focus-visible { background: #edf4dc; outline: none; }
 .search-button { background: var(--ink); border: 1px solid var(--ink); border-radius: 15px; color: white; font-weight: 750; padding: 0 19px; }
 .search-button:hover { background: #0b3028; }
-.popular { align-items: center; color: #788981; display: flex; flex-wrap: wrap; font-size: 13px; gap: 8px; margin-top: 14px; }
-.popular button { background: none; border: 0; color: var(--ink); padding: 0; text-decoration: underline; text-decoration-color: #b4c08e; text-underline-offset: 3px; }
 .results { border-top: 1px solid #d9ded3; padding-top: 26px; }
 .result-heading { align-items: end; display: flex; justify-content: space-between; gap: 12px; }
 .result-heading h2 { font-size: 30px; letter-spacing: -.045em; margin: 0; }
