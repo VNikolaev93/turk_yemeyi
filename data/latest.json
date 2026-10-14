@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:00:00+03:00",
+  "generatedAt": "2026-10-14T00:00:00+03:00",
   "offers": [
     {
       "store": "BİM",
@@ -7,7 +7,7 @@
       "price": 169,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/01RD/bili-bili-yumurta-53-62-gr-30-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
@@ -15,7 +15,7 @@
       "price": 169,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/0Z7H/anadolu-ciftligi-yumurta-53-62-gr-30-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
@@ -23,7 +23,15 @@
       "price": 169,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/3W82/yumurta-m-boy-53-62-gr-30-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "name": "Güres M Orta Boy Yumurta 30'lu 53-63 Gr",
+      "price": 169.9,
+      "oldPrice": null,
+      "sourceUrl": "https://www.migros.com.tr/gures-m-orta-boy-yumurta-30lu-53-63-g-p-1312df3",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "BİM",
@@ -31,7 +39,7 @@
       "price": 85,
       "oldPrice": 99,
       "sourceUrl": "https://marketfiyati.org.tr/detay/01PV/bili-bili-yumurta-15-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
@@ -39,7 +47,7 @@
       "price": 99,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/0QQ6/anadolu-ciftligi-yumurta-63-72-gr-15-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
@@ -47,7 +55,7 @@
       "price": 99,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/21EH/yumurta-l-boy-63-72-gr-15-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Migros",
@@ -55,15 +63,7 @@
       "price": 99.5,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/1TME/gures-yumurta-63-72-gr-15-adet",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Koop Market",
-      "name": "TK Yarım Yağlı Süt 1 L",
-      "price": 41,
-      "oldPrice": null,
-      "sourceUrl": "https://www.tkkoop.com.tr/urun/tk-yarim-yagli-sut-1-l",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "BİM",
@@ -71,7 +71,7 @@
       "price": 32.5,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/1H2F/dost-0-5-yagli-sut-1-lt",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
@@ -79,167 +79,23 @@
       "price": 43.5,
       "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/0PY7/mis-yarim-yagli-uht-sut-1-lt",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
-      "name": "Birşah Tam Yağlı Süt 1 Lt",
-      "price": 54.5,
+      "name": "Birşah Yağsız Süt 1 Lt",
+      "price": 36,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/12HC/birsah-tam-yagli-sut-1-lt",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "sourceUrl": "https://marketfiyati.org.tr/detay/0UNP/birsah-yagsiz-sut-1-lt",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Migros",
-      "name": "İçim Süt 1 Lt",
-      "price": 69.5,
+      "name": "Migros Yağsız Uht İçme Sütü 1 Lt",
+      "price": 35.95,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1T9S/icim-sut-1-lt",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Koop Market",
-      "name": "TK Anadolu Burgu Makarna 500 Gr",
-      "price": 16.5,
-      "oldPrice": null,
-      "sourceUrl": "https://www.tkkoop.com.tr/urun/tk-anadolu-burgu-makarna-500-g",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "BİM",
-      "name": "Cardella Fiyonk Makarna 500 Gr",
-      "price": 17,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/083Q/cardella-fiyonk-makarna-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Şok",
-      "name": "Piyale Burgu Makarna 500 Gr",
-      "price": 17,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0B11/piyale-burgu-makarna-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "A101",
-      "name": "Bendo Burgu Makarna 500 Gr",
-      "price": 17,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/11CW/bendo-burgu-makarna-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Migros",
-      "name": "Migros Spagetti Makarna 500 Gr",
-      "price": 17.95,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0M0B/migros-spagetti-makarna-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "BİM",
-      "name": "Efsane Ekonomik Pilavlık Pirinç 1 Kg",
-      "price": 57,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/05UZ/efsane-ekonomik-pilavlik-pirinc-1-kg",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Şok",
-      "name": "Anadolu Mutfağı Yerli Pilavlık Pirinç 1 Kg",
-      "price": 64.5,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/10D6/anadolu-mutfagi-yerli-pilavlik-pirinc-1-kg",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "A101",
-      "name": "Ovadan Kırık Pirinç 1 Kg",
-      "price": 32.5,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/10A9/ovadan-kirik-pirinc-1-kg",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Migros",
-      "name": "Yayla Pilavlık Pirinç 1 Kg",
-      "price": 69.95,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1AP3/yayla-pilavlik-pirinc-1-kg",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Koop Market",
-      "name": "Tarsüt Tereyağ 250 Gr",
-      "price": 155,
-      "oldPrice": null,
-      "sourceUrl": "https://www.tkkoop.com.tr/urun-kategori/tereyagi-krema/tereyagi",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "BİM",
-      "name": "Pervin Folyo Tereyağ 250 Gr",
-      "price": 163,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/02QS/pervin-folyo-tereyag-250-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Şok",
-      "name": "Mis Tereyağı 250 Gr",
-      "price": 163,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/035D/mis-tereyagi-250-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "A101",
-      "name": "Milkten Tereyağı 250 Gr",
-      "price": 163,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0SZ1/milkten-tereyagi-250-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Migros",
-      "name": "Sütaş Yayık Tereyağı 250 Gr",
-      "price": 245,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0CYD/sutas-yayik-tereyagi-250-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "BİM",
-      "name": "Dost Homojenize Yoğurt 500 Gr",
-      "price": 40,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/00JK/dost-homojenize-yogurt-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Şok",
-      "name": "Eker Probiyotik Yoğurt 500 Gr",
-      "price": 70.95,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1XRE/eker-probiyotik-yogurt-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "A101",
-      "name": "Birşah Yoğurt 500 Gr",
-      "price": 40,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1167/birsah-yogurt-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
-    },
-    {
-      "store": "Migros",
-      "name": "Yörsan Yarım Yağlı Homojenize Yoğurt 500 Gr",
-      "price": 43,
-      "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1B6U/yorsan-yarim-yagli-homojenize-yogurt-500-gr",
-      "checkedAt": "2026-10-12T00:00:00+03:00"
+      "sourceUrl": "https://marketfiyati.org.tr/detay/1FA8/migros-yagsiz-uht-icme-sutu-1-lt",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": []
