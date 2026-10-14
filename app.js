@@ -26,16 +26,18 @@ let activeProductId = null;
 let activeCategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-8";
+const DATA_REVISION = "2026-10-14-9";
 const categoryProducts = {
   produce: [
     { id: "banana-1kg", query: "muz 1 kg", label: "Muz", detail: "1 kg", icon: "🍌" },
-    { id: "carrot-1kg", query: "havuç 1 kg", label: "Havuç", detail: "1 kg", icon: "🥕" }
+    { id: "carrot-1kg", query: "havuç 1 kg", label: "Havuç", detail: "1 kg", icon: "🥕" },
+    { id: "lemon-1kg", query: "limon 1 kg", label: "Limon", detail: "1 kg", icon: "🍋" }
   ],
   dairy: [
     { id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" },
     { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" },
-    { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }
+    { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" },
+    { id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }
   ],
   drinks: [
     { id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" },

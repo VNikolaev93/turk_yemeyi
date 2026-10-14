@@ -279,6 +279,69 @@
       "price": 84.95,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "lemon-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Limon 1 Kg",
+      "price": 34.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lemon-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Limon 1 Kg",
+      "price": 45.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lemon-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Limon 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lemon-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Limon 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "becel-margarin-250g",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 54.95,
+      "discountPrice": 85.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "becel-margarin-250g",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 86,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "becel-margarin-250g",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 86,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": []
