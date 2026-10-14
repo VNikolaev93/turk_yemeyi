@@ -639,6 +639,24 @@
       "price": 360,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "milkten-tereyagi-250g",
+      "category": "Süt Ürünleri",
+      "name": "Milkten Tereyağı 250 Gr",
+      "price": 163,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tereyagi-1kg",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tereyağı 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": []

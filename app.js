@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-12";
+const DATA_REVISION = "2026-10-14-13";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -45,7 +45,7 @@ const categories = {
     subcategories: [
       { id: "dairy-milk", label: "Süt", icon: "🥛", products: [{ id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }, { id: "milkten-milkino-cocuk-sutu-200ml", query: "milkten milkino çocuk sütü 200 ml", label: "Milkten Milkino Çocuk Sütü", detail: "200 ml", icon: "🥛" }] },
       { id: "dairy-eggs", label: "Yumurta", icon: "🥚", products: [{ id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" }, { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" }] },
-      { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [{ id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }] }
+      { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [{ id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }, { id: "mis-tereyagi-1kg", query: "mis tereyağı 1 kg", label: "Mis Tereyağı", detail: "1 kg", icon: "🧈" }, { id: "milkten-tereyagi-250g", query: "milkten tereyağı 250 gr", label: "Milkten Tereyağı", detail: "250 g", icon: "🧈" }] }
     ]
   },
   meat: {
