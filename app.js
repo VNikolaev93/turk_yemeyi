@@ -15,20 +15,25 @@ const title = document.querySelector("#result-title");
 const updateNote = document.querySelector("#update-note");
 const filters = document.querySelectorAll(".filter");
 const catalogCategories = Array.from(document.querySelectorAll("[data-category]"));
-const catalogProducts = Array.from(document.querySelectorAll("[data-product-id]")).map((card) => ({
-  id: card.dataset.productId,
-  query: card.dataset.query,
-  label: `${card.querySelector(".catalog-name").textContent} ${card.querySelector(".catalog-meta").textContent}`
-}));
+const categoryGrid = document.querySelector("#category-grid");
+const categoryProductsPanel = document.querySelector("#category-products");
+const categoryProductsTitle = document.querySelector("#category-products-title");
+const categoryProductsList = document.querySelector("#category-products-list");
+const showCategoriesButton = document.querySelector("#show-categories");
 let activeFilter = "all";
 let activeProductId = null;
 let activeCategory = null;
 let offers = [];
 let unavailableStores = [];
 const DATA_REVISION = "2026-10-14-6";
-const categoryProductIds = {
-  dairy: ["eggs-30", "eggs-15", "milk-1l"]
+const categoryProducts = {
+  dairy: [
+    { id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" },
+    { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" },
+    { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }
+  ]
 };
+const catalogProducts = Object.values(categoryProducts).flat();
 const categoryTitles = {
   dairy: "Süt Ürünleri"
 };
@@ -106,6 +111,15 @@ function selectProduct(product) {
   filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
   hideSuggestions();
   draw();
+  document.querySelector(".results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function showCategoryGrid() {
+  activeCategory = null;
+  activeProductId = null;
+  categoryGrid.hidden = false;
+  categoryProductsPanel.hidden = true;
+  catalogCategories.forEach(card => card.classList.remove("active"));
 }
 
 function selectCategory(category) {
@@ -115,19 +129,27 @@ function selectCategory(category) {
   activeFilter = "all";
   filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
   catalogCategories.forEach(card => card.classList.toggle("active", card.dataset.category === category));
+  categoryGrid.hidden = true;
+  categoryProductsPanel.hidden = false;
+  categoryProductsTitle.textContent = categoryTitles[category];
+  categoryProductsList.innerHTML = (categoryProducts[category] ?? []).map((product) => `
+    <button class="category-product-card" type="button" data-category-product-id="${escapeHTML(product.id)}">
+      <span class="category-product-icon" aria-hidden="true">${product.icon}</span>
+      <span class="category-product-name">${escapeHTML(product.label)}</span>
+      <span class="category-product-meta">${escapeHTML(product.detail)}</span>
+    </button>`).join("");
   hideSuggestions();
-  draw();
-  document.querySelector(".results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  categoryProductsPanel.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function draw() {
   const rawQuery = input.value.trim();
   const query = fold(rawQuery);
   const queryTerms = query.split(/[^a-z0-9]+/).filter(Boolean);
-  title.textContent = activeCategory ? categoryTitles[activeCategory] : rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
+  title.textContent = activeProductId ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : activeCategory ? categoryTitles[activeCategory] : rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
   let selected = offers.filter((offer) => {
     if (activeProductId) return offer.productId === activeProductId;
-    if (activeCategory) return categoryProductIds[activeCategory]?.includes(offer.productId);
+    if (activeCategory) return categoryProducts[activeCategory]?.some(product => product.id === offer.productId);
     const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean);
     return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term)));
   });
@@ -152,10 +174,10 @@ async function loadOffers() {
   draw();
 }
 
-form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; activeCategory = null; catalogCategories.forEach(card => card.classList.remove("active")); hideSuggestions(); draw(); });
+form.addEventListener("submit", event => { event.preventDefault(); showCategoryGrid(); hideSuggestions(); draw(); });
 input.addEventListener("focus", showSuggestions);
 input.addEventListener("blur", () => window.setTimeout(hideSuggestions, 120));
-input.addEventListener("input", () => { activeProductId = null; activeCategory = null; catalogCategories.forEach(card => card.classList.remove("active")); draw(); showSuggestions(); });
+input.addEventListener("input", () => { activeProductId = null; showCategoryGrid(); draw(); showSuggestions(); });
 suggestions.addEventListener("mousedown", event => event.preventDefault());
 suggestions.addEventListener("click", (event) => {
   const id = event.target.closest("[data-suggestion-id]")?.dataset.suggestionId;
@@ -175,6 +197,12 @@ document.querySelectorAll("[data-query]").forEach(button => button.addEventListe
   }
 }));
 catalogCategories.forEach(card => card.addEventListener("click", () => selectCategory(card.dataset.category)));
+categoryProductsList.addEventListener("click", (event) => {
+  const id = event.target.closest("[data-category-product-id]")?.dataset.categoryProductId;
+  const product = catalogProducts.find(item => item.id === id);
+  if (product) selectProduct(product);
+});
+showCategoriesButton.addEventListener("click", showCategoryGrid);
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
 

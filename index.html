@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#113f35" />
     <meta name="description" content="Meni Fiyat ile Türkiye'deki market fiyatlarını karşılaştırın." />
     <title>Meni Fiyat — Market fiyatlarını karşılaştır</title>
-    <link rel="stylesheet" href="styles.css?v=20261014-categories" />
+    <link rel="stylesheet" href="styles.css?v=20261014-category-products" />
   </head>
   <body>
     <main class="shell">
@@ -42,7 +42,7 @@
           </div>
           <p>Ürün grubunu seç ve fiyatları karşılaştır.</p>
         </div>
-        <div class="catalog-grid">
+        <div id="category-grid" class="catalog-grid">
           <article class="category-card">
             <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">Yakında</span>
           </article>
@@ -65,6 +65,17 @@
             <span class="category-art art-snacks" aria-hidden="true"></span><span class="catalog-name">Atıştırmalık</span><span class="catalog-meta">Yakında</span>
           </article>
         </div>
+        <section id="category-products" class="category-products" aria-labelledby="category-products-title" hidden>
+          <div class="category-products-heading">
+            <div>
+              <p class="result-kicker">KATEGORİ</p>
+              <h2 id="category-products-title">Süt Ürünleri</h2>
+            </div>
+            <button id="show-categories" class="back-to-categories" type="button">← Tüm kategoriler</button>
+          </div>
+          <p class="category-products-lede">Karşılaştırmak istediğin ürünü seç.</p>
+          <div id="category-products-list" class="category-products-grid"></div>
+        </section>
       </section>
 
       <section class="results" aria-live="polite">
@@ -96,7 +107,7 @@
     <footer>
       <p>Meni Fiyat · Her kayıtta kaynak ve kontrol tarihi gösterilir.</p>
     </footer>
-    <script src="app.js?v=20261014-categories"></script>
+    <script src="app.js?v=20261014-category-products"></script>
   </body>
 </html>
 
