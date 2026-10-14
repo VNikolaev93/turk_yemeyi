@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#113f35" />
     <meta name="description" content="Meni Fiyat ile Türkiye'deki market fiyatlarını karşılaştırın." />
     <title>Meni Fiyat — Market fiyatlarını karşılaştır</title>
-    <link rel="stylesheet" href="styles.css?v=20261014-csv-categories" />
+    <link rel="stylesheet" href="styles.css?v=20261014-subcategories" />
   </head>
   <body>
     <main class="shell">
@@ -44,34 +44,42 @@
         </div>
         <div id="category-grid" class="catalog-grid">
           <button class="category-card category-card-ready" type="button" data-category="produce">
-            <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">3 ürün · Fiyatları gör →</span>
+            <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">2 alt kategori · Keşfet →</span>
           </button>
           <button class="category-card category-card-ready" type="button" data-category="dairy">
-            <span class="category-art art-dairy" aria-hidden="true"></span><span class="catalog-name">Süt Ürünleri</span><span class="catalog-meta">4 ürün · Fiyatları gör →</span>
+            <span class="category-art art-dairy" aria-hidden="true"></span><span class="catalog-name">Süt Ürünleri</span><span class="catalog-meta">3 alt kategori · Keşfet →</span>
           </button>
-          <article class="category-card">
-            <span class="category-art art-home" aria-hidden="true"></span><span class="catalog-name">Ev, Tavuk ve Balık</span><span class="catalog-meta">Yakında</span>
-          </article>
+          <button class="category-card category-card-ready" type="button" data-category="meat">
+            <span class="category-art art-home" aria-hidden="true"></span><span class="catalog-name">Et, Tavuk ve Balık</span><span class="catalog-meta">3 alt kategori · Keşfet →</span>
+          </button>
           <button class="category-card category-card-ready" type="button" data-category="drinks">
-            <span class="category-art art-drinks" aria-hidden="true"></span><span class="catalog-name">İçecek</span><span class="catalog-meta">2 ürün · Fiyatları gör →</span>
+            <span class="category-art art-drinks" aria-hidden="true"></span><span class="catalog-name">İçecek</span><span class="catalog-meta">4 alt kategori · Keşfet →</span>
           </button>
-          <article class="category-card">
-            <span class="category-art art-icecream" aria-hidden="true"></span><span class="catalog-name">Dondurma</span><span class="catalog-meta">Yakında</span>
-          </article>
-          <article class="category-card">
-            <span class="category-art art-bakery" aria-hidden="true"></span><span class="catalog-name">Fırın</span><span class="catalog-meta">Yakında</span>
-          </article>
+          <button class="category-card category-card-ready" type="button" data-category="staples">
+            <span class="category-art art-bakery" aria-hidden="true"></span><span class="catalog-name">Temel Gıda</span><span class="catalog-meta">2 alt kategori · Keşfet →</span>
+          </button>
           <button class="category-card category-card-ready" type="button" data-category="snacks">
-            <span class="category-art art-snacks" aria-hidden="true"></span><span class="catalog-name">Atıştırmalık</span><span class="catalog-meta">2 ürün · Fiyatları gör →</span>
+            <span class="category-art art-snacks" aria-hidden="true"></span><span class="catalog-name">Atıştırmalık</span><span class="catalog-meta">3 alt kategori · Keşfet →</span>
           </button>
         </div>
-        <section id="category-products" class="category-products" aria-labelledby="category-products-title" hidden>
+        <section id="category-subcategories" class="category-products" aria-labelledby="category-subcategories-title" hidden>
           <div class="category-products-heading">
             <div>
               <p class="result-kicker">KATEGORİ</p>
-              <h2 id="category-products-title">Süt Ürünleri</h2>
+              <h2 id="category-subcategories-title">Meyve ve Sebze</h2>
             </div>
             <button id="show-categories" class="back-to-categories" type="button">← Tüm kategoriler</button>
+          </div>
+          <p class="category-products-lede">Bir alt kategori seç.</p>
+          <div id="category-subcategories-list" class="category-products-grid"></div>
+        </section>
+        <section id="category-products" class="category-products" aria-labelledby="category-products-title" hidden>
+          <div class="category-products-heading">
+            <div>
+              <p class="result-kicker">ALT KATEGORİ</p>
+              <h2 id="category-products-title">Meyve</h2>
+            </div>
+            <button id="show-subcategories" class="back-to-categories" type="button">← Alt kategoriler</button>
           </div>
           <p class="category-products-lede">Karşılaştırmak istediğin ürünü seç.</p>
           <div id="category-products-list" class="category-products-grid"></div>
@@ -109,6 +117,6 @@
     <footer>
       <p>Meni Fiyat · Güncel fiyat karşılaştırması.</p>
     </footer>
-    <script src="app.js?v=20261014-csv-lemon-becel"></script>
+    <script src="app.js?v=20261014-subcategories"></script>
   </body>
 </html>

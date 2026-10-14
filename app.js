@@ -17,44 +17,72 @@ const updateNote = document.querySelector("#update-note");
 const filters = document.querySelectorAll(".filter");
 const catalogCategories = Array.from(document.querySelectorAll("[data-category]"));
 const categoryGrid = document.querySelector("#category-grid");
+const categorySubcategoriesPanel = document.querySelector("#category-subcategories");
+const categorySubcategoriesTitle = document.querySelector("#category-subcategories-title");
+const categorySubcategoriesList = document.querySelector("#category-subcategories-list");
 const categoryProductsPanel = document.querySelector("#category-products");
 const categoryProductsTitle = document.querySelector("#category-products-title");
 const categoryProductsList = document.querySelector("#category-products-list");
 const showCategoriesButton = document.querySelector("#show-categories");
+const showSubcategoriesButton = document.querySelector("#show-subcategories");
 let activeFilter = "all";
 let activeProductId = null;
 let activeCategory = null;
+let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-9";
-const categoryProducts = {
-  produce: [
-    { id: "banana-1kg", query: "muz 1 kg", label: "Muz", detail: "1 kg", icon: "🍌" },
-    { id: "carrot-1kg", query: "havuç 1 kg", label: "Havuç", detail: "1 kg", icon: "🥕" },
-    { id: "lemon-1kg", query: "limon 1 kg", label: "Limon", detail: "1 kg", icon: "🍋" }
-  ],
-  dairy: [
-    { id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" },
-    { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" },
-    { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" },
-    { id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }
-  ],
-  drinks: [
-    { id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" },
-    { id: "coca-cola-1l", query: "coca cola 1 l", label: "Coca-Cola", detail: "1 L", icon: "🥤" }
-  ],
-  snacks: [
-    { id: "lays-baharatli-125g", query: "lays baharatlı 125 gr", label: "Lay's Baharatlı", detail: "125 g", icon: "🥔" },
-    { id: "lays-baharatli-160g", query: "lays baharatlı 160 gr", label: "Lay's Baharatlı", detail: "160 g", icon: "🥔" }
-  ]
+const DATA_REVISION = "2026-10-14-10";
+const categories = {
+  produce: {
+    title: "Meyve ve Sebze",
+    subcategories: [
+      { id: "produce-fruit", label: "Meyve", icon: "🍌", products: [{ id: "banana-1kg", query: "muz 1 kg", label: "Muz", detail: "1 kg", icon: "🍌" }, { id: "lemon-1kg", query: "limon 1 kg", label: "Limon", detail: "1 kg", icon: "🍋" }] },
+      { id: "produce-vegetables", label: "Sebze", icon: "🥕", products: [{ id: "carrot-1kg", query: "havuç 1 kg", label: "Havuç", detail: "1 kg", icon: "🥕" }] }
+    ]
+  },
+  dairy: {
+    title: "Süt Ürünleri",
+    subcategories: [
+      { id: "dairy-milk", label: "Süt", icon: "🥛", products: [{ id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }] },
+      { id: "dairy-eggs", label: "Yumurta", icon: "🥚", products: [{ id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" }, { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" }] },
+      { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [{ id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }] }
+    ]
+  },
+  meat: {
+    title: "Et, Tavuk ve Balık",
+    subcategories: [
+      { id: "meat", label: "Et", icon: "🥩", products: [] },
+      { id: "poultry", label: "Tavuk", icon: "🍗", products: [] },
+      { id: "fish", label: "Balık", icon: "🐟", products: [] }
+    ]
+  },
+  drinks: {
+    title: "İçecek",
+    subcategories: [
+      { id: "water", label: "Su", icon: "💧", products: [] },
+      { id: "sparkling-drinks", label: "Gazlı İçecekler", icon: "🥤", products: [{ id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" }, { id: "coca-cola-1l", query: "coca cola 1 l", label: "Coca-Cola", detail: "1 L", icon: "🥤" }] },
+      { id: "still-drinks", label: "Gazsız İçecekler", icon: "🧃", products: [] },
+      { id: "juice", label: "Meyve Suyu", icon: "🧃", products: [] }
+    ]
+  },
+  staples: {
+    title: "Temel Gıda",
+    subcategories: [
+      { id: "bakery", label: "Ekmek ve Ulku Manüller", icon: "🥖", products: [] },
+      { id: "sauce", label: "Sos", icon: "🍅", products: [] }
+    ]
+  },
+  snacks: {
+    title: "Atıştırmalık",
+    subcategories: [
+      { id: "chips", label: "Cips", icon: "🥔", products: [{ id: "lays-baharatli-125g", query: "lays baharatlı 125 gr", label: "Lay's Baharatlı", detail: "125 g", icon: "🥔" }, { id: "lays-baharatli-160g", query: "lays baharatlı 160 gr", label: "Lay's Baharatlı", detail: "160 g", icon: "🥔" }] },
+      { id: "ice-cream", label: "Dondurma", icon: "🍨", products: [] },
+      { id: "chocolate", label: "Çikolata", icon: "🍫", products: [] }
+    ]
+  }
 };
-const catalogProducts = Object.values(categoryProducts).flat();
-const categoryTitles = {
-  produce: "Meyve ve Sebze",
-  dairy: "Süt Ürünleri",
-  drinks: "İçecek",
-  snacks: "Atıştırmalık"
-};
+const catalogSubcategories = Object.values(categories).flatMap(category => category.subcategories);
+const catalogProducts = catalogSubcategories.flatMap(subcategory => subcategory.products);
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);
@@ -131,6 +159,7 @@ function selectProduct(product) {
   input.value = product.query;
   activeProductId = product.id;
   activeCategory = null;
+  activeSubcategory = null;
   activeFilter = "all";
   filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
   hideSuggestions();
@@ -140,40 +169,77 @@ function selectProduct(product) {
 
 function showCategoryGrid() {
   activeCategory = null;
+  activeSubcategory = null;
   activeProductId = null;
   categoryGrid.hidden = false;
+  categorySubcategoriesPanel.hidden = true;
   categoryProductsPanel.hidden = true;
   catalogCategories.forEach(card => card.classList.remove("active"));
 }
 
 function selectCategory(category) {
+  const selectedCategory = categories[category];
+  if (!selectedCategory) return;
   activeCategory = category;
+  activeSubcategory = null;
   activeProductId = null;
   input.value = "";
   activeFilter = "all";
   filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
   catalogCategories.forEach(card => card.classList.toggle("active", card.dataset.category === category));
   categoryGrid.hidden = true;
+  categorySubcategoriesPanel.hidden = false;
+  categoryProductsPanel.hidden = true;
+  categorySubcategoriesTitle.textContent = selectedCategory.title;
+  categorySubcategoriesList.innerHTML = selectedCategory.subcategories.map((subcategory) => `
+    <button class="category-product-card" type="button" data-subcategory-id="${escapeHTML(subcategory.id)}">
+      <span class="category-product-icon" aria-hidden="true">${subcategory.icon}</span>
+      <span class="category-product-name">${escapeHTML(subcategory.label)}</span>
+      <span class="category-product-meta">${subcategory.products.length ? `${subcategory.products.length} ürün · Seç →` : "Yakında"}</span>
+    </button>`).join("");
+  hideSuggestions();
+  categorySubcategoriesPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function selectSubcategory(subcategoryId) {
+  const selectedCategory = categories[activeCategory];
+  const subcategory = selectedCategory?.subcategories.find(item => item.id === subcategoryId);
+  if (!subcategory) return;
+  activeSubcategory = subcategory.id;
+  activeProductId = null;
+  categorySubcategoriesPanel.hidden = true;
   categoryProductsPanel.hidden = false;
-  categoryProductsTitle.textContent = categoryTitles[category];
-  categoryProductsList.innerHTML = (categoryProducts[category] ?? []).map((product) => `
+  categoryProductsTitle.textContent = subcategory.label;
+  categoryProductsList.innerHTML = subcategory.products.length ? subcategory.products.map((product) => `
     <button class="category-product-card" type="button" data-category-product-id="${escapeHTML(product.id)}">
       <span class="category-product-icon" aria-hidden="true">${product.icon}</span>
       <span class="category-product-name">${escapeHTML(product.label)}</span>
       <span class="category-product-meta">${escapeHTML(product.detail)}</span>
-    </button>`).join("");
+    </button>`).join("") : `<p class="category-products-empty">Bu alt kategoride henüz fiyatı bulunan ürün yok.</p>`;
   hideSuggestions();
+  draw();
   categoryProductsPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function showSubcategories() {
+  activeSubcategory = null;
+  activeProductId = null;
+  categorySubcategoriesPanel.hidden = false;
+  categoryProductsPanel.hidden = true;
+  draw();
+  categorySubcategoriesPanel.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function draw() {
   const rawQuery = input.value.trim();
   const query = fold(rawQuery);
   const queryTerms = query.split(/[^a-z0-9]+/).filter(Boolean);
-  title.textContent = activeProductId ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : activeCategory ? categoryTitles[activeCategory] : rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
+  const subcategory = catalogSubcategories.find(item => item.id === activeSubcategory);
+  title.textContent = activeProductId ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : subcategory ? subcategory.label : activeCategory ? categories[activeCategory]?.title : rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
   let selected = offers.filter((offer) => {
     if (activeProductId) return offer.productId === activeProductId;
-    if (activeCategory) return categoryProducts[activeCategory]?.some(product => product.id === offer.productId);
+    if (subcategory) return subcategory.products.some(product => product.id === offer.productId);
+    if (activeCategory) return categories[activeCategory]?.subcategories.some(item => item.products.some(product => product.id === offer.productId));
     const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean);
     return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term)));
   });
@@ -221,12 +287,17 @@ document.querySelectorAll("[data-query]").forEach(button => button.addEventListe
   }
 }));
 catalogCategories.forEach(card => card.addEventListener("click", () => selectCategory(card.dataset.category)));
+categorySubcategoriesList.addEventListener("click", (event) => {
+  const id = event.target.closest("[data-subcategory-id]")?.dataset.subcategoryId;
+  if (id) selectSubcategory(id);
+});
 categoryProductsList.addEventListener("click", (event) => {
   const id = event.target.closest("[data-category-product-id]")?.dataset.categoryProductId;
   const product = catalogProducts.find(item => item.id === id);
   if (product) selectProduct(product);
 });
 showCategoriesButton.addEventListener("click", showCategoryGrid);
+showSubcategoriesButton.addEventListener("click", showSubcategories);
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
 
