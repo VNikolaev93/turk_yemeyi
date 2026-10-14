@@ -342,6 +342,222 @@
       "price": 86,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 149.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 244,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 244,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 244,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 244.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "superfresh-milfoy-hamuru-1kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Milföy Hamuru 1 Kg",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-mayonez-540g",
+      "category": "Temel Gıda",
+      "name": "Calve Mayonez 540 Gr",
+      "price": 199.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-mayonez-540g",
+      "category": "Temel Gıda",
+      "name": "Calve Mayonez 540 Gr",
+      "price": 204.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "calve-cheddar-sos-240g",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 74,
+      "discountPrice": 119,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-cheddar-sos-240g",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 89.96,
+      "discountPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-cheddar-sos-240g",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dimes-visne-nektari-200ml",
+      "category": "İçecek",
+      "name": "Dimes Vişne Nektarı 200 Ml",
+      "price": 16.5,
+      "discountPrice": 19.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dimes-visne-nektari-200ml",
+      "category": "İçecek",
+      "name": "Dimes Vişne Nektarı 200 Ml",
+      "price": 19.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dimes-visne-nektari-200ml",
+      "category": "İçecek",
+      "name": "Dimes Vişne Nektarı 200 Ml",
+      "price": 19.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cappy-karisik-nektari-200ml",
+      "category": "İçecek",
+      "name": "Cappy Karışık Nektarı 200 Ml",
+      "price": 20,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cappy-karisik-nektari-200ml",
+      "category": "İçecek",
+      "name": "Cappy Karışık Nektarı 200 Ml",
+      "price": 20,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doganay-limonata-1l",
+      "category": "İçecek",
+      "name": "Doğanay Limonata 1 Lt",
+      "price": 42.5,
+      "discountPrice": 49.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doganay-limonata-1l",
+      "category": "İçecek",
+      "name": "Doğanay Limonata 1 Lt",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "doganay-limonata-1l",
+      "category": "İçecek",
+      "name": "Doğanay Limonata 1 Lt",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-sinitzel-700g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Şinitzel 700 Gr",
+      "price": 122.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-sinitzel-700g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Şinitzel 700 Gr",
+      "price": 174.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-yaprak-doner-200g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Yaprak Döner 200 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lezita-pilic-yaprak-doner-200g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Yaprak Döner 200 Gr",
+      "price": 114.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-nugget-300g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Nugget 300 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": []

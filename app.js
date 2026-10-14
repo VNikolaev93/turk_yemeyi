@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-10";
+const DATA_REVISION = "2026-10-14-11";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -51,8 +51,8 @@ const categories = {
   meat: {
     title: "Et, Tavuk ve Balık",
     subcategories: [
-      { id: "meat", label: "Et", icon: "🥩", products: [] },
-      { id: "poultry", label: "Tavuk", icon: "🍗", products: [] },
+      { id: "meat", label: "Et", icon: "🥩", products: [{ id: "banvit-pilic-sinitzel-700g", query: "banvit piliç şinitzel 700 gr", label: "Banvit Piliç Şinitzel", detail: "700 g", icon: "🥩" }, { id: "lezita-pilic-yaprak-doner-200g", query: "lezita piliç yaprak döner 200 gr", label: "Lezita Piliç Yaprak Döner", detail: "200 g", icon: "🥩" }] },
+      { id: "poultry", label: "Tavuk", icon: "🍗", products: [{ id: "banvit-pilic-nugget-300g", query: "banvit piliç nugget 300 gr", label: "Banvit Piliç Nugget", detail: "300 g", icon: "🍗" }] },
       { id: "fish", label: "Balık", icon: "🐟", products: [] }
     ]
   },
@@ -61,15 +61,15 @@ const categories = {
     subcategories: [
       { id: "water", label: "Su", icon: "💧", products: [] },
       { id: "sparkling-drinks", label: "Gazlı İçecekler", icon: "🥤", products: [{ id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" }, { id: "coca-cola-1l", query: "coca cola 1 l", label: "Coca-Cola", detail: "1 L", icon: "🥤" }] },
-      { id: "still-drinks", label: "Gazsız İçecekler", icon: "🧃", products: [] },
-      { id: "juice", label: "Meyve Suyu", icon: "🧃", products: [] }
+      { id: "still-drinks", label: "Gazsız İçecekler", icon: "🧃", products: [{ id: "doganay-limonata-1l", query: "doğanay limonata 1 l", label: "Doğanay Limonata", detail: "1 L", icon: "🧃" }] },
+      { id: "juice", label: "Meyve Suyu", icon: "🧃", products: [{ id: "dimes-visne-nektari-200ml", query: "dimes vişne nektarı 200 ml", label: "Dimes Vişne Nektarı", detail: "200 ml", icon: "🧃" }, { id: "cappy-karisik-nektari-200ml", query: "cappy karışık nektarı 200 ml", label: "Cappy Karışık Nektarı", detail: "200 ml", icon: "🧃" }] }
     ]
   },
   staples: {
     title: "Temel Gıda",
     subcategories: [
-      { id: "bakery", label: "Ekmek ve Ulku Manüller", icon: "🥖", products: [] },
-      { id: "sauce", label: "Sos", icon: "🍅", products: [] }
+      { id: "bakery", label: "Ekmek ve Unlu Mamüller", icon: "🥖", products: [{ id: "superfresh-milfoy-hamuru-1kg", query: "superfresh milföy hamuru 1 kg", label: "Superfresh Milföy Hamuru", detail: "1 kg", icon: "🥖" }] },
+      { id: "sauce", label: "Sos", icon: "🍅", products: [{ id: "calve-mayonez-540g", query: "calve mayonez 540 gr", label: "Calve Mayonez", detail: "540 g", icon: "🍅" }, { id: "calve-cheddar-sos-240g", query: "calve cheddar sos 240 gr", label: "Calve Cheddar Sos", detail: "240 g", icon: "🍅" }] }
     ]
   },
   snacks: {
