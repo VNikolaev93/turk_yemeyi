@@ -18,7 +18,7 @@ let activeFilter = "all";
 let activeProductId = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-4";
+const DATA_REVISION = "2026-10-14-5";
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);

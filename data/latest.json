@@ -42,7 +42,7 @@
       "productId": "eggs-15",
       "name": "Bili Bili Yumurta 15 Adet",
       "price": 85,
-      "oldPrice": 99,
+      "oldPrice": null,
       "sourceUrl": "https://marketfiyati.org.tr/detay/01PV/bili-bili-yumurta-15-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
