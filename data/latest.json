@@ -657,6 +657,78 @@
       "price": 469,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mushrooms",
+      "category": "Meyve ve Sebze",
+      "name": "Mantar 300 Gr",
+      "price": 74.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mushrooms",
+      "category": "Meyve ve Sebze",
+      "name": "Mantar 400 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mushrooms",
+      "category": "Meyve ve Sebze",
+      "name": "Mantar Tabak 300 Gr",
+      "price": 64.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "icim-yogurt-750g",
+      "category": "Süt Ürünleri",
+      "name": "İçim Yoğurt 750 Gr",
+      "price": 69.9,
+      "discountPrice": 82,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sek-yarim-yagli-yogurt-750g",
+      "category": "Süt Ürünleri",
+      "name": "Sek Yarım Yağlı Yoğurt 750 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tam-yagli-homojenize-yogurt-750g",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tam Yağlı Homojenize Yoğurt 750 Gr",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-meyveli-yogurt-cilek-500g",
+      "category": "Süt Ürünleri",
+      "name": "Mis Meyveli Yoğurt Çilek 500 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-suzme-yogurt-900g",
+      "category": "Süt Ürünleri",
+      "name": "Mis Süzme Yoğurt 900 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": []
