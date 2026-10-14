@@ -14,6 +14,12 @@ export function parseTurkishPrice(value) {
   return Number.isFinite(result) ? result : null;
 }
 
+export function regularPrice(currentPrice, discountPrice) {
+  const current = Number(currentPrice);
+  const regular = Number(discountPrice);
+  return Number.isFinite(current) && Number.isFinite(regular) && regular > current ? regular : null;
+}
+
 export function packageInfo(productName) {
   const text = String(productName);
   const count = text.match(/\b(\d{1,3})(?:\s*adet|\s*['’]?\s*(?:li|lu|lü|lı))\b/i);

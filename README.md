@@ -4,7 +4,7 @@ Mobile-first Turkish grocery price-comparison MVP. The application interface acc
 
 ## Current state
 
-The published site is a static MVP: it has Turkish-language product search, store filters, sale and regular price display, a calculated unit price, a source link, and the date each record was checked. The current seed data is deliberately date-labelled so that an older price is never presented as fresh.
+The published site is a static MVP: it has Turkish-language product search, store filters, sale and regular price display, and a calculated unit price.
 
 ## Price updates
 
@@ -13,16 +13,11 @@ The displayed records live in `data/latest.json` on the public site. Update that
 ```json
 {
   "store": "A101",
-  "productName": "M Yumurta",
-  "packageText": "30 adet",
-  "salePrice": 99,
-  "regularPrice": 159,
-  "unitPrice": 3.3,
-  "unit": "adet",
-  "checkedAt": "2026-10-05T00:00:00+03:00",
-  "sourceUrl": "https://example.com/product"
+  "name": "Coca-Cola Light 1.5 Lt",
+  "price": 64.9,
+  "discountPrice": 80
 }
 ```
 
-The collector notes in `collectors/` describe the intended retailer sources. Each update must preserve the original source URL and `checkedAt`, so visitors can verify a price and see when it was checked.
+For CSV input, use `Market;Title;Brand;Price;discount_price`. `Price` is the current price. When `discount_price` is greater than `Price`, map it to `discountPrice`; otherwise use the same value or `null`. The interface shows the crossed-out regular price and the sale badge only when the two prices differ.
 

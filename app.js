@@ -81,9 +81,16 @@ function formatCheckedAt(value) {
   return new Intl.DateTimeFormat("tr-TR", { day: "numeric", month: "short", year: "numeric" }).format(new Date(value));
 }
 
+function regularPrice(offer) {
+  const price = Number(offer.price);
+  const candidate = Number(offer.discountPrice ?? offer.discount_price ?? offer.oldPrice);
+  return Number.isFinite(price) && Number.isFinite(candidate) && candidate > price ? candidate : null;
+}
+
 function offerCard(offer) {
   const style = storeStyle[offer.store] ?? { logo: offer.store.slice(0, 4), className: "carrefour" };
   const details = offerDetails(offer);
+  const oldPrice = regularPrice(offer);
   return `
     <article class="offer">
       <div class="store-mark ${style.className}">${escapeHTML(style.logo)}</div>
@@ -91,7 +98,7 @@ function offerCard(offer) {
         <p class="product-name">${escapeHTML(offer.name)}</p>
         <p class="product-detail">${details.packageText} · ${escapeHTML(offer.store)}</p>
       </div>
-      <div class="price-block"><div class="price">${money(offer.price)}</div>${offer.oldPrice ? `<div class="old-price">${money(offer.oldPrice)}</div><span class="discount-tag">İNDİRİMLİ</span>` : ""}<div class="unit-price">${details.unit}</div></div>
+      <div class="price-block"><div class="price">${money(offer.price)}</div>${oldPrice ? `<div class="old-price">${money(oldPrice)}</div><span class="discount-tag">İNDİRİMLİ</span>` : ""}<div class="unit-price">${details.unit}</div></div>
     </article>`;
 }
 
@@ -163,7 +170,7 @@ function draw() {
     const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean);
     return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term)));
   });
-  if (activeFilter === "sale") selected = selected.filter(offer => offer.oldPrice && offer.oldPrice > offer.price);
+  if (activeFilter === "sale") selected = selected.filter(offer => regularPrice(offer));
   if (activeFilter !== "all" && activeFilter !== "sale") selected = selected.filter(offer => offer.store === activeFilter);
   selected.sort((a, b) => a.price - b.price);
   list.innerHTML = selected.map(offerCard).join("") + (query === "yumurta" && activeFilter === "all" ? unavailableStores.map(unavailableCard).join("") : "");
