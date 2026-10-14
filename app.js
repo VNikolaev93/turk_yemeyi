@@ -3,7 +3,8 @@ const storeStyle = {
   "BİM": { logo: "BİM", className: "bim" },
   "Migros": { logo: "M", className: "migros" },
   "Şok": { logo: "ŞOK", className: "sok" },
-  "Koop Market": { logo: "KOOP", className: "koop" }
+  "Carrefour": { logo: "C", className: "carrefour" },
+  "Tarım Kredi": { logo: "TK", className: "tarim-kredi" }
 };
 
 const form = document.querySelector("#search-form");
@@ -25,17 +26,27 @@ let activeProductId = null;
 let activeCategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-6";
+const DATA_REVISION = "2026-10-14-7";
 const categoryProducts = {
+  produce: [
+    { id: "banana-1kg", query: "muz 1 kg", label: "Muz", detail: "1 kg", icon: "🍌" },
+    { id: "carrot-1kg", query: "havuç 1 kg", label: "Havuç", detail: "1 kg", icon: "🥕" }
+  ],
   dairy: [
     { id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" },
     { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" },
     { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }
+  ],
+  snacks: [
+    { id: "lays-baharatli-125g", query: "lays baharatlı 125 gr", label: "Lay's Baharatlı", detail: "125 g", icon: "🥔" },
+    { id: "lays-baharatli-160g", query: "lays baharatlı 160 gr", label: "Lay's Baharatlı", detail: "160 g", icon: "🥔" }
   ]
 };
 const catalogProducts = Object.values(categoryProducts).flat();
 const categoryTitles = {
-  dairy: "Süt Ürünleri"
+  produce: "Meyve ve Sebze",
+  dairy: "Süt Ürünleri",
+  snacks: "Atıştırmalık"
 };
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
@@ -70,8 +81,8 @@ function formatCheckedAt(value) {
   return new Intl.DateTimeFormat("tr-TR", { day: "numeric", month: "short", year: "numeric" }).format(new Date(value));
 }
 
-function sourceCard(offer) {
-  const style = storeStyle[offer.store] ?? { logo: offer.store.slice(0, 4), className: "koop" };
+function offerCard(offer) {
+  const style = storeStyle[offer.store] ?? { logo: offer.store.slice(0, 4), className: "carrefour" };
   const details = offerDetails(offer);
   return `
     <article class="offer">
@@ -79,7 +90,6 @@ function sourceCard(offer) {
       <div>
         <p class="product-name">${escapeHTML(offer.name)}</p>
         <p class="product-detail">${details.packageText} · ${escapeHTML(offer.store)}</p>
-        <a class="source-link" href="${encodeURI(offer.sourceUrl)}" target="_blank" rel="noreferrer">Kaynağı aç · ${formatCheckedAt(offer.checkedAt)}</a>
       </div>
       <div class="price-block"><div class="price">${money(offer.price)}</div>${offer.oldPrice ? `<div class="old-price">${money(offer.oldPrice)}</div><span class="discount-tag">İNDİRİMLİ</span>` : ""}<div class="unit-price">${details.unit}</div></div>
     </article>`;
@@ -156,7 +166,7 @@ function draw() {
   if (activeFilter === "sale") selected = selected.filter(offer => offer.oldPrice && offer.oldPrice > offer.price);
   if (activeFilter !== "all" && activeFilter !== "sale") selected = selected.filter(offer => offer.store === activeFilter);
   selected.sort((a, b) => a.price - b.price);
-  list.innerHTML = selected.map(sourceCard).join("") + (query === "yumurta" && activeFilter === "all" ? unavailableStores.map(unavailableCard).join("") : "");
+  list.innerHTML = selected.map(offerCard).join("") + (query === "yumurta" && activeFilter === "all" ? unavailableStores.map(unavailableCard).join("") : "");
   empty.hidden = Boolean(selected.length || (query === "yumurta" && activeFilter === "all" && unavailableStores.length));
 }
 
@@ -167,7 +177,7 @@ async function loadOffers() {
     const data = await response.json();
     offers = Array.isArray(data.offers) ? data.offers : [];
     unavailableStores = Array.isArray(data.storesWithoutCurrentData) ? data.storesWithoutCurrentData : [];
-    updateNote.textContent = data.generatedAt ? `Veri kaydı: ${formatCheckedAt(data.generatedAt)}` : "Kaynaklı veri";
+    updateNote.textContent = data.generatedAt ? `Veri kaydı: ${formatCheckedAt(data.generatedAt)}` : "Fiyatlar güncel";
   } catch {
     updateNote.textContent = "Veri yüklenemedi";
   }

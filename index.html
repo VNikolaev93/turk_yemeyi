@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#113f35" />
     <meta name="description" content="Meni Fiyat ile Türkiye'deki market fiyatlarını karşılaştırın." />
     <title>Meni Fiyat — Market fiyatlarını karşılaştır</title>
-    <link rel="stylesheet" href="styles.css?v=20261014-search-labels" />
+    <link rel="stylesheet" href="styles.css?v=20261014-csv-categories" />
   </head>
   <body>
     <main class="shell">
@@ -21,7 +21,7 @@
       <section class="hero" aria-labelledby="page-title">
         <p class="eyebrow">MARKET FİYATLARINI KARŞILAŞTIR</p>
         <h1 id="page-title">Aradığın ürün,<br /><em>en iyi fiyat.</em></h1>
-        <p class="lede">Şok, Migros, A101 ve BİM'deki ürünleri tek yerde karşılaştır.</p>
+        <p class="lede">Şok, Migros, A101, BİM, Carrefour ve Tarım Kredi'deki ürünleri tek yerde karşılaştır.</p>
         <form class="search-form" id="search-form" role="search">
           <div class="search-control">
             <label class="search-box" for="search-input">
@@ -43,9 +43,9 @@
           <p>Ürün grubunu seç ve fiyatları karşılaştır.</p>
         </div>
         <div id="category-grid" class="catalog-grid">
-          <article class="category-card">
-            <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">Yakında</span>
-          </article>
+          <button class="category-card category-card-ready" type="button" data-category="produce">
+            <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">2 ürün · Fiyatları gör →</span>
+          </button>
           <button class="category-card category-card-ready" type="button" data-category="dairy">
             <span class="category-art art-dairy" aria-hidden="true"></span><span class="catalog-name">Süt Ürünleri</span><span class="catalog-meta">3 ürün · Fiyatları gör →</span>
           </button>
@@ -61,9 +61,9 @@
           <article class="category-card">
             <span class="category-art art-bakery" aria-hidden="true"></span><span class="catalog-name">Fırın</span><span class="catalog-meta">Yakında</span>
           </article>
-          <article class="category-card">
-            <span class="category-art art-snacks" aria-hidden="true"></span><span class="catalog-name">Atıştırmalık</span><span class="catalog-meta">Yakında</span>
-          </article>
+          <button class="category-card category-card-ready" type="button" data-category="snacks">
+            <span class="category-art art-snacks" aria-hidden="true"></span><span class="catalog-name">Atıştırmalık</span><span class="catalog-meta">2 ürün · Fiyatları gör →</span>
+          </button>
         </div>
         <section id="category-products" class="category-products" aria-labelledby="category-products-title" hidden>
           <div class="category-products-heading">
@@ -84,7 +84,7 @@
             <p class="result-kicker" id="result-kicker">ARANAN ÜRÜN</p>
             <h2 id="result-title">Yumurta</h2>
           </div>
-          <p class="update-note" id="update-note">Kaynaklı veri yükleniyor</p>
+          <p class="update-note" id="update-note">Fiyatlar yükleniyor</p>
         </div>
 
         <div class="filters" aria-label="Filtreler">
@@ -94,6 +94,8 @@
           <button class="filter" type="button" data-filter="BİM">BİM</button>
           <button class="filter" type="button" data-filter="Migros">Migros</button>
           <button class="filter" type="button" data-filter="Şok">Şok</button>
+          <button class="filter" type="button" data-filter="Carrefour">Carrefour</button>
+          <button class="filter" type="button" data-filter="Tarım Kredi">Tarım Kredi</button>
         </div>
 
         <div id="results-list" class="results-list"></div>
@@ -105,9 +107,8 @@
       </section>
     </main>
     <footer>
-      <p>Meni Fiyat · Her kayıtta kaynak ve kontrol tarihi gösterilir.</p>
+      <p>Meni Fiyat · Güncel fiyat karşılaştırması.</p>
     </footer>
-    <script src="app.js?v=20261014-search-labels"></script>
+    <script src="app.js?v=20261014-csv-categories"></script>
   </body>
 </html>
-

@@ -4,109 +4,235 @@
     {
       "store": "BİM",
       "productId": "eggs-30",
+      "category": "Yumurta",
       "name": "Bili Bili Yumurta 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/01RD/bili-bili-yumurta-53-62-gr-30-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
       "productId": "eggs-30",
+      "category": "Yumurta",
       "name": "Anadolu Çiftliği Yumurta 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0Z7H/anadolu-ciftligi-yumurta-53-62-gr-30-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
       "productId": "eggs-30",
+      "category": "Yumurta",
       "name": "Yumurta M Boy 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/3W82/yumurta-m-boy-53-62-gr-30-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Migros",
       "productId": "eggs-30",
+      "category": "Yumurta",
       "name": "Güres M Orta Boy Yumurta 30'lu 53-63 Gr",
       "price": 169.9,
       "oldPrice": null,
-      "sourceUrl": "https://www.migros.com.tr/gures-m-orta-boy-yumurta-30lu-53-63-g-p-1312df3",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "BİM",
       "productId": "eggs-15",
+      "category": "Yumurta",
       "name": "Bili Bili Yumurta 15 Adet",
       "price": 99,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/01PV/bili-bili-yumurta-15-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
       "productId": "eggs-15",
+      "category": "Yumurta",
       "name": "Anadolu Çiftliği Yumurta 63-72 Gr 15 Adet",
       "price": 99,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0QQ6/anadolu-ciftligi-yumurta-63-72-gr-15-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
       "productId": "eggs-15",
+      "category": "Yumurta",
       "name": "Yumurta L Boy 63-72 Gr 15 Adet",
       "price": 99,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/21EH/yumurta-l-boy-63-72-gr-15-adet",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Migros",
       "productId": "eggs-15",
+      "category": "Yumurta",
       "name": "Güres Yumurta 63-72 Gr 15 Adet",
       "price": 99.5,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1TME/gures-yumurta-63-72-gr-15-adet",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "milk-1l",
+      "category": "Süt",
+      "name": "Migros Yağsız UHT İçme Sütü 1 Lt",
+      "price": 35.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "milk-1l",
+      "category": "Süt",
+      "name": "Birşah Yağsız Süt 1 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "milk-1l",
+      "category": "Süt",
+      "name": "Mis Uht Süt Yağsız 1 Lt",
+      "price": 36,
+      "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "BİM",
       "productId": "milk-1l",
-      "name": "Dost %0.5 Yağlı Süt 1 Lt",
-      "price": 32.5,
+      "category": "Süt",
+      "name": "Dost %0.1 Yağlı Süt 1 Lt",
+      "price": 36,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1H2F/dost-0-5-yagli-sut-1-lt",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "banana-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Muz 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "banana-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Muz 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Tarım Kredi",
+      "productId": "banana-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Muz 1 Kg",
+      "price": 109,
+      "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Şok",
-      "productId": "milk-1l",
-      "name": "Mis Yarım Yağlı Uht Süt 1 Lt",
-      "price": 43.5,
+      "productId": "banana-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Muz 1 Kg",
+      "price": 114,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0PY7/mis-yarim-yagli-uht-sut-1-lt",
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "A101",
-      "productId": "milk-1l",
-      "name": "Birşah Yağsız Süt 1 Lt",
-      "price": 36,
+      "productId": "banana-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Muz 1 Kg",
+      "price": 114.9,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/0UNP/birsah-yagsiz-sut-1-lt",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrot-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Havuç 1 Kg",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "carrot-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Havuç 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "carrot-1kg",
+      "category": "Meyve ve Sebze",
+      "name": "Havuç 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lays-baharatli-125g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lays-baharatli-125g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
       "store": "Migros",
-      "productId": "milk-1l",
-      "name": "Migros Yağsız Uht İçme Sütü 1 Lt",
-      "price": 35.95,
+      "productId": "lays-baharatli-125g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı 125 Gr",
+      "price": 64.5,
       "oldPrice": null,
-      "sourceUrl": "https://marketfiyati.org.tr/detay/1FA8/migros-yagsiz-uht-icme-sutu-1-lt",
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Tarım Kredi",
+      "productId": "lays-baharatli-125g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı 125 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lays-baharatli-125g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı ve Süzme Peynirli Patates Cipsi 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lays-baharatli-160g",
+      "category": "Atıştırmalık",
+      "name": "Lay's Baharatlı 160 Gr",
+      "price": 84.95,
+      "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
