@@ -4,7 +4,7 @@ const storeStyle = {
   "Migros": { logo: "M", className: "migros" },
   "Şok": { logo: "ŞOK", className: "sok" },
   "Carrefour": { logo: "C", className: "carrefour" },
-  "Tarım Kredi": { logo: "TK", className: "tarim-kredi" }
+  "Koop Market": { logo: "KOOP", className: "koop" }
 };
 
 const form = document.querySelector("#search-form");
