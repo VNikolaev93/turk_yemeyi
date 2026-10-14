@@ -14,6 +14,7 @@ const empty = document.querySelector("#empty-state");
 const title = document.querySelector("#result-title");
 const updateNote = document.querySelector("#update-note");
 const filters = document.querySelectorAll(".filter");
+const catalogCategories = Array.from(document.querySelectorAll("[data-category]"));
 const catalogProducts = Array.from(document.querySelectorAll("[data-product-id]")).map((card) => ({
   id: card.dataset.productId,
   query: card.dataset.query,
@@ -21,9 +22,16 @@ const catalogProducts = Array.from(document.querySelectorAll("[data-product-id]"
 }));
 let activeFilter = "all";
 let activeProductId = null;
+let activeCategory = null;
 let offers = [];
 let unavailableStores = [];
 const DATA_REVISION = "2026-10-14-6";
+const categoryProductIds = {
+  dairy: ["eggs-30", "eggs-15", "milk-1l"]
+};
+const categoryTitles = {
+  dairy: "Süt Ürünleri"
+};
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);
@@ -93,19 +101,33 @@ function showSuggestions() {
 function selectProduct(product) {
   input.value = product.query;
   activeProductId = product.id;
+  activeCategory = null;
   activeFilter = "all";
   filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
   hideSuggestions();
   draw();
 }
 
+function selectCategory(category) {
+  activeCategory = category;
+  activeProductId = null;
+  input.value = "";
+  activeFilter = "all";
+  filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
+  catalogCategories.forEach(card => card.classList.toggle("active", card.dataset.category === category));
+  hideSuggestions();
+  draw();
+  document.querySelector(".results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
 function draw() {
   const rawQuery = input.value.trim();
   const query = fold(rawQuery);
   const queryTerms = query.split(/[^a-z0-9]+/).filter(Boolean);
-  title.textContent = rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
+  title.textContent = activeCategory ? categoryTitles[activeCategory] : rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
   let selected = offers.filter((offer) => {
     if (activeProductId) return offer.productId === activeProductId;
+    if (activeCategory) return categoryProductIds[activeCategory]?.includes(offer.productId);
     const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean);
     return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term)));
   });
@@ -130,10 +152,10 @@ async function loadOffers() {
   draw();
 }
 
-form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; hideSuggestions(); draw(); });
+form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; activeCategory = null; catalogCategories.forEach(card => card.classList.remove("active")); hideSuggestions(); draw(); });
 input.addEventListener("focus", showSuggestions);
 input.addEventListener("blur", () => window.setTimeout(hideSuggestions, 120));
-input.addEventListener("input", () => { activeProductId = null; draw(); showSuggestions(); });
+input.addEventListener("input", () => { activeProductId = null; activeCategory = null; catalogCategories.forEach(card => card.classList.remove("active")); draw(); showSuggestions(); });
 suggestions.addEventListener("mousedown", event => event.preventDefault());
 suggestions.addEventListener("click", (event) => {
   const id = event.target.closest("[data-suggestion-id]")?.dataset.suggestionId;
@@ -152,6 +174,7 @@ document.querySelectorAll("[data-query]").forEach(button => button.addEventListe
     draw();
   }
 }));
+catalogCategories.forEach(card => card.addEventListener("click", () => selectCategory(card.dataset.category)));
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
 

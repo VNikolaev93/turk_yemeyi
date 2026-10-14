@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#113f35" />
     <meta name="description" content="Meni Fiyat ile Türkiye'deki market fiyatlarını karşılaştırın." />
     <title>Meni Fiyat — Market fiyatlarını karşılaştır</title>
-    <link rel="stylesheet" href="styles.css?v=20261012-migros" />
+    <link rel="stylesheet" href="styles.css?v=20261014-categories" />
   </head>
   <body>
     <main class="shell">
@@ -40,15 +40,15 @@
             <p class="result-kicker">KATEGORİLER</p>
             <h2 id="catalog-title">Ürünleri keşfet</h2>
           </div>
-          <p>Yakında fiyatlarla dolacak.</p>
+          <p>Ürün grubunu seç ve fiyatları karşılaştır.</p>
         </div>
         <div class="catalog-grid">
           <article class="category-card">
             <span class="category-art art-produce" aria-hidden="true"></span><span class="catalog-name">Meyve ve Sebze</span><span class="catalog-meta">Yakında</span>
           </article>
-          <article class="category-card">
-            <span class="category-art art-dairy" aria-hidden="true"></span><span class="catalog-name">Süt Ürünleri</span><span class="catalog-meta">Yakında</span>
-          </article>
+          <button class="category-card category-card-ready" type="button" data-category="dairy">
+            <span class="category-art art-dairy" aria-hidden="true"></span><span class="catalog-name">Süt Ürünleri</span><span class="catalog-meta">3 ürün · Fiyatları gör →</span>
+          </button>
           <article class="category-card">
             <span class="category-art art-home" aria-hidden="true"></span><span class="catalog-name">Ev, Tavuk ve Balık</span><span class="catalog-meta">Yakında</span>
           </article>
@@ -96,7 +96,7 @@
     <footer>
       <p>Meni Fiyat · Her kayıtta kaynak ve kontrol tarihi gösterilir.</p>
     </footer>
-    <script src="app.js?v=20261014-no-popular"></script>
+    <script src="app.js?v=20261014-categories"></script>
   </body>
 </html>
 
