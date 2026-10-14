@@ -32,7 +32,7 @@
       "store": "Migros",
       "productId": "eggs-30",
       "category": "Yumurta",
-      "name": "Güres M Orta Boy Yumurta 30'lu 53-63 Gr",
+      "name": "Güres Yumurta L Boy 53-62 Gr 30 Adet",
       "price": 169.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
@@ -70,6 +70,24 @@
       "category": "Yumurta",
       "name": "Güres Yumurta 63-72 Gr 15 Adet",
       "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "eggs-15",
+      "category": "Yumurta",
+      "name": "Carrefour Yumurta L Boy 15 Adet",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "eggs-15",
+      "category": "Yumurta",
+      "name": "Seltav Yumurta L Boy 15 Adet",
+      "price": 99,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
@@ -124,7 +142,7 @@
       "category": "Meyve ve Sebze",
       "name": "Yerli Muz 1 Kg",
       "price": 99,
-      "oldPrice": null,
+      "discountPrice": 119.9,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
     {
@@ -178,6 +196,33 @@
       "category": "Meyve ve Sebze",
       "name": "Havuç 1 Kg",
       "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-light-1-5l",
+      "category": "İçecek",
+      "name": "Coca-Cola Light 1.5 Lt",
+      "price": 64.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-1l",
+      "category": "İçecek",
+      "name": "Coca-Cola 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "coca-cola-1l",
+      "category": "İçecek",
+      "name": "Coca-Cola 1 Lt",
+      "price": 70,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },

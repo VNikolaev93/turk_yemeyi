@@ -26,7 +26,7 @@ let activeProductId = null;
 let activeCategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-7";
+const DATA_REVISION = "2026-10-14-8";
 const categoryProducts = {
   produce: [
     { id: "banana-1kg", query: "muz 1 kg", label: "Muz", detail: "1 kg", icon: "🍌" },
@@ -37,6 +37,10 @@ const categoryProducts = {
     { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" },
     { id: "milk-1l", query: "süt 1l", label: "Süt", detail: "1 L", icon: "🥛" }
   ],
+  drinks: [
+    { id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" },
+    { id: "coca-cola-1l", query: "coca cola 1 l", label: "Coca-Cola", detail: "1 L", icon: "🥤" }
+  ],
   snacks: [
     { id: "lays-baharatli-125g", query: "lays baharatlı 125 gr", label: "Lay's Baharatlı", detail: "125 g", icon: "🥔" },
     { id: "lays-baharatli-160g", query: "lays baharatlı 160 gr", label: "Lay's Baharatlı", detail: "160 g", icon: "🥔" }
@@ -46,6 +50,7 @@ const catalogProducts = Object.values(categoryProducts).flat();
 const categoryTitles = {
   produce: "Meyve ve Sebze",
   dairy: "Süt Ürünleri",
+  drinks: "İçecek",
   snacks: "Atıştırmalık"
 };
 
