@@ -8,11 +8,17 @@ const storeStyle = {
 
 const form = document.querySelector("#search-form");
 const input = document.querySelector("#search-input");
+const suggestions = document.querySelector("#search-suggestions");
 const list = document.querySelector("#results-list");
 const empty = document.querySelector("#empty-state");
 const title = document.querySelector("#result-title");
 const updateNote = document.querySelector("#update-note");
 const filters = document.querySelectorAll(".filter");
+const catalogProducts = Array.from(document.querySelectorAll("[data-product-id]")).map((card) => ({
+  id: card.dataset.productId,
+  query: card.dataset.query,
+  label: `${card.querySelector(".catalog-name").textContent} ${card.querySelector(".catalog-meta").textContent}`
+}));
 let activeFilter = "all";
 let activeProductId = null;
 let offers = [];
@@ -70,6 +76,29 @@ function unavailableCard(store) {
   return `<aside class="unavailable"><strong>${escapeHTML(store.store)}</strong><span>${escapeHTML(store.reason)}</span></aside>`;
 }
 
+function hideSuggestions() {
+  suggestions.hidden = true;
+}
+
+function showSuggestions() {
+  const terms = fold(input.value).split(/[^a-z0-9]+/).filter(Boolean);
+  const matches = terms.length ? catalogProducts.filter((product) => {
+    const tokens = fold(`${product.label} ${product.query}`).split(/[^a-z0-9]+/).filter(Boolean);
+    return terms.every(term => tokens.some(token => token.startsWith(term)));
+  }) : [];
+  suggestions.innerHTML = matches.map((product) => `<button class="search-suggestion" type="button" role="option" data-suggestion-id="${escapeHTML(product.id)}">${escapeHTML(product.label)}</button>`).join("");
+  suggestions.hidden = matches.length === 0;
+}
+
+function selectProduct(product) {
+  input.value = product.query;
+  activeProductId = product.id;
+  activeFilter = "all";
+  filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
+  hideSuggestions();
+  draw();
+}
+
 function draw() {
   const rawQuery = input.value.trim();
   const query = fold(rawQuery);
@@ -101,9 +130,28 @@ async function loadOffers() {
   draw();
 }
 
-form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; draw(); });
-input.addEventListener("input", () => { activeProductId = null; draw(); });
-document.querySelectorAll("[data-query]").forEach(button => button.addEventListener("click", () => { input.value = button.dataset.query; activeProductId = button.dataset.productId ?? null; activeFilter = "all"; filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all")); draw(); }));
+form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; hideSuggestions(); draw(); });
+input.addEventListener("focus", showSuggestions);
+input.addEventListener("blur", () => window.setTimeout(hideSuggestions, 120));
+input.addEventListener("input", () => { activeProductId = null; draw(); showSuggestions(); });
+suggestions.addEventListener("mousedown", event => event.preventDefault());
+suggestions.addEventListener("click", (event) => {
+  const id = event.target.closest("[data-suggestion-id]")?.dataset.suggestionId;
+  const product = catalogProducts.find(item => item.id === id);
+  if (product) selectProduct(product);
+});
+document.querySelectorAll("[data-query]").forEach(button => button.addEventListener("click", () => {
+  const product = catalogProducts.find(item => item.id === button.dataset.productId);
+  if (product) selectProduct(product);
+  else {
+    input.value = button.dataset.query;
+    activeProductId = null;
+    activeFilter = "all";
+    filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all"));
+    hideSuggestions();
+    draw();
+  }
+}));
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
 
