@@ -3,7 +3,7 @@ const storeStyle = {
   "BİM": { logo: "BİM", className: "bim" },
   "Migros": { logo: "M", className: "migros" },
   "Şok": { logo: "ŞOK", className: "sok" },
-  "Carrefour": { logo: "C", className: "carrefour" },
+  "Carrefour": { logo: "CF", className: "carrefour" },
   "Koop Market": { logo: "KOOP", className: "koop" }
 };
 
