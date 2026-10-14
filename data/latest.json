@@ -3,6 +3,7 @@
   "offers": [
     {
       "store": "BİM",
+      "productId": "eggs-30",
       "name": "Bili Bili Yumurta 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
@@ -11,6 +12,7 @@
     },
     {
       "store": "Şok",
+      "productId": "eggs-30",
       "name": "Anadolu Çiftliği Yumurta 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
@@ -19,6 +21,7 @@
     },
     {
       "store": "A101",
+      "productId": "eggs-30",
       "name": "Yumurta M Boy 53-62 Gr 30 Adet",
       "price": 169,
       "oldPrice": null,
@@ -27,6 +30,7 @@
     },
     {
       "store": "Migros",
+      "productId": "eggs-30",
       "name": "Güres M Orta Boy Yumurta 30'lu 53-63 Gr",
       "price": 169.9,
       "oldPrice": null,
@@ -35,6 +39,7 @@
     },
     {
       "store": "BİM",
+      "productId": "eggs-15",
       "name": "Bili Bili Yumurta 15 Adet",
       "price": 85,
       "oldPrice": 99,
@@ -43,6 +48,7 @@
     },
     {
       "store": "Şok",
+      "productId": "eggs-15",
       "name": "Anadolu Çiftliği Yumurta 63-72 Gr 15 Adet",
       "price": 99,
       "oldPrice": null,
@@ -51,6 +57,7 @@
     },
     {
       "store": "A101",
+      "productId": "eggs-15",
       "name": "Yumurta L Boy 63-72 Gr 15 Adet",
       "price": 99,
       "oldPrice": null,
@@ -59,6 +66,7 @@
     },
     {
       "store": "Migros",
+      "productId": "eggs-15",
       "name": "Güres Yumurta 63-72 Gr 15 Adet",
       "price": 99.5,
       "oldPrice": null,
@@ -67,6 +75,7 @@
     },
     {
       "store": "BİM",
+      "productId": "milk-1l",
       "name": "Dost %0.5 Yağlı Süt 1 Lt",
       "price": 32.5,
       "oldPrice": null,
@@ -75,6 +84,7 @@
     },
     {
       "store": "Şok",
+      "productId": "milk-1l",
       "name": "Mis Yarım Yağlı Uht Süt 1 Lt",
       "price": 43.5,
       "oldPrice": null,
@@ -83,6 +93,7 @@
     },
     {
       "store": "A101",
+      "productId": "milk-1l",
       "name": "Birşah Yağsız Süt 1 Lt",
       "price": 36,
       "oldPrice": null,
@@ -91,6 +102,7 @@
     },
     {
       "store": "Migros",
+      "productId": "milk-1l",
       "name": "Migros Yağsız Uht İçme Sütü 1 Lt",
       "price": 35.95,
       "oldPrice": null,

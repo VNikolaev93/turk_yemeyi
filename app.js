@@ -15,9 +15,10 @@ const title = document.querySelector("#result-title");
 const updateNote = document.querySelector("#update-note");
 const filters = document.querySelectorAll(".filter");
 let activeFilter = "all";
+let activeProductId = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-3";
+const DATA_REVISION = "2026-10-14-4";
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);
@@ -75,7 +76,11 @@ function draw() {
   const query = fold(rawQuery);
   const queryTerms = query.split(/[^a-z0-9]+/).filter(Boolean);
   title.textContent = rawQuery ? rawQuery.charAt(0).toLocaleUpperCase("tr-TR") + rawQuery.slice(1) : "Tüm ürünler";
-  let selected = offers.filter((offer) => { const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean); return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term))); });
+  let selected = offers.filter((offer) => {
+    if (activeProductId) return offer.productId === activeProductId;
+    const tokens = fold(`${offer.name} ${offer.store}`).split(/[^a-z0-9]+/).filter(Boolean);
+    return !queryTerms.length || queryTerms.every(term => tokens.some(token => token === term || token.startsWith(term)));
+  });
   if (activeFilter === "sale") selected = selected.filter(offer => offer.oldPrice && offer.oldPrice > offer.price);
   if (activeFilter !== "all" && activeFilter !== "sale") selected = selected.filter(offer => offer.store === activeFilter);
   selected.sort((a, b) => a.price - b.price);
@@ -97,10 +102,10 @@ async function loadOffers() {
   draw();
 }
 
-form.addEventListener("submit", event => { event.preventDefault(); draw(); });
-input.addEventListener("input", draw);
-clearButton.addEventListener("click", () => { input.value = ""; input.focus(); draw(); });
-document.querySelectorAll("[data-query]").forEach(button => button.addEventListener("click", () => { input.value = button.dataset.query; activeFilter = "all"; filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all")); draw(); }));
+form.addEventListener("submit", event => { event.preventDefault(); activeProductId = null; draw(); });
+input.addEventListener("input", () => { activeProductId = null; draw(); });
+clearButton.addEventListener("click", () => { input.value = ""; activeProductId = null; input.focus(); draw(); });
+document.querySelectorAll("[data-query]").forEach(button => button.addEventListener("click", () => { input.value = button.dataset.query; activeProductId = button.dataset.productId ?? null; activeFilter = "all"; filters.forEach(filter => filter.classList.toggle("active", filter.dataset.filter === "all")); draw(); }));
 filters.forEach(filter => filter.addEventListener("click", () => { activeFilter = filter.dataset.filter; filters.forEach(item => item.classList.toggle("active", item === filter)); draw(); }));
 loadOffers();
 
