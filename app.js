@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-19";
+const DATA_REVISION = "2026-10-15-20";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -74,7 +74,16 @@ const categories = {
   },
   drinks: {
     title: "İçecek",
-    subcategories: []
+    subcategories: [
+      { id: "sparkling-drinks", label: "Gazlı İçecekler", icon: "🥤", products: [] },
+      { id: "coffee", label: "Kahve", icon: "☕", products: [] },
+      { id: "still-drinks", label: "Gazsız İçecekler", icon: "🧃", products: [] },
+      { id: "tea-herbal", label: "Çay ve Bitki Çayları", icon: "🍵", products: [] },
+      { id: "juice", label: "Meyve Suyu", icon: "🧃", products: [] },
+      { id: "mineral-water", label: "Maden Suyu", icon: "🫧", products: [] },
+      { id: "ayran-kefir", label: "Ayran ve Kefir", icon: "🥛", products: [] },
+      { id: "water", label: "Su", icon: "💧", products: [] }
+    ]
   },
   staples: {
     title: "Temel Gıda",
