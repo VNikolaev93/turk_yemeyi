@@ -6561,6 +6561,1347 @@
       "price": 289,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "altinkaz-donuk-kaz-eti-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Altınkaz Donuk Kaz Eti 1 Kg",
+      "price": 499,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tavuk-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tavuk Pirzola 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tavuk-kanat-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tavuk Kanat 1 Adet",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-tavuk-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tavuk Baget 1 Kg",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-pilic-acili-bonfile-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Piliç Acılı Bonfile 700 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-konserve-hindi-fileto-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Çokça Konserve Hindi Fileto 120 Gr",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-jumbo-fileto-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Jumbo Fileto 700 Gr",
+      "price": 169.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Döner 200 Gr",
+      "price": 114.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "bolca-hindi-kulbasti-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bolca Hindi Külbastı 500 Gr",
+      "price": 244.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-pilic-butun-poset-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Piliç Bütün Poşet 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "donersah-dondurulmus-pilic-karisik-doner-750-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dönerşah Dondurulmuş Piliç Karışık Döner 750 Gr",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-sinitzel-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Şinitzel 700 Gr",
+      "price": 122.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-yaprak-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Yaprak Döner 200 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lezita-pilic-yaprak-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Yaprak Döner 200 Gr",
+      "price": 114.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezita-donuk-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Donuk Piliç Pirzola 1 Kg",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-nugget-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Nugget 300 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-kebap-doner-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Kebap Döner 1 Kg",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Baget 1 Kg",
+      "price": 159.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-nugget-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Nugget 300 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-nugget-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Nugget 300 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-doner-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Döner 1 Kg",
+      "price": 259,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-pilic-kebap-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Piliç Kebap 400 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ant-bahar-hindi-tandir-konservesi-2x120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ant Bahar Hindi Tandır Konservesi 2x120 Gr",
+      "price": 194.96,
+      "oldPrice": 259.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ant-bahar-hindi-tantuni-165-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ant Bahar Hindi Tantuni 165 Gr",
+      "price": 125.96,
+      "oldPrice": 167.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gedik-soslu-pilic-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Soslu Piliç Döner 500 Gr",
+      "price": 179.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ant-bahar-enginarli-hindi-konservesi-165-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ant Bahar Enginarlı Hindi Konservesi 165 Gr",
+      "price": 112.46,
+      "oldPrice": 149.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hindice-hindi-fileto-140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hindice Hindi Fileto 140 Gr",
+      "price": 152.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-yaprak-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Yaprak Döner 200 Gr",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-pilic-nugget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Piliç Nugget 1 Kg",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-acili-pilic-kebap-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Acılı Piliç Kebap 400 Gr",
+      "price": 114.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hindice-meksika-fasulyeli-hindi-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hindice Meksika Fasulyeli Hindi 160 Gr",
+      "price": 152.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-citir-kova-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Çıtır Kova 850 Gr",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "acili-pilic-kebap-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Acılı Piliç Kebap 400 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-kasap-kofte-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Kasap Köfte 300 Gr",
+      "price": 89.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ant-bahar-hindi-fileto-konservesi-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ant Bahar Hindi Fileto Konservesi 240 Gr",
+      "price": 179.96,
+      "oldPrice": 239.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-nugget-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Nugget 700 Gr",
+      "price": 164.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-kofte-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Köfte 300 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-schnitzel-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Schnitzel 700 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "iskender-soslu-pilic-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "İskender Soslu Piliç Döner 500 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "nugget-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Nugget 300 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-nugget-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Nugget 300 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-acili-kebap-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Acılı Kebap 400 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-kasap-kofte-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Kasap Köfte 1 Kg",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-pilic-doner-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Piliç Döner 1 Kg",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tabakli-parmak-bonfile-tavuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tabaklı Parmak Bonfile Tavuk 1 Kg",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "banvit-dondurulmus-soslu-pilic-kanat-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dondurulmuş Soslu Piliç Kanat 1 Kg",
+      "price": 219,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "banvit-dondurulmus-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dondurulmuş Piliç Pirzola 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "banvit-dondurulmus-citir-pilic-finger-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dondurulmuş Çıtır Piliç Finger 1 Kg",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-izgara-kofte-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Izgara Köfte 1 Kg",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "keskinoglu-dondurulmus-citir-bonfile-pilic-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Dondurulmuş Çıtır Bonfile Piliç 700 Gr",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "erpilic-donuk-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Donuk Bütün Piliç 1 Kg",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-mexico-shots-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Mexico Shots 300 Gr",
+      "price": 139.95,
+      "oldPrice": 169.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-citir-bonfile-pilic-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Çıtır Bonfile Piliç 400 Gr",
+      "price": 199.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gures-dondurulmus-bildircin-eti-480-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Güres Dondurulmuş Bıldırcın Eti 480 Gr",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-schnitzel-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Schnitzel 320 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Pirzola 1 Kg",
+      "price": 189.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-pismis-soslu-kanat-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Pişmiş Soslu Kanat 1 Kg",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-soslu-kok-kanat-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Soslu Kök Kanat 1 Kg",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-soslu-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Soslu Pirzola 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "soslu-buffalo-wings-tavuk-kanat-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Soslu Buffalo Wings Tavuk Kanat 350 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-izgara-mangal-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Izgara Mangal 1 Kg",
+      "price": 349,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Bütün Piliç 1 Kg",
+      "price": 109.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-pilic-izgara-tava-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Piliç Izgara Tava 1 Kg",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-posetli-butun-tavuk-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Poşetli Bütün Tavuk 1 Adet",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-sinitzel-1-08-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Şinitzel 1.08 Kg",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "gedik-acili-donuk-pilic-kebap-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Acılı Donuk Piliç Kebap 1 Kg",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-tabak-tavuk-kalcali-but-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tabak Tavuk Kalçalı But 1 Adet",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-bonfile-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Bonfile Tabak 1 Kg",
+      "price": 219,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-nugget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Nugget 1 Kg",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-tavuk-pirzola-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tavuk Pirzola Tabak 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-citir-pilic-fileto-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Çıtır Piliç Fileto 700 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "erpilic-dondurulmus-citir-pilic-fileto-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Çıtır Piliç Fileto 700 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "et-ve-sut-kurumu-pilic-sirtsiz-gogus-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Et ve Süt Kurumu Piliç Sırtsız Göğüs 1 Kg",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-tavuk-bonfile-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tavuk Bonfile Tabak 1 Kg",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-butun-pekin-ordegi-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Bütün Pekin Ördeği 1 Adet",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-bonfile-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Bonfile 1 Adet",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Bütün Piliç 1 Kg",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-baget-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Baget 1 Adet",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "erpilic-goynuk-pilic-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Göynük Piliç Köfte 500 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-pilic-sarma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Piliç Sarma 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "aytac-tavuk-durum-tantuni-165-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Tavuk Dürüm Tantuni 165 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-kofte-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Köfte 300 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-pilic-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Piliç Baget 1 Kg",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dilimli-pilic-izgara-fileto-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dilimli Piliç Izgara Fileto 120 Gr",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "keskinoglu-dondurulmus-pilic-baget-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Dondurulmuş Piliç Baget Tabak 1 Kg",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-butun-poset-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Bütün Poşet Piliç 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-snitzel-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Şnitzel 300 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "donersah-dondurulmus-pilic-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dönerşah Dondurulmuş Piliç Döner 500 Gr",
+      "price": 250,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "hastavuk-dondurulmus-posetli-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hastavuk Dondurulmuş Poşetli Bütün Piliç 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-pilic-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Piliç Döner 200 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-dondurulmus-butun-pilic-poset-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dondurulmuş Bütün Piliç Poşet 1 Kg",
+      "price": 119.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-schnitzel-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Schnitzel 300 Gr",
+      "price": 89.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-pilic-kanat-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Piliç Kanat Tabak 1 Kg",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-pilic-parmak-kofte-260-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Piliç Parmak Köfte 260 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-tavuk-doner-durum-170-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Tavuk Döner Dürüm 170 Gr",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-citir-pilic-burger-990-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Çıtır Piliç Burger 990 Gr",
+      "price": 225,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-konserve-hindi-tandir-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Çokça Konserve Hindi Tandır 120 Gr",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-dondurulmus-pilic-baget-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dondurulmuş Piliç Baget Tabak 1 Kg",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gedik-tabakli-map-pilic-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tabaklı Map Piliç Baget 1 Kg",
+      "price": 159.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "bolca-hindi-sote-but-750-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bolca Hindi Sote But 750 Gr",
+      "price": 319.95,
+      "oldPrice": 449.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "bolca-tabakli-dilimli-hindi-gogus-750-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bolca Tabaklı Dilimli Hindi Göğüs 750 Gr",
+      "price": 279.95,
+      "oldPrice": 389.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "bolca-butun-fileto-hindi-gogus-750-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bolca Bütün Fileto Hindi Göğüs 750 Gr",
+      "price": 389.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gedik-tabakli-pilic-kanat-map-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tabaklı Piliç Kanat Map 1 Kg",
+      "price": 339.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gedik-tabakli-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Tabaklı Piliç Pirzola 1 Kg",
+      "price": 189.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bonfes-pilic-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bonfes Piliç Döner 500 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gedik-pilic-fileto-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Piliç Fileto 1 Kg",
+      "price": 359.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-citir-kova-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Çıtır Kova 850 Gr",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lezita-acili-citir-jumbo-fileto-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Acılı Çıtır Jumbo Fileto 300 Gr",
+      "price": 99.95,
+      "oldPrice": 149.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ant-bahar-fit-hindi-fileto-konservesi-165-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ant Bahar Fit Hindi Fileto Konservesi 165 Gr",
+      "price": 112.46,
+      "oldPrice": 149.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezita-dondurulmus-pilic-citir-kitir-fileto-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Çıtır Kıtır Fileto 700 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "aspilic-dondurulmus-pilic-izgara-but-tava-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aspiliç Dondurulmuş Piliç Izgara But Tava 1 Kg",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Pirzola 1 Kg",
+      "price": 189.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "banvit-posetli-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Poşetli Bütün Piliç 1 Kg",
+      "price": 95.9,
+      "oldPrice": 129.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-pirzola-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Pirzola Tabak 1 Kg",
+      "price": 169.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-but-izgara-tava-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç But Izgara Tava 1 Kg",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-pilic-kasap-kofte-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Piliç Kasap Köfte 1 Kg",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "koytav-posetli-gezen-tavuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Köytav Poşetli Gezen Tavuk 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "bakpilic-donuk-kucuk-tabak-fileto-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bakpiliç Donuk Küçük Tabak Fileto 1 Kg",
+      "price": 259,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "erpilic-taze-ekonomik-tabak-derili-but-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Taze Ekonomik Tabak Derili But Pirzola 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "lezita-tabakli-izgara-ust-kanat-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Tabaklı Izgara Üst Kanat 1 Kg",
+      "price": 279.9,
+      "oldPrice": 356.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "bereket-pismis-donuk-pilic-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bereket Pişmiş Donuk Piliç Döner 200 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "bakpilic-donuk-posetli-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bakpiliç Donuk Poşetli Bütün Piliç 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "erpilic-taze-posetli-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Taze Poşetli Bütün Piliç 1 Kg",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "banvit-butun-pilic-xl-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Bütün Piliç XL 1 Kg",
+      "price": 95.9,
+      "oldPrice": 129.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-dondurulmus-acili-pilic-kebap-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dondurulmuş Acılı Piliç Kebap 1 Kg",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Baget 1 Kg",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-butun-gogus-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Bütün Göğüs 1 Kg",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-bonfile-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Bonfile 1 Kg",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-pirzola-kelebek-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Pirzola Kelebek 1 Kg",
+      "price": 259,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "et-ve-sut-kurumu-govde-tavuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Et Ve Süt Kurumu Gövde Tavuk 1 Kg",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-pirzola-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Pirzola 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-lale-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Lale Baget 1 Kg",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "schnitzel-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Schnitzel 700 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-ust-kanat-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Üst Kanat 1 Kg",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "erpilic-taze-tabak-bonfile-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Taze Tabak Bonfile 1 Kg",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "firinlik-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fırınlık Piliç 1 Kg",
+      "price": 155,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Döner 500 Gr",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "taze-butun-poset-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Taze Bütün Poşet Piliç 1 Kg",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-corbalik-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Çorbalık 1 Kg",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-kanat-izgara-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Kanat Izgara 1 Kg",
+      "price": 369,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "aytac-tavuk-durum-doner-170-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Tavuk Dürüm Döner 170 Gr",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "koytav-ordek-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Köytav Ördek 1 Kg",
+      "price": 479,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-izgara-tava-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Izgara Tava 1 Kg",
+      "price": 359,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-parmak-bonfile-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Parmak Bonfile 1 Kg",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-pilic-baget-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Piliç Baget 1 Kg",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "koylum-butun-pilic-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Köylüm Bütün Piliç 1 Kg",
+      "price": 195,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "taze-pilic-but-incik-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Taze Piliç But İncik 1 Kg",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bgrill-pilic-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bgrill Piliç Döner 200 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tazem-pilic-kalcali-but-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tazem Piliç Kalçalı But 850 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -10376,6 +11717,1030 @@
         "label": "Baştacı Dana Çemensiz Pastırma 120 Gr",
         "detail": "120 g",
         "icon": "🥓"
+      }
+    ],
+    "white-meat": [
+      {
+        "id": "altinkaz-donuk-kaz-eti-1-kg",
+        "query": "Altınkaz Donuk Kaz Eti 1 Kg",
+        "label": "Altınkaz Donuk Kaz Eti 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tavuk-pirzola-1-kg",
+        "query": "Tavuk Pirzola 1 Kg",
+        "label": "Tavuk Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tavuk-kanat-1-adet",
+        "query": "Tavuk Kanat 1 Adet",
+        "label": "Tavuk Kanat 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tavuk-baget-1-kg",
+        "query": "Gedik Tavuk Baget 1 Kg",
+        "label": "Gedik Tavuk Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "donuk-pilic-acili-bonfile-700-gr",
+        "query": "Donuk Piliç Acılı Bonfile 700 Gr",
+        "label": "Donuk Piliç Acılı Bonfile 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "cokca-konserve-hindi-fileto-120-gr",
+        "query": "Çokça Konserve Hindi Fileto 120 Gr",
+        "label": "Çokça Konserve Hindi Fileto 120 Gr",
+        "detail": "120 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-jumbo-fileto-700-gr",
+        "query": "Lezita Dondurulmuş Piliç Jumbo Fileto 700 Gr",
+        "label": "Lezita Dondurulmuş Piliç Jumbo Fileto 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-doner-200-gr",
+        "query": "Keskinoğlu Piliç Döner 200 Gr",
+        "label": "Keskinoğlu Piliç Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "bolca-hindi-kulbasti-500-gr",
+        "query": "Bolca Hindi Külbastı 500 Gr",
+        "label": "Bolca Hindi Külbastı 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-pilic-butun-poset-1-kg",
+        "query": "Gedik Piliç Bütün Poşet 1 Kg",
+        "label": "Gedik Piliç Bütün Poşet 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "donersah-dondurulmus-pilic-karisik-doner-750-gr",
+        "query": "Dönerşah Dondurulmuş Piliç Karışık Döner 750 Gr",
+        "label": "Dönerşah Dondurulmuş Piliç Karışık Döner 750 Gr",
+        "detail": "750 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-sinitzel-700-gr",
+        "query": "Banvit Piliç Şinitzel 700 Gr",
+        "label": "Banvit Piliç Şinitzel 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-pilic-yaprak-doner-200-gr",
+        "query": "Lezita Piliç Yaprak Döner 200 Gr",
+        "label": "Lezita Piliç Yaprak Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-donuk-pilic-pirzola-1-kg",
+        "query": "Lezita Donuk Piliç Pirzola 1 Kg",
+        "label": "Lezita Donuk Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-nugget-300-gr",
+        "query": "Keskinoğlu Piliç Nugget 300 Gr",
+        "label": "Keskinoğlu Piliç Nugget 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-kebap-doner-1-kg",
+        "query": "Dondurulmuş Piliç Kebap Döner 1 Kg",
+        "label": "Dondurulmuş Piliç Kebap Döner 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-baget-1-kg",
+        "query": "Banvit Piliç Baget 1 Kg",
+        "label": "Banvit Piliç Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-pilic-nugget-300-gr",
+        "query": "Lezita Piliç Nugget 300 Gr",
+        "label": "Lezita Piliç Nugget 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-doner-1-kg",
+        "query": "Dondurulmuş Piliç Döner 1 Kg",
+        "label": "Dondurulmuş Piliç Döner 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-pilic-kebap-400-gr",
+        "query": "Gedik Piliç Kebap 400 Gr",
+        "label": "Gedik Piliç Kebap 400 Gr",
+        "detail": "400 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "ant-bahar-hindi-tandir-konservesi-2x120-gr",
+        "query": "Ant Bahar Hindi Tandır Konservesi 2x120 Gr",
+        "label": "Ant Bahar Hindi Tandır Konservesi 2x120 Gr",
+        "detail": "120 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "ant-bahar-hindi-tantuni-165-gr",
+        "query": "Ant Bahar Hindi Tantuni 165 Gr",
+        "label": "Ant Bahar Hindi Tantuni 165 Gr",
+        "detail": "165 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-soslu-pilic-doner-500-gr",
+        "query": "Gedik Soslu Piliç Döner 500 Gr",
+        "label": "Gedik Soslu Piliç Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "ant-bahar-enginarli-hindi-konservesi-165-gr",
+        "query": "Ant Bahar Enginarlı Hindi Konservesi 165 Gr",
+        "label": "Ant Bahar Enginarlı Hindi Konservesi 165 Gr",
+        "detail": "165 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "hindice-hindi-fileto-140-gr",
+        "query": "Hindice Hindi Fileto 140 Gr",
+        "label": "Hindice Hindi Fileto 140 Gr",
+        "detail": "140 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-yaprak-doner-200-gr",
+        "query": "Banvit Piliç Yaprak Döner 200 Gr",
+        "label": "Banvit Piliç Yaprak Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "donuk-pilic-nugget-1-kg",
+        "query": "Donuk Piliç Nugget 1 Kg",
+        "label": "Donuk Piliç Nugget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-acili-pilic-kebap-400-gr",
+        "query": "Keskinoğlu Acılı Piliç Kebap 400 Gr",
+        "label": "Keskinoğlu Acılı Piliç Kebap 400 Gr",
+        "detail": "400 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "hindice-meksika-fasulyeli-hindi-160-gr",
+        "query": "Hindice Meksika Fasulyeli Hindi 160 Gr",
+        "label": "Hindice Meksika Fasulyeli Hindi 160 Gr",
+        "detail": "160 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-citir-kova-850-gr",
+        "query": "Dondurulmuş Çıtır Kova 850 Gr",
+        "label": "Dondurulmuş Çıtır Kova 850 Gr",
+        "detail": "850 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "acili-pilic-kebap-400-gr",
+        "query": "Acılı Piliç Kebap 400 Gr",
+        "label": "Acılı Piliç Kebap 400 Gr",
+        "detail": "400 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-kasap-kofte-300-gr",
+        "query": "Keskinoğlu Piliç Kasap Köfte 300 Gr",
+        "label": "Keskinoğlu Piliç Kasap Köfte 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "ant-bahar-hindi-fileto-konservesi-240-gr",
+        "query": "Ant Bahar Hindi Fileto Konservesi 240 Gr",
+        "label": "Ant Bahar Hindi Fileto Konservesi 240 Gr",
+        "detail": "240 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-nugget-700-gr",
+        "query": "Banvit Piliç Nugget 700 Gr",
+        "label": "Banvit Piliç Nugget 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-pilic-kofte-300-gr",
+        "query": "Lezita Piliç Köfte 300 Gr",
+        "label": "Lezita Piliç Köfte 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-pilic-schnitzel-700-gr",
+        "query": "Lezita Piliç Schnitzel 700 Gr",
+        "label": "Lezita Piliç Schnitzel 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "iskender-soslu-pilic-doner-500-gr",
+        "query": "İskender Soslu Piliç Döner 500 Gr",
+        "label": "İskender Soslu Piliç Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "nugget-300-gr",
+        "query": "Nugget 300 Gr",
+        "label": "Nugget 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-nugget-300-gr",
+        "query": "Banvit Piliç Nugget 300 Gr",
+        "label": "Banvit Piliç Nugget 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-pilic-acili-kebap-400-gr",
+        "query": "Lezita Piliç Acılı Kebap 400 Gr",
+        "label": "Lezita Piliç Acılı Kebap 400 Gr",
+        "detail": "400 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-kasap-kofte-1-kg",
+        "query": "Dondurulmuş Piliç Kasap Köfte 1 Kg",
+        "label": "Dondurulmuş Piliç Kasap Köfte 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "donuk-pilic-doner-1-kg",
+        "query": "Donuk Piliç Döner 1 Kg",
+        "label": "Donuk Piliç Döner 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tabakli-parmak-bonfile-tavuk-1-kg",
+        "query": "Tabaklı Parmak Bonfile Tavuk 1 Kg",
+        "label": "Tabaklı Parmak Bonfile Tavuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-dondurulmus-soslu-pilic-kanat-1-kg",
+        "query": "Banvit Dondurulmuş Soslu Piliç Kanat 1 Kg",
+        "label": "Banvit Dondurulmuş Soslu Piliç Kanat 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-dondurulmus-pilic-pirzola-1-kg",
+        "query": "Banvit Dondurulmuş Piliç Pirzola 1 Kg",
+        "label": "Banvit Dondurulmuş Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-dondurulmus-citir-pilic-finger-1-kg",
+        "query": "Banvit Dondurulmuş Çıtır Piliç Finger 1 Kg",
+        "label": "Banvit Dondurulmuş Çıtır Piliç Finger 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-izgara-kofte-1-kg",
+        "query": "Lezita Dondurulmuş Piliç Izgara Köfte 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç Izgara Köfte 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-dondurulmus-citir-bonfile-pilic-700-gr",
+        "query": "Keskinoğlu Dondurulmuş Çıtır Bonfile Piliç 700 Gr",
+        "label": "Keskinoğlu Dondurulmuş Çıtır Bonfile Piliç 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-donuk-butun-pilic-1-kg",
+        "query": "Erpiliç Donuk Bütün Piliç 1 Kg",
+        "label": "Erpiliç Donuk Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-mexico-shots-300-gr",
+        "query": "Keskinoğlu Piliç Mexico Shots 300 Gr",
+        "label": "Keskinoğlu Piliç Mexico Shots 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-citir-bonfile-pilic-400-gr",
+        "query": "Keskinoğlu Çıtır Bonfile Piliç 400 Gr",
+        "label": "Keskinoğlu Çıtır Bonfile Piliç 400 Gr",
+        "detail": "400 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "gures-dondurulmus-bildircin-eti-480-gr",
+        "query": "Güres Dondurulmuş Bıldırcın Eti 480 Gr",
+        "label": "Güres Dondurulmuş Bıldırcın Eti 480 Gr",
+        "detail": "480 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "pilic-schnitzel-320-gr",
+        "query": "Piliç Schnitzel 320 Gr",
+        "label": "Piliç Schnitzel 320 Gr",
+        "detail": "320 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-pirzola-1-kg",
+        "query": "Keskinoğlu Piliç Pirzola 1 Kg",
+        "label": "Keskinoğlu Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-dondurulmus-pismis-soslu-kanat-1-kg",
+        "query": "Erpiliç Dondurulmuş Pişmiş Soslu Kanat 1 Kg",
+        "label": "Erpiliç Dondurulmuş Pişmiş Soslu Kanat 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-soslu-kok-kanat-1-kg",
+        "query": "Tazem Piliç Soslu Kök Kanat 1 Kg",
+        "label": "Tazem Piliç Soslu Kök Kanat 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-soslu-pirzola-1-kg",
+        "query": "Tazem Piliç Soslu Pirzola 1 Kg",
+        "label": "Tazem Piliç Soslu Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "soslu-buffalo-wings-tavuk-kanat-350-gr",
+        "query": "Soslu Buffalo Wings Tavuk Kanat 350 Gr",
+        "label": "Soslu Buffalo Wings Tavuk Kanat 350 Gr",
+        "detail": "350 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-izgara-mangal-1-kg",
+        "query": "Tazem Piliç Izgara Mangal 1 Kg",
+        "label": "Tazem Piliç Izgara Mangal 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "uzman-kasap-butun-pilic-1-kg",
+        "query": "Uzman Kasap Bütün Piliç 1 Kg",
+        "label": "Uzman Kasap Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "uzman-kasap-pilic-izgara-tava-1-kg",
+        "query": "Uzman Kasap Piliç Izgara Tava 1 Kg",
+        "label": "Uzman Kasap Piliç Izgara Tava 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-posetli-butun-tavuk-1-adet",
+        "query": "Gedik Poşetli Bütün Tavuk 1 Adet",
+        "label": "Gedik Poşetli Bütün Tavuk 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-sinitzel-1-08-kg",
+        "query": "Lezita Dondurulmuş Piliç Şinitzel 1.08 Kg",
+        "label": "Lezita Dondurulmuş Piliç Şinitzel 1.08 Kg",
+        "detail": "1.08 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-acili-donuk-pilic-kebap-1-kg",
+        "query": "Gedik Acılı Donuk Piliç Kebap 1 Kg",
+        "label": "Gedik Acılı Donuk Piliç Kebap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tabak-tavuk-kalcali-but-1-adet",
+        "query": "Gedik Tabak Tavuk Kalçalı But 1 Adet",
+        "label": "Gedik Tabak Tavuk Kalçalı But 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-bonfile-tabak-1-kg",
+        "query": "Lezita Dondurulmuş Piliç Bonfile Tabak 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç Bonfile Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-nugget-1-kg",
+        "query": "Lezita Dondurulmuş Piliç Nugget 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç Nugget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tavuk-pirzola-tabak-1-kg",
+        "query": "Gedik Tavuk Pirzola Tabak 1 Kg",
+        "label": "Gedik Tavuk Pirzola Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-dondurulmus-citir-pilic-fileto-700-gr",
+        "query": "Erpiliç Dondurulmuş Çıtır Piliç Fileto 700 Gr",
+        "label": "Erpiliç Dondurulmuş Çıtır Piliç Fileto 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "et-ve-sut-kurumu-pilic-sirtsiz-gogus-1-kg",
+        "query": "Et ve Süt Kurumu Piliç Sırtsız Göğüs 1 Kg",
+        "label": "Et ve Süt Kurumu Piliç Sırtsız Göğüs 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tavuk-bonfile-tabak-1-kg",
+        "query": "Gedik Tavuk Bonfile Tabak 1 Kg",
+        "label": "Gedik Tavuk Bonfile Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-butun-pekin-ordegi-1-adet",
+        "query": "Dondurulmuş Bütün Pekin Ördeği 1 Adet",
+        "label": "Dondurulmuş Bütün Pekin Ördeği 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-bonfile-1-adet",
+        "query": "Dondurulmuş Piliç Bonfile 1 Adet",
+        "label": "Dondurulmuş Piliç Bonfile 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "donuk-butun-pilic-1-kg",
+        "query": "Donuk Bütün Piliç 1 Kg",
+        "label": "Donuk Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-baget-1-adet",
+        "query": "Dondurulmuş Piliç Baget 1 Adet",
+        "label": "Dondurulmuş Piliç Baget 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-goynuk-pilic-kofte-500-gr",
+        "query": "Erpiliç Göynük Piliç Köfte 500 Gr",
+        "label": "Erpiliç Göynük Piliç Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "dondurulmus-pilic-sarma-1-kg",
+        "query": "Dondurulmuş Piliç Sarma 1 Kg",
+        "label": "Dondurulmuş Piliç Sarma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "aytac-tavuk-durum-tantuni-165-gr",
+        "query": "Aytaç Tavuk Dürüm Tantuni 165 Gr",
+        "label": "Aytaç Tavuk Dürüm Tantuni 165 Gr",
+        "detail": "165 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "pilic-kofte-300-gr",
+        "query": "Piliç Köfte 300 Gr",
+        "label": "Piliç Köfte 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-dondurulmus-pilic-baget-1-kg",
+        "query": "Erpiliç Dondurulmuş Piliç Baget 1 Kg",
+        "label": "Erpiliç Dondurulmuş Piliç Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dilimli-pilic-izgara-fileto-120-gr",
+        "query": "Lezita Dilimli Piliç Izgara Fileto 120 Gr",
+        "label": "Lezita Dilimli Piliç Izgara Fileto 120 Gr",
+        "detail": "120 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-dondurulmus-pilic-baget-tabak-1-kg",
+        "query": "Keskinoğlu Dondurulmuş Piliç Baget Tabak 1 Kg",
+        "label": "Keskinoğlu Dondurulmuş Piliç Baget Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-dondurulmus-butun-poset-pilic-1-kg",
+        "query": "Erpiliç Dondurulmuş Bütün Poşet Piliç 1 Kg",
+        "label": "Erpiliç Dondurulmuş Bütün Poşet Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-snitzel-300-gr",
+        "query": "Keskinoğlu Piliç Şnitzel 300 Gr",
+        "label": "Keskinoğlu Piliç Şnitzel 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "donersah-dondurulmus-pilic-doner-500-gr",
+        "query": "Dönerşah Dondurulmuş Piliç Döner 500 Gr",
+        "label": "Dönerşah Dondurulmuş Piliç Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "hastavuk-dondurulmus-posetli-butun-pilic-1-kg",
+        "query": "Hastavuk Dondurulmuş Poşetli Bütün Piliç 1 Kg",
+        "label": "Hastavuk Dondurulmuş Poşetli Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-pilic-doner-200-gr",
+        "query": "Gedik Piliç Döner 200 Gr",
+        "label": "Gedik Piliç Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-dondurulmus-butun-pilic-poset-1-kg",
+        "query": "Banvit Dondurulmuş Bütün Piliç Poşet 1 Kg",
+        "label": "Banvit Dondurulmuş Bütün Piliç Poşet 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-schnitzel-300-gr",
+        "query": "Banvit Piliç Schnitzel 300 Gr",
+        "label": "Banvit Piliç Schnitzel 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-dondurulmus-pilic-kanat-tabak-1-kg",
+        "query": "Erpiliç Dondurulmuş Piliç Kanat Tabak 1 Kg",
+        "label": "Erpiliç Dondurulmuş Piliç Kanat Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-pilic-parmak-kofte-260-gr",
+        "query": "Erpiliç Piliç Parmak Köfte 260 Gr",
+        "label": "Erpiliç Piliç Parmak Köfte 260 Gr",
+        "detail": "260 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "besler-tavuk-doner-durum-170-gr",
+        "query": "Beşler Tavuk Döner Dürüm 170 Gr",
+        "label": "Beşler Tavuk Döner Dürüm 170 Gr",
+        "detail": "170 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-citir-pilic-burger-990-gr",
+        "query": "Lezita Dondurulmuş Çıtır Piliç Burger 990 Gr",
+        "label": "Lezita Dondurulmuş Çıtır Piliç Burger 990 Gr",
+        "detail": "990 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "cokca-konserve-hindi-tandir-120-gr",
+        "query": "Çokça Konserve Hindi Tandır 120 Gr",
+        "label": "Çokça Konserve Hindi Tandır 120 Gr",
+        "detail": "120 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-dondurulmus-pilic-baget-tabak-1-kg",
+        "query": "Banvit Dondurulmuş Piliç Baget Tabak 1 Kg",
+        "label": "Banvit Dondurulmuş Piliç Baget Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tabakli-map-pilic-baget-1-kg",
+        "query": "Gedik Tabaklı Map Piliç Baget 1 Kg",
+        "label": "Gedik Tabaklı Map Piliç Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "bolca-hindi-sote-but-750-gr",
+        "query": "Bolca Hindi Sote But 750 Gr",
+        "label": "Bolca Hindi Sote But 750 Gr",
+        "detail": "750 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "bolca-tabakli-dilimli-hindi-gogus-750-gr",
+        "query": "Bolca Tabaklı Dilimli Hindi Göğüs 750 Gr",
+        "label": "Bolca Tabaklı Dilimli Hindi Göğüs 750 Gr",
+        "detail": "750 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "bolca-butun-fileto-hindi-gogus-750-gr",
+        "query": "Bolca Bütün Fileto Hindi Göğüs 750 Gr",
+        "label": "Bolca Bütün Fileto Hindi Göğüs 750 Gr",
+        "detail": "750 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tabakli-pilic-kanat-map-1-kg",
+        "query": "Gedik Tabaklı Piliç Kanat Map 1 Kg",
+        "label": "Gedik Tabaklı Piliç Kanat Map 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-tabakli-pilic-pirzola-1-kg",
+        "query": "Gedik Tabaklı Piliç Pirzola 1 Kg",
+        "label": "Gedik Tabaklı Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "bonfes-pilic-doner-500-gr",
+        "query": "Bonfes Piliç Döner 500 Gr",
+        "label": "Bonfes Piliç Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "gedik-pilic-fileto-1-kg",
+        "query": "Gedik Piliç Fileto 1 Kg",
+        "label": "Gedik Piliç Fileto 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-citir-kova-850-gr",
+        "query": "Lezita Dondurulmuş Piliç Çıtır Kova 850 Gr",
+        "label": "Lezita Dondurulmuş Piliç Çıtır Kova 850 Gr",
+        "detail": "850 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-acili-citir-jumbo-fileto-300-gr",
+        "query": "Lezita Acılı Çıtır Jumbo Fileto 300 Gr",
+        "label": "Lezita Acılı Çıtır Jumbo Fileto 300 Gr",
+        "detail": "300 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "ant-bahar-fit-hindi-fileto-konservesi-165-gr",
+        "query": "Ant Bahar Fit Hindi Fileto Konservesi 165 Gr",
+        "label": "Ant Bahar Fit Hindi Fileto Konservesi 165 Gr",
+        "detail": "165 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-citir-kitir-fileto-700-gr",
+        "query": "Lezita Dondurulmuş Piliç Çıtır Kıtır Fileto 700 Gr",
+        "label": "Lezita Dondurulmuş Piliç Çıtır Kıtır Fileto 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "aspilic-dondurulmus-pilic-izgara-but-tava-1-kg",
+        "query": "Aspiliç Dondurulmuş Piliç Izgara But Tava 1 Kg",
+        "label": "Aspiliç Dondurulmuş Piliç Izgara But Tava 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-pilic-pirzola-1-kg",
+        "query": "Banvit Piliç Pirzola 1 Kg",
+        "label": "Banvit Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-posetli-butun-pilic-1-kg",
+        "query": "Banvit Poşetli Bütün Piliç 1 Kg",
+        "label": "Banvit Poşetli Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-pirzola-tabak-1-kg",
+        "query": "Lezita Dondurulmuş Piliç Pirzola Tabak 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç Pirzola Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-but-izgara-tava-1-kg",
+        "query": "Lezita Dondurulmuş Piliç But Izgara Tava 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç But Izgara Tava 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-pilic-kasap-kofte-1-kg",
+        "query": "Lezita Dondurulmuş Piliç Kasap Köfte 1 Kg",
+        "label": "Lezita Dondurulmuş Piliç Kasap Köfte 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "koytav-posetli-gezen-tavuk-1-kg",
+        "query": "Köytav Poşetli Gezen Tavuk 1 Kg",
+        "label": "Köytav Poşetli Gezen Tavuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "bakpilic-donuk-kucuk-tabak-fileto-1-kg",
+        "query": "Bakpiliç Donuk Küçük Tabak Fileto 1 Kg",
+        "label": "Bakpiliç Donuk Küçük Tabak Fileto 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-taze-ekonomik-tabak-derili-but-pirzola-1-kg",
+        "query": "Erpiliç Taze Ekonomik Tabak Derili But Pirzola 1 Kg",
+        "label": "Erpiliç Taze Ekonomik Tabak Derili But Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-tabakli-izgara-ust-kanat-1-kg",
+        "query": "Lezita Tabaklı Izgara Üst Kanat 1 Kg",
+        "label": "Lezita Tabaklı Izgara Üst Kanat 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "bereket-pismis-donuk-pilic-doner-200-gr",
+        "query": "Bereket Pişmiş Donuk Piliç Döner 200 Gr",
+        "label": "Bereket Pişmiş Donuk Piliç Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "bakpilic-donuk-posetli-butun-pilic-1-kg",
+        "query": "Bakpiliç Donuk Poşetli Bütün Piliç 1 Kg",
+        "label": "Bakpiliç Donuk Poşetli Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-taze-posetli-butun-pilic-1-kg",
+        "query": "Erpiliç Taze Poşetli Bütün Piliç 1 Kg",
+        "label": "Erpiliç Taze Poşetli Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "banvit-butun-pilic-xl-1-kg",
+        "query": "Banvit Bütün Piliç XL 1 Kg",
+        "label": "Banvit Bütün Piliç XL 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "lezita-dondurulmus-acili-pilic-kebap-1-kg",
+        "query": "Lezita Dondurulmuş Acılı Piliç Kebap 1 Kg",
+        "label": "Lezita Dondurulmuş Acılı Piliç Kebap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-baget-1-kg",
+        "query": "Tazem Piliç Baget 1 Kg",
+        "label": "Tazem Piliç Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-butun-gogus-1-kg",
+        "query": "Tazem Piliç Bütün Göğüs 1 Kg",
+        "label": "Tazem Piliç Bütün Göğüs 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-bonfile-1-kg",
+        "query": "Tazem Piliç Bonfile 1 Kg",
+        "label": "Tazem Piliç Bonfile 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-pirzola-kelebek-1-kg",
+        "query": "Tazem Piliç Pirzola Kelebek 1 Kg",
+        "label": "Tazem Piliç Pirzola Kelebek 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "et-ve-sut-kurumu-govde-tavuk-1-kg",
+        "query": "Et Ve Süt Kurumu Gövde Tavuk 1 Kg",
+        "label": "Et Ve Süt Kurumu Gövde Tavuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-pirzola-1-kg",
+        "query": "Tazem Piliç Pirzola 1 Kg",
+        "label": "Tazem Piliç Pirzola 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-lale-baget-1-kg",
+        "query": "Tazem Piliç Lale Baget 1 Kg",
+        "label": "Tazem Piliç Lale Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "schnitzel-700-gr",
+        "query": "Schnitzel 700 Gr",
+        "label": "Schnitzel 700 Gr",
+        "detail": "700 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-ust-kanat-1-kg",
+        "query": "Tazem Piliç Üst Kanat 1 Kg",
+        "label": "Tazem Piliç Üst Kanat 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "erpilic-taze-tabak-bonfile-1-kg",
+        "query": "Erpiliç Taze Tabak Bonfile 1 Kg",
+        "label": "Erpiliç Taze Tabak Bonfile 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "firinlik-pilic-1-kg",
+        "query": "Fırınlık Piliç 1 Kg",
+        "label": "Fırınlık Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "keskinoglu-pilic-doner-500-gr",
+        "query": "Keskinoğlu Piliç Döner 500 Gr",
+        "label": "Keskinoğlu Piliç Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "taze-butun-poset-pilic-1-kg",
+        "query": "Taze Bütün Poşet Piliç 1 Kg",
+        "label": "Taze Bütün Poşet Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-corbalik-1-kg",
+        "query": "Tazem Piliç Çorbalık 1 Kg",
+        "label": "Tazem Piliç Çorbalık 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-kanat-izgara-1-kg",
+        "query": "Tazem Piliç Kanat Izgara 1 Kg",
+        "label": "Tazem Piliç Kanat Izgara 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "aytac-tavuk-durum-doner-170-gr",
+        "query": "Aytaç Tavuk Dürüm Döner 170 Gr",
+        "label": "Aytaç Tavuk Dürüm Döner 170 Gr",
+        "detail": "170 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "koytav-ordek-1-kg",
+        "query": "Köytav Ördek 1 Kg",
+        "label": "Köytav Ördek 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-izgara-tava-1-kg",
+        "query": "Tazem Piliç Izgara Tava 1 Kg",
+        "label": "Tazem Piliç Izgara Tava 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-parmak-bonfile-1-kg",
+        "query": "Tazem Piliç Parmak Bonfile 1 Kg",
+        "label": "Tazem Piliç Parmak Bonfile 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "donuk-pilic-baget-1-kg",
+        "query": "Donuk Piliç Baget 1 Kg",
+        "label": "Donuk Piliç Baget 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "koylum-butun-pilic-1-kg",
+        "query": "Köylüm Bütün Piliç 1 Kg",
+        "label": "Köylüm Bütün Piliç 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "taze-pilic-but-incik-1-kg",
+        "query": "Taze Piliç But İncik 1 Kg",
+        "label": "Taze Piliç But İncik 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍗"
+      },
+      {
+        "id": "bgrill-pilic-doner-200-gr",
+        "query": "Bgrill Piliç Döner 200 Gr",
+        "label": "Bgrill Piliç Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🍗"
+      },
+      {
+        "id": "tazem-pilic-kalcali-but-850-gr",
+        "query": "Tazem Piliç Kalçalı But 850 Gr",
+        "label": "Tazem Piliç Kalçalı But 850 Gr",
+        "detail": "850 g",
+        "icon": "🍗"
       }
     ]
   }
