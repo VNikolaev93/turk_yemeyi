@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-21";
+const DATA_REVISION = "2026-10-15-22";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -107,7 +107,17 @@ const categories = {
   },
   snacks: {
     title: "Atıştırmalık",
-    subcategories: []
+    subcategories: [
+      { id: "biscuits-crackers", label: "Bisküvi ve Kraker", icon: "🍪", products: [] },
+      { id: "chocolate", label: "Çikolata", icon: "🍫", products: [] },
+      { id: "gum-candy", label: "Sakız ve Şekerleme", icon: "🍬", products: [] },
+      { id: "nuts-dried-fruit", label: "Kuruyemiş ve Kuru Meyve", icon: "🥜", products: [] },
+      { id: "ice-cream", label: "Dondurmalar", icon: "🍨", products: [] },
+      { id: "chips", label: "Cips", icon: "🥔", products: [] },
+      { id: "cake", label: "Kek", icon: "🍰", products: [] },
+      { id: "wafers", label: "Gofret", icon: "🧇", products: [] },
+      { id: "desserts", label: "Tatlılar", icon: "🍮", products: [] }
+    ]
   }
 };
 let catalogSubcategories = [];
