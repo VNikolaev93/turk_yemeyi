@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-29";
+const DATA_REVISION = "2026-10-15-30";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",

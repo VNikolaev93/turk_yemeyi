@@ -13437,6 +13437,1203 @@
       "price": 85,
       "oldPrice": null,
       "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-sirma-c-plus-limon-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma C-Plus Limon 6x200 Ml",
+      "price": 88.7,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Maden Suyu 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-c-vitaminli-mango-ananas-armut-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Şifa C Vitaminli Mango Ananas Armut Aromalı Maden Suyu 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-kizilay-acai-cilek-aromali-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Açai-Çilek Aromalı Maden Suyu 200 Ml",
+      "price": 21.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-kizilay-zengin-mineralli-su-erzincan-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Zengin Mineralli Su Erzincan 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-kizilay-zengin-mineralli-su-erzincan-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Zengin Mineralli Su Erzincan 200 Ml",
+      "price": 14,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-c-mandalina-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma C+ Mandalina Aromalı Maden Suyu 6x200 Ml",
+      "price": 75.9,
+      "oldPrice": 88.75,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avoya-blend-greyfurt-portakal-meyveli-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Avoya Blend Greyfurt & Portakal Meyveli Maden Suyu 250 Ml",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-churchill-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Churchill 250 Ml",
+      "price": 33.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma Doğal Maden Suyu 6x200 Ml",
+      "price": 66.7,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-sirma-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma Doğal Maden Suyu 6x200 Ml",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-avsar-yesil-elma-aromali-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Yeşil Elma Aromalı Gazlı İçecek 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-yesil-elma-aromali-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Yeşil Elma Aromalı Gazlı İçecek 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-avoya-limon-limon-cicegi-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Limon/Limon Çiçeği Aromalı Maden Suyu 6x200 Ml",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-avoya-limon-limon-cicegi-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Limon/Limon Çiçeği Aromalı Maden Suyu 6x200 Ml",
+      "price": 121.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avoya-limon-limon-cicegi-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Limon/Limon Çiçeği Aromalı Maden Suyu 6x200 Ml",
+      "price": 121.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-karadut-frenk-uzumu-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Karadut Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilcahamam-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılcahamam Doğal Maden Suyu 6x200 Ml",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-sarikiz-sade-maden-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Sarıkız Sade Maden Suyu 1.5 Lt",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-avoya-cilek-gul-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Çilek/Gül Aromalı Maden Suyu 6x200 Ml",
+      "price": 121.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avoya-sade-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Sade Maden Suyu 6x200 Ml",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-sarikiz-limon-aromali-c-vitaminli-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sarıkız Limon Aromalı C Vitaminli Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-sirma-cplus-vitaminli-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Sırma Cplus Vitaminli Maden Suyu 1.2 Lt",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-kinik-sade-maden-suyu-20x200-ml",
+      "category": "İçecek",
+      "name": "Kınık Sade Maden Suyu 20x200 Ml",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-frutti-extra-kavun-aromali-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Frutti Extra Kavun Aromalı Maden Suyu 250 Ml",
+      "price": 29.9,
+      "oldPrice": 40.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-frutti-limon-aromali-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Frutti Limon Aromalı Maden Suyu 1.2 Lt",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-sirma-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Sırma Maden Suyu 1 Lt",
+      "price": 14,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-kizilay-afyon-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Afyon Doğal Maden Suyu 6x200 Ml",
+      "price": 66.7,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-c-plus-limon-aromali-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Sırma C Plus Limon Aromalı Maden Suyu 200 Ml",
+      "price": 16.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-c-mango-ananas-armut-aromali-mineralli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma C+ Mango Ananas Armut Aromalı Mineralli İçecek 6x200 Ml",
+      "price": 75.9,
+      "oldPrice": 88.75,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-yesil-elma-aromali-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Avşar Yeşil Elma Aromalı Maden Suyu 200 Ml",
+      "price": 16.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-avsar-mango-ananas-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Mango Ananas Aromalı Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-mango-ananas-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Mango Ananas Aromalı Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-damla-minera-maden-suyu-330-ml",
+      "category": "İçecek",
+      "name": "Damla Minera Maden Suyu 330 Ml",
+      "price": 45.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-frutti-karpuz-cilek-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Frutti Karpuz Çilek Aromalı Maden Suyu 6x200 Ml",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-mango-ananas-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Mango Ananas Maden Suyu 1 Lt",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avoya-elma-adacayi-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Avoya Elma/Adaçayı Aromalı Maden Suyu 6x200 Ml",
+      "price": 121.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avoya-blend-hibiskus-meyveli-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Avoya Blend Hibiskus Meyveli Maden Suyu 250 Ml",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-karma-portakal-cicegi-ve-misket-limonu-aromali-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Karma Portakal Çiçeği Ve Misket Limonu Aromalı Maden Suyu 250 Ml",
+      "price": 36.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-uludag-frutti-extra-orman-meyveli-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Orman Meyveli 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-uludag-frutti-extra-orman-meyveli-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Orman Meyveli 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-extra-orman-meyveli-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Orman Meyveli 1 Lt",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-maden-suyu-6x250-ml",
+      "category": "İçecek",
+      "name": "Maden Suyu 6x250 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-kizilay-dogal-maden-suyu-erzincan-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Doğal Maden Suyu Erzincan 6x200 Ml",
+      "price": 66.7,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-saka-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Saka Doğal Maden Suyu 6x200 Ml",
+      "price": 78.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-c-vitaminli-mandalina-aromali-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Sırma C Vitaminli Mandalina Aromalı Maden Suyu 200 Ml",
+      "price": 16.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-b-karadut-frenk-uzumu-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma B+ Karadut/Frenk Üzümü Maden Suyu 6x200 Ml",
+      "price": 75.9,
+      "oldPrice": 88.75,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-karadut-frenk-uzumu-aromali-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Karadut/Frenk Üzümü Aromalı Gazlı İçecek 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-c-limon-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Sırma C+ Limon Aromalı Maden Suyu 6x200 Ml",
+      "price": 75.9,
+      "oldPrice": 88.75,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 6x200 Ml",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 6x200 Ml",
+      "price": 72.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-maden-suyu-mandalina-aromali-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Maden Suyu Mandalina Aromalı 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-dogal-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Doğal Maden Suyu 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-frutti-elma-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Frutti Elma Aromalı Maden Suyu 6x200 Ml",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-karma-karadut-kiraz-cicegi-visne-aromali-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Karma Karadut/Kiraz Çiçeği Vişne Aromalı Maden Suyu 250 Ml",
+      "price": 36.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Doğal Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-extra-yesil-limonlu-meyve-sulu-maden-suyu-1-adet",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Yeşil Limonlu Meyve Sulu Maden Suyu 1 Adet",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-dogal-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Şifa Doğal Maden Suyu 1.2 Lt",
+      "price": 51.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-sifa-dogal-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Şifa Doğal Maden Suyu 1.2 Lt",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-frutti-extra-yesil-limon-aromali-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Frutti Extra Yeşil Limon Aromalı Maden Suyu 250 Ml",
+      "price": 29.9,
+      "oldPrice": 40.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-karadut-ve-frenk-uzumu-aromali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Sırma Karadut Ve Frenk Üzümü Aromalı Maden Suyu 1 Lt",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-karpuz-ve-cilek-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Doğal Maden Suyu 6x200 Ml",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-dogal-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Doğal Maden Suyu 6x200 Ml",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-beypazari-dogal-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Beypazarı Doğal Maden Suyu 200 Ml",
+      "price": 12,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-karpuz-ve-cilek-aromali-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-kizilay-sade-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Sade Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-uludag-frutti-extra-yesil-limon-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-uludag-frutti-extra-yesil-limon-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-uludag-frutti-extra-yesil-limon-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+      "price": 53.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-extra-yesil-limon-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-dogal-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Sırma Doğal Maden Suyu 1 Lt",
+      "price": 43.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-kizilay-limonlu-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Limonlu Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kinik-sade-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kınık Sade Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mineral-water-sifa-dogal-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Şifa Doğal Maden Suyu 1 Lt",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-sirma-misket-limon-portakal-cicegi-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Misket Limon Portakal Çiçeği Maden Suyu 250 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-mango-ananas-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Mango Ananas Maden Suyu 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-elma-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Elma Maden Suyu 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-karadut-frenk-uzumu-meyveli-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Karadut Frenk Üzümü Meyveli Maden Suyu 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-elma-6x200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Elma 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-fresa-extra-mango-ananas-6x200-ml",
+      "category": "İçecek",
+      "name": "Freşa Extra Mango Ananas 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-sirma-murver-cicegi-mango-seftali-aromali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Sırma Mürver Çiçeği & Mango & Şeftali Aromalı Maden Suyu 1 Lt",
+      "price": 26,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-sirma-churchill-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Churchill Maden Suyu 250 Ml",
+      "price": 29.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-limon-aromali-mineralli-gazli-icecek-200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Limon Aromalı Mineralli Gazlı İçecek 200 Ml",
+      "price": 20.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-elma-aromali-mineralli-gazli-icecek-200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Elma Aromalı Mineralli Gazlı İçecek 200 Ml",
+      "price": 20.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-karpuz-cilek-aromali-mineralli-gazli-icecek-200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Karpuz Çilek Aromalı Mineralli Gazlı İçecek 200 Ml",
+      "price": 20.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-avoya-blend-incir-aromali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Avoya Blend İncir Aromalı Maden Suyu 1 Lt",
+      "price": 72,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-avsar-karadut-frenk-uzumu-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Avşar Karadut Frenk Üzümü Maden Suyu 1.2 Lt",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-karpuz-cilek-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Akmina Karpuz Çilek Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-visne-karadut-aromali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Vişne-Karadut Aromalı Maden Suyu 1 Lt",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-gediz-minera-sade-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Gediz Minera Sade Maden Suyu 6x200 Ml",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-elma-c-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Elma +C Maden Suyu 1 Lt",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-limon-ve-c-vitaminli-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Akmina Limon Ve C Vitaminli Maden Suyu 6x200 Ml",
+      "price": 69.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-extra-orman-meyveli-meyve-sulu-maden-suyu-1-adet",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Orman Meyveli Meyve Sulu Maden Suyu 1 Adet",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-premium-maden-suyu-750-ml",
+      "category": "İçecek",
+      "name": "Uludağ Premium Maden Suyu 750 Ml",
+      "price": 120.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-elma-6x200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Elma 6x200 Ml",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-kizilay-mango-ananasli-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Mango Ananaslı Maden Suyu 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-c-vitaminli-kivi-portakal-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Şifa C Vitaminli Kivi/Portakal Aromalı Maden Suyu 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-limonlu-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Limonlu Maden Suyu 200 Ml",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-karpuz-cilek-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Karpuz Çilek Maden Suyu 1 Lt",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-premium-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Uludağ Premium Maden Suyu 250 Ml",
+      "price": 52.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-sade-soda-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Sade Soda 6x200 Ml",
+      "price": 66.7,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-dogal-maden-suyu-200-ml",
+      "category": "İçecek",
+      "name": "Sırma Doğal Maden Suyu 200 Ml",
+      "price": 14.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-saka-limon-aromali-dogal-zengin-mineralli-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Saka Limon Aromalı Doğal Zengin Mineralli Gazlı İçecek 6x200 Ml",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-mandalinali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Mandalinalı Maden Suyu 1 Lt",
+      "price": 47,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-limon-aromali-c-plus-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Limon Aromalı C Plus Gazlı İçecek 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sirma-mango-ananas-aromali-c-vitaminli-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Sırma Mango & Ananas Aromalı C Vitaminli Maden Suyu 1 Lt",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-avsar-karpuz-cilek-aromali-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Avşar Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+      "price": 88.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-c-vitaminli-mandalina-armut-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Şifa C Vitaminli Mandalina/Armut Aromalı Maden Suyu 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-karpuz-cilek-6x200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Karpuz Çilek 6x200 Ml",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-sirma-mango-murver-cicegi-maden-suyu-250-ml",
+      "category": "İçecek",
+      "name": "Sırma Mango Mürver Çiçeği Maden Suyu 250 Ml",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-c-limon-aromali-dogal-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Şifa C+ Limon Aromalı Doğal Maden Suyu 1.2 Lt",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-serinoba-limon-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Serinoba Limon Aromalı Maden Suyu 6x200 Ml",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-saka-karpuz-cilek-aromali-gazli-icecek-6x200-ml",
+      "category": "İçecek",
+      "name": "Saka Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-mango-seftali-aromali-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Mango Şeftali Aromalı Maden Suyu 1 Lt",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-premium-maden-suyu-6x250-ml",
+      "category": "İçecek",
+      "name": "Uludağ Premium Maden Suyu 6x250 Ml",
+      "price": 296.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mineral-water-akmina-sade-maden-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Akmina Sade Maden Suyu 1 Lt",
+      "price": 43.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-sifa-b-vitaminli-karadut-frenk-uzumu-aromali-maden-suyu-6x200-ml",
+      "category": "İçecek",
+      "name": "Şifa B Vitaminli Karadut/Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mineral-water-kizilay-maden-suyu-mandalina-aromali-6x200-ml",
+      "category": "İçecek",
+      "name": "Kızılay Maden Suyu Mandalina Aromalı 6x200 Ml",
+      "price": 76.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-carrefour-dogal-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Carrefour Doğal Maden Suyu 1.2 Lt",
+      "price": 66,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-extra-mandalinali-250-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Mandalinalı 250 Ml",
+      "price": 29.9,
+      "oldPrice": 40.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mineral-water-uludag-frutti-cmax-limon-6x200-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Cmax Limon 6x200 Ml",
+      "price": 137.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mineral-water-karlitepe-limon-aromali-maden-suyu-1-2-lt",
+      "category": "İçecek",
+      "name": "Karlıtepe Limon Aromalı Maden Suyu 1.2 Lt",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mineral-water-uludag-frutti-extra-orman-meyveli-250-ml",
+      "category": "İçecek",
+      "name": "Uludağ Frutti Extra Orman Meyveli 250 Ml",
+      "price": 29.9,
+      "oldPrice": 40.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -22507,6 +23704,792 @@
         "label": "Dost Orman Meyveli Kefir 1 Lt",
         "detail": "1 L",
         "icon": "🥛"
+      }
+    ],
+    "mineral-water": [
+      {
+        "id": "mineral-water-sirma-c-plus-limon-6x200-ml",
+        "query": "Sırma C-Plus Limon 6x200 Ml",
+        "label": "Sırma C-Plus Limon 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-maden-suyu-200-ml",
+        "query": "Maden Suyu 200 Ml",
+        "label": "Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-c-vitaminli-mango-ananas-armut-aromali-maden-suyu-6x200-ml",
+        "query": "Şifa C Vitaminli Mango Ananas Armut Aromalı Maden Suyu 6x200 Ml",
+        "label": "Şifa C Vitaminli Mango Ananas Armut Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-acai-cilek-aromali-maden-suyu-200-ml",
+        "query": "Kızılay Açai-Çilek Aromalı Maden Suyu 200 Ml",
+        "label": "Kızılay Açai-Çilek Aromalı Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-zengin-mineralli-su-erzincan-200-ml",
+        "query": "Kızılay Zengin Mineralli Su Erzincan 200 Ml",
+        "label": "Kızılay Zengin Mineralli Su Erzincan 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-c-mandalina-aromali-maden-suyu-6x200-ml",
+        "query": "Sırma C+ Mandalina Aromalı Maden Suyu 6x200 Ml",
+        "label": "Sırma C+ Mandalina Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-blend-greyfurt-portakal-meyveli-maden-suyu-250-ml",
+        "query": "Avoya Blend Greyfurt & Portakal Meyveli Maden Suyu 250 Ml",
+        "label": "Avoya Blend Greyfurt & Portakal Meyveli Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-churchill-250-ml",
+        "query": "Sırma Churchill 250 Ml",
+        "label": "Sırma Churchill 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-dogal-maden-suyu-6x200-ml",
+        "query": "Sırma Doğal Maden Suyu 6x200 Ml",
+        "label": "Sırma Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-yesil-elma-aromali-gazli-icecek-6x200-ml",
+        "query": "Avşar Yeşil Elma Aromalı Gazlı İçecek 6x200 Ml",
+        "label": "Avşar Yeşil Elma Aromalı Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-limon-limon-cicegi-aromali-maden-suyu-6x200-ml",
+        "query": "Avoya Limon/Limon Çiçeği Aromalı Maden Suyu 6x200 Ml",
+        "label": "Avoya Limon/Limon Çiçeği Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-karadut-frenk-uzumu-aromali-maden-suyu-6x200-ml",
+        "query": "Freşa Extra Karadut Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+        "label": "Freşa Extra Karadut Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilcahamam-dogal-maden-suyu-6x200-ml",
+        "query": "Kızılcahamam Doğal Maden Suyu 6x200 Ml",
+        "label": "Kızılcahamam Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sarikiz-sade-maden-suyu-1-5-lt",
+        "query": "Sarıkız Sade Maden Suyu 1.5 Lt",
+        "label": "Sarıkız Sade Maden Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-cilek-gul-aromali-maden-suyu-6x200-ml",
+        "query": "Avoya Çilek/Gül Aromalı Maden Suyu 6x200 Ml",
+        "label": "Avoya Çilek/Gül Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-sade-maden-suyu-6x200-ml",
+        "query": "Avoya Sade Maden Suyu 6x200 Ml",
+        "label": "Avoya Sade Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sarikiz-limon-aromali-c-vitaminli-maden-suyu-6x200-ml",
+        "query": "Sarıkız Limon Aromalı C Vitaminli Maden Suyu 6x200 Ml",
+        "label": "Sarıkız Limon Aromalı C Vitaminli Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-cplus-vitaminli-maden-suyu-1-2-lt",
+        "query": "Sırma Cplus Vitaminli Maden Suyu 1.2 Lt",
+        "label": "Sırma Cplus Vitaminli Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kinik-sade-maden-suyu-20x200-ml",
+        "query": "Kınık Sade Maden Suyu 20x200 Ml",
+        "label": "Kınık Sade Maden Suyu 20x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-frutti-extra-kavun-aromali-maden-suyu-250-ml",
+        "query": "Frutti Extra Kavun Aromalı Maden Suyu 250 Ml",
+        "label": "Frutti Extra Kavun Aromalı Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-frutti-limon-aromali-maden-suyu-1-2-lt",
+        "query": "Frutti Limon Aromalı Maden Suyu 1.2 Lt",
+        "label": "Frutti Limon Aromalı Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-maden-suyu-1-lt",
+        "query": "Sırma Maden Suyu 1 Lt",
+        "label": "Sırma Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-afyon-dogal-maden-suyu-6x200-ml",
+        "query": "Kızılay Afyon Doğal Maden Suyu 6x200 Ml",
+        "label": "Kızılay Afyon Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-c-plus-limon-aromali-maden-suyu-200-ml",
+        "query": "Sırma C Plus Limon Aromalı Maden Suyu 200 Ml",
+        "label": "Sırma C Plus Limon Aromalı Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-c-mango-ananas-armut-aromali-mineralli-icecek-6x200-ml",
+        "query": "Sırma C+ Mango Ananas Armut Aromalı Mineralli İçecek 6x200 Ml",
+        "label": "Sırma C+ Mango Ananas Armut Aromalı Mineralli İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-yesil-elma-aromali-maden-suyu-200-ml",
+        "query": "Avşar Yeşil Elma Aromalı Maden Suyu 200 Ml",
+        "label": "Avşar Yeşil Elma Aromalı Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-mango-ananas-aromali-maden-suyu-6x200-ml",
+        "query": "Avşar Mango Ananas Aromalı Maden Suyu 6x200 Ml",
+        "label": "Avşar Mango Ananas Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-damla-minera-maden-suyu-330-ml",
+        "query": "Damla Minera Maden Suyu 330 Ml",
+        "label": "Damla Minera Maden Suyu 330 Ml",
+        "detail": "330 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-frutti-karpuz-cilek-aromali-maden-suyu-6x200-ml",
+        "query": "Frutti Karpuz Çilek Aromalı Maden Suyu 6x200 Ml",
+        "label": "Frutti Karpuz Çilek Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-mango-ananas-maden-suyu-1-lt",
+        "query": "Akmina Mango Ananas Maden Suyu 1 Lt",
+        "label": "Akmina Mango Ananas Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-elma-adacayi-aromali-maden-suyu-6x200-ml",
+        "query": "Avoya Elma/Adaçayı Aromalı Maden Suyu 6x200 Ml",
+        "label": "Avoya Elma/Adaçayı Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-blend-hibiskus-meyveli-maden-suyu-250-ml",
+        "query": "Avoya Blend Hibiskus Meyveli Maden Suyu 250 Ml",
+        "label": "Avoya Blend Hibiskus Meyveli Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-karma-portakal-cicegi-ve-misket-limonu-aromali-maden-suyu-250-ml",
+        "query": "Sırma Karma Portakal Çiçeği Ve Misket Limonu Aromalı Maden Suyu 250 Ml",
+        "label": "Sırma Karma Portakal Çiçeği Ve Misket Limonu Aromalı Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-mandalinali-1-lt",
+        "query": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+        "label": "Uludağ Frutti Extra Mandalinalı 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-orman-meyveli-1-lt",
+        "query": "Uludağ Frutti Extra Orman Meyveli 1 Lt",
+        "label": "Uludağ Frutti Extra Orman Meyveli 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-maden-suyu-6x250-ml",
+        "query": "Maden Suyu 6x250 Ml",
+        "label": "Maden Suyu 6x250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-dogal-maden-suyu-erzincan-6x200-ml",
+        "query": "Kızılay Doğal Maden Suyu Erzincan 6x200 Ml",
+        "label": "Kızılay Doğal Maden Suyu Erzincan 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-saka-dogal-maden-suyu-6x200-ml",
+        "query": "Saka Doğal Maden Suyu 6x200 Ml",
+        "label": "Saka Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-c-vitaminli-mandalina-aromali-maden-suyu-200-ml",
+        "query": "Sırma C Vitaminli Mandalina Aromalı Maden Suyu 200 Ml",
+        "label": "Sırma C Vitaminli Mandalina Aromalı Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-b-karadut-frenk-uzumu-maden-suyu-6x200-ml",
+        "query": "Sırma B+ Karadut/Frenk Üzümü Maden Suyu 6x200 Ml",
+        "label": "Sırma B+ Karadut/Frenk Üzümü Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-karadut-frenk-uzumu-aromali-gazli-icecek-6x200-ml",
+        "query": "Avşar Karadut/Frenk Üzümü Aromalı Gazlı İçecek 6x200 Ml",
+        "label": "Avşar Karadut/Frenk Üzümü Aromalı Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-c-limon-aromali-maden-suyu-6x200-ml",
+        "query": "Sırma C+ Limon Aromalı Maden Suyu 6x200 Ml",
+        "label": "Sırma C+ Limon Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-maden-suyu-6x200-ml",
+        "query": "Maden Suyu 6x200 Ml",
+        "label": "Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-beypazari-dogal-maden-suyu-6x200-ml",
+        "query": "Beypazarı Doğal Maden Suyu 6x200 Ml",
+        "label": "Beypazarı Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-maden-suyu-mandalina-aromali-200-ml",
+        "query": "Kızılay Maden Suyu Mandalina Aromalı 200 Ml",
+        "label": "Kızılay Maden Suyu Mandalina Aromalı 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-dogal-maden-suyu-200-ml",
+        "query": "Kızılay Doğal Maden Suyu 200 Ml",
+        "label": "Kızılay Doğal Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-frutti-elma-aromali-maden-suyu-6x200-ml",
+        "query": "Frutti Elma Aromalı Maden Suyu 6x200 Ml",
+        "label": "Frutti Elma Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-karma-karadut-kiraz-cicegi-visne-aromali-maden-suyu-250-ml",
+        "query": "Sırma Karma Karadut/Kiraz Çiçeği Vişne Aromalı Maden Suyu 250 Ml",
+        "label": "Sırma Karma Karadut/Kiraz Çiçeği Vişne Aromalı Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-dogal-maden-suyu-6x200-ml",
+        "query": "Kızılay Doğal Maden Suyu 6x200 Ml",
+        "label": "Kızılay Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-yesil-limonlu-meyve-sulu-maden-suyu-1-adet",
+        "query": "Uludağ Frutti Extra Yeşil Limonlu Meyve Sulu Maden Suyu 1 Adet",
+        "label": "Uludağ Frutti Extra Yeşil Limonlu Meyve Sulu Maden Suyu 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-dogal-maden-suyu-1-2-lt",
+        "query": "Şifa Doğal Maden Suyu 1.2 Lt",
+        "label": "Şifa Doğal Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-frutti-extra-yesil-limon-aromali-maden-suyu-250-ml",
+        "query": "Frutti Extra Yeşil Limon Aromalı Maden Suyu 250 Ml",
+        "label": "Frutti Extra Yeşil Limon Aromalı Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-karadut-ve-frenk-uzumu-aromali-maden-suyu-1-lt",
+        "query": "Sırma Karadut Ve Frenk Üzümü Aromalı Maden Suyu 1 Lt",
+        "label": "Sırma Karadut Ve Frenk Üzümü Aromalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-karpuz-ve-cilek-aromali-maden-suyu-6x200-ml",
+        "query": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 6x200 Ml",
+        "label": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-dogal-maden-suyu-6x200-ml",
+        "query": "Uludağ Doğal Maden Suyu 6x200 Ml",
+        "label": "Uludağ Doğal Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-beypazari-dogal-maden-suyu-200-ml",
+        "query": "Beypazarı Doğal Maden Suyu 200 Ml",
+        "label": "Beypazarı Doğal Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-karpuz-ve-cilek-aromali-maden-suyu-200-ml",
+        "query": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 200 Ml",
+        "label": "Kızılay Karpuz Ve Çilek Aromalı Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-sade-maden-suyu-6x200-ml",
+        "query": "Kızılay Sade Maden Suyu 6x200 Ml",
+        "label": "Kızılay Sade Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-yesil-limon-1-lt",
+        "query": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+        "label": "Uludağ Frutti Extra Yeşil Limon 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-dogal-maden-suyu-1-lt",
+        "query": "Sırma Doğal Maden Suyu 1 Lt",
+        "label": "Sırma Doğal Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-limonlu-maden-suyu-6x200-ml",
+        "query": "Kızılay Limonlu Maden Suyu 6x200 Ml",
+        "label": "Kızılay Limonlu Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kinik-sade-maden-suyu-6x200-ml",
+        "query": "Kınık Sade Maden Suyu 6x200 Ml",
+        "label": "Kınık Sade Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-dogal-maden-suyu-1-lt",
+        "query": "Şifa Doğal Maden Suyu 1 Lt",
+        "label": "Şifa Doğal Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-misket-limon-portakal-cicegi-maden-suyu-250-ml",
+        "query": "Sırma Misket Limon Portakal Çiçeği Maden Suyu 250 Ml",
+        "label": "Sırma Misket Limon Portakal Çiçeği Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-mango-ananas-maden-suyu-200-ml",
+        "query": "Freşa Extra Mango Ananas Maden Suyu 200 Ml",
+        "label": "Freşa Extra Mango Ananas Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-elma-maden-suyu-200-ml",
+        "query": "Freşa Extra Elma Maden Suyu 200 Ml",
+        "label": "Freşa Extra Elma Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-karadut-frenk-uzumu-meyveli-maden-suyu-200-ml",
+        "query": "Freşa Extra Karadut Frenk Üzümü Meyveli Maden Suyu 200 Ml",
+        "label": "Freşa Extra Karadut Frenk Üzümü Meyveli Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-elma-6x200-ml",
+        "query": "Freşa Extra Elma 6x200 Ml",
+        "label": "Freşa Extra Elma 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-fresa-extra-mango-ananas-6x200-ml",
+        "query": "Freşa Extra Mango Ananas 6x200 Ml",
+        "label": "Freşa Extra Mango Ananas 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-murver-cicegi-mango-seftali-aromali-maden-suyu-1-lt",
+        "query": "Sırma Mürver Çiçeği & Mango & Şeftali Aromalı Maden Suyu 1 Lt",
+        "label": "Sırma Mürver Çiçeği & Mango & Şeftali Aromalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-churchill-maden-suyu-250-ml",
+        "query": "Sırma Churchill Maden Suyu 250 Ml",
+        "label": "Sırma Churchill Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-limon-aromali-mineralli-gazli-icecek-200-ml",
+        "query": "Uludağ Frutti Limon Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "label": "Uludağ Frutti Limon Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-elma-aromali-mineralli-gazli-icecek-200-ml",
+        "query": "Uludağ Frutti Elma Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "label": "Uludağ Frutti Elma Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-karpuz-cilek-aromali-mineralli-gazli-icecek-200-ml",
+        "query": "Uludağ Frutti Karpuz Çilek Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "label": "Uludağ Frutti Karpuz Çilek Aromalı Mineralli Gazlı İçecek 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avoya-blend-incir-aromali-maden-suyu-1-lt",
+        "query": "Avoya Blend İncir Aromalı Maden Suyu 1 Lt",
+        "label": "Avoya Blend İncir Aromalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-karadut-frenk-uzumu-maden-suyu-1-2-lt",
+        "query": "Avşar Karadut Frenk Üzümü Maden Suyu 1.2 Lt",
+        "label": "Avşar Karadut Frenk Üzümü Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-karpuz-cilek-maden-suyu-6x200-ml",
+        "query": "Akmina Karpuz Çilek Maden Suyu 6x200 Ml",
+        "label": "Akmina Karpuz Çilek Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-visne-karadut-aromali-maden-suyu-1-lt",
+        "query": "Akmina Vişne-Karadut Aromalı Maden Suyu 1 Lt",
+        "label": "Akmina Vişne-Karadut Aromalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-gediz-minera-sade-maden-suyu-6x200-ml",
+        "query": "Gediz Minera Sade Maden Suyu 6x200 Ml",
+        "label": "Gediz Minera Sade Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-elma-c-maden-suyu-1-lt",
+        "query": "Akmina Elma +C Maden Suyu 1 Lt",
+        "label": "Akmina Elma +C Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-limon-ve-c-vitaminli-maden-suyu-6x200-ml",
+        "query": "Akmina Limon Ve C Vitaminli Maden Suyu 6x200 Ml",
+        "label": "Akmina Limon Ve C Vitaminli Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-orman-meyveli-meyve-sulu-maden-suyu-1-adet",
+        "query": "Uludağ Frutti Extra Orman Meyveli Meyve Sulu Maden Suyu 1 Adet",
+        "label": "Uludağ Frutti Extra Orman Meyveli Meyve Sulu Maden Suyu 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-premium-maden-suyu-750-ml",
+        "query": "Uludağ Premium Maden Suyu 750 Ml",
+        "label": "Uludağ Premium Maden Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-elma-6x200-ml",
+        "query": "Uludağ Frutti Elma 6x200 Ml",
+        "label": "Uludağ Frutti Elma 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-mango-ananasli-maden-suyu-6x200-ml",
+        "query": "Kızılay Mango Ananaslı Maden Suyu 6x200 Ml",
+        "label": "Kızılay Mango Ananaslı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-c-vitaminli-kivi-portakal-aromali-maden-suyu-6x200-ml",
+        "query": "Şifa C Vitaminli Kivi/Portakal Aromalı Maden Suyu 6x200 Ml",
+        "label": "Şifa C Vitaminli Kivi/Portakal Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-limonlu-maden-suyu-200-ml",
+        "query": "Kızılay Limonlu Maden Suyu 200 Ml",
+        "label": "Kızılay Limonlu Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-karpuz-cilek-maden-suyu-1-lt",
+        "query": "Akmina Karpuz Çilek Maden Suyu 1 Lt",
+        "label": "Akmina Karpuz Çilek Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-premium-maden-suyu-250-ml",
+        "query": "Uludağ Premium Maden Suyu 250 Ml",
+        "label": "Uludağ Premium Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-sade-soda-6x200-ml",
+        "query": "Avşar Sade Soda 6x200 Ml",
+        "label": "Avşar Sade Soda 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-dogal-maden-suyu-200-ml",
+        "query": "Sırma Doğal Maden Suyu 200 Ml",
+        "label": "Sırma Doğal Maden Suyu 200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-saka-limon-aromali-dogal-zengin-mineralli-gazli-icecek-6x200-ml",
+        "query": "Saka Limon Aromalı Doğal Zengin Mineralli Gazlı İçecek 6x200 Ml",
+        "label": "Saka Limon Aromalı Doğal Zengin Mineralli Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-mandalinali-maden-suyu-1-lt",
+        "query": "Akmina Mandalinalı Maden Suyu 1 Lt",
+        "label": "Akmina Mandalinalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-limon-aromali-c-plus-gazli-icecek-6x200-ml",
+        "query": "Avşar Limon Aromalı C Plus Gazlı İçecek 6x200 Ml",
+        "label": "Avşar Limon Aromalı C Plus Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-mango-ananas-aromali-c-vitaminli-maden-suyu-1-lt",
+        "query": "Sırma Mango & Ananas Aromalı C Vitaminli Maden Suyu 1 Lt",
+        "label": "Sırma Mango & Ananas Aromalı C Vitaminli Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-avsar-karpuz-cilek-aromali-gazli-icecek-6x200-ml",
+        "query": "Avşar Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+        "label": "Avşar Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-c-vitaminli-mandalina-armut-aromali-maden-suyu-6x200-ml",
+        "query": "Şifa C Vitaminli Mandalina/Armut Aromalı Maden Suyu 6x200 Ml",
+        "label": "Şifa C Vitaminli Mandalina/Armut Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-karpuz-cilek-6x200-ml",
+        "query": "Uludağ Frutti Karpuz Çilek 6x200 Ml",
+        "label": "Uludağ Frutti Karpuz Çilek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sirma-mango-murver-cicegi-maden-suyu-250-ml",
+        "query": "Sırma Mango Mürver Çiçeği Maden Suyu 250 Ml",
+        "label": "Sırma Mango Mürver Çiçeği Maden Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-c-limon-aromali-dogal-maden-suyu-1-2-lt",
+        "query": "Şifa C+ Limon Aromalı Doğal Maden Suyu 1.2 Lt",
+        "label": "Şifa C+ Limon Aromalı Doğal Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-serinoba-limon-aromali-maden-suyu-6x200-ml",
+        "query": "Serinoba Limon Aromalı Maden Suyu 6x200 Ml",
+        "label": "Serinoba Limon Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-saka-karpuz-cilek-aromali-gazli-icecek-6x200-ml",
+        "query": "Saka Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+        "label": "Saka Karpuz Çilek Aromalı Gazlı İçecek 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-mango-seftali-aromali-maden-suyu-1-lt",
+        "query": "Akmina Mango Şeftali Aromalı Maden Suyu 1 Lt",
+        "label": "Akmina Mango Şeftali Aromalı Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-premium-maden-suyu-6x250-ml",
+        "query": "Uludağ Premium Maden Suyu 6x250 Ml",
+        "label": "Uludağ Premium Maden Suyu 6x250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-akmina-sade-maden-suyu-1-lt",
+        "query": "Akmina Sade Maden Suyu 1 Lt",
+        "label": "Akmina Sade Maden Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-sifa-b-vitaminli-karadut-frenk-uzumu-aromali-maden-suyu-6x200-ml",
+        "query": "Şifa B Vitaminli Karadut/Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+        "label": "Şifa B Vitaminli Karadut/Frenk Üzümü Aromalı Maden Suyu 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-kizilay-maden-suyu-mandalina-aromali-6x200-ml",
+        "query": "Kızılay Maden Suyu Mandalina Aromalı 6x200 Ml",
+        "label": "Kızılay Maden Suyu Mandalina Aromalı 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-carrefour-dogal-maden-suyu-1-2-lt",
+        "query": "Carrefour Doğal Maden Suyu 1.2 Lt",
+        "label": "Carrefour Doğal Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-mandalinali-250-ml",
+        "query": "Uludağ Frutti Extra Mandalinalı 250 Ml",
+        "label": "Uludağ Frutti Extra Mandalinalı 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-cmax-limon-6x200-ml",
+        "query": "Uludağ Frutti Cmax Limon 6x200 Ml",
+        "label": "Uludağ Frutti Cmax Limon 6x200 Ml",
+        "detail": "200 ml",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-karlitepe-limon-aromali-maden-suyu-1-2-lt",
+        "query": "Karlıtepe Limon Aromalı Maden Suyu 1.2 Lt",
+        "label": "Karlıtepe Limon Aromalı Maden Suyu 1.2 Lt",
+        "detail": "1.2 L",
+        "icon": "🫧"
+      },
+      {
+        "id": "mineral-water-uludag-frutti-extra-orman-meyveli-250-ml",
+        "query": "Uludağ Frutti Extra Orman Meyveli 250 Ml",
+        "label": "Uludağ Frutti Extra Orman Meyveli 250 Ml",
+        "detail": "250 ml",
+        "icon": "🫧"
       }
     ]
   }
