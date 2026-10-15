@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-04";
+const DATA_REVISION = "2026-10-15-05";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -53,7 +53,14 @@ const categories = {
   },
   meat: {
     title: "Et, Tavuk ve Balık",
-    subcategories: []
+    subcategories: [
+      { id: "deli", label: "Şarküteri", icon: "🥓", products: [] },
+      { id: "white-meat", label: "Beyaz Et", icon: "🍗", products: [] },
+      { id: "seafood", label: "Deniz Ürünleri", icon: "🐟", products: [] },
+      { id: "red-meat", label: "Kırmızı Et", icon: "🥩", products: [] },
+      { id: "offal", label: "Sakatat", icon: "🥘", products: [] },
+      { id: "fresh-seafood", label: "Taze Deniz Ürünleri", icon: "🦐", products: [] }
+    ]
   },
   drinks: {
     title: "İçecek",
