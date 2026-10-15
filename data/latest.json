@@ -4302,6 +4302,2265 @@
       "price": 32,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-kokteyl-sosis-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Kokteyl Sosis 250 Gr",
+      "price": 154,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ustad-dana-roast-beef-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Üstad Dana Roast Beef 80 Gr",
+      "price": 259,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "keskinoglu-pilic-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Sucuk 250 Gr",
+      "price": 81.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "namet-7-24-hindi-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Hindi Salam 60 Gr",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-7-24-hindi-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Hindi Salam 60 Gr",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ustad-dana-fume-kuru-et-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Üstad Dana Füme Kuru Et 80 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-fit-yasam-xl-hindi-fume-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Fit Yaşam Xl Hindi Füme 150 Gr",
+      "price": 134.9,
+      "oldPrice": 160,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "pinar-ac-bitir-hindi-salam-buyuk-dilim-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 Gr",
+      "price": 52.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "maret-hindi-fume-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Füme 110 Gr",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-hindi-fume-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Füme 110 Gr",
+      "price": 111,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-hindi-fume-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Füme 200 Gr",
+      "price": 155,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-kangal-sucuk-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Kangal Sucuk 240 Gr",
+      "price": 519,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-hindi-uzun-sosis-430-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Hindi Uzun Sosis 430 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-tutsulenmis-pilic-jumbo-sosis-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 Gr",
+      "price": 124.9,
+      "oldPrice": 159.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-sucuk-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Sucuk 240 Gr",
+      "price": 585,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ac-bitir-kokteyl-sosis-180-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Kokteyl Sosis 180 Gr",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "pinar-ac-bitir-kokteyl-sosis-180-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Kokteyl Sosis 180 Gr",
+      "price": 104.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-kokteyl-sosis-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Kokteyl Sosis 1 Kg",
+      "price": 169.9,
+      "oldPrice": 199.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-pilic-fume-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Piliç Füme 150 Gr",
+      "price": 135.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "banvit-tutsulenmis-pilic-jumbo-sosis-330-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Tütsülenmiş Piliç Jumbo Sosis 330 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "banvit-tutsulenmis-pilic-jumbo-sosis-330-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Tütsülenmiş Piliç Jumbo Sosis 330 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-tutsulenmis-pilic-jumbo-sosis-330-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Tütsülenmiş Piliç Jumbo Sosis 330 Gr",
+      "price": 129.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-salam-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Salam 250 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-mangal-keyfi-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Mangal Keyfi Sucuk 300 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-pilic-fume-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Piliç Füme 150 Gr",
+      "price": 139.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ac-bitir-hindi-salam-75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Hindi Salam 75 Gr",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "pinar-ac-bitir-hindi-salam-75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Hindi Salam 75 Gr",
+      "price": 57.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-5-li-sosis-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret 5'li Sosis 240 Gr",
+      "price": 363,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fermente-mangal-dana-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fermente Mangal Dana Sucuk 200 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Kangal Sucuk 250 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-hindi-fistikli-salam-7-24-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Fıstıklı Salam 7/24 50 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-hindi-fistikli-salam-7-24-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Fıstıklı Salam 7/24 50 Gr",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-kokteyl-sosis-215-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Kokteyl Sosis 215 Gr",
+      "price": 375,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ac-bitir-macar-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Macar Salam 60 Gr",
+      "price": 91.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "namet-dana-macar-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dana Macar Salam 60 Gr",
+      "price": 56.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-dana-macar-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dana Macar Salam 60 Gr",
+      "price": 56.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-kokteyl-sosis-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Kokteyl Sosis 1 Kg",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "polonez-pilic-jambon-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Piliç Jambon 60 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "polonez-dilimli-pilic-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Dilimli Piliç Salam 60 Gr",
+      "price": 24,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ersan-kuvet-kokteyl-sosis-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erşan Küvet Kokteyl Sosis 400 Gr",
+      "price": 410,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "polonez-fume-et-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Füme Et 50 Gr",
+      "price": 84.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-dilimli-isil-islem-gormus-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dilimli Isıl İşlem Görmüş Sucuk 200 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-dilimli-isil-islem-gormus-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dilimli Isıl İşlem Görmüş Sucuk 200 Gr",
+      "price": 240,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Kasap Sucuk 400 Gr",
+      "price": 379,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "muslumoglu-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Kasap Sucuk 400 Gr",
+      "price": 415,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-acili-sucuk-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Acılı Sucuk 240 Gr",
+      "price": 585,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-fume-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Füme Salam 60 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "aytac-sipsak-dana-dilimli-macar-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Şipşak Dana Dilimli Macar Salam 60 Gr",
+      "price": 83.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-fistikli-salam-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Fıstıklı Salam 90 Gr",
+      "price": 198.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-dana-isil-islem-gormus-afiyetle-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Dana Isıl İşlem Görmüş Afiyetle Sucuk 200 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "torku-vakumlu-sucuk-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Vakumlu Sucuk 225 Gr",
+      "price": 425,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-macar-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Macar Salam 50 Gr",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "aytac-isil-islem-gormus-hindi-sucuk-280-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Isıl İşlem Görmüş Hindi Sucuk 280 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ekonomik-10-lu-sosis-430-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Ekonomik 10'lu Sosis 430 Gr",
+      "price": 489,
+      "oldPrice": 599,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ozlem-sarayli-dana-parmak-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Özlem Saraylı Dana Parmak Sucuk 400 Gr",
+      "price": 389,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-dana-jambon-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Dana Jambon 50 Gr",
+      "price": 79.5,
+      "oldPrice": 106,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "aytac-sipsak-hindi-salam-fistikli-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Şipşak Hindi Salam Fıstıklı 50 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-salam-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Salam 850 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ac-bitir-fistikli-hindi-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Fıstıklı Hindi Salam 50 Gr",
+      "price": 45.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "pinar-ac-bitir-fistikli-hindi-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Fıstıklı Hindi Salam 50 Gr",
+      "price": 50.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "aytac-sipsak-hindi-fume-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Şipşak Hindi Füme 60 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-baton-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Baton Sucuk 450 Gr",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Kangal Sucuk 250 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-fume-hindi-but-etli-gurme-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Füme Hindi But Etli Gurme 110 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "polonez-mini-lezzet-dana-jambon-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Mini Lezzet Dana Jambon 50 Gr",
+      "price": 47.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "banvit-pilic-bufe-salam-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Büfe Salam 850 Gr",
+      "price": 121.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "banvit-pilic-bufe-salam-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Büfe Salam 850 Gr",
+      "price": 124.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-doyum-bufe-hindi-salam-700-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Doyum Büfe Hindi Salam 700 Gr",
+      "price": 290,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "polonez-pilic-fume-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Piliç Füme Salam 60 Gr",
+      "price": 37,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-hindi-jambon-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Hindi Jambon 50 Gr",
+      "price": 43.88,
+      "oldPrice": 58.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "isil-islem-gormus-dana-kangal-sucuk-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Isıl İşlem Görmüş Dana Kangal Sucuk 500 Gr",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-kokteyl-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Kokteyl Sosis 500 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "namet-7-24-hindi-salam-75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Hindi Salam 75 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-dilimli-pilic-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Dilimli Piliç Sucuk 400 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-fermente-mangal-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Fermente Mangal Sucuk 350 Gr",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-hindi-fume-eti-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Hindi Füme Eti 50 Gr",
+      "price": 49.88,
+      "oldPrice": 66.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-gurme-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Gurme Sucuk 250 Gr",
+      "price": 609,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-dana-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Dana Kasap Sucuk 400 Gr",
+      "price": 414,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "aytac-sosis-190-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Sosis 190 Gr",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "maret-hindi-sosis-130-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Sosis 130 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-vakumlu-altin-seri-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Vakumlu Altın Seri Sucuk 250 Gr",
+      "price": 565,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-fume-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Füme 60 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "maret-hindi-salam-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Salam 500 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "vanet-pilic-bufe-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Vanet Piliç Büfe Sucuk 450 Gr",
+      "price": 133.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-fermente-mangal-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Fermente Mangal Sucuk 400 Gr",
+      "price": 379,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezita-pilic-dilimli-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Dilimli Salam 60 Gr",
+      "price": 24,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-dilimli-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Dilimli Salam 60 Gr",
+      "price": 24,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-jambon-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Jambon 50 Gr",
+      "price": 47.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-10-lu-sosis-432-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret 10'lu Sosis 432 Gr",
+      "price": 639,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "namet-hindi-fume-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Füme 60 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-hindi-fume-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Füme 60 Gr",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "hindi-baton-salam-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hindi Baton Salam 500 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "etenfes-dana-fermente-kangal-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Etenfes Dana Fermente Kangal Sucuk 300 Gr",
+      "price": 395,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-lezzetkeyfi-uzun-hindi-sosis-430-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Lezzetkeyfi Uzun Hindi Sosis 430 Gr",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-ac-bitir-hindi-kokteyl-sosis-170-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Hindi Kokteyl Sosis 170 Gr",
+      "price": 76.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "maret-yore-dana-uzun-sosis-210-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Yöre Dana Uzun Sosis 210 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-kokteyl-pilic-sosis-280-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Kokteyl Piliç Sosis 280 Gr",
+      "price": 82.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-kokteyl-pilic-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Kokteyl Piliç Sosis 500 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "banvit-kokteyl-pilic-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Kokteyl Piliç Sosis 500 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maret-hindi-uzun-sosis-5-adet-210-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Uzun Sosis 5 Adet 210 Gr",
+      "price": 110,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-7-24-hindi-sosis-140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Hindi Sosis 140 Gr",
+      "price": 41.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-7-24-hindi-sosis-140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Hindi Sosis 140 Gr",
+      "price": 97.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "hindi-sosis-130-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hindi Sosis 130 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-dana-kokteyl-sosis-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Dana Kokteyl Sosis 200 Gr",
+      "price": 349,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "banvit-jumbo-pilic-sosis-330-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Jumbo Piliç Sosis 330 Gr",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-jumbo-pilic-sosis-330-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Jumbo Piliç Sosis 330 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-sosis-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Sosis 250 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "aytac-pilic-julyen-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Piliç Jülyen Sosis 500 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pinar-hindi-sosis-430-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Hindi Sosis 430 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-kokteyl-pilic-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Kokteyl Piliç Sosis 500 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-uzun-sosis-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Uzun Sosis 225 Gr",
+      "price": 330,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombik-pilic-sosis-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tombik Piliç Sosis 500 Gr",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-kokteyl-sosis-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Kokteyl Sosis 200 Gr",
+      "price": 115.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-uzun-dana-sosis-210-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Uzun Dana Sosis 210 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ustad-fermente-dana-kangal-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Üstad Fermente Dana Kangal Sucuk 400 Gr",
+      "price": 429,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "aytac-isil-islem-gormus-pilic-kangal-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Isıl İşlem Görmüş Piliç Kangal Sucuk 450 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lezita-pilic-bufe-salam-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezita Piliç Büfe Salam 850 Gr",
+      "price": 102.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-lezzet-keyfi-hindi-salam-75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Lezzet Keyfi Hindi Salam 75 Gr",
+      "price": 25.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-lezzetkeyfi-hindi-bufe-salam-900-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Lezzetkeyfi Hindi Büfe Salam 900 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-dana-macar-salam-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dana Macar Salam 100 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ozlem-dana-dilimli-tavalik-sucuk-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Özlem Dana Dilimli Tavalık Sucuk 80 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "maret-dana-baton-kavurma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Dana Baton Kavurma 1 Kg",
+      "price": 995,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "hindi-fume-et-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hindi Füme Et 60 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-7-24-dana-jambon-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Dana Jambon 50 Gr",
+      "price": 47.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dilimli-hindi-salam-75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dilimli Hindi Salam 75 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "et-ve-sut-kurumu-donuk-kavurma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Et ve Süt Kurumu Donuk Kavurma 1 Kg",
+      "price": 850,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-gurme-sucuk-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Gurme Sucuk 110 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "acik-bufe-hindi-salam-900-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Açık Büfe Hindi Salam 900 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "vanet-pilic-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Vanet Piliç Kangal Sucuk 250 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "acik-bufe-hindi-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Açık Büfe Hindi Salam 50 Gr",
+      "price": 15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "torku-baton-kavurma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Baton Kavurma 1 Kg",
+      "price": 999,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-fume-kuru-et-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Füme Kuru Et 100 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "maret-dana-kangal-sucuk-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Dana Kangal Sucuk 500 Gr",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "torku-dana-kangal-sucuk-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Dana Kangal Sucuk 500 Gr",
+      "price": 329,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-macar-salam-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Macar Salam 150 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-antrikot-pastirma-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Antrikot Pastırma 100 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-fume-kaburga-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Füme Kaburga 100 Gr",
+      "price": 225,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fermente-dana-kangal-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fermente Dana Kangal Sucuk 200 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "torku-fermente-dana-kangal-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Fermente Dana Kangal Sucuk 350 Gr",
+      "price": 435,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doyfarm-pilic-bufe-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Doyfarm Piliç Büfe Sucuk 450 Gr",
+      "price": 133.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-hindi-fume-salam-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Hindi Füme Salam 110 Gr",
+      "price": 68.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sahin-dana-cemensiz-pastirma-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Şahin Dana Çemensiz Pastırma 80 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-isil-islem-dana-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Isıl İşlem Dana Kangal Sucuk 250 Gr",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-pilic-kangal-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Piliç Kangal Sucuk 400 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cumhuriyet-fermente-dana-kangal-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Cumhuriyet Fermente Dana Kangal Sucuk 350 Gr",
+      "price": 530,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sahin-fermente-dana-evlik-sucuk-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Şahin Fermente Dana Evlik Sucuk 320 Gr",
+      "price": 479,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-ac-bitir-dilimli-hindi-salam-70-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Aç Bitir Dilimli Hindi Salam 70 Gr",
+      "price": 44.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "torku-isil-islem-dana-kangal-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Isıl İşlem Dana Kangal Sucuk 450 Gr",
+      "price": 419,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-dana-mangal-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dana Mangal Sucuk 350 Gr",
+      "price": 335,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezzetlim-dana-kavurma-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezzetlim Dana Kavurma 150 Gr",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-evlik-fermente-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Evlik Fermente Sucuk 400 Gr",
+      "price": 599,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-fistikli-hindi-salam-2x50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Fıstıklı Hindi Salam 2x50 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-fermente-dana-kangal-sucuk-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Fermente Dana Kangal Sucuk 225 Gr",
+      "price": 230,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cumhuriyet-dana-parmak-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Cumhuriyet Dana Parmak Sucuk 300 Gr",
+      "price": 450,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-dilimli-sucuk-isil-islem-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Dilimli Sucuk Isıl İşlem 250 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-pilic-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Piliç Kangal Sucuk 250 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-pastirma-cemeni-siyrilmis-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Pastırma Çemeni Sıyrılmış 100 Gr",
+      "price": 309,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-mini-dana-dilimli-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Mini Dana Dilimli Salam 60 Gr",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-pilic-fume-salam-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Piliç Füme Salam 150 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pinar-lezzet-keyfi-hindi-salam-bufe-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Lezzet Keyfi Hindi Salam Büfe 500 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-cemeni-siyrilmis-dilimli-pastirma-130-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Çemeni Sıyrılmış Dilimli Pastırma 130 Gr",
+      "price": 645,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-isil-islem-gormus-dana-parmak-sucuk-280-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Isıl İşlem Görmüş Dana Parmak Sucuk 280 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-kangal-sucuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Kangal Sucuk 1 Kg",
+      "price": 1990,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-pilic-jambon-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Piliç Jambon 90 Gr",
+      "price": 43.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "torku-vakumlu-acili-sucuk-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Vakumlu Acılı Sucuk 225 Gr",
+      "price": 425,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zel-et-kavurma-konserve-2x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Zel Et Kavurma Konserve 2x80 Gr",
+      "price": 299.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-hindi-fume-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Hindi Füme 90 Gr",
+      "price": 57.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-illaki-dana-sucuk-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar İllaki Dana Sucuk 240 Gr",
+      "price": 515,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "etenfes-dana-dilim-kavurma-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Etenfes Dana Dilim Kavurma 100 Gr",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "aytac-isil-islem-gormus-kangal-sucuk-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 Gr",
+      "price": 335,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-dana-kavurma-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Dana Kavurma 150 Gr",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gedik-dilimli-pilic-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Gedik Dilimli Piliç Sucuk 400 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doyfarm-bufe-pilic-salam-850-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Doyfarm Büfe Piliç Salam 850 Gr",
+      "price": 102.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-hindi-parca-etli-salam-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Hindi Parça Etli Salam 90 Gr",
+      "price": 89.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ersan-dana-kasap-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erşan Dana Kasap Sucuk 300 Gr",
+      "price": 470,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-isil-islem-gormus-baton-dana-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Isıl İşlem Görmüş Baton Dana Sucuk 350 Gr",
+      "price": 263,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "basyazici-inan-dana-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Başyazıcı İnan Dana Sucuk 400 Gr",
+      "price": 415,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-baton-sucuk-380-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Baton Sucuk 380 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "basyazicioglu-inan-dana-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Başyazıcıoğlu İnan Dana Pastırma 120 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-fermente-dana-kangal-sucuk-350-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Fermente Dana Kangal Sucuk 350 Gr",
+      "price": 349,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-pastirma-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Pastırma 90 Gr",
+      "price": 519.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ersan-vakumlu-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erşan Vakumlu Kangal Sucuk 250 Gr",
+      "price": 419,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ozlem-dana-jambon-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Özlem Dana Jambon 60 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ozlem-dana-kangal-sucuk-220-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Özlem Dana Kangal Sucuk 220 Gr",
+      "price": 395,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezzetlim-dilimli-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezzetlim Dilimli Pastırma 120 Gr",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-dilimli-dana-antrikot-pastirma-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dilimli Dana Antrikot Pastırma 100 Gr",
+      "price": 239,
+      "oldPrice": 269,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-dana-jambon-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Dana Jambon 90 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "muslumoglu-dilimli-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dilimli Pastırma 120 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "altindana-dana-kavurma-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Altındana Dana Kavurma 150 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-kangal-sucuk-isil-islem-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Kangal Sucuk Isıl İşlem 250 Gr",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "polonez-pilic-jambon-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Piliç Jambon 120 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "maret-hindi-fume-salam-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Hindi Füme Salam 100 Gr",
+      "price": 50,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-dilimli-dana-antrikot-pastirma-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Dilimli Dana Antrikot Pastırma 100 Gr",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "altindana-dana-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Altındana Dana Pastırma 120 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-dilimli-dana-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Dilimli Dana Sucuk 250 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-isil-islem-gormus-dana-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+      "price": 375,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "keskinoglu-pilic-salam-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Keskinoğlu Piliç Salam 250 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "azizoglu-dana-kangal-sucuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Azizoğlu Dana Kangal Sucuk 1 Kg",
+      "price": 2035,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-7-24-macar-dana-dilimli-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet 7/24 Macar Dana Dilimli Salam 50 Gr",
+      "price": 46.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-macar-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Macar Salam 60 Gr",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "catal-sucuk-ilikli-dana-kangal-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Çatal Sucuk İlikli Dana Kangal Sucuk 450 Gr",
+      "price": 379,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "polonez-macar-salam-90-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Macar Salam 90 Gr",
+      "price": 198.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-isil-islem-gormus-dana-kangal-sucuk-280-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Isıl İşlem Görmüş Dana Kangal Sucuk 280 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-tam-yetti-hindi-parca-etli-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Tam Yetti Hindi Parça Etli Salam 60 Gr",
+      "price": 38.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "torku-dilimli-fistikli-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Dilimli Fıstıklı Salam 50 Gr",
+      "price": 54.9,
+      "oldPrice": 89.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-dana-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Dana Sucuk 250 Gr",
+      "price": 260,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-kahvaltilik-macar-salam-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Kahvaltılık Macar Salam 250 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-isil-islem-gormus-baton-sucuk-380-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Isıl İşlem Görmüş Baton Sucuk 380 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-kuvet-fermente-dana-kangal-sucuk-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Küvet Fermente Dana Kangal Sucuk 1 Kg",
+      "price": 1159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-isil-islem-gormus-parmak-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Isıl İşlem Görmüş Parmak Sucuk 300 Gr",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-pilic-salam-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Piliç Salam 250 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "corum-belediyesi-sancak-baton-donuk-kavurma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Çorum Belediyesi Sancak Baton Donuk Kavurma 1 Kg",
+      "price": 1600,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fermente-dana-parmak-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fermente Dana Parmak Sucuk 400 Gr",
+      "price": 379,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-dilimli-dana-jambon-110-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dilimli Dana Jambon 110 Gr",
+      "price": 199,
+      "oldPrice": 249,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dilimli-dana-macar-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dilimli Dana Macar Salam 50 Gr",
+      "price": 35.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "muslumoglu-dana-isil-islem-catal-sucuk-450-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Müslümoğlu Dana Isıl İşlem Çatal Sucuk 450 Gr",
+      "price": 379,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrefour-hindi-salam-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Carrefour Hindi Salam 50 Gr",
+      "price": 25.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Pastırma 120 Gr",
+      "price": 249.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "polonez-hindi-jambon-2x50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Polonez Hindi Jambon 2x50 Gr",
+      "price": 46.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-dilimli-donuk-kavurma-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Dilimli Donuk Kavurma 250 Gr",
+      "price": 369,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ikbal-izgara-dana-dilimli-sucuk-240-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "İkbal Izgara Dana Dilimli Sucuk 240 Gr",
+      "price": 455,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Kasap Sucuk 400 Gr",
+      "price": 329,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrefour-cemeni-siyrilmis-dana-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Carrefour Çemeni Sıyrılmış Dana Pastırma 120 Gr",
+      "price": 415,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "etenfes-dilimli-dana-fume-et-70-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Etenfes Dilimli Dana Füme Et 70 Gr",
+      "price": 232,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-fermente-dana-kangal-sucuk-180-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Fermente Dana Kangal Sucuk 180 Gr",
+      "price": 229,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrefour-hindi-fume-50-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Carrefour Hindi Füme 50 Gr",
+      "price": 32,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banvit-dilimli-pilic-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Banvit Dilimli Piliç Salam 60 Gr",
+      "price": 24,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-macar-salam-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Macar Salam 250 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "namet-dana-kangal-sucuk-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Dana Kangal Sucuk 500 Gr",
+      "price": 315,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dondurulmus-dana-kavurma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dondurulmuş Dana Kavurma 1 Kg",
+      "price": 1600,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "torku-isil-islem-gormus-dana-kasap-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+      "price": 375,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-cemensiz-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Çemensiz Pastırma 120 Gr",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-yemeklik-pastirma-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Yemeklik Pastırma 100 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombik-pilic-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tombik Piliç Kangal Sucuk 250 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-salam-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Salam 1 Kg",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dana-kavurma-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Kavurma 250 Gr",
+      "price": 419,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-evlik-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Evlik Sucuk 400 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pilic-baton-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Piliç Baton Sucuk 300 Gr",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dilimli-pilic-salam-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dilimli Piliç Salam 150 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombik-dilimli-pilic-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tombik Dilimli Piliç Sucuk 400 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-kavurma-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Kavurma 150 Gr",
+      "price": 249,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombik-pilic-baton-sucuk-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tombik Piliç Baton Sucuk 300 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombik-pilic-salam-900-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tombik Piliç Salam 900 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-kangal-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Kangal Sucuk 250 Gr",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dana-dilimli-tavalik-sucuk-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Dana Dilimli Tavalık Sucuk 80 Gr",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cumhuriyet-dana-kangal-sucuk-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Cumhuriyet Dana Kangal Sucuk 400 Gr",
+      "price": 599,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-baton-sucuk-380-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Baton Sucuk 380 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-sade-fistikli-dilimli-dana-salam-60-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Sade Fıstıklı Dilimli Dana Salam 60 Gr",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-dilimli-sucuk-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Dilimli Sucuk 250 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "azizoglu-gurme-isil-islem-gormus-sucuk-180-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Azizoğlu Gurme Isıl İşlem Görmüş Sucuk 180 Gr",
+      "price": 358,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-dana-cemensiz-pastirma-120-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Dana Çemensiz Pastırma 120 Gr",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -6477,6 +8736,1646 @@
         "label": "Party Taco Peynir Barbekü Mısır Çerezi 130 Gr",
         "detail": "130 g",
         "icon": "🥔"
+      }
+    ],
+    "deli": [
+      {
+        "id": "muslumoglu-dana-kokteyl-sosis-250-gr",
+        "query": "Müslümoğlu Dana Kokteyl Sosis 250 Gr",
+        "label": "Müslümoğlu Dana Kokteyl Sosis 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ustad-dana-roast-beef-80-gr",
+        "query": "Üstad Dana Roast Beef 80 Gr",
+        "label": "Üstad Dana Roast Beef 80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "keskinoglu-pilic-sucuk-250-gr",
+        "query": "Keskinoğlu Piliç Sucuk 250 Gr",
+        "label": "Keskinoğlu Piliç Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-7-24-hindi-salam-60-gr",
+        "query": "Namet 7/24 Hindi Salam 60 Gr",
+        "label": "Namet 7/24 Hindi Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ustad-dana-fume-kuru-et-80-gr",
+        "query": "Üstad Dana Füme Kuru Et 80 Gr",
+        "label": "Üstad Dana Füme Kuru Et 80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-fit-yasam-xl-hindi-fume-150-gr",
+        "query": "Polonez Fit Yaşam Xl Hindi Füme 150 Gr",
+        "label": "Polonez Fit Yaşam Xl Hindi Füme 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-hindi-salam-buyuk-dilim-60-gr",
+        "query": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 Gr",
+        "label": "Pınar Aç Bitir Hindi Salam Büyük Dilim 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-hindi-fume-110-gr",
+        "query": "Maret Hindi Füme 110 Gr",
+        "label": "Maret Hindi Füme 110 Gr",
+        "detail": "110 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-hindi-fume-200-gr",
+        "query": "Namet Hindi Füme 200 Gr",
+        "label": "Namet Hindi Füme 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-kangal-sucuk-240-gr",
+        "query": "Namet Kangal Sucuk 240 Gr",
+        "label": "Namet Kangal Sucuk 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-hindi-uzun-sosis-430-gr",
+        "query": "Pınar Hindi Uzun Sosis 430 Gr",
+        "label": "Pınar Hindi Uzun Sosis 430 Gr",
+        "detail": "430 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-tutsulenmis-pilic-jumbo-sosis-320-gr",
+        "query": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 Gr",
+        "label": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 Gr",
+        "detail": "320 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-sucuk-240-gr",
+        "query": "Polonez Sucuk 240 Gr",
+        "label": "Polonez Sucuk 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-kokteyl-sosis-180-gr",
+        "query": "Pınar Aç Bitir Kokteyl Sosis 180 Gr",
+        "label": "Pınar Aç Bitir Kokteyl Sosis 180 Gr",
+        "detail": "180 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-pilic-kokteyl-sosis-1-kg",
+        "query": "Banvit Piliç Kokteyl Sosis 1 Kg",
+        "label": "Banvit Piliç Kokteyl Sosis 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-pilic-fume-150-gr",
+        "query": "Namet Piliç Füme 150 Gr",
+        "label": "Namet Piliç Füme 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-tutsulenmis-pilic-jumbo-sosis-330-gr",
+        "query": "Banvit Tütsülenmiş Piliç Jumbo Sosis 330 Gr",
+        "label": "Banvit Tütsülenmiş Piliç Jumbo Sosis 330 Gr",
+        "detail": "330 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-salam-250-gr",
+        "query": "Lezita Piliç Salam 250 Gr",
+        "label": "Lezita Piliç Salam 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-mangal-keyfi-sucuk-300-gr",
+        "query": "Pınar Mangal Keyfi Sucuk 300 Gr",
+        "label": "Pınar Mangal Keyfi Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-pilic-fume-150-gr",
+        "query": "Polonez Piliç Füme 150 Gr",
+        "label": "Polonez Piliç Füme 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-hindi-salam-75-gr",
+        "query": "Pınar Aç Bitir Hindi Salam 75 Gr",
+        "label": "Pınar Aç Bitir Hindi Salam 75 Gr",
+        "detail": "75 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-5-li-sosis-240-gr",
+        "query": "Maret 5'li Sosis 240 Gr",
+        "label": "Maret 5'li Sosis 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "fermente-mangal-dana-sucuk-200-gr",
+        "query": "Fermente Mangal Dana Sucuk 200 Gr",
+        "label": "Fermente Mangal Dana Sucuk 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-kangal-sucuk-250-gr",
+        "query": "Lezita Piliç Kangal Sucuk 250 Gr",
+        "label": "Lezita Piliç Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-hindi-fistikli-salam-7-24-50-gr",
+        "query": "Namet Hindi Fıstıklı Salam 7/24 50 Gr",
+        "label": "Namet Hindi Fıstıklı Salam 7/24 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-kokteyl-sosis-215-gr",
+        "query": "Pınar Kokteyl Sosis 215 Gr",
+        "label": "Pınar Kokteyl Sosis 215 Gr",
+        "detail": "215 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-macar-salam-60-gr",
+        "query": "Pınar Aç Bitir Macar Salam 60 Gr",
+        "label": "Pınar Aç Bitir Macar Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dana-macar-salam-60-gr",
+        "query": "Namet Dana Macar Salam 60 Gr",
+        "label": "Namet Dana Macar Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-kokteyl-sosis-1-kg",
+        "query": "Lezita Piliç Kokteyl Sosis 1 Kg",
+        "label": "Lezita Piliç Kokteyl Sosis 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-pilic-jambon-60-gr",
+        "query": "Polonez Piliç Jambon 60 Gr",
+        "label": "Polonez Piliç Jambon 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-dilimli-pilic-salam-60-gr",
+        "query": "Polonez Dilimli Piliç Salam 60 Gr",
+        "label": "Polonez Dilimli Piliç Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ersan-kuvet-kokteyl-sosis-400-gr",
+        "query": "Erşan Küvet Kokteyl Sosis 400 Gr",
+        "label": "Erşan Küvet Kokteyl Sosis 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-fume-et-50-gr",
+        "query": "Polonez Füme Et 50 Gr",
+        "label": "Polonez Füme Et 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dilimli-isil-islem-gormus-sucuk-200-gr",
+        "query": "Namet Dilimli Isıl İşlem Görmüş Sucuk 200 Gr",
+        "label": "Namet Dilimli Isıl İşlem Görmüş Sucuk 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-kasap-sucuk-400-gr",
+        "query": "Müslümoğlu Kasap Sucuk 400 Gr",
+        "label": "Müslümoğlu Kasap Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-acili-sucuk-240-gr",
+        "query": "Polonez Acılı Sucuk 240 Gr",
+        "label": "Polonez Acılı Sucuk 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-fume-salam-60-gr",
+        "query": "Lezita Piliç Füme Salam 60 Gr",
+        "label": "Lezita Piliç Füme Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-sipsak-dana-dilimli-macar-salam-60-gr",
+        "query": "Aytaç Şipşak Dana Dilimli Macar Salam 60 Gr",
+        "label": "Aytaç Şipşak Dana Dilimli Macar Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-fistikli-salam-90-gr",
+        "query": "Polonez Fıstıklı Salam 90 Gr",
+        "label": "Polonez Fıstıklı Salam 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-dana-isil-islem-gormus-afiyetle-sucuk-200-gr",
+        "query": "Maret Dana Isıl İşlem Görmüş Afiyetle Sucuk 200 Gr",
+        "label": "Maret Dana Isıl İşlem Görmüş Afiyetle Sucuk 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-vakumlu-sucuk-225-gr",
+        "query": "Torku Vakumlu Sucuk 225 Gr",
+        "label": "Torku Vakumlu Sucuk 225 Gr",
+        "detail": "225 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-macar-salam-50-gr",
+        "query": "Polonez Macar Salam 50 Gr",
+        "label": "Polonez Macar Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-isil-islem-gormus-hindi-sucuk-280-gr",
+        "query": "Aytaç Isıl İşlem Görmüş Hindi Sucuk 280 Gr",
+        "label": "Aytaç Isıl İşlem Görmüş Hindi Sucuk 280 Gr",
+        "detail": "280 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ekonomik-10-lu-sosis-430-gr",
+        "query": "Pınar Ekonomik 10'lu Sosis 430 Gr",
+        "label": "Pınar Ekonomik 10'lu Sosis 430 Gr",
+        "detail": "430 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ozlem-sarayli-dana-parmak-sucuk-400-gr",
+        "query": "Özlem Saraylı Dana Parmak Sucuk 400 Gr",
+        "label": "Özlem Saraylı Dana Parmak Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-dana-jambon-50-gr",
+        "query": "Polonez Dana Jambon 50 Gr",
+        "label": "Polonez Dana Jambon 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-sipsak-hindi-salam-fistikli-50-gr",
+        "query": "Aytaç Şipşak Hindi Salam Fıstıklı 50 Gr",
+        "label": "Aytaç Şipşak Hindi Salam Fıstıklı 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-salam-850-gr",
+        "query": "Lezita Piliç Salam 850 Gr",
+        "label": "Lezita Piliç Salam 850 Gr",
+        "detail": "850 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-fistikli-hindi-salam-50-gr",
+        "query": "Pınar Aç Bitir Fıstıklı Hindi Salam 50 Gr",
+        "label": "Pınar Aç Bitir Fıstıklı Hindi Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-sipsak-hindi-fume-60-gr",
+        "query": "Aytaç Şipşak Hindi Füme 60 Gr",
+        "label": "Aytaç Şipşak Hindi Füme 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-baton-sucuk-450-gr",
+        "query": "Lezita Piliç Baton Sucuk 450 Gr",
+        "label": "Lezita Piliç Baton Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-pilic-kangal-sucuk-250-gr",
+        "query": "Banvit Piliç Kangal Sucuk 250 Gr",
+        "label": "Banvit Piliç Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-fume-hindi-but-etli-gurme-110-gr",
+        "query": "Pınar Füme Hindi But Etli Gurme 110 Gr",
+        "label": "Pınar Füme Hindi But Etli Gurme 110 Gr",
+        "detail": "110 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-mini-lezzet-dana-jambon-50-gr",
+        "query": "Polonez Mini Lezzet Dana Jambon 50 Gr",
+        "label": "Polonez Mini Lezzet Dana Jambon 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-pilic-bufe-salam-850-gr",
+        "query": "Banvit Piliç Büfe Salam 850 Gr",
+        "label": "Banvit Piliç Büfe Salam 850 Gr",
+        "detail": "850 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-doyum-bufe-hindi-salam-700-gr",
+        "query": "Pınar Doyum Büfe Hindi Salam 700 Gr",
+        "label": "Pınar Doyum Büfe Hindi Salam 700 Gr",
+        "detail": "700 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-pilic-fume-salam-60-gr",
+        "query": "Polonez Piliç Füme Salam 60 Gr",
+        "label": "Polonez Piliç Füme Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-hindi-jambon-50-gr",
+        "query": "Polonez Hindi Jambon 50 Gr",
+        "label": "Polonez Hindi Jambon 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "isil-islem-gormus-dana-kangal-sucuk-500-gr",
+        "query": "Isıl İşlem Görmüş Dana Kangal Sucuk 500 Gr",
+        "label": "Isıl İşlem Görmüş Dana Kangal Sucuk 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-kokteyl-sosis-500-gr",
+        "query": "Lezita Piliç Kokteyl Sosis 500 Gr",
+        "label": "Lezita Piliç Kokteyl Sosis 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-7-24-hindi-salam-75-gr",
+        "query": "Namet 7/24 Hindi Salam 75 Gr",
+        "label": "Namet 7/24 Hindi Salam 75 Gr",
+        "detail": "75 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-dilimli-pilic-sucuk-400-gr",
+        "query": "Lezita Dilimli Piliç Sucuk 400 Gr",
+        "label": "Lezita Dilimli Piliç Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-fermente-mangal-sucuk-350-gr",
+        "query": "Dana Fermente Mangal Sucuk 350 Gr",
+        "label": "Dana Fermente Mangal Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-hindi-fume-eti-50-gr",
+        "query": "Polonez Hindi Füme Eti 50 Gr",
+        "label": "Polonez Hindi Füme Eti 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-gurme-sucuk-250-gr",
+        "query": "Pınar Gurme Sucuk 250 Gr",
+        "label": "Pınar Gurme Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-dana-kasap-sucuk-400-gr",
+        "query": "Maret Dana Kasap Sucuk 400 Gr",
+        "label": "Maret Dana Kasap Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-sosis-190-gr",
+        "query": "Aytaç Sosis 190 Gr",
+        "label": "Aytaç Sosis 190 Gr",
+        "detail": "190 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-hindi-sosis-130-gr",
+        "query": "Maret Hindi Sosis 130 Gr",
+        "label": "Maret Hindi Sosis 130 Gr",
+        "detail": "130 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-vakumlu-altin-seri-sucuk-250-gr",
+        "query": "Maret Vakumlu Altın Seri Sucuk 250 Gr",
+        "label": "Maret Vakumlu Altın Seri Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pilic-fume-60-gr",
+        "query": "Piliç Füme 60 Gr",
+        "label": "Piliç Füme 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-hindi-salam-500-gr",
+        "query": "Maret Hindi Salam 500 Gr",
+        "label": "Maret Hindi Salam 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "vanet-pilic-bufe-sucuk-450-gr",
+        "query": "Vanet Piliç Büfe Sucuk 450 Gr",
+        "label": "Vanet Piliç Büfe Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-fermente-mangal-sucuk-400-gr",
+        "query": "Dana Fermente Mangal Sucuk 400 Gr",
+        "label": "Dana Fermente Mangal Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-dilimli-salam-60-gr",
+        "query": "Lezita Piliç Dilimli Salam 60 Gr",
+        "label": "Lezita Piliç Dilimli Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-jambon-50-gr",
+        "query": "Dana Jambon 50 Gr",
+        "label": "Dana Jambon 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-10-lu-sosis-432-gr",
+        "query": "Maret 10'lu Sosis 432 Gr",
+        "label": "Maret 10'lu Sosis 432 Gr",
+        "detail": "432 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-hindi-fume-60-gr",
+        "query": "Namet Hindi Füme 60 Gr",
+        "label": "Namet Hindi Füme 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "hindi-baton-salam-500-gr",
+        "query": "Hindi Baton Salam 500 Gr",
+        "label": "Hindi Baton Salam 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "etenfes-dana-fermente-kangal-sucuk-300-gr",
+        "query": "Etenfes Dana Fermente Kangal Sucuk 300 Gr",
+        "label": "Etenfes Dana Fermente Kangal Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-lezzetkeyfi-uzun-hindi-sosis-430-gr",
+        "query": "Pınar Lezzetkeyfi Uzun Hindi Sosis 430 Gr",
+        "label": "Pınar Lezzetkeyfi Uzun Hindi Sosis 430 Gr",
+        "detail": "430 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-hindi-kokteyl-sosis-170-gr",
+        "query": "Pınar Aç Bitir Hindi Kokteyl Sosis 170 Gr",
+        "label": "Pınar Aç Bitir Hindi Kokteyl Sosis 170 Gr",
+        "detail": "170 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-yore-dana-uzun-sosis-210-gr",
+        "query": "Maret Yöre Dana Uzun Sosis 210 Gr",
+        "label": "Maret Yöre Dana Uzun Sosis 210 Gr",
+        "detail": "210 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "besler-kokteyl-pilic-sosis-280-gr",
+        "query": "Beşler Kokteyl Piliç Sosis 280 Gr",
+        "label": "Beşler Kokteyl Piliç Sosis 280 Gr",
+        "detail": "280 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-kokteyl-pilic-sosis-500-gr",
+        "query": "Banvit Kokteyl Piliç Sosis 500 Gr",
+        "label": "Banvit Kokteyl Piliç Sosis 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-hindi-uzun-sosis-5-adet-210-gr",
+        "query": "Maret Hindi Uzun Sosis 5 Adet 210 Gr",
+        "label": "Maret Hindi Uzun Sosis 5 Adet 210 Gr",
+        "detail": "210 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-7-24-hindi-sosis-140-gr",
+        "query": "Namet 7/24 Hindi Sosis 140 Gr",
+        "label": "Namet 7/24 Hindi Sosis 140 Gr",
+        "detail": "140 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "hindi-sosis-130-gr",
+        "query": "Hindi Sosis 130 Gr",
+        "label": "Hindi Sosis 130 Gr",
+        "detail": "130 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-dana-kokteyl-sosis-200-gr",
+        "query": "Polonez Dana Kokteyl Sosis 200 Gr",
+        "label": "Polonez Dana Kokteyl Sosis 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-jumbo-pilic-sosis-330-gr",
+        "query": "Banvit Jumbo Piliç Sosis 330 Gr",
+        "label": "Banvit Jumbo Piliç Sosis 330 Gr",
+        "detail": "330 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pilic-sosis-250-gr",
+        "query": "Piliç Sosis 250 Gr",
+        "label": "Piliç Sosis 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-pilic-julyen-sosis-500-gr",
+        "query": "Aytaç Piliç Jülyen Sosis 500 Gr",
+        "label": "Aytaç Piliç Jülyen Sosis 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-hindi-sosis-430-gr",
+        "query": "Pınar Hindi Sosis 430 Gr",
+        "label": "Pınar Hindi Sosis 430 Gr",
+        "detail": "430 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "gedik-kokteyl-pilic-sosis-500-gr",
+        "query": "Gedik Kokteyl Piliç Sosis 500 Gr",
+        "label": "Gedik Kokteyl Piliç Sosis 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-uzun-sosis-225-gr",
+        "query": "Pınar Uzun Sosis 225 Gr",
+        "label": "Pınar Uzun Sosis 225 Gr",
+        "detail": "225 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tombik-pilic-sosis-500-gr",
+        "query": "Tombik Piliç Sosis 500 Gr",
+        "label": "Tombik Piliç Sosis 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-kokteyl-sosis-200-gr",
+        "query": "Tarım Kredi Dana Kokteyl Sosis 200 Gr",
+        "label": "Tarım Kredi Dana Kokteyl Sosis 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-uzun-dana-sosis-210-gr",
+        "query": "Namet Uzun Dana Sosis 210 Gr",
+        "label": "Namet Uzun Dana Sosis 210 Gr",
+        "detail": "210 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ustad-fermente-dana-kangal-sucuk-400-gr",
+        "query": "Üstad Fermente Dana Kangal Sucuk 400 Gr",
+        "label": "Üstad Fermente Dana Kangal Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-isil-islem-gormus-pilic-kangal-sucuk-450-gr",
+        "query": "Aytaç Isıl İşlem Görmüş Piliç Kangal Sucuk 450 Gr",
+        "label": "Aytaç Isıl İşlem Görmüş Piliç Kangal Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezita-pilic-bufe-salam-850-gr",
+        "query": "Lezita Piliç Büfe Salam 850 Gr",
+        "label": "Lezita Piliç Büfe Salam 850 Gr",
+        "detail": "850 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-lezzet-keyfi-hindi-salam-75-gr",
+        "query": "Pınar Lezzet Keyfi Hindi Salam 75 Gr",
+        "label": "Pınar Lezzet Keyfi Hindi Salam 75 Gr",
+        "detail": "75 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-lezzetkeyfi-hindi-bufe-salam-900-gr",
+        "query": "Pınar Lezzetkeyfi Hindi Büfe Salam 900 Gr",
+        "label": "Pınar Lezzetkeyfi Hindi Büfe Salam 900 Gr",
+        "detail": "900 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dana-macar-salam-100-gr",
+        "query": "Namet Dana Macar Salam 100 Gr",
+        "label": "Namet Dana Macar Salam 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ozlem-dana-dilimli-tavalik-sucuk-80-gr",
+        "query": "Özlem Dana Dilimli Tavalık Sucuk 80 Gr",
+        "label": "Özlem Dana Dilimli Tavalık Sucuk 80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-dana-baton-kavurma-1-kg",
+        "query": "Maret Dana Baton Kavurma 1 Kg",
+        "label": "Maret Dana Baton Kavurma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "hindi-fume-et-60-gr",
+        "query": "Hindi Füme Et 60 Gr",
+        "label": "Hindi Füme Et 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-7-24-dana-jambon-50-gr",
+        "query": "Namet 7/24 Dana Jambon 50 Gr",
+        "label": "Namet 7/24 Dana Jambon 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dilimli-hindi-salam-75-gr",
+        "query": "Dilimli Hindi Salam 75 Gr",
+        "label": "Dilimli Hindi Salam 75 Gr",
+        "detail": "75 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "et-ve-sut-kurumu-donuk-kavurma-1-kg",
+        "query": "Et ve Süt Kurumu Donuk Kavurma 1 Kg",
+        "label": "Et ve Süt Kurumu Donuk Kavurma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-gurme-sucuk-110-gr",
+        "query": "Tarım Kredi Dana Gurme Sucuk 110 Gr",
+        "label": "Tarım Kredi Dana Gurme Sucuk 110 Gr",
+        "detail": "110 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "acik-bufe-hindi-salam-900-gr",
+        "query": "Açık Büfe Hindi Salam 900 Gr",
+        "label": "Açık Büfe Hindi Salam 900 Gr",
+        "detail": "900 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "vanet-pilic-kangal-sucuk-250-gr",
+        "query": "Vanet Piliç Kangal Sucuk 250 Gr",
+        "label": "Vanet Piliç Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "acik-bufe-hindi-salam-50-gr",
+        "query": "Açık Büfe Hindi Salam 50 Gr",
+        "label": "Açık Büfe Hindi Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-baton-kavurma-1-kg",
+        "query": "Torku Baton Kavurma 1 Kg",
+        "label": "Torku Baton Kavurma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-fume-kuru-et-100-gr",
+        "query": "Tarım Kredi Dana Füme Kuru Et 100 Gr",
+        "label": "Tarım Kredi Dana Füme Kuru Et 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-dana-kangal-sucuk-500-gr",
+        "query": "Maret Dana Kangal Sucuk 500 Gr",
+        "label": "Maret Dana Kangal Sucuk 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-dana-kangal-sucuk-500-gr",
+        "query": "Torku Dana Kangal Sucuk 500 Gr",
+        "label": "Torku Dana Kangal Sucuk 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-macar-salam-150-gr",
+        "query": "Dana Macar Salam 150 Gr",
+        "label": "Dana Macar Salam 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-antrikot-pastirma-100-gr",
+        "query": "Tarım Kredi Antrikot Pastırma 100 Gr",
+        "label": "Tarım Kredi Antrikot Pastırma 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-fume-kaburga-100-gr",
+        "query": "Tarım Kredi Dana Füme Kaburga 100 Gr",
+        "label": "Tarım Kredi Dana Füme Kaburga 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "fermente-dana-kangal-sucuk-200-gr",
+        "query": "Fermente Dana Kangal Sucuk 200 Gr",
+        "label": "Fermente Dana Kangal Sucuk 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-fermente-dana-kangal-sucuk-350-gr",
+        "query": "Torku Fermente Dana Kangal Sucuk 350 Gr",
+        "label": "Torku Fermente Dana Kangal Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "doyfarm-pilic-bufe-sucuk-450-gr",
+        "query": "Doyfarm Piliç Büfe Sucuk 450 Gr",
+        "label": "Doyfarm Piliç Büfe Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-hindi-fume-salam-110-gr",
+        "query": "Namet Hindi Füme Salam 110 Gr",
+        "label": "Namet Hindi Füme Salam 110 Gr",
+        "detail": "110 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "sahin-dana-cemensiz-pastirma-80-gr",
+        "query": "Şahin Dana Çemensiz Pastırma 80 Gr",
+        "label": "Şahin Dana Çemensiz Pastırma 80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-isil-islem-dana-kangal-sucuk-250-gr",
+        "query": "Baştacı Isıl İşlem Dana Kangal Sucuk 250 Gr",
+        "label": "Baştacı Isıl İşlem Dana Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "besler-pilic-kangal-sucuk-400-gr",
+        "query": "Beşler Piliç Kangal Sucuk 400 Gr",
+        "label": "Beşler Piliç Kangal Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "cumhuriyet-fermente-dana-kangal-sucuk-350-gr",
+        "query": "Cumhuriyet Fermente Dana Kangal Sucuk 350 Gr",
+        "label": "Cumhuriyet Fermente Dana Kangal Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "sahin-fermente-dana-evlik-sucuk-320-gr",
+        "query": "Şahin Fermente Dana Evlik Sucuk 320 Gr",
+        "label": "Şahin Fermente Dana Evlik Sucuk 320 Gr",
+        "detail": "320 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-ac-bitir-dilimli-hindi-salam-70-gr",
+        "query": "Pınar Aç Bitir Dilimli Hindi Salam 70 Gr",
+        "label": "Pınar Aç Bitir Dilimli Hindi Salam 70 Gr",
+        "detail": "70 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-isil-islem-dana-kangal-sucuk-450-gr",
+        "query": "Torku Isıl İşlem Dana Kangal Sucuk 450 Gr",
+        "label": "Torku Isıl İşlem Dana Kangal Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dana-mangal-sucuk-350-gr",
+        "query": "Namet Dana Mangal Sucuk 350 Gr",
+        "label": "Namet Dana Mangal Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezzetlim-dana-kavurma-150-gr",
+        "query": "Lezzetlim Dana Kavurma 150 Gr",
+        "label": "Lezzetlim Dana Kavurma 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-evlik-fermente-sucuk-400-gr",
+        "query": "Dana Evlik Fermente Sucuk 400 Gr",
+        "label": "Dana Evlik Fermente Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-fistikli-hindi-salam-2x50-gr",
+        "query": "Namet Fıstıklı Hindi Salam 2x50 Gr",
+        "label": "Namet Fıstıklı Hindi Salam 2x50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-fermente-dana-kangal-sucuk-225-gr",
+        "query": "Namet Fermente Dana Kangal Sucuk 225 Gr",
+        "label": "Namet Fermente Dana Kangal Sucuk 225 Gr",
+        "detail": "225 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "cumhuriyet-dana-parmak-sucuk-300-gr",
+        "query": "Cumhuriyet Dana Parmak Sucuk 300 Gr",
+        "label": "Cumhuriyet Dana Parmak Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-dilimli-sucuk-isil-islem-250-gr",
+        "query": "Müslümoğlu Dana Dilimli Sucuk Isıl İşlem 250 Gr",
+        "label": "Müslümoğlu Dana Dilimli Sucuk Isıl İşlem 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "gedik-pilic-kangal-sucuk-250-gr",
+        "query": "Gedik Piliç Kangal Sucuk 250 Gr",
+        "label": "Gedik Piliç Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-pastirma-cemeni-siyrilmis-100-gr",
+        "query": "Müslümoğlu Dana Pastırma Çemeni Sıyrılmış 100 Gr",
+        "label": "Müslümoğlu Dana Pastırma Çemeni Sıyrılmış 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-mini-dana-dilimli-salam-60-gr",
+        "query": "Baştacı Mini Dana Dilimli Salam 60 Gr",
+        "label": "Baştacı Mini Dana Dilimli Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-pilic-fume-salam-150-gr",
+        "query": "Namet Piliç Füme Salam 150 Gr",
+        "label": "Namet Piliç Füme Salam 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-lezzet-keyfi-hindi-salam-bufe-500-gr",
+        "query": "Pınar Lezzet Keyfi Hindi Salam Büfe 500 Gr",
+        "label": "Pınar Lezzet Keyfi Hindi Salam Büfe 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-cemeni-siyrilmis-dilimli-pastirma-130-gr",
+        "query": "Namet Çemeni Sıyrılmış Dilimli Pastırma 130 Gr",
+        "label": "Namet Çemeni Sıyrılmış Dilimli Pastırma 130 Gr",
+        "detail": "130 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-isil-islem-gormus-dana-parmak-sucuk-280-gr",
+        "query": "Namet Isıl İşlem Görmüş Dana Parmak Sucuk 280 Gr",
+        "label": "Namet Isıl İşlem Görmüş Dana Parmak Sucuk 280 Gr",
+        "detail": "280 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-kangal-sucuk-1-kg",
+        "query": "Polonez Kangal Sucuk 1 Kg",
+        "label": "Polonez Kangal Sucuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "migros-pilic-jambon-90-gr",
+        "query": "Migros Piliç Jambon 90 Gr",
+        "label": "Migros Piliç Jambon 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-vakumlu-acili-sucuk-225-gr",
+        "query": "Torku Vakumlu Acılı Sucuk 225 Gr",
+        "label": "Torku Vakumlu Acılı Sucuk 225 Gr",
+        "detail": "225 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "zel-et-kavurma-konserve-2x80-gr",
+        "query": "Zel Et Kavurma Konserve 2x80 Gr",
+        "label": "Zel Et Kavurma Konserve 2x80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "migros-hindi-fume-90-gr",
+        "query": "Migros Hindi Füme 90 Gr",
+        "label": "Migros Hindi Füme 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-illaki-dana-sucuk-240-gr",
+        "query": "Pınar İllaki Dana Sucuk 240 Gr",
+        "label": "Pınar İllaki Dana Sucuk 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "etenfes-dana-dilim-kavurma-100-gr",
+        "query": "Etenfes Dana Dilim Kavurma 100 Gr",
+        "label": "Etenfes Dana Dilim Kavurma 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "aytac-isil-islem-gormus-kangal-sucuk-200-gr",
+        "query": "Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 Gr",
+        "label": "Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 Gr",
+        "detail": "200 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-dana-kavurma-150-gr",
+        "query": "Baştacı Dana Kavurma 150 Gr",
+        "label": "Baştacı Dana Kavurma 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "gedik-dilimli-pilic-sucuk-400-gr",
+        "query": "Gedik Dilimli Piliç Sucuk 400 Gr",
+        "label": "Gedik Dilimli Piliç Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "doyfarm-bufe-pilic-salam-850-gr",
+        "query": "Doyfarm Büfe Piliç Salam 850 Gr",
+        "label": "Doyfarm Büfe Piliç Salam 850 Gr",
+        "detail": "850 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-hindi-parca-etli-salam-90-gr",
+        "query": "Polonez Hindi Parça Etli Salam 90 Gr",
+        "label": "Polonez Hindi Parça Etli Salam 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ersan-dana-kasap-sucuk-300-gr",
+        "query": "Erşan Dana Kasap Sucuk 300 Gr",
+        "label": "Erşan Dana Kasap Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-isil-islem-gormus-baton-dana-sucuk-350-gr",
+        "query": "Baştacı Isıl İşlem Görmüş Baton Dana Sucuk 350 Gr",
+        "label": "Baştacı Isıl İşlem Görmüş Baton Dana Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "basyazici-inan-dana-sucuk-400-gr",
+        "query": "Başyazıcı İnan Dana Sucuk 400 Gr",
+        "label": "Başyazıcı İnan Dana Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-baton-sucuk-380-gr",
+        "query": "Müslümoğlu Dana Baton Sucuk 380 Gr",
+        "label": "Müslümoğlu Dana Baton Sucuk 380 Gr",
+        "detail": "380 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "basyazicioglu-inan-dana-pastirma-120-gr",
+        "query": "Başyazıcıoğlu İnan Dana Pastırma 120 Gr",
+        "label": "Başyazıcıoğlu İnan Dana Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "besler-fermente-dana-kangal-sucuk-350-gr",
+        "query": "Beşler Fermente Dana Kangal Sucuk 350 Gr",
+        "label": "Beşler Fermente Dana Kangal Sucuk 350 Gr",
+        "detail": "350 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-pastirma-90-gr",
+        "query": "Polonez Pastırma 90 Gr",
+        "label": "Polonez Pastırma 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ersan-vakumlu-kangal-sucuk-250-gr",
+        "query": "Erşan Vakumlu Kangal Sucuk 250 Gr",
+        "label": "Erşan Vakumlu Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ozlem-dana-jambon-60-gr",
+        "query": "Özlem Dana Jambon 60 Gr",
+        "label": "Özlem Dana Jambon 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ozlem-dana-kangal-sucuk-220-gr",
+        "query": "Özlem Dana Kangal Sucuk 220 Gr",
+        "label": "Özlem Dana Kangal Sucuk 220 Gr",
+        "detail": "220 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "lezzetlim-dilimli-pastirma-120-gr",
+        "query": "Lezzetlim Dilimli Pastırma 120 Gr",
+        "label": "Lezzetlim Dilimli Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dilimli-dana-antrikot-pastirma-100-gr",
+        "query": "Namet Dilimli Dana Antrikot Pastırma 100 Gr",
+        "label": "Namet Dilimli Dana Antrikot Pastırma 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-dana-jambon-90-gr",
+        "query": "Polonez Dana Jambon 90 Gr",
+        "label": "Polonez Dana Jambon 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dilimli-pastirma-120-gr",
+        "query": "Müslümoğlu Dilimli Pastırma 120 Gr",
+        "label": "Müslümoğlu Dilimli Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "altindana-dana-kavurma-150-gr",
+        "query": "Altındana Dana Kavurma 150 Gr",
+        "label": "Altındana Dana Kavurma 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-kangal-sucuk-isil-islem-250-gr",
+        "query": "Müslümoğlu Dana Kangal Sucuk Isıl İşlem 250 Gr",
+        "label": "Müslümoğlu Dana Kangal Sucuk Isıl İşlem 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-pilic-jambon-120-gr",
+        "query": "Polonez Piliç Jambon 120 Gr",
+        "label": "Polonez Piliç Jambon 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "maret-hindi-fume-salam-100-gr",
+        "query": "Maret Hindi Füme Salam 100 Gr",
+        "label": "Maret Hindi Füme Salam 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-dilimli-dana-antrikot-pastirma-100-gr",
+        "query": "Polonez Dilimli Dana Antrikot Pastırma 100 Gr",
+        "label": "Polonez Dilimli Dana Antrikot Pastırma 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "altindana-dana-pastirma-120-gr",
+        "query": "Altındana Dana Pastırma 120 Gr",
+        "label": "Altındana Dana Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-dilimli-dana-sucuk-250-gr",
+        "query": "Baştacı Dilimli Dana Sucuk 250 Gr",
+        "label": "Baştacı Dilimli Dana Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "besler-isil-islem-gormus-dana-kasap-sucuk-400-gr",
+        "query": "Beşler Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+        "label": "Beşler Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "keskinoglu-pilic-salam-250-gr",
+        "query": "Keskinoğlu Piliç Salam 250 Gr",
+        "label": "Keskinoğlu Piliç Salam 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "azizoglu-dana-kangal-sucuk-1-kg",
+        "query": "Azizoğlu Dana Kangal Sucuk 1 Kg",
+        "label": "Azizoğlu Dana Kangal Sucuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-7-24-macar-dana-dilimli-salam-50-gr",
+        "query": "Namet 7/24 Macar Dana Dilimli Salam 50 Gr",
+        "label": "Namet 7/24 Macar Dana Dilimli Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-macar-salam-60-gr",
+        "query": "Müslümoğlu Dana Macar Salam 60 Gr",
+        "label": "Müslümoğlu Dana Macar Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "catal-sucuk-ilikli-dana-kangal-sucuk-450-gr",
+        "query": "Çatal Sucuk İlikli Dana Kangal Sucuk 450 Gr",
+        "label": "Çatal Sucuk İlikli Dana Kangal Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-macar-salam-90-gr",
+        "query": "Polonez Macar Salam 90 Gr",
+        "label": "Polonez Macar Salam 90 Gr",
+        "detail": "90 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-isil-islem-gormus-dana-kangal-sucuk-280-gr",
+        "query": "Namet Isıl İşlem Görmüş Dana Kangal Sucuk 280 Gr",
+        "label": "Namet Isıl İşlem Görmüş Dana Kangal Sucuk 280 Gr",
+        "detail": "280 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "migros-tam-yetti-hindi-parca-etli-salam-60-gr",
+        "query": "Migros Tam Yetti Hindi Parça Etli Salam 60 Gr",
+        "label": "Migros Tam Yetti Hindi Parça Etli Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-dilimli-fistikli-salam-50-gr",
+        "query": "Torku Dilimli Fıstıklı Salam 50 Gr",
+        "label": "Torku Dilimli Fıstıklı Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "migros-dana-sucuk-250-gr",
+        "query": "Migros Dana Sucuk 250 Gr",
+        "label": "Migros Dana Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pinar-kahvaltilik-macar-salam-250-gr",
+        "query": "Pınar Kahvaltılık Macar Salam 250 Gr",
+        "label": "Pınar Kahvaltılık Macar Salam 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-isil-islem-gormus-baton-sucuk-380-gr",
+        "query": "Tarım Kredi Dana Isıl İşlem Görmüş Baton Sucuk 380 Gr",
+        "label": "Tarım Kredi Dana Isıl İşlem Görmüş Baton Sucuk 380 Gr",
+        "detail": "380 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-kuvet-fermente-dana-kangal-sucuk-1-kg",
+        "query": "Tarım Kredi Küvet Fermente Dana Kangal Sucuk 1 Kg",
+        "label": "Tarım Kredi Küvet Fermente Dana Kangal Sucuk 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-isil-islem-gormus-parmak-sucuk-300-gr",
+        "query": "Tarım Kredi Dana Isıl İşlem Görmüş Parmak Sucuk 300 Gr",
+        "label": "Tarım Kredi Dana Isıl İşlem Görmüş Parmak Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-pilic-salam-250-gr",
+        "query": "Banvit Piliç Salam 250 Gr",
+        "label": "Banvit Piliç Salam 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "corum-belediyesi-sancak-baton-donuk-kavurma-1-kg",
+        "query": "Çorum Belediyesi Sancak Baton Donuk Kavurma 1 Kg",
+        "label": "Çorum Belediyesi Sancak Baton Donuk Kavurma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "fermente-dana-parmak-sucuk-400-gr",
+        "query": "Fermente Dana Parmak Sucuk 400 Gr",
+        "label": "Fermente Dana Parmak Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dilimli-dana-jambon-110-gr",
+        "query": "Namet Dilimli Dana Jambon 110 Gr",
+        "label": "Namet Dilimli Dana Jambon 110 Gr",
+        "detail": "110 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dilimli-dana-macar-salam-50-gr",
+        "query": "Tarım Kredi Dilimli Dana Macar Salam 50 Gr",
+        "label": "Tarım Kredi Dilimli Dana Macar Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "muslumoglu-dana-isil-islem-catal-sucuk-450-gr",
+        "query": "Müslümoğlu Dana Isıl İşlem Çatal Sucuk 450 Gr",
+        "label": "Müslümoğlu Dana Isıl İşlem Çatal Sucuk 450 Gr",
+        "detail": "450 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "carrefour-hindi-salam-50-gr",
+        "query": "Carrefour Hindi Salam 50 Gr",
+        "label": "Carrefour Hindi Salam 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-pastirma-120-gr",
+        "query": "Tarım Kredi Dana Pastırma 120 Gr",
+        "label": "Tarım Kredi Dana Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "polonez-hindi-jambon-2x50-gr",
+        "query": "Polonez Hindi Jambon 2x50 Gr",
+        "label": "Polonez Hindi Jambon 2x50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-dilimli-donuk-kavurma-250-gr",
+        "query": "Tarım Kredi Dana Dilimli Donuk Kavurma 250 Gr",
+        "label": "Tarım Kredi Dana Dilimli Donuk Kavurma 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "ikbal-izgara-dana-dilimli-sucuk-240-gr",
+        "query": "İkbal Izgara Dana Dilimli Sucuk 240 Gr",
+        "label": "İkbal Izgara Dana Dilimli Sucuk 240 Gr",
+        "detail": "240 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-kasap-sucuk-400-gr",
+        "query": "Tarım Kredi Dana Kasap Sucuk 400 Gr",
+        "label": "Tarım Kredi Dana Kasap Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "carrefour-cemeni-siyrilmis-dana-pastirma-120-gr",
+        "query": "Carrefour Çemeni Sıyrılmış Dana Pastırma 120 Gr",
+        "label": "Carrefour Çemeni Sıyrılmış Dana Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "etenfes-dilimli-dana-fume-et-70-gr",
+        "query": "Etenfes Dilimli Dana Füme Et 70 Gr",
+        "label": "Etenfes Dilimli Dana Füme Et 70 Gr",
+        "detail": "70 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-fermente-dana-kangal-sucuk-180-gr",
+        "query": "Tarım Kredi Fermente Dana Kangal Sucuk 180 Gr",
+        "label": "Tarım Kredi Fermente Dana Kangal Sucuk 180 Gr",
+        "detail": "180 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "carrefour-hindi-fume-50-gr",
+        "query": "Carrefour Hindi Füme 50 Gr",
+        "label": "Carrefour Hindi Füme 50 Gr",
+        "detail": "50 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "banvit-dilimli-pilic-salam-60-gr",
+        "query": "Banvit Dilimli Piliç Salam 60 Gr",
+        "label": "Banvit Dilimli Piliç Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-macar-salam-250-gr",
+        "query": "Tarım Kredi Dana Macar Salam 250 Gr",
+        "label": "Tarım Kredi Dana Macar Salam 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "namet-dana-kangal-sucuk-500-gr",
+        "query": "Namet Dana Kangal Sucuk 500 Gr",
+        "label": "Namet Dana Kangal Sucuk 500 Gr",
+        "detail": "500 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dondurulmus-dana-kavurma-1-kg",
+        "query": "Tarım Kredi Dondurulmuş Dana Kavurma 1 Kg",
+        "label": "Tarım Kredi Dondurulmuş Dana Kavurma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "torku-isil-islem-gormus-dana-kasap-sucuk-400-gr",
+        "query": "Torku Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+        "label": "Torku Isıl İşlem Görmüş Dana Kasap Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-cemensiz-pastirma-120-gr",
+        "query": "Emin Çemensiz Pastırma 120 Gr",
+        "label": "Emin Çemensiz Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-yemeklik-pastirma-100-gr",
+        "query": "Tarım Kredi Yemeklik Pastırma 100 Gr",
+        "label": "Tarım Kredi Yemeklik Pastırma 100 Gr",
+        "detail": "100 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tombik-pilic-kangal-sucuk-250-gr",
+        "query": "Tombik Piliç Kangal Sucuk 250 Gr",
+        "label": "Tombik Piliç Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pilic-salam-1-kg",
+        "query": "Piliç Salam 1 Kg",
+        "label": "Piliç Salam 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥓"
+      },
+      {
+        "id": "dana-kavurma-250-gr",
+        "query": "Dana Kavurma 250 Gr",
+        "label": "Dana Kavurma 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-dana-evlik-sucuk-400-gr",
+        "query": "Emin Dana Evlik Sucuk 400 Gr",
+        "label": "Emin Dana Evlik Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "pilic-baton-sucuk-300-gr",
+        "query": "Piliç Baton Sucuk 300 Gr",
+        "label": "Piliç Baton Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "dilimli-pilic-salam-150-gr",
+        "query": "Dilimli Piliç Salam 150 Gr",
+        "label": "Dilimli Piliç Salam 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tombik-dilimli-pilic-sucuk-400-gr",
+        "query": "Tombik Dilimli Piliç Sucuk 400 Gr",
+        "label": "Tombik Dilimli Piliç Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-kavurma-150-gr",
+        "query": "Emin Kavurma 150 Gr",
+        "label": "Emin Kavurma 150 Gr",
+        "detail": "150 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tombik-pilic-baton-sucuk-300-gr",
+        "query": "Tombik Piliç Baton Sucuk 300 Gr",
+        "label": "Tombik Piliç Baton Sucuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tombik-pilic-salam-900-gr",
+        "query": "Tombik Piliç Salam 900 Gr",
+        "label": "Tombik Piliç Salam 900 Gr",
+        "detail": "900 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-dana-kangal-sucuk-250-gr",
+        "query": "Emin Dana Kangal Sucuk 250 Gr",
+        "label": "Emin Dana Kangal Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "tarim-kredi-dana-dilimli-tavalik-sucuk-80-gr",
+        "query": "Tarım Kredi Dana Dilimli Tavalık Sucuk 80 Gr",
+        "label": "Tarım Kredi Dana Dilimli Tavalık Sucuk 80 Gr",
+        "detail": "80 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "cumhuriyet-dana-kangal-sucuk-400-gr",
+        "query": "Cumhuriyet Dana Kangal Sucuk 400 Gr",
+        "label": "Cumhuriyet Dana Kangal Sucuk 400 Gr",
+        "detail": "400 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-dana-baton-sucuk-380-gr",
+        "query": "Emin Dana Baton Sucuk 380 Gr",
+        "label": "Emin Dana Baton Sucuk 380 Gr",
+        "detail": "380 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-sade-fistikli-dilimli-dana-salam-60-gr",
+        "query": "Emin Sade Fıstıklı Dilimli Dana Salam 60 Gr",
+        "label": "Emin Sade Fıstıklı Dilimli Dana Salam 60 Gr",
+        "detail": "60 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "emin-dana-dilimli-sucuk-250-gr",
+        "query": "Emin Dana Dilimli Sucuk 250 Gr",
+        "label": "Emin Dana Dilimli Sucuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "azizoglu-gurme-isil-islem-gormus-sucuk-180-gr",
+        "query": "Azizoğlu Gurme Isıl İşlem Görmüş Sucuk 180 Gr",
+        "label": "Azizoğlu Gurme Isıl İşlem Görmüş Sucuk 180 Gr",
+        "detail": "180 g",
+        "icon": "🥓"
+      },
+      {
+        "id": "bastaci-dana-cemensiz-pastirma-120-gr",
+        "query": "Baştacı Dana Çemensiz Pastırma 120 Gr",
+        "label": "Baştacı Dana Çemensiz Pastırma 120 Gr",
+        "detail": "120 g",
+        "icon": "🥓"
       }
     ]
   }
