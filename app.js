@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-22";
+const DATA_REVISION = "2026-10-15-23";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -117,6 +117,21 @@ const categories = {
       { id: "cake", label: "Kek", icon: "🍰", products: [] },
       { id: "wafers", label: "Gofret", icon: "🧇", products: [] },
       { id: "desserts", label: "Tatlılar", icon: "🍮", products: [] }
+    ]
+  },
+  cleaning: {
+    title: "Temizlik Ürünleri",
+    subcategories: [
+      { id: "laundry-cleaning", label: "Çamaşır Temizlik Ürünleri", icon: "🧺", products: [] },
+      { id: "general-cleaning", label: "Genel Temizlik Ürünleri", icon: "🧽", products: [] },
+      { id: "dish-cleaning", label: "Bulaşık Temizlik Ürünleri", icon: "🫧", products: [] },
+      { id: "kitchen-consumables", label: "Mutfak Sarf Malzemeleri", icon: "🧻", products: [] },
+      { id: "other-cleaning", label: "Diğer Temizlik", icon: "🧹", products: [] },
+      { id: "tissues-napkins", label: "Kağıt Peçete ve Mendiller", icon: "🤧", products: [] },
+      { id: "paper-towels", label: "Kağıt Havlu", icon: "🧻", products: [] },
+      { id: "toilet-paper", label: "Tuvalet Kağıtları", icon: "🧻", products: [] },
+      { id: "wet-wipes", label: "Islak Mendiller", icon: "🧼", products: [] },
+      { id: "health-medical", label: "Sağlık ve Medikal", icon: "🩹", products: [] }
     ]
   }
 };
