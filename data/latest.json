@@ -14634,6 +14634,996 @@
       "price": 29.9,
       "oldPrice": 40.95,
       "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-ulker-terem-paket-margarin-3x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Terem Paket Margarin 3x250 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-evin-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Evin Margarin 250 Gr",
+      "price": 29,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-becel-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 54.95,
+      "oldPrice": 85.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-becel-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 64.9,
+      "oldPrice": 86,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-becel-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 250 Gr",
+      "price": 86,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-sutas-yayik-tereyagi-225-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Yayık Tereyağı 225 Gr",
+      "price": 185,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sek-tereyagi-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sek Tereyağı 200 Gr",
+      "price": 189.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-president-tuzlu-tereyagi-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "President Tuzlu Tereyağı 200 Gr",
+      "price": 199.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Teremyağ Paket Margarin 250 Gr",
+      "price": 53.95,
+      "oldPrice": 71.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Teremyağ Paket Margarin 250 Gr",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Teremyağ Paket Margarin 250 Gr",
+      "price": 71,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Teremyağ Paket Margarin 250 Gr",
+      "price": 71,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Teremyağ Paket Margarin 250 Gr",
+      "price": 71,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-sana-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Paket Margarin 250 Gr",
+      "price": 38,
+      "oldPrice": 59,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Paket Margarin 250 Gr",
+      "price": 39.9,
+      "oldPrice": 59.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-sana-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Paket Margarin 250 Gr",
+      "price": 39.95,
+      "oldPrice": 59.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sutas-tereyagi-125-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Tereyağı 125 Gr",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-becel-zeytinyagli-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Zeytinyağlı Kase Margarin 250 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 44,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 44.5,
+      "oldPrice": 60,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 45,
+      "oldPrice": 60,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 58,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-bizim-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 250 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-pinar-tereyagi-125-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pınar Tereyağı 125 Gr",
+      "price": 136.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-pinar-tereyagi-125-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pınar Tereyağı 125 Gr",
+      "price": 137.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-teremyag-kase-margarin-600-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 600 Gr",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-pinar-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Pınar Tereyağı 1 Kg",
+      "price": 699,
+      "oldPrice": 999,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-teremyag-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 250 Gr",
+      "price": 67,
+      "oldPrice": 90,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-teremyag-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 250 Gr",
+      "price": 68,
+      "oldPrice": 90,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-teremyag-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 250 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-teremyag-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 250 Gr",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-tereyagi-lezzeti-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Tereyağı Lezzeti Paket Margarin 250 Gr",
+      "price": 73,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-icim-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Tereyağı 500 Gr",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-margarin-kase-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Margarin Kase 500 Gr",
+      "price": 94.9,
+      "oldPrice": 148.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-torku-tereyag-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Torku Tereyağ 1 Kg",
+      "price": 949.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-icim-geleneksel-lezzet-tereyagi-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Geleneksel Lezzet Tereyağı 400 Gr",
+      "price": 439.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-teremyag-paket-margarin-750-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Paket Margarin 750 Gr",
+      "price": 149,
+      "oldPrice": 199,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-becel-tereyagi-keyfi-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Tereyağı Keyfi Kase Margarin 250 Gr",
+      "price": 54.95,
+      "oldPrice": 85.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-icim-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "İçim Tereyağı 1 Kg",
+      "price": 947.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-becel-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 500 Gr",
+      "price": 123.75,
+      "oldPrice": 165,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-becel-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Kase Margarin 500 Gr",
+      "price": 165,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-icim-tereyagi-225-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Tereyağı 225 Gr",
+      "price": 217.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-teremyag-gurme-kaymakli-paket-margarin-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Gurme Kaymaklı Paket Margarin 200 Gr",
+      "price": 44,
+      "oldPrice": 73.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-hamur-isi-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Hamur İşi Paket Margarin 250 Gr",
+      "price": 76,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-becel-tereyagi-keyfi-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Tereyağı Keyfi Kase Margarin 500 Gr",
+      "price": 123.75,
+      "oldPrice": 165,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-becel-klasik-tereyagi-keyfi-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Klasik Tereyağı Keyfi Margarin 250 Gr",
+      "price": 55,
+      "oldPrice": 86,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-teremyag-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 500 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-teremyag-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 500 Gr",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-kebir-koy-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Kebir Köy Tereyağı 500 Gr",
+      "price": 455,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-sana-tereyag-lezzeti-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Tereyağ Lezzeti 250 Gr",
+      "price": 45.95,
+      "oldPrice": 72.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-sutas-yayik-tereyagi-350-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Yayık Tereyağı 350 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-kebir-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Kebir Tereyağı 500 Gr",
+      "price": 385,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-kebir-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Kebir Tereyağı 500 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-kebir-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Kebir Tereyağı 500 Gr",
+      "price": 445,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-pinar-folyo-tereyagi-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pınar Folyo Tereyağı 200 Gr",
+      "price": 207.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-klasik-paket-margarin-1-5-kg",
+      "category": "Süt Ürünleri",
+      "name": "Sana Klasik Paket Margarin 1.5 Kg",
+      "price": 214.9,
+      "oldPrice": 299.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-bizim-paket-margarin-6x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 6x250 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-bizim-paket-margarin-6x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 6x250 Gr",
+      "price": 215,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-bizim-paket-margarin-6x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Paket Margarin 6x250 Gr",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-bizim-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Kase Margarin 250 Gr",
+      "price": 81.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-sabah-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sabah Paket Margarin 250 Gr",
+      "price": 29.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-sana-margarin-4x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Margarin 4x250 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-birma-margarin-4x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Birma Margarin 4x250 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-teremyag-kase-margarin-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Kase Margarin 400 Gr",
+      "price": 134.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-milkten-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Milkten Tereyağı 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-mis-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tereyağı 500 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-vera-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Vera Kase Margarin 250 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-sana-tereyagi-lezzeti-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Tereyağı Lezzeti Margarin 250 Gr",
+      "price": 42,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sana-ekmekustu-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Ekmeküstü Kase Margarin 500 Gr",
+      "price": 165,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-yorukoglu-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Yörükoğlu Tereyağı 500 Gr",
+      "price": 390,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-lazkizi-tereyagi-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Lazkızı Tereyağı 400 Gr",
+      "price": 444.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-lazkizi-tereyagi-700-gr",
+      "category": "Süt Ürünleri",
+      "name": "Lazkızı Tereyağı 700 Gr",
+      "price": 774.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-mis-tuzlu-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tuzlu Tereyağı 500 Gr",
+      "price": 295,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-otat-rulo-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Otat Rulo Tereyağı 1 Kg",
+      "price": 499,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-evin-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Evin Kase Margarin 250 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-halk-margarin-paket-6x250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Halk Margarin Paket 6x250 Gr",
+      "price": 150,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-polonezkoy-hususi-tereyagi-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "Polonezköy Hususi Tereyağı 200 Gr",
+      "price": 226.9,
+      "oldPrice": 252.9,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-hasmandira-tava-tereyagi-350-gr",
+      "category": "Süt Ürünleri",
+      "name": "Hasmandıra Tava Tereyağı 350 Gr",
+      "price": 419.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-milkten-tereyagi-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Milkten Tereyağı 250 Gr",
+      "price": 163,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-mis-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tereyağı 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sutas-dilimli-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Dilimli Tereyağı 1 Kg",
+      "price": 949.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-bizim-margarin-paket-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Bizim Margarin Paket 1 Kg",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-ekici-tereyagi-350-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ekici Tereyağı 350 Gr",
+      "price": 339,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-sana-klasik-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sana Klasik Margarin 250 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-mis-kozalak-tereyagi-350-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Kozalak Tereyağı 350 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sek-tereyagi-225-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sek Tereyağı 225 Gr",
+      "price": 219.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-polonezkoy-tereyagi-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Polonezköy Tereyağı 400 Gr",
+      "price": 329,
+      "oldPrice": 436.9,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-tahsildaroglu-geleneksel-pastorize-tereyagi-300-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tahsildaroğlu Geleneksel Pastörize Tereyağı 300 Gr",
+      "price": 309.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-hasmandira-topak-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Hasmandıra Topak Tereyağı 500 Gr",
+      "price": 507.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-becel-zeytinyagli-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Becel Zeytinyağlı Kase Margarin 500 Gr",
+      "price": 124.9,
+      "oldPrice": 189.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-tarsut-tereyag-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Tarsüt Tereyağ 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-tarim-kredi-tuzsuz-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Tarım Kredi Tuzsuz Tereyağı 1 Kg",
+      "price": 599,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-mengen-ciftligi-tereyagi-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Mengen Çiftliği Tereyağı 1 Kg",
+      "price": 757.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-sutas-yayik-tereyagi-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Yayık Tereyağı 250 Gr",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-teremyag-gurme-kaymakli-kase-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Gurme Kaymaklı Kase 400 Gr",
+      "price": 147,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-vera-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Vera Paket Margarin 250 Gr",
+      "price": 29,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-tarsut-tereyagi-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarsüt Tereyağı 500 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dairy-fats-tarsut-tereyagi-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarsüt Tereyağı 250 Gr",
+      "price": 155,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dairy-fats-teremyag-margarin-sise-600-ml",
+      "category": "Süt Ürünleri",
+      "name": "Teremyağ Margarin Şişe 600 Ml",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-sole-paket-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sole Paket Margarin 250 Gr",
+      "price": 29,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dairy-fats-mis-tereyagi-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tereyağı 250 Gr",
+      "price": 163,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-pervin-kozalak-tereyagi-350-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pervin Kozalak Tereyağı 350 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-pervin-folyo-tereyag-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pervin Folyo Tereyağ 250 Gr",
+      "price": 163,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-tereyag-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tereyağ 500 Gr",
+      "price": 415,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dairy-fats-pinar-tereyagi-15-gr",
+      "category": "Süt Ürünleri",
+      "name": "Pınar Tereyağı 15 Gr",
+      "price": 20.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-sole-kase-margarin-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sole Kase Margarin 250 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-pervin-tereyag-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Pervin Tereyağ 1 Kg",
+      "price": 469,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dairy-fats-ulker-gurme-kaymakli-tereyagli-kase-margarin-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ülker Gurme Kaymaklı Tereyağlı Kase Margarin 500 Gr",
+      "price": 180,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dairy-fats-president-tuzsuz-tereyagi-200-gr",
+      "category": "Süt Ürünleri",
+      "name": "President Tuzsuz Tereyağı 200 Gr",
+      "price": 199.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -24490,6 +25480,617 @@
         "label": "Uludağ Frutti Extra Orman Meyveli 250 Ml",
         "detail": "250 ml",
         "icon": "🫧"
+      }
+    ],
+    "dairy-fats": [
+      {
+        "id": "dairy-fats-ulker-terem-paket-margarin-3x250-gr",
+        "query": "Ülker Terem Paket Margarin 3x250 Gr",
+        "label": "Ülker Terem Paket Margarin 3x250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-evin-margarin-250-gr",
+        "query": "Evin Margarin 250 Gr",
+        "label": "Evin Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-kase-margarin-250-gr",
+        "query": "Becel Kase Margarin 250 Gr",
+        "label": "Becel Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sutas-yayik-tereyagi-225-gr",
+        "query": "Sütaş Yayık Tereyağı 225 Gr",
+        "label": "Sütaş Yayık Tereyağı 225 Gr",
+        "detail": "225 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sek-tereyagi-200-gr",
+        "query": "Sek Tereyağı 200 Gr",
+        "label": "Sek Tereyağı 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-president-tuzlu-tereyagi-200-gr",
+        "query": "President Tuzlu Tereyağı 200 Gr",
+        "label": "President Tuzlu Tereyağı 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-ulker-teremyag-paket-margarin-250-gr",
+        "query": "Ülker Teremyağ Paket Margarin 250 Gr",
+        "label": "Ülker Teremyağ Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-paket-margarin-250-gr",
+        "query": "Sana Paket Margarin 250 Gr",
+        "label": "Sana Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sutas-tereyagi-125-gr",
+        "query": "Sütaş Tereyağı 125 Gr",
+        "label": "Sütaş Tereyağı 125 Gr",
+        "detail": "125 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-zeytinyagli-kase-margarin-250-gr",
+        "query": "Becel Zeytinyağlı Kase Margarin 250 Gr",
+        "label": "Becel Zeytinyağlı Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-bizim-paket-margarin-250-gr",
+        "query": "Bizim Paket Margarin 250 Gr",
+        "label": "Bizim Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pinar-tereyagi-125-gr",
+        "query": "Pınar Tereyağı 125 Gr",
+        "label": "Pınar Tereyağı 125 Gr",
+        "detail": "125 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-kase-margarin-600-gr",
+        "query": "Teremyağ Kase Margarin 600 Gr",
+        "label": "Teremyağ Kase Margarin 600 Gr",
+        "detail": "600 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pinar-tereyagi-1-kg",
+        "query": "Pınar Tereyağı 1 Kg",
+        "label": "Pınar Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-kase-margarin-250-gr",
+        "query": "Teremyağ Kase Margarin 250 Gr",
+        "label": "Teremyağ Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-tereyagi-lezzeti-paket-margarin-250-gr",
+        "query": "Sana Tereyağı Lezzeti Paket Margarin 250 Gr",
+        "label": "Sana Tereyağı Lezzeti Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-icim-tereyagi-500-gr",
+        "query": "İçim Tereyağı 500 Gr",
+        "label": "İçim Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-margarin-kase-500-gr",
+        "query": "Sana Margarin Kase 500 Gr",
+        "label": "Sana Margarin Kase 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-torku-tereyag-1-kg",
+        "query": "Torku Tereyağ 1 Kg",
+        "label": "Torku Tereyağ 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-icim-geleneksel-lezzet-tereyagi-400-gr",
+        "query": "İçim Geleneksel Lezzet Tereyağı 400 Gr",
+        "label": "İçim Geleneksel Lezzet Tereyağı 400 Gr",
+        "detail": "400 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-paket-margarin-750-gr",
+        "query": "Teremyağ Paket Margarin 750 Gr",
+        "label": "Teremyağ Paket Margarin 750 Gr",
+        "detail": "750 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-tereyagi-keyfi-kase-margarin-250-gr",
+        "query": "Becel Tereyağı Keyfi Kase Margarin 250 Gr",
+        "label": "Becel Tereyağı Keyfi Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-icim-tereyagi-1-kg",
+        "query": "İçim Tereyağı 1 Kg",
+        "label": "İçim Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-kase-margarin-500-gr",
+        "query": "Becel Kase Margarin 500 Gr",
+        "label": "Becel Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-icim-tereyagi-225-gr",
+        "query": "İçim Tereyağı 225 Gr",
+        "label": "İçim Tereyağı 225 Gr",
+        "detail": "225 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-gurme-kaymakli-paket-margarin-200-gr",
+        "query": "Teremyağ Gurme Kaymaklı Paket Margarin 200 Gr",
+        "label": "Teremyağ Gurme Kaymaklı Paket Margarin 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-hamur-isi-paket-margarin-250-gr",
+        "query": "Sana Hamur İşi Paket Margarin 250 Gr",
+        "label": "Sana Hamur İşi Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-tereyagi-keyfi-kase-margarin-500-gr",
+        "query": "Becel Tereyağı Keyfi Kase Margarin 500 Gr",
+        "label": "Becel Tereyağı Keyfi Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-klasik-tereyagi-keyfi-margarin-250-gr",
+        "query": "Becel Klasik Tereyağı Keyfi Margarin 250 Gr",
+        "label": "Becel Klasik Tereyağı Keyfi Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-kase-margarin-500-gr",
+        "query": "Teremyağ Kase Margarin 500 Gr",
+        "label": "Teremyağ Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-kebir-koy-tereyagi-500-gr",
+        "query": "Kebir Köy Tereyağı 500 Gr",
+        "label": "Kebir Köy Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-tereyag-lezzeti-250-gr",
+        "query": "Sana Tereyağ Lezzeti 250 Gr",
+        "label": "Sana Tereyağ Lezzeti 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sutas-yayik-tereyagi-350-gr",
+        "query": "Sütaş Yayık Tereyağı 350 Gr",
+        "label": "Sütaş Yayık Tereyağı 350 Gr",
+        "detail": "350 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-kebir-tereyagi-500-gr",
+        "query": "Kebir Tereyağı 500 Gr",
+        "label": "Kebir Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pinar-folyo-tereyagi-200-gr",
+        "query": "Pınar Folyo Tereyağı 200 Gr",
+        "label": "Pınar Folyo Tereyağı 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-klasik-paket-margarin-1-5-kg",
+        "query": "Sana Klasik Paket Margarin 1.5 Kg",
+        "label": "Sana Klasik Paket Margarin 1.5 Kg",
+        "detail": "1.5 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-bizim-paket-margarin-6x250-gr",
+        "query": "Bizim Paket Margarin 6x250 Gr",
+        "label": "Bizim Paket Margarin 6x250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-bizim-kase-margarin-250-gr",
+        "query": "Bizim Kase Margarin 250 Gr",
+        "label": "Bizim Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sabah-paket-margarin-250-gr",
+        "query": "Sabah Paket Margarin 250 Gr",
+        "label": "Sabah Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-margarin-4x250-gr",
+        "query": "Sana Margarin 4x250 Gr",
+        "label": "Sana Margarin 4x250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-birma-margarin-4x250-gr",
+        "query": "Birma Margarin 4x250 Gr",
+        "label": "Birma Margarin 4x250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-kase-margarin-400-gr",
+        "query": "Teremyağ Kase Margarin 400 Gr",
+        "label": "Teremyağ Kase Margarin 400 Gr",
+        "detail": "400 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-milkten-tereyagi-1-kg",
+        "query": "Milkten Tereyağı 1 Kg",
+        "label": "Milkten Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mis-tereyagi-500-gr",
+        "query": "Mis Tereyağı 500 Gr",
+        "label": "Mis Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-vera-kase-margarin-250-gr",
+        "query": "Vera Kase Margarin 250 Gr",
+        "label": "Vera Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-tereyagi-lezzeti-margarin-250-gr",
+        "query": "Sana Tereyağı Lezzeti Margarin 250 Gr",
+        "label": "Sana Tereyağı Lezzeti Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-ekmekustu-kase-margarin-500-gr",
+        "query": "Sana Ekmeküstü Kase Margarin 500 Gr",
+        "label": "Sana Ekmeküstü Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-yorukoglu-tereyagi-500-gr",
+        "query": "Yörükoğlu Tereyağı 500 Gr",
+        "label": "Yörükoğlu Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-lazkizi-tereyagi-400-gr",
+        "query": "Lazkızı Tereyağı 400 Gr",
+        "label": "Lazkızı Tereyağı 400 Gr",
+        "detail": "400 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-lazkizi-tereyagi-700-gr",
+        "query": "Lazkızı Tereyağı 700 Gr",
+        "label": "Lazkızı Tereyağı 700 Gr",
+        "detail": "700 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mis-tuzlu-tereyagi-500-gr",
+        "query": "Mis Tuzlu Tereyağı 500 Gr",
+        "label": "Mis Tuzlu Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-otat-rulo-tereyagi-1-kg",
+        "query": "Otat Rulo Tereyağı 1 Kg",
+        "label": "Otat Rulo Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-evin-kase-margarin-250-gr",
+        "query": "Evin Kase Margarin 250 Gr",
+        "label": "Evin Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-halk-margarin-paket-6x250-gr",
+        "query": "Halk Margarin Paket 6x250 Gr",
+        "label": "Halk Margarin Paket 6x250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-polonezkoy-hususi-tereyagi-200-gr",
+        "query": "Polonezköy Hususi Tereyağı 200 Gr",
+        "label": "Polonezköy Hususi Tereyağı 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-hasmandira-tava-tereyagi-350-gr",
+        "query": "Hasmandıra Tava Tereyağı 350 Gr",
+        "label": "Hasmandıra Tava Tereyağı 350 Gr",
+        "detail": "350 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-milkten-tereyagi-250-gr",
+        "query": "Milkten Tereyağı 250 Gr",
+        "label": "Milkten Tereyağı 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mis-tereyagi-1-kg",
+        "query": "Mis Tereyağı 1 Kg",
+        "label": "Mis Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sutas-dilimli-tereyagi-1-kg",
+        "query": "Sütaş Dilimli Tereyağı 1 Kg",
+        "label": "Sütaş Dilimli Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-bizim-margarin-paket-1-kg",
+        "query": "Bizim Margarin Paket 1 Kg",
+        "label": "Bizim Margarin Paket 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-ekici-tereyagi-350-gr",
+        "query": "Ekici Tereyağı 350 Gr",
+        "label": "Ekici Tereyağı 350 Gr",
+        "detail": "350 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sana-klasik-margarin-250-gr",
+        "query": "Sana Klasik Margarin 250 Gr",
+        "label": "Sana Klasik Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mis-kozalak-tereyagi-350-gr",
+        "query": "Mis Kozalak Tereyağı 350 Gr",
+        "label": "Mis Kozalak Tereyağı 350 Gr",
+        "detail": "350 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sek-tereyagi-225-gr",
+        "query": "Sek Tereyağı 225 Gr",
+        "label": "Sek Tereyağı 225 Gr",
+        "detail": "225 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-polonezkoy-tereyagi-400-gr",
+        "query": "Polonezköy Tereyağı 400 Gr",
+        "label": "Polonezköy Tereyağı 400 Gr",
+        "detail": "400 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tahsildaroglu-geleneksel-pastorize-tereyagi-300-gr",
+        "query": "Tahsildaroğlu Geleneksel Pastörize Tereyağı 300 Gr",
+        "label": "Tahsildaroğlu Geleneksel Pastörize Tereyağı 300 Gr",
+        "detail": "300 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-hasmandira-topak-tereyagi-500-gr",
+        "query": "Hasmandıra Topak Tereyağı 500 Gr",
+        "label": "Hasmandıra Topak Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-becel-zeytinyagli-kase-margarin-500-gr",
+        "query": "Becel Zeytinyağlı Kase Margarin 500 Gr",
+        "label": "Becel Zeytinyağlı Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tarsut-tereyag-1-kg",
+        "query": "Tarsüt Tereyağ 1 Kg",
+        "label": "Tarsüt Tereyağ 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tarim-kredi-tuzsuz-tereyagi-1-kg",
+        "query": "Tarım Kredi Tuzsuz Tereyağı 1 Kg",
+        "label": "Tarım Kredi Tuzsuz Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mengen-ciftligi-tereyagi-1-kg",
+        "query": "Mengen Çiftliği Tereyağı 1 Kg",
+        "label": "Mengen Çiftliği Tereyağı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sutas-yayik-tereyagi-250-gr",
+        "query": "Sütaş Yayık Tereyağı 250 Gr",
+        "label": "Sütaş Yayık Tereyağı 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-gurme-kaymakli-kase-400-gr",
+        "query": "Teremyağ Gurme Kaymaklı Kase 400 Gr",
+        "label": "Teremyağ Gurme Kaymaklı Kase 400 Gr",
+        "detail": "400 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-vera-paket-margarin-250-gr",
+        "query": "Vera Paket Margarin 250 Gr",
+        "label": "Vera Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tarsut-tereyagi-500-gr",
+        "query": "Tarsüt Tereyağı 500 Gr",
+        "label": "Tarsüt Tereyağı 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tarsut-tereyagi-250-gr",
+        "query": "Tarsüt Tereyağı 250 Gr",
+        "label": "Tarsüt Tereyağı 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-teremyag-margarin-sise-600-ml",
+        "query": "Teremyağ Margarin Şişe 600 Ml",
+        "label": "Teremyağ Margarin Şişe 600 Ml",
+        "detail": "600 ml",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sole-paket-margarin-250-gr",
+        "query": "Sole Paket Margarin 250 Gr",
+        "label": "Sole Paket Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-mis-tereyagi-250-gr",
+        "query": "Mis Tereyağı 250 Gr",
+        "label": "Mis Tereyağı 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pervin-kozalak-tereyagi-350-gr",
+        "query": "Pervin Kozalak Tereyağı 350 Gr",
+        "label": "Pervin Kozalak Tereyağı 350 Gr",
+        "detail": "350 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pervin-folyo-tereyag-250-gr",
+        "query": "Pervin Folyo Tereyağ 250 Gr",
+        "label": "Pervin Folyo Tereyağ 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-tereyag-500-gr",
+        "query": "Tereyağ 500 Gr",
+        "label": "Tereyağ 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pinar-tereyagi-15-gr",
+        "query": "Pınar Tereyağı 15 Gr",
+        "label": "Pınar Tereyağı 15 Gr",
+        "detail": "15 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-sole-kase-margarin-250-gr",
+        "query": "Sole Kase Margarin 250 Gr",
+        "label": "Sole Kase Margarin 250 Gr",
+        "detail": "250 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-pervin-tereyag-1-kg",
+        "query": "Pervin Tereyağ 1 Kg",
+        "label": "Pervin Tereyağ 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-ulker-gurme-kaymakli-tereyagli-kase-margarin-500-gr",
+        "query": "Ülker Gurme Kaymaklı Tereyağlı Kase Margarin 500 Gr",
+        "label": "Ülker Gurme Kaymaklı Tereyağlı Kase Margarin 500 Gr",
+        "detail": "500 g",
+        "icon": "🧈"
+      },
+      {
+        "id": "dairy-fats-president-tuzsuz-tereyagi-200-gr",
+        "query": "President Tuzsuz Tereyağı 200 Gr",
+        "label": "President Tuzsuz Tereyağı 200 Gr",
+        "detail": "200 g",
+        "icon": "🧈"
       }
     ]
   }
