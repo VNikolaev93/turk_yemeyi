@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-03";
+const DATA_REVISION = "2026-10-15-04";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -53,11 +53,7 @@ const categories = {
   },
   meat: {
     title: "Et, Tavuk ve Balık",
-    subcategories: [
-      { id: "meat", label: "Et", icon: "🥩", products: [{ id: "banvit-pilic-sinitzel-700g", query: "banvit piliç şinitzel 700 gr", label: "Banvit Piliç Şinitzel", detail: "700 g", icon: "🥩" }, { id: "lezita-pilic-yaprak-doner-200g", query: "lezita piliç yaprak döner 200 gr", label: "Lezita Piliç Yaprak Döner", detail: "200 g", icon: "🥩" }, { id: "emin-dana-kiyma-400g", query: "emin dana kıyma 400 gr", label: "Emin %20 Yağlı Dana Kıyma", detail: "400 g", icon: "🥩" }, { id: "emin-dana-sote-400g", query: "emin dana sote 400 gr", label: "Emin Dana Sote", detail: "400 g", icon: "🥩" }, { id: "emin-dana-kusbasi-et-400g", query: "emin dana kuşbaşı et 400 gr", label: "Emin Dana Kuşbaşı Et", detail: "400 g", icon: "🥩" }] },
-      { id: "poultry", label: "Tavuk", icon: "🍗", products: [{ id: "banvit-pilic-nugget-300g", query: "banvit piliç nugget 300 gr", label: "Banvit Piliç Nugget", detail: "300 g", icon: "🍗" }, { id: "banvit-pilic-baget-1kg", query: "banvit piliç baget 1 kg", label: "Banvit Piliç Baget", detail: "1 kg", icon: "🍗" }, { id: "banvit-pilic-kanat-1kg", query: "banvit piliç kanat 1 kg", label: "Banvit Piliç Kanat", detail: "1 kg", icon: "🍗" }] },
-      { id: "fish", label: "Balık", icon: "🐟", products: [{ id: "tarim-kredi-ton-baligi-2x160g", query: "tarım kredi ton balığı 2x160 gr", label: "Tarım Kredi Ton Balığı", detail: "2 × 160 g", icon: "🐟" }, { id: "superfresh-superton-ton-baligi-270g", query: "superfresh superton ton balığı 270 gr", label: "Superfresh Superton Ton Balığı", detail: "270 g", icon: "🐟" }, { id: "dardanel-ekonomik-ton-baligi-250g", query: "dardanel ekonomik ton balığı 250 gr", label: "Dardanel Ekonomik Ton Balığı", detail: "250 g", icon: "🐟" }] }
-    ]
+    subcategories: []
   },
   drinks: {
     title: "İçecek",
