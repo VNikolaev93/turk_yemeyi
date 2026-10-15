@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-20";
+const DATA_REVISION = "2026-10-15-21";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -107,11 +107,7 @@ const categories = {
   },
   snacks: {
     title: "Atıştırmalık",
-    subcategories: [
-      { id: "chips", label: "Cips", icon: "🥔", products: [{ id: "lays-baharatli-125g", query: "lays baharatlı 125 gr", label: "Lay's Baharatlı", detail: "125 g", icon: "🥔" }, { id: "lays-baharatli-160g", query: "lays baharatlı 160 gr", label: "Lay's Baharatlı", detail: "160 g", icon: "🥔" }] },
-      { id: "ice-cream", label: "Dondurma", icon: "🍨", products: [] },
-      { id: "chocolate", label: "Çikolata", icon: "🍫", products: [] }
-    ]
+    subcategories: []
   }
 };
 let catalogSubcategories = [];
