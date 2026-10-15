@@ -11682,6 +11682,861 @@
       "price": 24.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-hayat-su-maskot-330-ml",
+      "category": "İçecek",
+      "name": "Hayat Su Maskot 330 Ml",
+      "price": 12.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-12x500-ml",
+      "category": "İçecek",
+      "name": "Erikli Su 12x500 Ml",
+      "price": 241.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-abant-su-500-ml",
+      "category": "İçecek",
+      "name": "Abant Su 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "water-su-500-ml",
+      "category": "İçecek",
+      "name": "Su 500 Ml",
+      "price": 4.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-mila-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Mila Doğal Kaynak Suyu 5 Lt",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 1.5 Lt",
+      "price": 41.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-saka-su-500-ml",
+      "category": "İçecek",
+      "name": "Saka Su 500 Ml",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-saka-dogal-mineralli-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 1.5 Lt",
+      "price": 35.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 1.5 Lt",
+      "price": 37,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-abant-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 5 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-abant-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 5 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-hayat-su-5-lt",
+      "category": "İçecek",
+      "name": "Hayat Su 5 Lt",
+      "price": 61,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-ceysu-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-ceysu-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-ceysu-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 5 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-ceysu-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 5 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-erikli-su-6-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 6 Lt",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-6-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 6 Lt",
+      "price": 196.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-su-6x1-lt",
+      "category": "İçecek",
+      "name": "Su 6x1 Lt",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pinar-su-1-lt",
+      "category": "İçecek",
+      "name": "Pınar Su 1 Lt",
+      "price": 35.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-sural-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Süral Doğal Kaynak Suyu 500 Ml",
+      "price": 6.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-uludag-dogal-kaynak-suyu-750-ml",
+      "category": "İçecek",
+      "name": "Uludağ Doğal Kaynak Suyu 750 Ml",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-avantajli-paket-6x1-5-lt",
+      "category": "İçecek",
+      "name": "Erikli Su Avantajlı Paket 6x1.5 Lt",
+      "price": 215.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-hayat-su-750-ml",
+      "category": "İçecek",
+      "name": "Hayat Su 750 Ml",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-uludag-premium-dogal-kaynak-suyu-400-ml",
+      "category": "İçecek",
+      "name": "Uludağ Premium Doğal Kaynak Suyu 400 Ml",
+      "price": 29.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-damla-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Damla Doğal Kaynak Suyu 5 Lt",
+      "price": 74.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-premium-su-750-ml",
+      "category": "İçecek",
+      "name": "Erikli Premium Su 750 Ml",
+      "price": 35.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pinar-yasam-pinarim-1-5-lt",
+      "category": "İçecek",
+      "name": "Pınar Yaşam Pınarım 1.5 Lt",
+      "price": 37.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-mila-dogal-kaynak-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Mila Doğal Kaynak Suyu 1 Lt",
+      "price": 21.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-hayat-su-bebek-1-98-lt",
+      "category": "İçecek",
+      "name": "Hayat Su Bebek 1.98 Lt",
+      "price": 136.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-500-ml",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 500 Ml",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-1-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 1 Lt",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-damla-dogal-kaynak-suyu-330-ml",
+      "category": "İçecek",
+      "name": "Damla Doğal Kaynak Suyu 330 Ml",
+      "price": 57,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-330-ml",
+      "category": "İçecek",
+      "name": "Erikli Su 330 Ml",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-dogal-kaynak-suyu-750-ml",
+      "category": "İçecek",
+      "name": "Erikli Doğal Kaynak Suyu 750 Ml",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-damla-su-1-lt",
+      "category": "İçecek",
+      "name": "Damla Su 1 Lt",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pursu-elite-dogal-kaynak-suyu-750-ml",
+      "category": "İçecek",
+      "name": "Pürsu Elite Doğal Kaynak Suyu 750 Ml",
+      "price": 73.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-erikli-su-12x500-ml",
+      "category": "İçecek",
+      "name": "Erikli Su 12x500 Ml",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-uludag-dogal-kaynak-suyu-330-ml",
+      "category": "İçecek",
+      "name": "Uludağ Doğal Kaynak Suyu 330 Ml",
+      "price": 44.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pursu-elite-dogal-kaynak-suyu-330-ml",
+      "category": "İçecek",
+      "name": "Pürsu Elite Doğal Kaynak Suyu 330 Ml",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-damla-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Damla Doğal Kaynak Suyu 1.5 Lt",
+      "price": 40.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-3-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 3 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-saka-su-10-lt",
+      "category": "İçecek",
+      "name": "Saka Su 10 Lt",
+      "price": 95.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-10-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 10 Lt",
+      "price": 147.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-abant-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-abant-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-mila-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Mila Doğal Kaynak Suyu 1.5 Lt",
+      "price": 23.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pinar-yasam-pinarim-500-ml",
+      "category": "İçecek",
+      "name": "Pınar Yaşam Pınarım 500 Ml",
+      "price": 20.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-6x1-5-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 6x1.5 Lt",
+      "price": 147.9,
+      "oldPrice": 178,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-ceysu-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-ceysu-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "water-erikli-su-5-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 5 Lt",
+      "price": 47.9,
+      "oldPrice": 74.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-5-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 5 Lt",
+      "price": 49.9,
+      "oldPrice": 74.95,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "water-erikli-6x1-9-lt",
+      "category": "İçecek",
+      "name": "Erikli 6x1.9 Lt",
+      "price": 215.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-sural-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Süral Doğal Kaynak Suyu 5 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-dogal-kaynak-suyu-330-ml",
+      "category": "İçecek",
+      "name": "Erikli Doğal Kaynak Suyu 330 Ml",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-mila-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Mila Doğal Kaynak Suyu 500 Ml",
+      "price": 12.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-hayat-su-12x330-ml",
+      "category": "İçecek",
+      "name": "Hayat Su 12x330 Ml",
+      "price": 110,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-kizilay-su-5-lt",
+      "category": "İçecek",
+      "name": "Kızılay Su 5 Lt",
+      "price": 44.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-kizilay-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Kızılay Su 1.5 Lt",
+      "price": 25.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "water-kizilay-su-500-ml",
+      "category": "İçecek",
+      "name": "Kızılay Su 500 Ml",
+      "price": 14.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "water-su-12x330-ml",
+      "category": "İçecek",
+      "name": "Su 12x330 Ml",
+      "price": 66.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "water-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Su 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-sural-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Süral Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "water-su-5-lt",
+      "category": "İçecek",
+      "name": "Su 5 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-su-5-lt",
+      "category": "İçecek",
+      "name": "Su 5 Lt",
+      "price": 36,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-hayat-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Hayat Su 1.5 Lt",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-abant-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 500 Ml",
+      "price": 6.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-10-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 10 Lt",
+      "price": 95.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-su-19-lt",
+      "category": "İçecek",
+      "name": "Su 19 Lt",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-munzur-su-500-ml",
+      "category": "İçecek",
+      "name": "Munzur Su 500 Ml",
+      "price": 22.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-uludag-premium-kaynak-suyu-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Premium Kaynak Suyu 1 Lt",
+      "price": 51.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "water-saka-su-3-lt",
+      "category": "İçecek",
+      "name": "Saka Su 3 Lt",
+      "price": 99.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-ceysu-su-12x330-ml",
+      "category": "İçecek",
+      "name": "Ceysu Su 12x330 Ml",
+      "price": 66.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-sultan-su-800-ml",
+      "category": "İçecek",
+      "name": "Sultan Su 800 Ml",
+      "price": 23.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-su-3-96-lt",
+      "category": "İçecek",
+      "name": "Su 3.96 Lt",
+      "price": 66.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-pinar-yasam-pinarim-5-lt",
+      "category": "İçecek",
+      "name": "Pınar Yaşam Pınarım 5 Lt",
+      "price": 67.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-sarikiz-su-damacana-19-lt",
+      "category": "İçecek",
+      "name": "Sarıkız Su Damacana 19 Lt",
+      "price": 124.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-6x1-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 6x1 Lt",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-hayat-su-500-ml",
+      "category": "İçecek",
+      "name": "Hayat Su 500 Ml",
+      "price": 19.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-premium-su-330-ml",
+      "category": "İçecek",
+      "name": "Erikli Premium Su 330 Ml",
+      "price": 20.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-1-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 1 Lt",
+      "price": 32.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-munzur-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Munzur Su 1.5 Lt",
+      "price": 37.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-aysu-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Aysu Doğal Kaynak Suyu 1.5 Lt",
+      "price": 10.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-aysu-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Aysu Doğal Kaynak Suyu 500 Ml",
+      "price": 6,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "water-mila-pet-su-330-ml",
+      "category": "İçecek",
+      "name": "Mila Pet Su 330 Ml",
+      "price": 9.95,
+      "oldPrice": 11.9,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-saka-dogal-mineralli-su-5-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 5 Lt",
+      "price": 57.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-saka-dogal-mineralli-su-5-lt",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 5 Lt",
+      "price": 57.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "water-assu-su-12x250-ml",
+      "category": "İçecek",
+      "name": "Assu Su 12x250 Ml",
+      "price": 63.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "water-erikli-su-12x330-ml",
+      "category": "İçecek",
+      "name": "Erikli Su 12x330 Ml",
+      "price": 44.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-hipp-dogal-mineralli-su-1-lt",
+      "category": "İçecek",
+      "name": "Hipp Doğal Mineralli Su 1 Lt",
+      "price": 89.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-damla-su-500-ml",
+      "category": "İçecek",
+      "name": "Damla Su 500 Ml",
+      "price": 22.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-aysu-dogal-kaynak-suyu-5-lt",
+      "category": "İçecek",
+      "name": "Aysu Doğal Kaynak Suyu 5 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "water-hayat-su-6x1-lt",
+      "category": "İçecek",
+      "name": "Hayat Su 6x1 Lt",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "water-erikli-su-500-ml",
+      "category": "İçecek",
+      "name": "Erikli Su 500 Ml",
+      "price": 23.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -19558,6 +20413,596 @@
         "label": "Kırkağaç Kavun 1 Kg",
         "detail": "1 kg",
         "icon": "🍌"
+      }
+    ],
+    "water": [
+      {
+        "id": "water-hayat-su-maskot-330-ml",
+        "query": "Hayat Su Maskot 330 Ml",
+        "label": "Hayat Su Maskot 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-12x500-ml",
+        "query": "Erikli Su 12x500 Ml",
+        "label": "Erikli Su 12x500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-abant-su-500-ml",
+        "query": "Abant Su 500 Ml",
+        "label": "Abant Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-500-ml",
+        "query": "Su 500 Ml",
+        "label": "Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-mila-dogal-kaynak-suyu-5-lt",
+        "query": "Mila Doğal Kaynak Suyu 5 Lt",
+        "label": "Mila Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-1-5-lt",
+        "query": "Erikli Su 1.5 Lt",
+        "label": "Erikli Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-su-500-ml",
+        "query": "Saka Su 500 Ml",
+        "label": "Saka Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-1-5-lt",
+        "query": "Saka Doğal Mineralli Su 1.5 Lt",
+        "label": "Saka Doğal Mineralli Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-abant-dogal-kaynak-suyu-5-lt",
+        "query": "Abant Doğal Kaynak Suyu 5 Lt",
+        "label": "Abant Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-5-lt",
+        "query": "Hayat Su 5 Lt",
+        "label": "Hayat Su 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-ceysu-dogal-kaynak-suyu-500-ml",
+        "query": "Ceysu Doğal Kaynak Suyu 500 Ml",
+        "label": "Ceysu Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-ceysu-dogal-kaynak-suyu-5-lt",
+        "query": "Ceysu Doğal Kaynak Suyu 5 Lt",
+        "label": "Ceysu Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-6-lt",
+        "query": "Erikli Su 6 Lt",
+        "label": "Erikli Su 6 Lt",
+        "detail": "6 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-6x1-lt",
+        "query": "Su 6x1 Lt",
+        "label": "Su 6x1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pinar-su-1-lt",
+        "query": "Pınar Su 1 Lt",
+        "label": "Pınar Su 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-sural-dogal-kaynak-suyu-500-ml",
+        "query": "Süral Doğal Kaynak Suyu 500 Ml",
+        "label": "Süral Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-uludag-dogal-kaynak-suyu-750-ml",
+        "query": "Uludağ Doğal Kaynak Suyu 750 Ml",
+        "label": "Uludağ Doğal Kaynak Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-avantajli-paket-6x1-5-lt",
+        "query": "Erikli Su Avantajlı Paket 6x1.5 Lt",
+        "label": "Erikli Su Avantajlı Paket 6x1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-750-ml",
+        "query": "Hayat Su 750 Ml",
+        "label": "Hayat Su 750 Ml",
+        "detail": "750 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-uludag-premium-dogal-kaynak-suyu-400-ml",
+        "query": "Uludağ Premium Doğal Kaynak Suyu 400 Ml",
+        "label": "Uludağ Premium Doğal Kaynak Suyu 400 Ml",
+        "detail": "400 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-damla-dogal-kaynak-suyu-5-lt",
+        "query": "Damla Doğal Kaynak Suyu 5 Lt",
+        "label": "Damla Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-premium-su-750-ml",
+        "query": "Erikli Premium Su 750 Ml",
+        "label": "Erikli Premium Su 750 Ml",
+        "detail": "750 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pinar-yasam-pinarim-1-5-lt",
+        "query": "Pınar Yaşam Pınarım 1.5 Lt",
+        "label": "Pınar Yaşam Pınarım 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-mila-dogal-kaynak-suyu-1-lt",
+        "query": "Mila Doğal Kaynak Suyu 1 Lt",
+        "label": "Mila Doğal Kaynak Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-bebek-1-98-lt",
+        "query": "Hayat Su Bebek 1.98 Lt",
+        "label": "Hayat Su Bebek 1.98 Lt",
+        "detail": "1.98 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-500-ml",
+        "query": "Saka Doğal Mineralli Su 500 Ml",
+        "label": "Saka Doğal Mineralli Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-1-lt",
+        "query": "Erikli Su 1 Lt",
+        "label": "Erikli Su 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-damla-dogal-kaynak-suyu-330-ml",
+        "query": "Damla Doğal Kaynak Suyu 330 Ml",
+        "label": "Damla Doğal Kaynak Suyu 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-330-ml",
+        "query": "Erikli Su 330 Ml",
+        "label": "Erikli Su 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-dogal-kaynak-suyu-750-ml",
+        "query": "Erikli Doğal Kaynak Suyu 750 Ml",
+        "label": "Erikli Doğal Kaynak Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-damla-su-1-lt",
+        "query": "Damla Su 1 Lt",
+        "label": "Damla Su 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pursu-elite-dogal-kaynak-suyu-750-ml",
+        "query": "Pürsu Elite Doğal Kaynak Suyu 750 Ml",
+        "label": "Pürsu Elite Doğal Kaynak Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-uludag-dogal-kaynak-suyu-330-ml",
+        "query": "Uludağ Doğal Kaynak Suyu 330 Ml",
+        "label": "Uludağ Doğal Kaynak Suyu 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pursu-elite-dogal-kaynak-suyu-330-ml",
+        "query": "Pürsu Elite Doğal Kaynak Suyu 330 Ml",
+        "label": "Pürsu Elite Doğal Kaynak Suyu 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-damla-dogal-kaynak-suyu-1-5-lt",
+        "query": "Damla Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Damla Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-3-lt",
+        "query": "Saka Doğal Mineralli Su 3 Lt",
+        "label": "Saka Doğal Mineralli Su 3 Lt",
+        "detail": "3 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-su-10-lt",
+        "query": "Saka Su 10 Lt",
+        "label": "Saka Su 10 Lt",
+        "detail": "10 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-10-lt",
+        "query": "Erikli Su 10 Lt",
+        "label": "Erikli Su 10 Lt",
+        "detail": "10 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-abant-dogal-kaynak-suyu-1-5-lt",
+        "query": "Abant Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Abant Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-mila-dogal-kaynak-suyu-1-5-lt",
+        "query": "Mila Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Mila Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pinar-yasam-pinarim-500-ml",
+        "query": "Pınar Yaşam Pınarım 500 Ml",
+        "label": "Pınar Yaşam Pınarım 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-6x1-5-lt",
+        "query": "Saka Doğal Mineralli Su 6x1.5 Lt",
+        "label": "Saka Doğal Mineralli Su 6x1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-ceysu-dogal-kaynak-suyu-1-5-lt",
+        "query": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-5-lt",
+        "query": "Erikli Su 5 Lt",
+        "label": "Erikli Su 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-6x1-9-lt",
+        "query": "Erikli 6x1.9 Lt",
+        "label": "Erikli 6x1.9 Lt",
+        "detail": "1.9 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-sural-dogal-kaynak-suyu-5-lt",
+        "query": "Süral Doğal Kaynak Suyu 5 Lt",
+        "label": "Süral Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-dogal-kaynak-suyu-330-ml",
+        "query": "Erikli Doğal Kaynak Suyu 330 Ml",
+        "label": "Erikli Doğal Kaynak Suyu 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-mila-dogal-kaynak-suyu-500-ml",
+        "query": "Mila Doğal Kaynak Suyu 500 Ml",
+        "label": "Mila Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-12x330-ml",
+        "query": "Hayat Su 12x330 Ml",
+        "label": "Hayat Su 12x330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-kizilay-su-5-lt",
+        "query": "Kızılay Su 5 Lt",
+        "label": "Kızılay Su 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-kizilay-su-1-5-lt",
+        "query": "Kızılay Su 1.5 Lt",
+        "label": "Kızılay Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-kizilay-su-500-ml",
+        "query": "Kızılay Su 500 Ml",
+        "label": "Kızılay Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-12x330-ml",
+        "query": "Su 12x330 Ml",
+        "label": "Su 12x330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-1-5-lt",
+        "query": "Su 1.5 Lt",
+        "label": "Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-sural-dogal-kaynak-suyu-1-5-lt",
+        "query": "Süral Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Süral Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-5-lt",
+        "query": "Su 5 Lt",
+        "label": "Su 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-1-5-lt",
+        "query": "Hayat Su 1.5 Lt",
+        "label": "Hayat Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-abant-dogal-kaynak-suyu-500-ml",
+        "query": "Abant Doğal Kaynak Suyu 500 Ml",
+        "label": "Abant Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-10-lt",
+        "query": "Saka Doğal Mineralli Su 10 Lt",
+        "label": "Saka Doğal Mineralli Su 10 Lt",
+        "detail": "10 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-19-lt",
+        "query": "Su 19 Lt",
+        "label": "Su 19 Lt",
+        "detail": "19 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-munzur-su-500-ml",
+        "query": "Munzur Su 500 Ml",
+        "label": "Munzur Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-uludag-premium-kaynak-suyu-1-lt",
+        "query": "Uludağ Premium Kaynak Suyu 1 Lt",
+        "label": "Uludağ Premium Kaynak Suyu 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-su-3-lt",
+        "query": "Saka Su 3 Lt",
+        "label": "Saka Su 3 Lt",
+        "detail": "3 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-ceysu-su-12x330-ml",
+        "query": "Ceysu Su 12x330 Ml",
+        "label": "Ceysu Su 12x330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-sultan-su-800-ml",
+        "query": "Sultan Su 800 Ml",
+        "label": "Sultan Su 800 Ml",
+        "detail": "800 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-su-3-96-lt",
+        "query": "Su 3.96 Lt",
+        "label": "Su 3.96 Lt",
+        "detail": "3.96 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-pinar-yasam-pinarim-5-lt",
+        "query": "Pınar Yaşam Pınarım 5 Lt",
+        "label": "Pınar Yaşam Pınarım 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-sarikiz-su-damacana-19-lt",
+        "query": "Sarıkız Su Damacana 19 Lt",
+        "label": "Sarıkız Su Damacana 19 Lt",
+        "detail": "19 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-6x1-lt",
+        "query": "Saka Doğal Mineralli Su 6x1 Lt",
+        "label": "Saka Doğal Mineralli Su 6x1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-500-ml",
+        "query": "Hayat Su 500 Ml",
+        "label": "Hayat Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-premium-su-330-ml",
+        "query": "Erikli Premium Su 330 Ml",
+        "label": "Erikli Premium Su 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-1-lt",
+        "query": "Saka Doğal Mineralli Su 1 Lt",
+        "label": "Saka Doğal Mineralli Su 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-munzur-su-1-5-lt",
+        "query": "Munzur Su 1.5 Lt",
+        "label": "Munzur Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-aysu-dogal-kaynak-suyu-1-5-lt",
+        "query": "Aysu Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Aysu Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-aysu-dogal-kaynak-suyu-500-ml",
+        "query": "Aysu Doğal Kaynak Suyu 500 Ml",
+        "label": "Aysu Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-mila-pet-su-330-ml",
+        "query": "Mila Pet Su 330 Ml",
+        "label": "Mila Pet Su 330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-saka-dogal-mineralli-su-5-lt",
+        "query": "Saka Doğal Mineralli Su 5 Lt",
+        "label": "Saka Doğal Mineralli Su 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-assu-su-12x250-ml",
+        "query": "Assu Su 12x250 Ml",
+        "label": "Assu Su 12x250 Ml",
+        "detail": "250 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-12x330-ml",
+        "query": "Erikli Su 12x330 Ml",
+        "label": "Erikli Su 12x330 Ml",
+        "detail": "330 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hipp-dogal-mineralli-su-1-lt",
+        "query": "Hipp Doğal Mineralli Su 1 Lt",
+        "label": "Hipp Doğal Mineralli Su 1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-damla-su-500-ml",
+        "query": "Damla Su 500 Ml",
+        "label": "Damla Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "water-aysu-dogal-kaynak-suyu-5-lt",
+        "query": "Aysu Doğal Kaynak Suyu 5 Lt",
+        "label": "Aysu Doğal Kaynak Suyu 5 Lt",
+        "detail": "5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-hayat-su-6x1-lt",
+        "query": "Hayat Su 6x1 Lt",
+        "label": "Hayat Su 6x1 Lt",
+        "detail": "1 L",
+        "icon": "💧"
+      },
+      {
+        "id": "water-erikli-su-500-ml",
+        "query": "Erikli Su 500 Ml",
+        "label": "Erikli Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
       }
     ]
   }
