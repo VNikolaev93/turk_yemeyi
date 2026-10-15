@@ -47,7 +47,8 @@ const categories = {
       { id: "dairy-eggs", label: "Yumurta", icon: "🥚", products: [{ id: "eggs-30", query: "yumurta 30 adet", label: "Yumurta", detail: "30 adet", icon: "🥚" }, { id: "eggs-15", query: "yumurta 15 adet", label: "Yumurta", detail: "15 adet", icon: "🥚" }] },
       { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [{ id: "becel-margarin-250g", query: "becel kase margarin 250 gr", label: "Becel Kase Margarin", detail: "250 g", icon: "🧈" }, { id: "mis-tereyagi-1kg", query: "mis tereyağı 1 kg", label: "Mis Tereyağı", detail: "1 kg", icon: "🧈" }, { id: "milkten-tereyagi-250g", query: "milkten tereyağı 250 gr", label: "Milkten Tereyağı", detail: "250 g", icon: "🧈" }] },
       { id: "dairy-yogurt", label: "Yoğurt", icon: "🥣", products: [{ id: "icim-yogurt-750g", query: "içim yoğurt 750 gr", label: "İçim Yoğurt", detail: "750 g", icon: "🥣" }, { id: "sek-yarim-yagli-yogurt-750g", query: "sek yarım yağlı yoğurt 750 gr", label: "Sek Yarım Yağlı Yoğurt", detail: "750 g", icon: "🥣" }, { id: "mis-tam-yagli-homojenize-yogurt-750g", query: "mis tam yağlı homojenize yoğurt 750 gr", label: "Mis Tam Yağlı Homojenize Yoğurt", detail: "750 g", icon: "🥣" }, { id: "mis-meyveli-yogurt-cilek-500g", query: "mis meyveli yoğurt çilek 500 gr", label: "Mis Meyveli Yoğurt Çilek", detail: "500 g", icon: "🥣" }, { id: "mis-suzme-yogurt-900g", query: "mis süzme yoğurt 900 gr", label: "Mis Süzme Yoğurt", detail: "900 g", icon: "🥣" }] },
-      { id: "dairy-cheese", label: "Peynir", icon: "🧀", products: [] }
+      { id: "dairy-cheese", label: "Peynir", icon: "🧀", products: [] },
+      { id: "dairy-ayran-kefir", label: "Ayran ve Kefir", icon: "🥛", products: [] }
     ]
   },
   meat: {
