@@ -258,7 +258,7 @@
       "productId": "mushrooms",
       "category": "Meyve ve Sebze",
       "name": "Mantar Tabak 300 Gr",
-      "price": 64.9,
+      "price": 55.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
@@ -10305,6 +10305,771 @@
       "price": 262.95,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burcu-dilim-mantar-cam-310-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Burcu Dilim Mantar Cam 310 Gr",
+      "price": 109.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "seker-domates-250-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Şeker Domates 250 Gr",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuru-sogan-dokme-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kuru Soğan Dökme 1 Kg",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "kuru-sogan-dokme-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kuru Soğan Dökme 1 Kg",
+      "price": 29.9,
+      "oldPrice": 59.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kuru-sogan-dokme-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kuru Soğan Dökme 1 Kg",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuru-sogan-dokme-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kuru Soğan Dökme 1 Kg",
+      "price": 35.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kemer-patlican-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kemer Patlıcan 1 Kg",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kemer-patlican-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kemer Patlıcan 1 Kg",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "carliston-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Çarliston Biber 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "carliston-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Çarliston Biber 1 Kg",
+      "price": 149.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "atom-salata-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Atom Salata 1 Adet",
+      "price": 56.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "atom-salata-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Atom Salata 1 Adet",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "maydanoz-demet-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Maydanoz Demet 1 Adet",
+      "price": 24.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates 1 Kg",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kestane-mantari-350-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Kestane Mantarı 350 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kokteyl-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kokteyl Domates 1 Kg",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "kokteyl-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kokteyl Domates 1 Kg",
+      "price": 169.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dolma-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Dolma Biber 1 Kg",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dolma-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Dolma Biber 1 Kg",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "karnabahar-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Karnabahar 1 Kg",
+      "price": 89.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patates 1 Kg",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patates 1 Kg",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patates 1 Kg",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patates 1 Kg",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mantar-paket-400-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Mantar Paket 400 Gr",
+      "price": 84,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cengelkoy-salatalik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Çengelköy Salatalık 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cengelkoy-salatalik-500-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Çengelköy Salatalık 500 Gr",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "atistirmalik-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Atıştırmalık Domates 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sivri-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sivri Biber 1 Kg",
+      "price": 119.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sivri-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sivri Biber 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sivri-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sivri Biber 1 Kg",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "domates-pembe-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates Pembe 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "salkim-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salkım Domates 1 Kg",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "salkim-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salkım Domates 1 Kg",
+      "price": 89.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "k-akdeniz-salata-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "K.Akdeniz Salata 1 Adet",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mini-bal-kabagi-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Mini Bal Kabağı 1 Adet",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-domates-kurusu-290-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Gurumen Domates Kurusu 290 Gr",
+      "price": 179.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "torpat-parmak-patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Torpat Parmak Patates 1 Kg",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "yesil-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yeşil Biber 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patlican-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patlıcan 1 Kg",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patlican-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patlıcan 1 Kg",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "rio-tarla-domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Rio Tarla Domates 1 Kg",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kirmizi-lahana-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Lahana 1 Kg",
+      "price": 52.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kirmizi-lahana-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Lahana 1 Kg",
+      "price": 54.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kabak-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kabak 1 Kg",
+      "price": 65.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-bezelye-450-gr",
+      "category": "Meyve ve Sebze",
+      "name": "İnci Bezelye 450 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kizartmalik-patates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kızartmalık Patates 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kirmizi-kapya-biber-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Kapya Biber 1 Adet",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "gobek-marul-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Göbek Marul 1 Adet",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kirmizi-sogan-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Soğan 1 Kg",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kuru-sarimsak-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kuru Sarımsak 1 Kg",
+      "price": 195,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "salatalik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salatalık 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "salatalik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salatalık 1 Kg",
+      "price": 54.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "salatalik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salatalık 1 Kg",
+      "price": 54.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "salatalik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Salatalık 1 Kg",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "salkim-domates-paket-500-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Salkım Domates Paket 500 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mor-sogan-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mor Soğan 1 Kg",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "file-arpacik-sogan-500-gr",
+      "category": "Meyve ve Sebze",
+      "name": "File Arpacık Soğan 500 Gr",
+      "price": 105.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-tane-misir-450-gr",
+      "category": "Meyve ve Sebze",
+      "name": "İnci Tane Mısır 450 Gr",
+      "price": 57.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cengelkoy-salatalik-500-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Çengelköy Salatalık 500 Gr",
+      "price": 55.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kizartmalik-patates-file-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kızartmalık Patates File 1 Kg",
+      "price": 64.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hiyar-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Hıyar 1 Kg",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "sogan-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Soğan 1 Kg",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sogan-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Soğan 1 Kg",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "sarimsak-file-250-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Sarımsak File 250 Gr",
+      "price": 49.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "maydanoz-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Maydanoz 1 Adet",
+      "price": 24.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "maydanoz-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Maydanoz 1 Adet",
+      "price": 29.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "beyaz-lahana-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Beyaz Lahana 1 Kg",
+      "price": 34.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "beyaz-lahana-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Beyaz Lahana 1 Kg",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kivircik-salata-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Kıvırcık Salata 1 Adet",
+      "price": 47.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sakiz-kabak-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sakız Kabak 1 Kg",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kivircik-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Kıvırcık 1 Adet",
+      "price": 45.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kapya-biber-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kapya Biber 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kultur-mantari-400-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Kültür Mantarı 400 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "zencefil-250-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Zencefil 250 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "patates-taze-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Patates Taze 1 Kg",
+      "price": 29.9,
+      "oldPrice": 39.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kokteyl-domates-500-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Kokteyl Domates 500 Gr",
+      "price": 95.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "sarimsak-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sarımsak 1 Kg",
+      "price": 195,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kirmizi-biber-paket-300-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Biber Paket 300 Gr",
+      "price": 45.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "havuc-paket-350-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Havuç Paket 350 Gr",
+      "price": 19.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "file-sarimsak-200-gr",
+      "category": "Meyve ve Sebze",
+      "name": "File Sarımsak 200 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates 1 Kg",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates 1 Kg",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates 1 Kg",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "domates-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Domates 1 Kg",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -17498,6 +18263,414 @@
         "label": "Heinz Hardal 445 Gr",
         "detail": "445 g",
         "icon": "🍶"
+      }
+    ],
+    "produce-vegetables": [
+      {
+        "id": "burcu-dilim-mantar-cam-310-gr",
+        "query": "Burcu Dilim Mantar Cam 310 Gr",
+        "label": "Burcu Dilim Mantar Cam 310 Gr",
+        "detail": "310 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "seker-domates-250-gr",
+        "query": "Şeker Domates 250 Gr",
+        "label": "Şeker Domates 250 Gr",
+        "detail": "250 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "kuru-sogan-dokme-1-kg",
+        "query": "Kuru Soğan Dökme 1 Kg",
+        "label": "Kuru Soğan Dökme 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kemer-patlican-1-kg",
+        "query": "Kemer Patlıcan 1 Kg",
+        "label": "Kemer Patlıcan 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "carliston-biber-1-kg",
+        "query": "Çarliston Biber 1 Kg",
+        "label": "Çarliston Biber 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "atom-salata-1-adet",
+        "query": "Atom Salata 1 Adet",
+        "label": "Atom Salata 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "maydanoz-demet-1-adet",
+        "query": "Maydanoz Demet 1 Adet",
+        "label": "Maydanoz Demet 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "domates-1-kg",
+        "query": "Domates 1 Kg",
+        "label": "Domates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kestane-mantari-350-gr",
+        "query": "Kestane Mantarı 350 Gr",
+        "label": "Kestane Mantarı 350 Gr",
+        "detail": "350 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "kokteyl-domates-1-kg",
+        "query": "Kokteyl Domates 1 Kg",
+        "label": "Kokteyl Domates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "dolma-biber-1-kg",
+        "query": "Dolma Biber 1 Kg",
+        "label": "Dolma Biber 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "karnabahar-1-kg",
+        "query": "Karnabahar 1 Kg",
+        "label": "Karnabahar 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "patates-1-kg",
+        "query": "Patates 1 Kg",
+        "label": "Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "mantar-paket-400-gr",
+        "query": "Mantar Paket 400 Gr",
+        "label": "Mantar Paket 400 Gr",
+        "detail": "400 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "cengelkoy-salatalik-1-kg",
+        "query": "Çengelköy Salatalık 1 Kg",
+        "label": "Çengelköy Salatalık 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "cengelkoy-salatalik-500-gr",
+        "query": "Çengelköy Salatalık 500 Gr",
+        "label": "Çengelköy Salatalık 500 Gr",
+        "detail": "500 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "atistirmalik-domates-1-kg",
+        "query": "Atıştırmalık Domates 1 Kg",
+        "label": "Atıştırmalık Domates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "sivri-biber-1-kg",
+        "query": "Sivri Biber 1 Kg",
+        "label": "Sivri Biber 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "domates-pembe-1-kg",
+        "query": "Domates Pembe 1 Kg",
+        "label": "Domates Pembe 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "salkim-domates-1-kg",
+        "query": "Salkım Domates 1 Kg",
+        "label": "Salkım Domates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "k-akdeniz-salata-1-adet",
+        "query": "K.Akdeniz Salata 1 Adet",
+        "label": "K.Akdeniz Salata 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "mini-bal-kabagi-1-adet",
+        "query": "Mini Bal Kabağı 1 Adet",
+        "label": "Mini Bal Kabağı 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "gurumen-domates-kurusu-290-gr",
+        "query": "Gurumen Domates Kurusu 290 Gr",
+        "label": "Gurumen Domates Kurusu 290 Gr",
+        "detail": "290 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "torpat-parmak-patates-1-kg",
+        "query": "Torpat Parmak Patates 1 Kg",
+        "label": "Torpat Parmak Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "yesil-biber-1-kg",
+        "query": "Yeşil Biber 1 Kg",
+        "label": "Yeşil Biber 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "patlican-1-kg",
+        "query": "Patlıcan 1 Kg",
+        "label": "Patlıcan 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "rio-tarla-domates-1-kg",
+        "query": "Rio Tarla Domates 1 Kg",
+        "label": "Rio Tarla Domates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kirmizi-lahana-1-kg",
+        "query": "Kırmızı Lahana 1 Kg",
+        "label": "Kırmızı Lahana 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kabak-1-kg",
+        "query": "Kabak 1 Kg",
+        "label": "Kabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "inci-bezelye-450-gr",
+        "query": "İnci Bezelye 450 Gr",
+        "label": "İnci Bezelye 450 Gr",
+        "detail": "450 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "kizartmalik-patates-1-kg",
+        "query": "Kızartmalık Patates 1 Kg",
+        "label": "Kızartmalık Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kirmizi-kapya-biber-1-adet",
+        "query": "Kırmızı Kapya Biber 1 Adet",
+        "label": "Kırmızı Kapya Biber 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "gobek-marul-1-adet",
+        "query": "Göbek Marul 1 Adet",
+        "label": "Göbek Marul 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "kirmizi-sogan-1-kg",
+        "query": "Kırmızı Soğan 1 Kg",
+        "label": "Kırmızı Soğan 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kuru-sarimsak-1-kg",
+        "query": "Kuru Sarımsak 1 Kg",
+        "label": "Kuru Sarımsak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "salatalik-1-kg",
+        "query": "Salatalık 1 Kg",
+        "label": "Salatalık 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "salkim-domates-paket-500-gr",
+        "query": "Salkım Domates Paket 500 Gr",
+        "label": "Salkım Domates Paket 500 Gr",
+        "detail": "500 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "mor-sogan-1-kg",
+        "query": "Mor Soğan 1 Kg",
+        "label": "Mor Soğan 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "file-arpacik-sogan-500-gr",
+        "query": "File Arpacık Soğan 500 Gr",
+        "label": "File Arpacık Soğan 500 Gr",
+        "detail": "500 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "inci-tane-misir-450-gr",
+        "query": "İnci Tane Mısır 450 Gr",
+        "label": "İnci Tane Mısır 450 Gr",
+        "detail": "450 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "kizartmalik-patates-file-1-kg",
+        "query": "Kızartmalık Patates File 1 Kg",
+        "label": "Kızartmalık Patates File 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "hiyar-1-kg",
+        "query": "Hıyar 1 Kg",
+        "label": "Hıyar 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "sogan-1-kg",
+        "query": "Soğan 1 Kg",
+        "label": "Soğan 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "sarimsak-file-250-gr",
+        "query": "Sarımsak File 250 Gr",
+        "label": "Sarımsak File 250 Gr",
+        "detail": "250 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "maydanoz-1-adet",
+        "query": "Maydanoz 1 Adet",
+        "label": "Maydanoz 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "beyaz-lahana-1-kg",
+        "query": "Beyaz Lahana 1 Kg",
+        "label": "Beyaz Lahana 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kivircik-salata-1-adet",
+        "query": "Kıvırcık Salata 1 Adet",
+        "label": "Kıvırcık Salata 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "sakiz-kabak-1-kg",
+        "query": "Sakız Kabak 1 Kg",
+        "label": "Sakız Kabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kivircik-1-adet",
+        "query": "Kıvırcık 1 Adet",
+        "label": "Kıvırcık 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🥕"
+      },
+      {
+        "id": "kapya-biber-1-kg",
+        "query": "Kapya Biber 1 Kg",
+        "label": "Kapya Biber 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kultur-mantari-400-gr",
+        "query": "Kültür Mantarı 400 Gr",
+        "label": "Kültür Mantarı 400 Gr",
+        "detail": "400 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "zencefil-250-gr",
+        "query": "Zencefil 250 Gr",
+        "label": "Zencefil 250 Gr",
+        "detail": "250 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "patates-taze-1-kg",
+        "query": "Patates Taze 1 Kg",
+        "label": "Patates Taze 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kokteyl-domates-500-gr",
+        "query": "Kokteyl Domates 500 Gr",
+        "label": "Kokteyl Domates 500 Gr",
+        "detail": "500 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "sarimsak-1-kg",
+        "query": "Sarımsak 1 Kg",
+        "label": "Sarımsak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥕"
+      },
+      {
+        "id": "kirmizi-biber-paket-300-gr",
+        "query": "Kırmızı Biber Paket 300 Gr",
+        "label": "Kırmızı Biber Paket 300 Gr",
+        "detail": "300 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "havuc-paket-350-gr",
+        "query": "Havuç Paket 350 Gr",
+        "label": "Havuç Paket 350 Gr",
+        "detail": "350 g",
+        "icon": "🥕"
+      },
+      {
+        "id": "file-sarimsak-200-gr",
+        "query": "File Sarımsak 200 Gr",
+        "label": "File Sarımsak 200 Gr",
+        "detail": "200 g",
+        "icon": "🥕"
       }
     ]
   }
