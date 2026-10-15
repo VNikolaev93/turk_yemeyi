@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-24";
+const DATA_REVISION = "2026-10-15-25";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -147,6 +147,14 @@ const categories = {
       { id: "makeup", label: "Makyaj", icon: "💄", products: [] },
       { id: "patient-care", label: "Hasta Bakım Ürünleri", icon: "🩹", products: [] },
       { id: "waxing-epilation", label: "Ağda ve Epilasyon", icon: "✨", products: [] }
+    ]
+  },
+  otherProducts: {
+    title: "Diğer Ürünler",
+    subcategories: [
+      { id: "baby-supplies", label: "Bebek Gereçleri", icon: "👶", products: [] },
+      { id: "supplements", label: "Gıda Takviyeleri", icon: "💊", products: [] },
+      { id: "pet-shop", label: "Pet Shop", icon: "🐾", products: [] }
     ]
   }
 };
