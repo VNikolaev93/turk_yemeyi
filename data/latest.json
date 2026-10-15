@@ -213,7 +213,7 @@
       "productId": "lemon-1kg",
       "category": "Meyve ve Sebze",
       "name": "Limon 1 Kg",
-      "price": 45.9,
+      "price": 35.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
     },
@@ -11070,6 +11070,618 @@
       "price": 79.95,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Üzüm 1 Kg",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "gala-yazlik-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Gala Yazlık Elma 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "golden-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Golden Elma 1 Kg",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "golden-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Golden Elma 1 Kg",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "santa-maria-armut-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Santa Maria Armut 1 Kg",
+      "price": 65.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "santa-maria-armut-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Santa Maria Armut 1 Kg",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "santa-maria-armut-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Santa Maria Armut 1 Kg",
+      "price": 84.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "avokado-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Avokado 1 Adet",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "avokado-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Avokado 1 Adet",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "avokado-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Avokado 1 Adet",
+      "price": 67.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "siyah-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Siyah Üzüm 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "siyah-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Siyah Üzüm 1 Kg",
+      "price": 79.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "deveci-armut-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Deveci Armut 1 Kg",
+      "price": 89.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ananas-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Ananas 1 Adet",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ananas-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Ananas 1 Adet",
+      "price": 125.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "starking-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Starking Elma 1 Kg",
+      "price": 65.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "starking-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Starking Elma 1 Kg",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "starking-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Starking Elma 1 Kg",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "nektarin-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Nektarin 1 Kg",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "nektarin-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Nektarin 1 Kg",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ithal-muz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "İthal Muz 1 Kg",
+      "price": 114.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ithal-muz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "İthal Muz 1 Kg",
+      "price": 124,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mango-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Mango 1 Adet",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mango-1-adet",
+      "category": "Meyve ve Sebze",
+      "name": "Mango 1 Adet",
+      "price": 85.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "karpuz-cekirdeksiz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Karpuz Çekirdeksiz 1 Kg",
+      "price": 9.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "karpuz-cekirdeksiz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Karpuz Çekirdeksiz 1 Kg",
+      "price": 14.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "yerli-yaban-mersini-125-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Yerli Yaban Mersini  125 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "seftali-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Şeftali 1 Kg",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "seftali-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Şeftali 1 Kg",
+      "price": 65.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "galya-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Galya Kavun 1 Kg",
+      "price": 19,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-globe-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Red Globe Üzüm 1 Kg",
+      "price": 65.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "red-globe-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Red Globe Üzüm 1 Kg",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "red-globe-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Red Globe Üzüm 1 Kg",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kavun 1 Kg",
+      "price": 19.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kavun 1 Kg",
+      "price": 19.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "aronya-100-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Aronya 100 Gr",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "sari-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Sarı Kavun 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cekirdeksiz-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Çekirdeksiz Üzüm 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cekirdeksiz-uzum-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Çekirdeksiz Üzüm 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "beyaz-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Beyaz Kavun 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kirmizi-erik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Erik 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kirmizi-erik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırmızı Erik 1 Kg",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mini-karpuz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mini Karpuz 1 Kg",
+      "price": 9.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "siyah-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Siyah Kavun 1 Kg",
+      "price": 15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "yesil-erik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Yeşil Erik 1 Kg",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "karpuz-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Karpuz 1 Kg",
+      "price": 5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lavi-karisik-orman-meyveleri-3-lu-400-gr",
+      "category": "Meyve ve Sebze",
+      "name": "Lavi Karışık Orman Meyveleri 3'lü 400 Gr",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "granny-smith-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Granny Smith Elma 1 Kg",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "granny-smith-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Granny Smith Elma 1 Kg",
+      "price": 75.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "siyah-incir-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Siyah İncir 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "murdum-erik-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mürdüm Erik 1 Kg",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "mandalina-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mandalina 1 Kg",
+      "price": 32.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mandalina-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mandalina 1 Kg",
+      "price": 34.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mandalina-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mandalina 1 Kg",
+      "price": 34.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mandalina-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mandalina 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mandalina-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mandalina 1 Kg",
+      "price": 39.9,
+      "oldPrice": 49.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "mayer-limon-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Mayer Limon 1 Kg",
+      "price": 39.9,
+      "oldPrice": 49.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "nar-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Nar 1 Kg",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nar-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Nar 1 Kg",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "nar-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Nar 1 Kg",
+      "price": 89.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kayisi-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kayısı 1 Kg",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ithal-yaban-mersini-blueberry-125-gr",
+      "category": "Meyve ve Sebze",
+      "name": "İthal Yaban Mersini Blueberry 125 Gr",
+      "price": 129.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "gala-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Gala Elma 1 Kg",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "gala-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Gala Elma 1 Kg",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ekonomik-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Ekonomik Elma 1 Kg",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ekonomik-elma-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Ekonomik Elma 1 Kg",
+      "price": 39.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kirkagac-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırkağaç Kavun 1 Kg",
+      "price": 23,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "kirkagac-kavun-1-kg",
+      "category": "Meyve ve Sebze",
+      "name": "Kırkağaç Kavun 1 Kg",
+      "price": 24.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -18671,6 +19283,281 @@
         "label": "File Sarımsak 200 Gr",
         "detail": "200 g",
         "icon": "🥕"
+      }
+    ],
+    "produce-fruit": [
+      {
+        "id": "uzum-1-kg",
+        "query": "Üzüm 1 Kg",
+        "label": "Üzüm 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "gala-yazlik-elma-1-kg",
+        "query": "Gala Yazlık Elma 1 Kg",
+        "label": "Gala Yazlık Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "golden-elma-1-kg",
+        "query": "Golden Elma 1 Kg",
+        "label": "Golden Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "santa-maria-armut-1-kg",
+        "query": "Santa Maria Armut 1 Kg",
+        "label": "Santa Maria Armut 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "avokado-1-adet",
+        "query": "Avokado 1 Adet",
+        "label": "Avokado 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍌"
+      },
+      {
+        "id": "siyah-uzum-1-kg",
+        "query": "Siyah Üzüm 1 Kg",
+        "label": "Siyah Üzüm 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "deveci-armut-1-kg",
+        "query": "Deveci Armut 1 Kg",
+        "label": "Deveci Armut 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "ananas-1-adet",
+        "query": "Ananas 1 Adet",
+        "label": "Ananas 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍌"
+      },
+      {
+        "id": "starking-elma-1-kg",
+        "query": "Starking Elma 1 Kg",
+        "label": "Starking Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "nektarin-1-kg",
+        "query": "Nektarin 1 Kg",
+        "label": "Nektarin 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "ithal-muz-1-kg",
+        "query": "İthal Muz 1 Kg",
+        "label": "İthal Muz 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "mango-1-adet",
+        "query": "Mango 1 Adet",
+        "label": "Mango 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍌"
+      },
+      {
+        "id": "karpuz-cekirdeksiz-1-kg",
+        "query": "Karpuz Çekirdeksiz 1 Kg",
+        "label": "Karpuz Çekirdeksiz 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "yerli-yaban-mersini-125-gr",
+        "query": "Yerli Yaban Mersini  125 Gr",
+        "label": "Yerli Yaban Mersini  125 Gr",
+        "detail": "125 g",
+        "icon": "🍌"
+      },
+      {
+        "id": "seftali-1-kg",
+        "query": "Şeftali 1 Kg",
+        "label": "Şeftali 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "galya-kavun-1-kg",
+        "query": "Galya Kavun 1 Kg",
+        "label": "Galya Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "red-globe-uzum-1-kg",
+        "query": "Red Globe Üzüm 1 Kg",
+        "label": "Red Globe Üzüm 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "kavun-1-kg",
+        "query": "Kavun 1 Kg",
+        "label": "Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "aronya-100-gr",
+        "query": "Aronya 100 Gr",
+        "label": "Aronya 100 Gr",
+        "detail": "100 g",
+        "icon": "🍌"
+      },
+      {
+        "id": "sari-kavun-1-kg",
+        "query": "Sarı Kavun 1 Kg",
+        "label": "Sarı Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "cekirdeksiz-uzum-1-kg",
+        "query": "Çekirdeksiz Üzüm 1 Kg",
+        "label": "Çekirdeksiz Üzüm 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "beyaz-kavun-1-kg",
+        "query": "Beyaz Kavun 1 Kg",
+        "label": "Beyaz Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "kirmizi-erik-1-kg",
+        "query": "Kırmızı Erik 1 Kg",
+        "label": "Kırmızı Erik 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "mini-karpuz-1-kg",
+        "query": "Mini Karpuz 1 Kg",
+        "label": "Mini Karpuz 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "siyah-kavun-1-kg",
+        "query": "Siyah Kavun 1 Kg",
+        "label": "Siyah Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "yesil-erik-1-kg",
+        "query": "Yeşil Erik 1 Kg",
+        "label": "Yeşil Erik 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "karpuz-1-kg",
+        "query": "Karpuz 1 Kg",
+        "label": "Karpuz 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "lavi-karisik-orman-meyveleri-3-lu-400-gr",
+        "query": "Lavi Karışık Orman Meyveleri 3'lü 400 Gr",
+        "label": "Lavi Karışık Orman Meyveleri 3'lü 400 Gr",
+        "detail": "400 g",
+        "icon": "🍌"
+      },
+      {
+        "id": "granny-smith-elma-1-kg",
+        "query": "Granny Smith Elma 1 Kg",
+        "label": "Granny Smith Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "siyah-incir-1-kg",
+        "query": "Siyah İncir 1 Kg",
+        "label": "Siyah İncir 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "murdum-erik-1-kg",
+        "query": "Mürdüm Erik 1 Kg",
+        "label": "Mürdüm Erik 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "mandalina-1-kg",
+        "query": "Mandalina 1 Kg",
+        "label": "Mandalina 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "mayer-limon-1-kg",
+        "query": "Mayer Limon 1 Kg",
+        "label": "Mayer Limon 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "nar-1-kg",
+        "query": "Nar 1 Kg",
+        "label": "Nar 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "kayisi-1-kg",
+        "query": "Kayısı 1 Kg",
+        "label": "Kayısı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "ithal-yaban-mersini-blueberry-125-gr",
+        "query": "İthal Yaban Mersini Blueberry 125 Gr",
+        "label": "İthal Yaban Mersini Blueberry 125 Gr",
+        "detail": "125 g",
+        "icon": "🍌"
+      },
+      {
+        "id": "gala-elma-1-kg",
+        "query": "Gala Elma 1 Kg",
+        "label": "Gala Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "ekonomik-elma-1-kg",
+        "query": "Ekonomik Elma 1 Kg",
+        "label": "Ekonomik Elma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
+      },
+      {
+        "id": "kirkagac-kavun-1-kg",
+        "query": "Kırkağaç Kavun 1 Kg",
+        "label": "Kırkağaç Kavun 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍌"
       }
     ]
   }
