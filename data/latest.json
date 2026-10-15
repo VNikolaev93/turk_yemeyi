@@ -9081,6 +9081,78 @@
       "price": 238,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "akseker-dondurulmus-dilimli-kuzu-kokorec-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Akşeker Dondurulmuş Dilimli Kuzu Kokoreç 200 Gr",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "senpilic-dondurulmus-pilic-ciger-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Şenpiliç Dondurulmuş Piliç Ciğer 1 Kg",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "akseker-baharatli-kuzu-kokorec-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Akşeker Baharatlı Kuzu Kokoreç 200 Gr",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "erpilic-dondurulmus-pilic-ciger-tabak-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Erpiliç Dondurulmuş Piliç Ciğer Tabak 1 Kg",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eral-dana-kokorec-baharatli-kusbasi-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Eral Dana Kokoreç Baharatlı Kuşbaşı 200 Gr",
+      "price": 169.95,
+      "oldPrice": 279.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sampiyon-sebzeli-kuzu-kokorec-180-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Şampiyon Sebzeli Kuzu Kokoreç 180 Gr",
+      "price": 389.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hasek-dolmalik-sirdan-2-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hasek Dolmalık Şırdan 2 Adet",
+      "price": 354.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tavuk-cigeri-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tavuk Ciğeri 1 Kg",
+      "price": 79.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -14827,6 +14899,64 @@
         "label": "Emin %20 Yağlı Dana Kıyma 400 Gr",
         "detail": "400 g",
         "icon": "🥩"
+      }
+    ],
+    "offal": [
+      {
+        "id": "akseker-dondurulmus-dilimli-kuzu-kokorec-200-gr",
+        "query": "Akşeker Dondurulmuş Dilimli Kuzu Kokoreç 200 Gr",
+        "label": "Akşeker Dondurulmuş Dilimli Kuzu Kokoreç 200 Gr",
+        "detail": "200 g",
+        "icon": "🥘"
+      },
+      {
+        "id": "senpilic-dondurulmus-pilic-ciger-1-kg",
+        "query": "Şenpiliç Dondurulmuş Piliç Ciğer 1 Kg",
+        "label": "Şenpiliç Dondurulmuş Piliç Ciğer 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥘"
+      },
+      {
+        "id": "akseker-baharatli-kuzu-kokorec-200-gr",
+        "query": "Akşeker Baharatlı Kuzu Kokoreç 200 Gr",
+        "label": "Akşeker Baharatlı Kuzu Kokoreç 200 Gr",
+        "detail": "200 g",
+        "icon": "🥘"
+      },
+      {
+        "id": "erpilic-dondurulmus-pilic-ciger-tabak-1-kg",
+        "query": "Erpiliç Dondurulmuş Piliç Ciğer Tabak 1 Kg",
+        "label": "Erpiliç Dondurulmuş Piliç Ciğer Tabak 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥘"
+      },
+      {
+        "id": "eral-dana-kokorec-baharatli-kusbasi-200-gr",
+        "query": "Eral Dana Kokoreç Baharatlı Kuşbaşı 200 Gr",
+        "label": "Eral Dana Kokoreç Baharatlı Kuşbaşı 200 Gr",
+        "detail": "200 g",
+        "icon": "🥘"
+      },
+      {
+        "id": "sampiyon-sebzeli-kuzu-kokorec-180-gr",
+        "query": "Şampiyon Sebzeli Kuzu Kokoreç 180 Gr",
+        "label": "Şampiyon Sebzeli Kuzu Kokoreç 180 Gr",
+        "detail": "180 g",
+        "icon": "🥘"
+      },
+      {
+        "id": "hasek-dolmalik-sirdan-2-adet",
+        "query": "Hasek Dolmalık Şırdan 2 Adet",
+        "label": "Hasek Dolmalık Şırdan 2 Adet",
+        "detail": "2 Adet",
+        "icon": "🥘"
+      },
+      {
+        "id": "tavuk-cigeri-1-kg",
+        "query": "Tavuk Ciğeri 1 Kg",
+        "label": "Tavuk Ciğeri 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥘"
       }
     ]
   }
