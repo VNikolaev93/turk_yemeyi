@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-18";
+const DATA_REVISION = "2026-10-15-19";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -74,12 +74,7 @@ const categories = {
   },
   drinks: {
     title: "İçecek",
-    subcategories: [
-      { id: "water", label: "Su", icon: "💧", products: [] },
-      { id: "sparkling-drinks", label: "Gazlı İçecekler", icon: "🥤", products: [{ id: "coca-cola-light-1-5l", query: "coca cola light 1.5 l", label: "Coca-Cola Light", detail: "1,5 L", icon: "🥤" }, { id: "coca-cola-1l", query: "coca cola 1 l", label: "Coca-Cola", detail: "1 L", icon: "🥤" }] },
-      { id: "still-drinks", label: "Gazsız İçecekler", icon: "🧃", products: [{ id: "doganay-limonata-1l", query: "doğanay limonata 1 l", label: "Doğanay Limonata", detail: "1 L", icon: "🧃" }] },
-      { id: "juice", label: "Meyve Suyu", icon: "🧃", products: [{ id: "dimes-visne-nektari-200ml", query: "dimes vişne nektarı 200 ml", label: "Dimes Vişne Nektarı", detail: "200 ml", icon: "🧃" }, { id: "cappy-karisik-nektari-200ml", query: "cappy karışık nektarı 200 ml", label: "Cappy Karışık Nektarı", detail: "200 ml", icon: "🧃" }] }
-    ]
+    subcategories: []
   },
   staples: {
     title: "Temel Gıda",
