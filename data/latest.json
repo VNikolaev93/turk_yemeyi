@@ -729,7 +729,2256 @@
       "price": 149,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "abant-su-500-ml",
+      "category": "İçecek",
+      "name": "Abant Su 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "su-500-ml",
+      "category": "İçecek",
+      "name": "Su 500 Ml",
+      "price": 4.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "saka-su-500-ml",
+      "category": "İçecek",
+      "name": "Saka Su 500 Ml",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ceysu-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ceysu-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 500 Ml",
+      "price": 6.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sural-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Süral Doğal Kaynak Suyu 500 Ml",
+      "price": 6.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "saka-dogal-mineralli-su-500-ml",
+      "category": "İçecek",
+      "name": "Saka Doğal Mineralli Su 500 Ml",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mila-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Mila Doğal Kaynak Suyu 500 Ml",
+      "price": 12.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "abant-dogal-kaynak-suyu-500-ml",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 500 Ml",
+      "price": 6.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "erikli-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Erikli Su 1.5 Lt",
+      "price": 41.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "abant-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "abant-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Abant Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ceysu-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ceysu-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "su-1-5-lt",
+      "category": "İçecek",
+      "name": "Su 1.5 Lt",
+      "price": 12.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "damla-dogal-kaynak-suyu-1-5-lt",
+      "category": "İçecek",
+      "name": "Damla Doğal Kaynak Suyu 1.5 Lt",
+      "price": 40.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "hayat-su-1-5-lt",
+      "category": "İçecek",
+      "name": "Hayat Su 1.5 Lt",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "president-krem-cheddar-peyniri-270-gr",
+      "category": "Süt Ürünleri",
+      "name": "President Krem Cheddar Peyniri 270 Gr",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "icim-yarim-yagli-ucgen-peynir-100-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Yarım Yağlı Üçgen Peynir 100 Gr",
+      "price": 44,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "icim-yarim-yagli-ucgen-peynir-100-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Yarım Yağlı Üçgen Peynir 100 Gr",
+      "price": 57.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "president-cheddarli-ucgen-peynir-100-gr",
+      "category": "Süt Ürünleri",
+      "name": "President Cheddarlı Üçgen Peynir 100 Gr",
+      "price": 62.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "torku-labne-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Torku Labne 400 Gr",
+      "price": 154.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tahsildaroglu-kahvaltilik-lor-300-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tahsildaroğlu Kahvaltılık Lor 300 Gr",
+      "price": 137.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "icim-labne-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Labne 400 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "icim-labne-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Labne 400 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "la-vache-qui-rit-ucgen-peynir-8-adet-100-gr",
+      "category": "Süt Ürünleri",
+      "name": "La Vache Qui Rit Üçgen Peynir 8 Adet 100 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sutas-kasar-peyniri-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Kaşar Peyniri 500 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sutas-kasar-peyniri-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Sütaş Kaşar Peyniri 500 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tarabya-kasar-peyniri-225-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarabya Kaşar Peyniri 225 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tarabya-hellim-peyniri-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarabya Hellim Peyniri 250 Gr",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tulum-peyniri-300-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tulum Peyniri 300 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tam-yagli-tost-peyniri-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tam Yağlı Tost Peyniri 1 Kg",
+      "price": 419,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tam-yagli-kasar-peyniri-700-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tam Yağlı Kaşar Peyniri 700 Gr",
+      "price": 325,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tarabya-kasar-peyniri-700-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarabya Kaşar Peyniri 700 Gr",
+      "price": 325,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tam-yagli-kasar-peyniri-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tam Yağlı Kaşar Peyniri 500 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ahir-tost-peyniri-400-gr",
+      "category": "Süt Ürünleri",
+      "name": "Ahir Tost Peyniri 400 Gr",
+      "price": 185,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "karper-sade-ucgen-peynir-6-adet-108-gr",
+      "category": "Süt Ürünleri",
+      "name": "Karper Sade Üçgen Peynir 6 Adet 108 Gr",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mis-tam-yagli-kasar-peyniri-225-gr",
+      "category": "Süt Ürünleri",
+      "name": "Mis Tam Yağlı Kaşar Peyniri 225 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "milkten-ucgen-peynir-8x15-gr",
+      "category": "Süt Ürünleri",
+      "name": "Milkten Üçgen Peynir 8x15 Gr",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "icim-krem-peynir-300-gr",
+      "category": "Süt Ürünleri",
+      "name": "İçim Krem Peynir 300 Gr",
+      "price": 128.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "milkten-krem-peynir-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Milkten Krem Peynir 500 Gr",
+      "price": 120,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarsut-lor-peyniri-500-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarsüt Lor Peyniri 500 Gr",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ahir-tost-peyniri-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Ahir Tost Peyniri 1 Kg",
+      "price": 419,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-yuvarlak-taze-kasar-1-kg",
+      "category": "Süt Ürünleri",
+      "name": "Tarım Kredi Yuvarlak Taze Kaşar 1 Kg",
+      "price": 515,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-hellim-peynir-250-gr",
+      "category": "Süt Ürünleri",
+      "name": "Tarım Kredi Hellim Peynir 250 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-bull-enerji-icecegi-473-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 473 Ml",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "red-bull-enerji-icecegi-473-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 473 Ml",
+      "price": 120,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-473-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 473 Ml",
+      "price": 120,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-zero-sugar-250-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Zero Sugar 250 Ml",
+      "price": 54,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "schweppes-tonik-250-ml",
+      "category": "İçecek",
+      "name": "Schweppes Tonik 250 Ml",
+      "price": 50,
+      "discountPrice": 70.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-tonik-250-ml",
+      "category": "İçecek",
+      "name": "Schweppes Tonik 250 Ml",
+      "price": 68,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-sugarfree-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Sugarfree 250 Ml",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "red-bull-sugarfree-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Sugarfree 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "red-bull-enerji-icecegi-1-lt",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 1 Lt",
+      "price": 219,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-bull-enerji-icecegi-1-lt",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 1 Lt",
+      "price": 225,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-1-lt",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 1 Lt",
+      "price": 265.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pepsi-4x250-ml",
+      "category": "İçecek",
+      "name": "Pepsi 4x250 Ml",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "black-bruin-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Black Bruin Enerji İçeceği 250 Ml",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "black-bruin-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Black Bruin Enerji İçeceği 250 Ml",
+      "price": 38.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "fanta-portakal-1-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "fanta-portakal-1-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fanta-portakal-1-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "schweppes-mandalina-aromali-gazli-icecek-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Mandalina Aromalı Gazlı İçecek 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-mandalina-aromali-gazli-icecek-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Mandalina Aromalı Gazlı İçecek 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "uludag-efsane-gazoz-2-5-lt",
+      "category": "İçecek",
+      "name": "Uludağ Efsane Gazoz 2.5 Lt",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fanta-portakal-250-ml",
+      "category": "İçecek",
+      "name": "Fanta Portakal 250 Ml",
+      "price": 54,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-blue-edition-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Blue Edition 250 Ml",
+      "price": 70.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "seven-up-1-lt",
+      "category": "İçecek",
+      "name": "Seven Up 1 Lt",
+      "price": 66.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sprite-2-5-lt",
+      "category": "İçecek",
+      "name": "Sprite 2.5 Lt",
+      "price": 87.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-330-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 330 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-lime-and-mint-aromali-gazli-icecek-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Lime & Mint Aromalı Gazlı İçecek 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-bitter-limon-aromali-gazli-icecek-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Bitter Limon Aromalı Gazlı İçecek 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-zero-sugar-2-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Zero Sugar 2.5 Lt",
+      "price": 89.5,
+      "discountPrice": 99.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sprite-sekersiz-1-lt",
+      "category": "İçecek",
+      "name": "Sprite Şekersiz 1 Lt",
+      "price": 49.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sprite-sekersiz-1-lt",
+      "category": "İçecek",
+      "name": "Sprite Şekersiz 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "black-bruin-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Black Bruin Enerji İçeceği 500 Ml",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sprite-gazoz-1-5-lt",
+      "category": "İçecek",
+      "name": "Sprite Gazoz 1.5 Lt",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sprite-1-5-lt",
+      "category": "İçecek",
+      "name": "Sprite 1.5 Lt",
+      "price": 64.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "pepsi-1-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi 1.5 Lt",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "pepsi-1-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi 1.5 Lt",
+      "price": 76,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "coca-cola-2-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola 2.5 Lt",
+      "price": 100,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uludag-sade-efsane-gazoz-1-lt",
+      "category": "İçecek",
+      "name": "Uludağ Sade Efsane Gazoz 1 Lt",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "pepsi-330-ml",
+      "category": "İçecek",
+      "name": "Pepsi 330 Ml",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "pepsi-330-ml",
+      "category": "İçecek",
+      "name": "Pepsi 330 Ml",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fanta-portakal-1-5-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal 1.5 Lt",
+      "price": 64.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "fanta-portakal-1-5-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal 1.5 Lt",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-250-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 250 Ml",
+      "price": 54,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-tonik-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Tonik 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "coca-cola-orijinal-tat-4x1-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 4x1 Lt",
+      "price": 194.95,
+      "discountPrice": 264.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-4x1-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 4x1 Lt",
+      "price": 264.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-bitter-limon-aromali-gazli-icecek-250-ml",
+      "category": "İçecek",
+      "name": "Schweppes Bitter Limon Aromalı Gazlı İçecek 250 Ml",
+      "price": 68,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schweppes-zero-tonic-1-lt",
+      "category": "İçecek",
+      "name": "Schweppes Zero Tonic 1 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-daha-az-kalori-2-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat Daha Az Kalori 2.5 Lt",
+      "price": 100,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-450-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 450 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "fanta-portakal-330-ml",
+      "category": "İçecek",
+      "name": "Fanta Portakal 330 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fanta-portakal-330-ml",
+      "category": "İçecek",
+      "name": "Fanta Portakal 330 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "monster-energy-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Monster Energy Enerji İçeceği 500 Ml",
+      "price": 49.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "monster-energy-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Monster Energy Enerji İçeceği 500 Ml",
+      "price": 59.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "monster-energy-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Monster Energy Enerji İçeceği 500 Ml",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "pepsi-cola-1-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola 1 Lt",
+      "price": 66.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pepsi-cola-1-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola 1 Lt",
+      "price": 66.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "coca-cola-orijinal-tat-1-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Orijinal Tat 1.5 Lt",
+      "price": 64.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "maltana-ananas-aromali-icecek-250-ml",
+      "category": "İçecek",
+      "name": "Maltana Ananas Aromalı İçecek 250 Ml",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "yedigun-portakal-gazli-icecek-1-5-lt",
+      "category": "İçecek",
+      "name": "Yedigün Portakal Gazlı İçecek 1.5 Lt",
+      "price": 61.5,
+      "discountPrice": 76,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pepsi-max-1-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Max 1.5 Lt",
+      "price": 76,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "sariyer-portakalli-gazoz-2-5-lt",
+      "category": "İçecek",
+      "name": "Sarıyer Portakallı Gazoz 2.5 Lt",
+      "price": 61,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 250 Ml",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-bull-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 250 Ml",
+      "price": 60,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "red-bull-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "red-bull-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "red-bull-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pepsi-cola-gazli-icecek-1-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola Gazlı İçecek 1.5 Lt",
+      "price": 61.5,
+      "discountPrice": 76,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mountain-dew-gazoz-450-ml",
+      "category": "İçecek",
+      "name": "Mountain Dew Gazoz 450 Ml",
+      "price": 50,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-peach-edition-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği Peach Edition 250 Ml",
+      "price": 70.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-355-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 355 Ml",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sprite-1-lt",
+      "category": "İçecek",
+      "name": "Sprite 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sprite-1-lt",
+      "category": "İçecek",
+      "name": "Sprite 1 Lt",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-1-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola 1.5 Lt",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "coca-cola-1-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola 1.5 Lt",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "monster-mango-loco-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Monster Mango Loco Enerji İçeceği 500 Ml",
+      "price": 59.9,
+      "discountPrice": 80,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fruko-gazoz-2-5-lt",
+      "category": "İçecek",
+      "name": "Fruko Gazoz 2.5 Lt",
+      "price": 52.5,
+      "discountPrice": 76,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fruko-gazoz-2-5-lt",
+      "category": "İçecek",
+      "name": "Fruko Gazoz 2.5 Lt",
+      "price": 67,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "fruko-gazoz-2-5-lt",
+      "category": "İçecek",
+      "name": "Fruko Gazoz 2.5 Lt",
+      "price": 76,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "camlica-gazoz-1-5-lt",
+      "category": "İçecek",
+      "name": "Çamlıca Gazoz 1.5 Lt",
+      "price": 44.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "camlica-gazoz-1-5-lt",
+      "category": "İçecek",
+      "name": "Çamlıca Gazoz 1.5 Lt",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "fanta-mandalina-gazli-icecek-1-5-lt",
+      "category": "İçecek",
+      "name": "Fanta Mandalina Gazlı İçecek 1.5 Lt",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-bull-white-edition-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull White Edition Enerji İçeceği 250 Ml",
+      "price": 60,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-white-edition-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull White Edition Enerji İçeceği 250 Ml",
+      "price": 70.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "black-bruin-enerji-icecegi-330-ml",
+      "category": "İçecek",
+      "name": "Black Bruin Enerji İçeceği 330 Ml",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "fanta-portakal-gazli-icecek-1-75-lt",
+      "category": "İçecek",
+      "name": "Fanta Portakal Gazlı İçecek 1.75 Lt",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "seven-up-330-ml",
+      "category": "İçecek",
+      "name": "Seven Up 330 Ml",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pepsi-zero-sugar-330-ml",
+      "category": "İçecek",
+      "name": "Pepsi Zero Sugar 330 Ml",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bi-kola-gazli-icecek-1-5-lt",
+      "category": "İçecek",
+      "name": "Bi Kola Gazlı İçecek 1.5 Lt",
+      "price": 47,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "camlica-frambuaz-aromali-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Çamlıca Frambuaz Aromalı Gazlı İçecek 2.5 Lt",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-kola-gazli-icecek-2-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Kola Gazlı İçecek 2 Lt",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "red-bull-sekersiz-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Şekersiz Enerji İçeceği 250 Ml",
+      "price": 60,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "red-bull-sekersiz-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Şekersiz Enerji İçeceği 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-sekersiz-gazli-icecek-200-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Şekersiz Gazlı İçecek 200 Ml",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sprite-gazoz-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Sprite Gazoz Gazlı İçecek 2.5 Lt",
+      "price": 87.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sogutlucesme-limon-6x200-ml",
+      "category": "İçecek",
+      "name": "Söğütlüçeşme Limon 6x200 Ml",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-kola-330-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Kola 330 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sariyer-sekersiz-portakal-gazli-icecek-1-5-lt",
+      "category": "İçecek",
+      "name": "Sarıyer Şekersiz Portakal Gazlı İçecek 1.5 Lt",
+      "price": 50,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-sekersiz-kola-2-5-lt",
+      "category": "İçecek",
+      "name": "Coca-Cola Şekersiz Kola 2.5 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "coca-cola-cam-sise-200-ml",
+      "category": "İçecek",
+      "name": "Coca-Cola Cam Şişe 200 Ml",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fanta-portakal-500-ml",
+      "category": "İçecek",
+      "name": "Fanta Portakal 500 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "crown-cola-kutu-330-ml",
+      "category": "İçecek",
+      "name": "Crown Cola Kutu 330 Ml",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "burn-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Burn Enerji İçeceği 500 Ml",
+      "price": 75,
+      "discountPrice": 100,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burn-enerji-icecegi-500-ml",
+      "category": "İçecek",
+      "name": "Burn Enerji İçeceği 500 Ml",
+      "price": 100,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tornado-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Tornado Enerji İçeceği 250 Ml",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-enerji-icecegi-6x250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Enerji İçeceği 6x250 Ml",
+      "price": 385,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "red-bull-red-edition-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Red Bull Red Edition Enerji İçeceği 250 Ml",
+      "price": 70.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "fanta-portakal-aromali-gazli-icecek-250-ml",
+      "category": "İçecek",
+      "name": "Fanta Portakal Aromalı Gazlı İçecek 250 Ml",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "burn-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Burn Enerji İçeceği 250 Ml",
+      "price": 52.5,
+      "discountPrice": 71,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burn-enerji-icecegi-250-ml",
+      "category": "İçecek",
+      "name": "Burn Enerji İçeceği 250 Ml",
+      "price": 70,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pepsi-cola-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+      "price": 67.5,
+      "discountPrice": 90,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pepsi-cola-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+      "price": 67.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "pepsi-cola-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "pepsi-cola-gazli-icecek-2-5-lt",
+      "category": "İçecek",
+      "name": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+      "price": 90,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
-  "storesWithoutCurrentData": []
+  "storesWithoutCurrentData": [],
+  "catalog": {
+    "water": [
+      {
+        "id": "abant-su-500-ml",
+        "query": "Abant Su 500 Ml",
+        "label": "Abant Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "su-500-ml",
+        "query": "Su 500 Ml",
+        "label": "Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "saka-su-500-ml",
+        "query": "Saka Su 500 Ml",
+        "label": "Saka Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "ceysu-dogal-kaynak-suyu-500-ml",
+        "query": "Ceysu Doğal Kaynak Suyu 500 Ml",
+        "label": "Ceysu Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "sural-dogal-kaynak-suyu-500-ml",
+        "query": "Süral Doğal Kaynak Suyu 500 Ml",
+        "label": "Süral Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "saka-dogal-mineralli-su-500-ml",
+        "query": "Saka Doğal Mineralli Su 500 Ml",
+        "label": "Saka Doğal Mineralli Su 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "mila-dogal-kaynak-suyu-500-ml",
+        "query": "Mila Doğal Kaynak Suyu 500 Ml",
+        "label": "Mila Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "abant-dogal-kaynak-suyu-500-ml",
+        "query": "Abant Doğal Kaynak Suyu 500 Ml",
+        "label": "Abant Doğal Kaynak Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "💧"
+      },
+      {
+        "id": "erikli-su-1-5-lt",
+        "query": "Erikli Su 1.5 Lt",
+        "label": "Erikli Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "abant-dogal-kaynak-suyu-1-5-lt",
+        "query": "Abant Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Abant Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "ceysu-dogal-kaynak-suyu-1-5-lt",
+        "query": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Ceysu Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "su-1-5-lt",
+        "query": "Su 1.5 Lt",
+        "label": "Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "damla-dogal-kaynak-suyu-1-5-lt",
+        "query": "Damla Doğal Kaynak Suyu 1.5 Lt",
+        "label": "Damla Doğal Kaynak Suyu 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      },
+      {
+        "id": "hayat-su-1-5-lt",
+        "query": "Hayat Su 1.5 Lt",
+        "label": "Hayat Su 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "💧"
+      }
+    ],
+    "dairy-cheese": [
+      {
+        "id": "president-krem-cheddar-peyniri-270-gr",
+        "query": "President Krem Cheddar Peyniri 270 Gr",
+        "label": "President Krem Cheddar Peyniri 270 Gr",
+        "detail": "270 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "icim-yarim-yagli-ucgen-peynir-100-gr",
+        "query": "İçim Yarım Yağlı Üçgen Peynir 100 Gr",
+        "label": "İçim Yarım Yağlı Üçgen Peynir 100 Gr",
+        "detail": "100 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "president-cheddarli-ucgen-peynir-100-gr",
+        "query": "President Cheddarlı Üçgen Peynir 100 Gr",
+        "label": "President Cheddarlı Üçgen Peynir 100 Gr",
+        "detail": "100 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "torku-labne-400-gr",
+        "query": "Torku Labne 400 Gr",
+        "label": "Torku Labne 400 Gr",
+        "detail": "400 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "tahsildaroglu-kahvaltilik-lor-300-gr",
+        "query": "Tahsildaroğlu Kahvaltılık Lor 300 Gr",
+        "label": "Tahsildaroğlu Kahvaltılık Lor 300 Gr",
+        "detail": "300 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "icim-labne-400-gr",
+        "query": "İçim Labne 400 Gr",
+        "label": "İçim Labne 400 Gr",
+        "detail": "400 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "la-vache-qui-rit-ucgen-peynir-8-adet-100-gr",
+        "query": "La Vache Qui Rit Üçgen Peynir 8 Adet 100 Gr",
+        "label": "La Vache Qui Rit Üçgen Peynir 8 Adet 100 Gr",
+        "detail": "100 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "sutas-kasar-peyniri-500-gr",
+        "query": "Sütaş Kaşar Peyniri 500 Gr",
+        "label": "Sütaş Kaşar Peyniri 500 Gr",
+        "detail": "500 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarabya-kasar-peyniri-225-gr",
+        "query": "Tarabya Kaşar Peyniri 225 Gr",
+        "label": "Tarabya Kaşar Peyniri 225 Gr",
+        "detail": "225 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarabya-hellim-peyniri-250-gr",
+        "query": "Tarabya Hellim Peyniri 250 Gr",
+        "label": "Tarabya Hellim Peyniri 250 Gr",
+        "detail": "250 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "mis-tulum-peyniri-300-gr",
+        "query": "Mis Tulum Peyniri 300 Gr",
+        "label": "Mis Tulum Peyniri 300 Gr",
+        "detail": "300 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "mis-tam-yagli-tost-peyniri-1-kg",
+        "query": "Mis Tam Yağlı Tost Peyniri 1 Kg",
+        "label": "Mis Tam Yağlı Tost Peyniri 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧀"
+      },
+      {
+        "id": "mis-tam-yagli-kasar-peyniri-700-gr",
+        "query": "Mis Tam Yağlı Kaşar Peyniri 700 Gr",
+        "label": "Mis Tam Yağlı Kaşar Peyniri 700 Gr",
+        "detail": "700 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarabya-kasar-peyniri-700-gr",
+        "query": "Tarabya Kaşar Peyniri 700 Gr",
+        "label": "Tarabya Kaşar Peyniri 700 Gr",
+        "detail": "700 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "mis-tam-yagli-kasar-peyniri-500-gr",
+        "query": "Mis Tam Yağlı Kaşar Peyniri 500 Gr",
+        "label": "Mis Tam Yağlı Kaşar Peyniri 500 Gr",
+        "detail": "500 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "ahir-tost-peyniri-400-gr",
+        "query": "Ahir Tost Peyniri 400 Gr",
+        "label": "Ahir Tost Peyniri 400 Gr",
+        "detail": "400 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "karper-sade-ucgen-peynir-6-adet-108-gr",
+        "query": "Karper Sade Üçgen Peynir 6 Adet 108 Gr",
+        "label": "Karper Sade Üçgen Peynir 6 Adet 108 Gr",
+        "detail": "108 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "mis-tam-yagli-kasar-peyniri-225-gr",
+        "query": "Mis Tam Yağlı Kaşar Peyniri 225 Gr",
+        "label": "Mis Tam Yağlı Kaşar Peyniri 225 Gr",
+        "detail": "225 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "milkten-ucgen-peynir-8x15-gr",
+        "query": "Milkten Üçgen Peynir 8x15 Gr",
+        "label": "Milkten Üçgen Peynir 8x15 Gr",
+        "detail": "8x15 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "icim-krem-peynir-300-gr",
+        "query": "İçim Krem Peynir 300 Gr",
+        "label": "İçim Krem Peynir 300 Gr",
+        "detail": "300 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "milkten-krem-peynir-500-gr",
+        "query": "Milkten Krem Peynir 500 Gr",
+        "label": "Milkten Krem Peynir 500 Gr",
+        "detail": "500 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarsut-lor-peyniri-500-gr",
+        "query": "Tarsüt Lor Peyniri 500 Gr",
+        "label": "Tarsüt Lor Peyniri 500 Gr",
+        "detail": "500 g",
+        "icon": "🧀"
+      },
+      {
+        "id": "ahir-tost-peyniri-1-kg",
+        "query": "Ahir Tost Peyniri 1 Kg",
+        "label": "Ahir Tost Peyniri 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarim-kredi-yuvarlak-taze-kasar-1-kg",
+        "query": "Tarım Kredi Yuvarlak Taze Kaşar 1 Kg",
+        "label": "Tarım Kredi Yuvarlak Taze Kaşar 1 Kg",
+        "detail": "1 kg",
+        "icon": "🧀"
+      },
+      {
+        "id": "tarim-kredi-hellim-peynir-250-gr",
+        "query": "Tarım Kredi Hellim Peynir 250 Gr",
+        "label": "Tarım Kredi Hellim Peynir 250 Gr",
+        "detail": "250 g",
+        "icon": "🧀"
+      }
+    ],
+    "sparkling-drinks": [
+      {
+        "id": "red-bull-enerji-icecegi-473-ml",
+        "query": "Red Bull Enerji İçeceği 473 Ml",
+        "label": "Red Bull Enerji İçeceği 473 Ml",
+        "detail": "473 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-zero-sugar-250-ml",
+        "query": "Coca-Cola Zero Sugar 250 Ml",
+        "label": "Coca-Cola Zero Sugar 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-tonik-250-ml",
+        "query": "Schweppes Tonik 250 Ml",
+        "label": "Schweppes Tonik 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-sugarfree-250-ml",
+        "query": "Red Bull Sugarfree 250 Ml",
+        "label": "Red Bull Sugarfree 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-enerji-icecegi-1-lt",
+        "query": "Red Bull Enerji İçeceği 1 Lt",
+        "label": "Red Bull Enerji İçeceği 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-4x250-ml",
+        "query": "Pepsi 4x250 Ml",
+        "label": "Pepsi 4x250 Ml",
+        "detail": "4x250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "black-bruin-enerji-icecegi-250-ml",
+        "query": "Black Bruin Enerji İçeceği 250 Ml",
+        "label": "Black Bruin Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-1-lt",
+        "query": "Fanta Portakal 1 Lt",
+        "label": "Fanta Portakal 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-mandalina-aromali-gazli-icecek-1-lt",
+        "query": "Schweppes Mandalina Aromalı Gazlı İçecek 1 Lt",
+        "label": "Schweppes Mandalina Aromalı Gazlı İçecek 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "uludag-efsane-gazoz-2-5-lt",
+        "query": "Uludağ Efsane Gazoz 2.5 Lt",
+        "label": "Uludağ Efsane Gazoz 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-250-ml",
+        "query": "Fanta Portakal 250 Ml",
+        "label": "Fanta Portakal 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-blue-edition-250-ml",
+        "query": "Red Bull Blue Edition 250 Ml",
+        "label": "Red Bull Blue Edition 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "seven-up-1-lt",
+        "query": "Seven Up 1 Lt",
+        "label": "Seven Up 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-2-5-lt",
+        "query": "Sprite 2.5 Lt",
+        "label": "Sprite 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-330-ml",
+        "query": "Coca-Cola Orijinal Tat 330 Ml",
+        "label": "Coca-Cola Orijinal Tat 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-lime-and-mint-aromali-gazli-icecek-1-lt",
+        "query": "Schweppes Lime & Mint Aromalı Gazlı İçecek 1 Lt",
+        "label": "Schweppes Lime & Mint Aromalı Gazlı İçecek 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-bitter-limon-aromali-gazli-icecek-1-lt",
+        "query": "Schweppes Bitter Limon Aromalı Gazlı İçecek 1 Lt",
+        "label": "Schweppes Bitter Limon Aromalı Gazlı İçecek 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-zero-sugar-2-5-lt",
+        "query": "Coca-Cola Zero Sugar 2.5 Lt",
+        "label": "Coca-Cola Zero Sugar 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-sekersiz-1-lt",
+        "query": "Sprite Şekersiz 1 Lt",
+        "label": "Sprite Şekersiz 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "black-bruin-enerji-icecegi-500-ml",
+        "query": "Black Bruin Enerji İçeceği 500 Ml",
+        "label": "Black Bruin Enerji İçeceği 500 Ml",
+        "detail": "500 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-gazoz-1-5-lt",
+        "query": "Sprite Gazoz 1.5 Lt",
+        "label": "Sprite Gazoz 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-1-5-lt",
+        "query": "Sprite 1.5 Lt",
+        "label": "Sprite 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-1-5-lt",
+        "query": "Pepsi 1.5 Lt",
+        "label": "Pepsi 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-2-5-lt",
+        "query": "Coca-Cola 2.5 Lt",
+        "label": "Coca-Cola 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "uludag-sade-efsane-gazoz-1-lt",
+        "query": "Uludağ Sade Efsane Gazoz 1 Lt",
+        "label": "Uludağ Sade Efsane Gazoz 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-330-ml",
+        "query": "Pepsi 330 Ml",
+        "label": "Pepsi 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-1-5-lt",
+        "query": "Fanta Portakal 1.5 Lt",
+        "label": "Fanta Portakal 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-250-ml",
+        "query": "Coca-Cola Orijinal Tat 250 Ml",
+        "label": "Coca-Cola Orijinal Tat 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-tonik-1-lt",
+        "query": "Schweppes Tonik 1 Lt",
+        "label": "Schweppes Tonik 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-4x1-lt",
+        "query": "Coca-Cola Orijinal Tat 4x1 Lt",
+        "label": "Coca-Cola Orijinal Tat 4x1 Lt",
+        "detail": "4x1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-bitter-limon-aromali-gazli-icecek-250-ml",
+        "query": "Schweppes Bitter Limon Aromalı Gazlı İçecek 250 Ml",
+        "label": "Schweppes Bitter Limon Aromalı Gazlı İçecek 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "schweppes-zero-tonic-1-lt",
+        "query": "Schweppes Zero Tonic 1 Lt",
+        "label": "Schweppes Zero Tonic 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-daha-az-kalori-2-5-lt",
+        "query": "Coca-Cola Orijinal Tat Daha Az Kalori 2.5 Lt",
+        "label": "Coca-Cola Orijinal Tat Daha Az Kalori 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-450-ml",
+        "query": "Coca-Cola Orijinal Tat 450 Ml",
+        "label": "Coca-Cola Orijinal Tat 450 Ml",
+        "detail": "450 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-330-ml",
+        "query": "Fanta Portakal 330 Ml",
+        "label": "Fanta Portakal 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "monster-energy-enerji-icecegi-500-ml",
+        "query": "Monster Energy Enerji İçeceği 500 Ml",
+        "label": "Monster Energy Enerji İçeceği 500 Ml",
+        "detail": "500 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-cola-1-lt",
+        "query": "Pepsi Cola 1 Lt",
+        "label": "Pepsi Cola 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-orijinal-tat-1-5-lt",
+        "query": "Coca-Cola Orijinal Tat 1.5 Lt",
+        "label": "Coca-Cola Orijinal Tat 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "maltana-ananas-aromali-icecek-250-ml",
+        "query": "Maltana Ananas Aromalı İçecek 250 Ml",
+        "label": "Maltana Ananas Aromalı İçecek 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "yedigun-portakal-gazli-icecek-1-5-lt",
+        "query": "Yedigün Portakal Gazlı İçecek 1.5 Lt",
+        "label": "Yedigün Portakal Gazlı İçecek 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-max-1-5-lt",
+        "query": "Pepsi Max 1.5 Lt",
+        "label": "Pepsi Max 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "sariyer-portakalli-gazoz-2-5-lt",
+        "query": "Sarıyer Portakallı Gazoz 2.5 Lt",
+        "label": "Sarıyer Portakallı Gazoz 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-enerji-icecegi-250-ml",
+        "query": "Red Bull Enerji İçeceği 250 Ml",
+        "label": "Red Bull Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-cola-gazli-icecek-1-5-lt",
+        "query": "Pepsi Cola Gazlı İçecek 1.5 Lt",
+        "label": "Pepsi Cola Gazlı İçecek 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "mountain-dew-gazoz-450-ml",
+        "query": "Mountain Dew Gazoz 450 Ml",
+        "label": "Mountain Dew Gazoz 450 Ml",
+        "detail": "450 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-enerji-icecegi-peach-edition-250-ml",
+        "query": "Red Bull Enerji İçeceği Peach Edition 250 Ml",
+        "label": "Red Bull Enerji İçeceği Peach Edition 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-enerji-icecegi-355-ml",
+        "query": "Red Bull Enerji İçeceği 355 Ml",
+        "label": "Red Bull Enerji İçeceği 355 Ml",
+        "detail": "355 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-1-lt",
+        "query": "Sprite 1 Lt",
+        "label": "Sprite 1 Lt",
+        "detail": "1 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-1-5-lt",
+        "query": "Coca-Cola 1.5 Lt",
+        "label": "Coca-Cola 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "monster-mango-loco-enerji-icecegi-500-ml",
+        "query": "Monster Mango Loco Enerji İçeceği 500 Ml",
+        "label": "Monster Mango Loco Enerji İçeceği 500 Ml",
+        "detail": "500 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fruko-gazoz-2-5-lt",
+        "query": "Fruko Gazoz 2.5 Lt",
+        "label": "Fruko Gazoz 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "camlica-gazoz-1-5-lt",
+        "query": "Çamlıca Gazoz 1.5 Lt",
+        "label": "Çamlıca Gazoz 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-mandalina-gazli-icecek-1-5-lt",
+        "query": "Fanta Mandalina Gazlı İçecek 1.5 Lt",
+        "label": "Fanta Mandalina Gazlı İçecek 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-white-edition-enerji-icecegi-250-ml",
+        "query": "Red Bull White Edition Enerji İçeceği 250 Ml",
+        "label": "Red Bull White Edition Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "black-bruin-enerji-icecegi-330-ml",
+        "query": "Black Bruin Enerji İçeceği 330 Ml",
+        "label": "Black Bruin Enerji İçeceği 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-gazli-icecek-1-75-lt",
+        "query": "Fanta Portakal Gazlı İçecek 1.75 Lt",
+        "label": "Fanta Portakal Gazlı İçecek 1.75 Lt",
+        "detail": "1.75 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "seven-up-330-ml",
+        "query": "Seven Up 330 Ml",
+        "label": "Seven Up 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-zero-sugar-330-ml",
+        "query": "Pepsi Zero Sugar 330 Ml",
+        "label": "Pepsi Zero Sugar 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "bi-kola-gazli-icecek-1-5-lt",
+        "query": "Bi Kola Gazlı İçecek 1.5 Lt",
+        "label": "Bi Kola Gazlı İçecek 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "camlica-frambuaz-aromali-gazli-icecek-2-5-lt",
+        "query": "Çamlıca Frambuaz Aromalı Gazlı İçecek 2.5 Lt",
+        "label": "Çamlıca Frambuaz Aromalı Gazlı İçecek 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-kola-gazli-icecek-2-lt",
+        "query": "Coca-Cola Kola Gazlı İçecek 2 Lt",
+        "label": "Coca-Cola Kola Gazlı İçecek 2 Lt",
+        "detail": "2 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-sekersiz-enerji-icecegi-250-ml",
+        "query": "Red Bull Şekersiz Enerji İçeceği 250 Ml",
+        "label": "Red Bull Şekersiz Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-sekersiz-gazli-icecek-200-ml",
+        "query": "Coca-Cola Şekersiz Gazlı İçecek 200 Ml",
+        "label": "Coca-Cola Şekersiz Gazlı İçecek 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "sprite-gazoz-gazli-icecek-2-5-lt",
+        "query": "Sprite Gazoz Gazlı İçecek 2.5 Lt",
+        "label": "Sprite Gazoz Gazlı İçecek 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "sogutlucesme-limon-6x200-ml",
+        "query": "Söğütlüçeşme Limon 6x200 Ml",
+        "label": "Söğütlüçeşme Limon 6x200 Ml",
+        "detail": "6x200 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-kola-330-ml",
+        "query": "Coca-Cola Kola 330 Ml",
+        "label": "Coca-Cola Kola 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "sariyer-sekersiz-portakal-gazli-icecek-1-5-lt",
+        "query": "Sarıyer Şekersiz Portakal Gazlı İçecek 1.5 Lt",
+        "label": "Sarıyer Şekersiz Portakal Gazlı İçecek 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-sekersiz-kola-2-5-lt",
+        "query": "Coca-Cola Şekersiz Kola 2.5 Lt",
+        "label": "Coca-Cola Şekersiz Kola 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      },
+      {
+        "id": "coca-cola-cam-sise-200-ml",
+        "query": "Coca-Cola Cam Şişe 200 Ml",
+        "label": "Coca-Cola Cam Şişe 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-500-ml",
+        "query": "Fanta Portakal 500 Ml",
+        "label": "Fanta Portakal 500 Ml",
+        "detail": "500 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "crown-cola-kutu-330-ml",
+        "query": "Crown Cola Kutu 330 Ml",
+        "label": "Crown Cola Kutu 330 Ml",
+        "detail": "330 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "burn-enerji-icecegi-500-ml",
+        "query": "Burn Enerji İçeceği 500 Ml",
+        "label": "Burn Enerji İçeceği 500 Ml",
+        "detail": "500 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "tornado-enerji-icecegi-250-ml",
+        "query": "Tornado Enerji İçeceği 250 Ml",
+        "label": "Tornado Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-enerji-icecegi-6x250-ml",
+        "query": "Red Bull Enerji İçeceği 6x250 Ml",
+        "label": "Red Bull Enerji İçeceği 6x250 Ml",
+        "detail": "6x250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "red-bull-red-edition-enerji-icecegi-250-ml",
+        "query": "Red Bull Red Edition Enerji İçeceği 250 Ml",
+        "label": "Red Bull Red Edition Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "fanta-portakal-aromali-gazli-icecek-250-ml",
+        "query": "Fanta Portakal Aromalı Gazlı İçecek 250 Ml",
+        "label": "Fanta Portakal Aromalı Gazlı İçecek 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "burn-enerji-icecegi-250-ml",
+        "query": "Burn Enerji İçeceği 250 Ml",
+        "label": "Burn Enerji İçeceği 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥤"
+      },
+      {
+        "id": "pepsi-cola-gazli-icecek-2-5-lt",
+        "query": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+        "label": "Pepsi Cola Gazlı İçecek 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥤"
+      }
+    ]
+  }
 }

@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-14-14";
+const DATA_REVISION = "2026-10-15-01";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -83,8 +83,22 @@ const categories = {
     ]
   }
 };
-const catalogSubcategories = Object.values(categories).flatMap(category => category.subcategories);
-const catalogProducts = catalogSubcategories.flatMap(subcategory => subcategory.products);
+let catalogSubcategories = [];
+let catalogProducts = [];
+
+function rebuildCatalog(data = {}) {
+  const additions = data.catalog ?? {};
+  Object.entries(additions).forEach(([subcategoryId, products]) => {
+    const subcategory = Object.values(categories).flatMap(category => category.subcategories).find(item => item.id === subcategoryId);
+    if (!subcategory || !Array.isArray(products)) return;
+    const knownIds = new Set(subcategory.products.map(product => product.id));
+    subcategory.products.push(...products.filter(product => product?.id && !knownIds.has(product.id)));
+  });
+  catalogSubcategories = Object.values(categories).flatMap(category => category.subcategories);
+  catalogProducts = catalogSubcategories.flatMap(subcategory => subcategory.products);
+}
+
+rebuildCatalog();
 
 const money = (number) => new Intl.NumberFormat("tr-TR", { minimumFractionDigits: number % 1 ? 2 : 0, maximumFractionDigits: 2 }).format(number) + " TL";
 const escapeHTML = (value) => String(value).replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" })[char]);
@@ -269,6 +283,7 @@ async function loadOffers() {
     const response = await fetch(`data/latest.json?revision=${DATA_REVISION}`, { cache: "no-store" });
     if (!response.ok) throw new Error("data unavailable");
     const data = await response.json();
+    rebuildCatalog(data);
     offers = Array.isArray(data.offers) ? data.offers : [];
     unavailableStores = Array.isArray(data.storesWithoutCurrentData) ? data.storesWithoutCurrentData : [];
     updateNote.textContent = data.generatedAt ? `Veri kaydı: ${formatCheckedAt(data.generatedAt)}` : "Fiyatlar güncel";
