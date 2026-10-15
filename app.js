@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-23";
+const DATA_REVISION = "2026-10-15-24";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -132,6 +132,21 @@ const categories = {
       { id: "toilet-paper", label: "Tuvalet Kağıtları", icon: "🧻", products: [] },
       { id: "wet-wipes", label: "Islak Mendiller", icon: "🧼", products: [] },
       { id: "health-medical", label: "Sağlık ve Medikal", icon: "🩹", products: [] }
+    ]
+  },
+  personalCare: {
+    title: "Kişisel Bakım",
+    subcategories: [
+      { id: "hair-care", label: "Saç Bakım", icon: "💇", products: [] },
+      { id: "shower-bath-soap", label: "Duş Banyo ve Sabun", icon: "🧼", products: [] },
+      { id: "perfume-deodorant", label: "Parfüm ve Deodorant", icon: "🌸", products: [] },
+      { id: "oral-care", label: "Ağız Bakım", icon: "🦷", products: [] },
+      { id: "skin-care", label: "Cilt Bakımı", icon: "🧴", products: [] },
+      { id: "sanitary-pads", label: "Hijyenik Ped", icon: "🌷", products: [] },
+      { id: "shaving", label: "Tıraş Ürünleri", icon: "🪒", products: [] },
+      { id: "makeup", label: "Makyaj", icon: "💄", products: [] },
+      { id: "patient-care", label: "Hasta Bakım Ürünleri", icon: "🩹", products: [] },
+      { id: "waxing-epilation", label: "Ağda ve Epilasyon", icon: "✨", products: [] }
     ]
   }
 };
