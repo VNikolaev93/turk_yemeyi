@@ -12537,6 +12537,906 @@
       "price": 23.95,
       "oldPrice": null,
       "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-altinkilic-yaban-mersinli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Yaban Mersinli Kefir 250 Ml",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-kaf-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Sütaş Kaf Kefir 250 Ml",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-altinkilic-kefirim-orman-meyveli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Kefirim Orman Meyveli Kefir 1 Lt",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-sek-yarim-yagli-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Sek Yarım Yağlı Ayran 200 Ml",
+      "price": 10,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-ustad-kara-maya-ayran-cam-sise-1-lt",
+      "category": "İçecek",
+      "name": "Üstad Kara Maya Ayran Cam Şişe 1 Lt",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sek-probiyotik-sade-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Sek Probiyotik Sade Kefir 250 Ml",
+      "price": 43.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-activia-shot-sade-80-ml",
+      "category": "İçecek",
+      "name": "Activia Shot Sade 80 Ml",
+      "price": 33,
+      "oldPrice": 41.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-altinkilic-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Sade Kefir 1 Lt",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-altinkilic-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Sade Kefir 1 Lt",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Sade Kefir 1 Lt",
+      "price": 132.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-yorukoglu-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Yörükoğlu Ayran 1 Lt",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-yorukoglu-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Yörükoğlu Ayran 1 Lt",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-laktozsuz-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Laktozsuz Kefir 250 Ml",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sutas-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Sütaş Ayran 200 Ml",
+      "price": 15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-cilekli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Çilekli Kefir 1 Lt",
+      "price": 94.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-activa-shot-ahududu-hibiskus-80-ml",
+      "category": "İçecek",
+      "name": "Activa Shot Ahududu & Hibiskus 80 Ml",
+      "price": 33,
+      "oldPrice": 41.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-rahat-laktozsuz-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Rahat Laktozsuz Kefir 1 Lt",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-orman-meyveli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Orman Meyveli Kefir 1 Lt",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-pratik-sise-ayran-2-lt",
+      "category": "İçecek",
+      "name": "Sütaş Pratik Şişe Ayran 2 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sutas-pratik-sise-ayran-2-lt",
+      "category": "İçecek",
+      "name": "Sütaş Pratik Şişe Ayran 2 Lt",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-kefirim-cilekli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Kefirim Çilekli Kefir 1 Lt",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-kaf-orman-meyveli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Sütaş Kaf Orman Meyveli Kefir 1 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-altinkilic-sade-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Sade Kefir 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-sade-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Sade Kefir 250 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-eker-seftali-kayisili-kefir-200-ml",
+      "category": "İçecek",
+      "name": "Eker Şeftali Kayısılı Kefir 200 Ml",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sek-naneli-bardak-ayran-300-ml",
+      "category": "İçecek",
+      "name": "Sek Naneli Bardak Ayran 300 Ml",
+      "price": 24.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-altinkilic-kefirix-cilekli-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Kefirix Çilekli 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-kefirix-cilekli-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Kefirix Çilekli 250 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-yorukoglu-1-8-yagli-ayran-2-lt",
+      "category": "İçecek",
+      "name": "Yörükoğlu %1.8 Yağlı Ayran 2 Lt",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-altinkilic-laktozsuz-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Laktozsuz Kefir 1 Lt",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-altinkilic-laktozsuz-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Laktozsuz Kefir 1 Lt",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-altinkilic-laktozsuz-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Laktozsuz Kefir 1 Lt",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-laktozsuz-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Laktozsuz Kefir 1 Lt",
+      "price": 136.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-eker-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Eker Sade Kefir 1 Lt",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-altinkilic-orman-meyveli-kefirx-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Orman Meyveli Kefirx 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-altinkilic-orman-meyveli-kefirx-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Orman Meyveli Kefirx 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-orman-meyveli-kefirx-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Orman Meyveli Kefirx 250 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-kaf-kefir-cilekli-250-ml",
+      "category": "İçecek",
+      "name": "Sütaş Kaf Kefir Çilekli 250 Ml",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-kefirix-orman-meyveli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Kefirix Orman Meyveli Kefir 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-yorukoglu-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Yörükoğlu Ayran 200 Ml",
+      "price": 15,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-kefirix-kefir-cilekli-250-ml",
+      "category": "İçecek",
+      "name": "Kefirix Kefir Çilekli 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-sutas-ayran-sise-250-ml",
+      "category": "İçecek",
+      "name": "Sütaş Ayran Şişe 250 Ml",
+      "price": 22.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-eker-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Eker Ayran 1.5 Lt",
+      "price": 94.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-eker-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Eker Ayran 1.5 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-probiyotik-kara-murver-ve-yaban-mersinli-icecek-250-ml",
+      "category": "İçecek",
+      "name": "İçim Probiyotik Kara Mürver ve Yaban Mersinli İçecek 250 Ml",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-yorsan-susurluk-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Yörsan Susurluk Ayran 1 Lt",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sek-eksi-maya-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Sek Ekşi Maya Ayran 1 Lt",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-activia-shot-nar-ve-cilek-80-ml",
+      "category": "İçecek",
+      "name": "Activia Shot+ Nar Ve Çilek 80 Ml",
+      "price": 34.5,
+      "oldPrice": 43.5,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-eker-ayran-293-ml",
+      "category": "İçecek",
+      "name": "Eker Ayran 293 Ml",
+      "price": 33.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-kaf-kefir-cilek-1-lt",
+      "category": "İçecek",
+      "name": "Sütaş Kaf Kefir Çilek 1 Lt",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sutas-ayran-300-ml",
+      "category": "İçecek",
+      "name": "Sütaş Ayran 300 Ml",
+      "price": 22,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sutas-pratik-sise-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Sütaş Pratik Şişe Ayran 1 Lt",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-eker-tombul-ayran-6x195-ml",
+      "category": "İçecek",
+      "name": "Eker Tombul Ayran 6x195 Ml",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "ayran-kefir-eker-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Eker Ayran 1 Lt",
+      "price": 59.95,
+      "oldPrice": 71.9,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-sek-naneli-ayran-300-ml",
+      "category": "İçecek",
+      "name": "Sek Naneli Ayran 300 Ml",
+      "price": 18.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-altinkilic-cilekli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Çilekli Kefir 250 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-sevdanem-tek-kullanimlik-kuru-dogal-kefir-mayasi-3x0-5-gr",
+      "category": "İçecek",
+      "name": "Sevdanem Tek Kullanımlık Kuru Doğal Kefir Mayası 3x0.5 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-icim-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Sade Kefir 1 Lt",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-altinkilic-kefirix-balli-muzlu-250-ml",
+      "category": "İçecek",
+      "name": "Altınkılıç Kefirix Ballı Muzlu 250 Ml",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-yorsan-yarim-yagli-ayran-170-ml",
+      "category": "İçecek",
+      "name": "Yörsan Yarım Yağlı Ayran 170 Ml",
+      "price": 9.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-binvezir-sise-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Binvezir Şişe Ayran 1.5 Lt",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-yorsan-1-8-yagli-ayran-2-lt",
+      "category": "İçecek",
+      "name": "Yörsan %1.8 Yağlı Ayran 2 Lt",
+      "price": 84.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-dost-naneli-ayran-300-ml",
+      "category": "İçecek",
+      "name": "Dost Naneli Ayran 300 Ml",
+      "price": 18.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-ayran-tam-yagli-eksi-lezzet-1-lt",
+      "category": "İçecek",
+      "name": "Mis Ayran Tam Yağlı Ekşi Lezzet 1 Lt",
+      "price": 49.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-seftalili-ananasli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Şeftalili & Ananaslı Kefir 1 Lt",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-kefirim-orman-meyveli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Kefirim Orman Meyveli Kefir 1 Lt",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-pinar-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Pınar Kefir 1 Lt",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-torku-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Torku Ayran 1 Lt",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-torku-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Torku Ayran 1 Lt",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-mangolu-portakalli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "İçim Mangolu Portakallı Kefir 1 Lt",
+      "price": 94,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-birsah-cilekli-kefir-200-ml",
+      "category": "İçecek",
+      "name": "Birşah Çilekli Kefir 200 Ml",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-yorukoglu-ayran-285-ml",
+      "category": "İçecek",
+      "name": "Yörükoğlu Ayran 285 Ml",
+      "price": 16,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-bardak-ayran-tam-yagli-285-ml",
+      "category": "İçecek",
+      "name": "Mis Bardak Ayran Tam Yağlı 285 Ml",
+      "price": 13.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-probiyotikli-sade-kefir-200-ml",
+      "category": "İçecek",
+      "name": "Mis Probiyotikli Sade Kefir 200 Ml",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-altinkilic-kefirim-cilekli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Altınkılıç Kefirim Çilekli Kefir 1 Lt",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-probiyotikli-cilekli-kefir-200-ml",
+      "category": "İçecek",
+      "name": "Mis Probiyotikli Çilekli Kefir 200 Ml",
+      "price": 35.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-kefir-orman-meyveli-1-lt",
+      "category": "İçecek",
+      "name": "Mis Kefir Orman Meyveli 1 Lt",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-nilky-sade-probiyo-400-gr",
+      "category": "İçecek",
+      "name": "Nilky Sade Probiyo 400 Gr",
+      "price": 157.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-cilekli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "İçim Çilekli Kefir 250 Ml",
+      "price": 44.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-birsah-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Birşah Ayran 200 Ml",
+      "price": 10.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-activia-shot-probiyotik-yogurt-icecegi-ahududulu-sade-80-ml",
+      "category": "İçecek",
+      "name": "Activia Shot Probiyotik Yoğurt İçeceği Ahududulu Sade 80 Ml",
+      "price": 41.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-icim-karadut-ve-yaban-mersini-probiyotik-icecek-250-ml",
+      "category": "İçecek",
+      "name": "İçim Karadut ve Yaban Mersini Probiyotik İçecek 250 Ml",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-tam-yagli-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Mis Tam Yağlı Ayran 1.5 Lt",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-arslan-karamaya-ayran-1-lt",
+      "category": "İçecek",
+      "name": "Arslan Karamaya Ayran 1 Lt",
+      "price": 149.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-torku-ayran-2-5-lt",
+      "category": "İçecek",
+      "name": "Torku Ayran 2.5 Lt",
+      "price": 129.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-tam-yagli-bardak-ayran-200-ml",
+      "category": "İçecek",
+      "name": "İçim Tam Yağlı Bardak Ayran 200 Ml",
+      "price": 11,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ayran-kefir-birsah-sade-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Birşah Sade Kefir 1 Lt",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-sutas-kaf-kefir-orman-meyveli-250-ml",
+      "category": "İçecek",
+      "name": "Sütaş Kaf Kefir Orman Meyveli 250 Ml",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ayran-kefir-mis-bardak-ayran-tam-yagli-200-ml",
+      "category": "İçecek",
+      "name": "Mis Bardak Ayran Tam Yağlı 200 Ml",
+      "price": 10.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-icim-orman-meyveli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "İçim Orman Meyveli Kefir 250 Ml",
+      "price": 42.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-icim-orman-meyveli-kefir-250-ml",
+      "category": "İçecek",
+      "name": "İçim Orman Meyveli Kefir 250 Ml",
+      "price": 44.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-tarim-kredi-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Tarım Kredi Ayran 200 Ml",
+      "price": 10.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "ayran-kefir-carrefour-tam-yagli-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Carrefour Tam Yağlı Ayran 200 Ml",
+      "price": 10.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ayran-kefir-vivo-kefir-mayasi-4x1-gr",
+      "category": "İçecek",
+      "name": "Vivo Kefir Mayası 4x1 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-tarim-kredi-sise-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Tarım Kredi Şişe Ayran 1.5 Lt",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ayran-kefir-tarim-kredi-ayran-285-ml",
+      "category": "İçecek",
+      "name": "Tarım Kredi Ayran 285 Ml",
+      "price": 14.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-dost-bardak-ayran-200-ml",
+      "category": "İçecek",
+      "name": "Dost Bardak Ayran 200 Ml",
+      "price": 10.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-dost-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Dost Kefir 1 Lt",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-dost-sise-ayran-1-5-lt",
+      "category": "İçecek",
+      "name": "Dost Şişe Ayran 1.5 Lt",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ayran-kefir-dost-orman-meyveli-kefir-1-lt",
+      "category": "İçecek",
+      "name": "Dost Orman Meyveli Kefir 1 Lt",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-15T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -21003,6 +21903,610 @@
         "label": "Erikli Su 500 Ml",
         "detail": "500 ml",
         "icon": "💧"
+      }
+    ],
+    "ayran-kefir": [
+      {
+        "id": "ayran-kefir-altinkilic-yaban-mersinli-kefir-250-ml",
+        "query": "Altınkılıç Yaban Mersinli Kefir 250 Ml",
+        "label": "Altınkılıç Yaban Mersinli Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-kaf-kefir-250-ml",
+        "query": "Sütaş Kaf Kefir 250 Ml",
+        "label": "Sütaş Kaf Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-kefirim-orman-meyveli-kefir-1-lt",
+        "query": "Altınkılıç Kefirim Orman Meyveli Kefir 1 Lt",
+        "label": "Altınkılıç Kefirim Orman Meyveli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sek-yarim-yagli-ayran-200-ml",
+        "query": "Sek Yarım Yağlı Ayran 200 Ml",
+        "label": "Sek Yarım Yağlı Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-ustad-kara-maya-ayran-cam-sise-1-lt",
+        "query": "Üstad Kara Maya Ayran Cam Şişe 1 Lt",
+        "label": "Üstad Kara Maya Ayran Cam Şişe 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sek-probiyotik-sade-kefir-250-ml",
+        "query": "Sek Probiyotik Sade Kefir 250 Ml",
+        "label": "Sek Probiyotik Sade Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-activia-shot-sade-80-ml",
+        "query": "Activia Shot Sade 80 Ml",
+        "label": "Activia Shot Sade 80 Ml",
+        "detail": "80 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-sade-kefir-1-lt",
+        "query": "Altınkılıç Sade Kefir 1 Lt",
+        "label": "Altınkılıç Sade Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorukoglu-ayran-1-lt",
+        "query": "Yörükoğlu Ayran 1 Lt",
+        "label": "Yörükoğlu Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-laktozsuz-kefir-250-ml",
+        "query": "Altınkılıç Laktozsuz Kefir 250 Ml",
+        "label": "Altınkılıç Laktozsuz Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-ayran-200-ml",
+        "query": "Sütaş Ayran 200 Ml",
+        "label": "Sütaş Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-cilekli-kefir-1-lt",
+        "query": "İçim Çilekli Kefir 1 Lt",
+        "label": "İçim Çilekli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-activa-shot-ahududu-hibiskus-80-ml",
+        "query": "Activa Shot Ahududu & Hibiskus 80 Ml",
+        "label": "Activa Shot Ahududu & Hibiskus 80 Ml",
+        "detail": "80 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-rahat-laktozsuz-kefir-1-lt",
+        "query": "İçim Rahat Laktozsuz Kefir 1 Lt",
+        "label": "İçim Rahat Laktozsuz Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-orman-meyveli-kefir-1-lt",
+        "query": "İçim Orman Meyveli Kefir 1 Lt",
+        "label": "İçim Orman Meyveli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-pratik-sise-ayran-2-lt",
+        "query": "Sütaş Pratik Şişe Ayran 2 Lt",
+        "label": "Sütaş Pratik Şişe Ayran 2 Lt",
+        "detail": "2 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-kefirim-cilekli-kefir-1-lt",
+        "query": "Kefirim Çilekli Kefir 1 Lt",
+        "label": "Kefirim Çilekli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-kaf-orman-meyveli-kefir-1-lt",
+        "query": "Sütaş Kaf Orman Meyveli Kefir 1 Lt",
+        "label": "Sütaş Kaf Orman Meyveli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-sade-kefir-250-ml",
+        "query": "Altınkılıç Sade Kefir 250 Ml",
+        "label": "Altınkılıç Sade Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-seftali-kayisili-kefir-200-ml",
+        "query": "Eker Şeftali Kayısılı Kefir 200 Ml",
+        "label": "Eker Şeftali Kayısılı Kefir 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sek-naneli-bardak-ayran-300-ml",
+        "query": "Sek Naneli Bardak Ayran 300 Ml",
+        "label": "Sek Naneli Bardak Ayran 300 Ml",
+        "detail": "300 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-kefirix-cilekli-250-ml",
+        "query": "Altınkılıç Kefirix Çilekli 250 Ml",
+        "label": "Altınkılıç Kefirix Çilekli 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorukoglu-1-8-yagli-ayran-2-lt",
+        "query": "Yörükoğlu %1.8 Yağlı Ayran 2 Lt",
+        "label": "Yörükoğlu %1.8 Yağlı Ayran 2 Lt",
+        "detail": "2 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-laktozsuz-kefir-1-lt",
+        "query": "Altınkılıç Laktozsuz Kefir 1 Lt",
+        "label": "Altınkılıç Laktozsuz Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-sade-kefir-1-lt",
+        "query": "Eker Sade Kefir 1 Lt",
+        "label": "Eker Sade Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-orman-meyveli-kefirx-250-ml",
+        "query": "Altınkılıç Orman Meyveli Kefirx 250 Ml",
+        "label": "Altınkılıç Orman Meyveli Kefirx 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-kaf-kefir-cilekli-250-ml",
+        "query": "Sütaş Kaf Kefir Çilekli 250 Ml",
+        "label": "Sütaş Kaf Kefir Çilekli 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-kefirix-orman-meyveli-kefir-250-ml",
+        "query": "Kefirix Orman Meyveli Kefir 250 Ml",
+        "label": "Kefirix Orman Meyveli Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorukoglu-ayran-200-ml",
+        "query": "Yörükoğlu Ayran 200 Ml",
+        "label": "Yörükoğlu Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-kefirix-kefir-cilekli-250-ml",
+        "query": "Kefirix Kefir Çilekli 250 Ml",
+        "label": "Kefirix Kefir Çilekli 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-ayran-sise-250-ml",
+        "query": "Sütaş Ayran Şişe 250 Ml",
+        "label": "Sütaş Ayran Şişe 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-ayran-1-5-lt",
+        "query": "Eker Ayran 1.5 Lt",
+        "label": "Eker Ayran 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-probiyotik-kara-murver-ve-yaban-mersinli-icecek-250-ml",
+        "query": "İçim Probiyotik Kara Mürver ve Yaban Mersinli İçecek 250 Ml",
+        "label": "İçim Probiyotik Kara Mürver ve Yaban Mersinli İçecek 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorsan-susurluk-ayran-1-lt",
+        "query": "Yörsan Susurluk Ayran 1 Lt",
+        "label": "Yörsan Susurluk Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sek-eksi-maya-ayran-1-lt",
+        "query": "Sek Ekşi Maya Ayran 1 Lt",
+        "label": "Sek Ekşi Maya Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-activia-shot-nar-ve-cilek-80-ml",
+        "query": "Activia Shot+ Nar Ve Çilek 80 Ml",
+        "label": "Activia Shot+ Nar Ve Çilek 80 Ml",
+        "detail": "80 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-ayran-293-ml",
+        "query": "Eker Ayran 293 Ml",
+        "label": "Eker Ayran 293 Ml",
+        "detail": "293 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-kaf-kefir-cilek-1-lt",
+        "query": "Sütaş Kaf Kefir Çilek 1 Lt",
+        "label": "Sütaş Kaf Kefir Çilek 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-ayran-300-ml",
+        "query": "Sütaş Ayran 300 Ml",
+        "label": "Sütaş Ayran 300 Ml",
+        "detail": "300 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-pratik-sise-ayran-1-lt",
+        "query": "Sütaş Pratik Şişe Ayran 1 Lt",
+        "label": "Sütaş Pratik Şişe Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-tombul-ayran-6x195-ml",
+        "query": "Eker Tombul Ayran 6x195 Ml",
+        "label": "Eker Tombul Ayran 6x195 Ml",
+        "detail": "195 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-eker-ayran-1-lt",
+        "query": "Eker Ayran 1 Lt",
+        "label": "Eker Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sek-naneli-ayran-300-ml",
+        "query": "Sek Naneli Ayran 300 Ml",
+        "label": "Sek Naneli Ayran 300 Ml",
+        "detail": "300 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-cilekli-kefir-250-ml",
+        "query": "Altınkılıç Çilekli Kefir 250 Ml",
+        "label": "Altınkılıç Çilekli Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sevdanem-tek-kullanimlik-kuru-dogal-kefir-mayasi-3x0-5-gr",
+        "query": "Sevdanem Tek Kullanımlık Kuru Doğal Kefir Mayası 3x0.5 Gr",
+        "label": "Sevdanem Tek Kullanımlık Kuru Doğal Kefir Mayası 3x0.5 Gr",
+        "detail": "0.5 g",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-sade-kefir-1-lt",
+        "query": "İçim Sade Kefir 1 Lt",
+        "label": "İçim Sade Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-kefirix-balli-muzlu-250-ml",
+        "query": "Altınkılıç Kefirix Ballı Muzlu 250 Ml",
+        "label": "Altınkılıç Kefirix Ballı Muzlu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorsan-yarim-yagli-ayran-170-ml",
+        "query": "Yörsan Yarım Yağlı Ayran 170 Ml",
+        "label": "Yörsan Yarım Yağlı Ayran 170 Ml",
+        "detail": "170 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-binvezir-sise-ayran-1-5-lt",
+        "query": "Binvezir Şişe Ayran 1.5 Lt",
+        "label": "Binvezir Şişe Ayran 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorsan-1-8-yagli-ayran-2-lt",
+        "query": "Yörsan %1.8 Yağlı Ayran 2 Lt",
+        "label": "Yörsan %1.8 Yağlı Ayran 2 Lt",
+        "detail": "2 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-dost-naneli-ayran-300-ml",
+        "query": "Dost Naneli Ayran 300 Ml",
+        "label": "Dost Naneli Ayran 300 Ml",
+        "detail": "300 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-ayran-tam-yagli-eksi-lezzet-1-lt",
+        "query": "Mis Ayran Tam Yağlı Ekşi Lezzet 1 Lt",
+        "label": "Mis Ayran Tam Yağlı Ekşi Lezzet 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-seftalili-ananasli-kefir-1-lt",
+        "query": "İçim Şeftalili & Ananaslı Kefir 1 Lt",
+        "label": "İçim Şeftalili & Ananaslı Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-kefirim-orman-meyveli-kefir-1-lt",
+        "query": "Kefirim Orman Meyveli Kefir 1 Lt",
+        "label": "Kefirim Orman Meyveli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-pinar-kefir-1-lt",
+        "query": "Pınar Kefir 1 Lt",
+        "label": "Pınar Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-torku-ayran-1-lt",
+        "query": "Torku Ayran 1 Lt",
+        "label": "Torku Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-mangolu-portakalli-kefir-1-lt",
+        "query": "İçim Mangolu Portakallı Kefir 1 Lt",
+        "label": "İçim Mangolu Portakallı Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-birsah-cilekli-kefir-200-ml",
+        "query": "Birşah Çilekli Kefir 200 Ml",
+        "label": "Birşah Çilekli Kefir 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-yorukoglu-ayran-285-ml",
+        "query": "Yörükoğlu Ayran 285 Ml",
+        "label": "Yörükoğlu Ayran 285 Ml",
+        "detail": "285 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-bardak-ayran-tam-yagli-285-ml",
+        "query": "Mis Bardak Ayran Tam Yağlı 285 Ml",
+        "label": "Mis Bardak Ayran Tam Yağlı 285 Ml",
+        "detail": "285 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-probiyotikli-sade-kefir-200-ml",
+        "query": "Mis Probiyotikli Sade Kefir 200 Ml",
+        "label": "Mis Probiyotikli Sade Kefir 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-altinkilic-kefirim-cilekli-kefir-1-lt",
+        "query": "Altınkılıç Kefirim Çilekli Kefir 1 Lt",
+        "label": "Altınkılıç Kefirim Çilekli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-probiyotikli-cilekli-kefir-200-ml",
+        "query": "Mis Probiyotikli Çilekli Kefir 200 Ml",
+        "label": "Mis Probiyotikli Çilekli Kefir 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-kefir-orman-meyveli-1-lt",
+        "query": "Mis Kefir Orman Meyveli 1 Lt",
+        "label": "Mis Kefir Orman Meyveli 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-nilky-sade-probiyo-400-gr",
+        "query": "Nilky Sade Probiyo 400 Gr",
+        "label": "Nilky Sade Probiyo 400 Gr",
+        "detail": "400 g",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-cilekli-kefir-250-ml",
+        "query": "İçim Çilekli Kefir 250 Ml",
+        "label": "İçim Çilekli Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-birsah-ayran-200-ml",
+        "query": "Birşah Ayran 200 Ml",
+        "label": "Birşah Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-activia-shot-probiyotik-yogurt-icecegi-ahududulu-sade-80-ml",
+        "query": "Activia Shot Probiyotik Yoğurt İçeceği Ahududulu Sade 80 Ml",
+        "label": "Activia Shot Probiyotik Yoğurt İçeceği Ahududulu Sade 80 Ml",
+        "detail": "80 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-karadut-ve-yaban-mersini-probiyotik-icecek-250-ml",
+        "query": "İçim Karadut ve Yaban Mersini Probiyotik İçecek 250 Ml",
+        "label": "İçim Karadut ve Yaban Mersini Probiyotik İçecek 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-tam-yagli-ayran-1-5-lt",
+        "query": "Mis Tam Yağlı Ayran 1.5 Lt",
+        "label": "Mis Tam Yağlı Ayran 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-arslan-karamaya-ayran-1-lt",
+        "query": "Arslan Karamaya Ayran 1 Lt",
+        "label": "Arslan Karamaya Ayran 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-torku-ayran-2-5-lt",
+        "query": "Torku Ayran 2.5 Lt",
+        "label": "Torku Ayran 2.5 Lt",
+        "detail": "2.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-tam-yagli-bardak-ayran-200-ml",
+        "query": "İçim Tam Yağlı Bardak Ayran 200 Ml",
+        "label": "İçim Tam Yağlı Bardak Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-birsah-sade-kefir-1-lt",
+        "query": "Birşah Sade Kefir 1 Lt",
+        "label": "Birşah Sade Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-sutas-kaf-kefir-orman-meyveli-250-ml",
+        "query": "Sütaş Kaf Kefir Orman Meyveli 250 Ml",
+        "label": "Sütaş Kaf Kefir Orman Meyveli 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-mis-bardak-ayran-tam-yagli-200-ml",
+        "query": "Mis Bardak Ayran Tam Yağlı 200 Ml",
+        "label": "Mis Bardak Ayran Tam Yağlı 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-icim-orman-meyveli-kefir-250-ml",
+        "query": "İçim Orman Meyveli Kefir 250 Ml",
+        "label": "İçim Orman Meyveli Kefir 250 Ml",
+        "detail": "250 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-tarim-kredi-ayran-200-ml",
+        "query": "Tarım Kredi Ayran 200 Ml",
+        "label": "Tarım Kredi Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-carrefour-tam-yagli-ayran-200-ml",
+        "query": "Carrefour Tam Yağlı Ayran 200 Ml",
+        "label": "Carrefour Tam Yağlı Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-vivo-kefir-mayasi-4x1-gr",
+        "query": "Vivo Kefir Mayası 4x1 Gr",
+        "label": "Vivo Kefir Mayası 4x1 Gr",
+        "detail": "1 g",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-tarim-kredi-sise-ayran-1-5-lt",
+        "query": "Tarım Kredi Şişe Ayran 1.5 Lt",
+        "label": "Tarım Kredi Şişe Ayran 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-tarim-kredi-ayran-285-ml",
+        "query": "Tarım Kredi Ayran 285 Ml",
+        "label": "Tarım Kredi Ayran 285 Ml",
+        "detail": "285 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-dost-bardak-ayran-200-ml",
+        "query": "Dost Bardak Ayran 200 Ml",
+        "label": "Dost Bardak Ayran 200 Ml",
+        "detail": "200 ml",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-dost-kefir-1-lt",
+        "query": "Dost Kefir 1 Lt",
+        "label": "Dost Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-dost-sise-ayran-1-5-lt",
+        "query": "Dost Şişe Ayran 1.5 Lt",
+        "label": "Dost Şişe Ayran 1.5 Lt",
+        "detail": "1.5 L",
+        "icon": "🥛"
+      },
+      {
+        "id": "ayran-kefir-dost-orman-meyveli-kefir-1-lt",
+        "query": "Dost Orman Meyveli Kefir 1 Lt",
+        "label": "Dost Orman Meyveli Kefir 1 Lt",
+        "detail": "1 L",
+        "icon": "🥛"
       }
     ]
   }
