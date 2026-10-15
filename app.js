@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-16";
+const DATA_REVISION = "2026-10-15-17";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -42,7 +42,14 @@ const categories = {
   },
   dairy: {
     title: "Süt Ürünleri",
-    subcategories: []
+    subcategories: [
+      { id: "dairy-cheese", label: "Peynir", icon: "🧀", products: [] },
+      { id: "dairy-milk", label: "Süt", icon: "🥛", products: [] },
+      { id: "dairy-yogurt", label: "Yoğurt", icon: "🥣", products: [] },
+      { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [] },
+      { id: "other-dairy", label: "Diğer Süt Ürünleri", icon: "🥛", products: [] },
+      { id: "dairy-eggs", label: "Yumurta", icon: "🥚", products: [] }
+    ]
   },
   meat: {
     title: "Et, Tavuk ve Balık",
