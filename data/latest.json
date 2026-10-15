@@ -9081,6 +9081,2832 @@
       "price": 349.99,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "rella-mozzarella-sticks-300-gr",
+      "category": "Temel Gıda",
+      "name": "Rella Mozzarella Sticks 300 Gr",
+      "price": 199.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-ince-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "İnci İnce Çıtır Patates 1 Kg",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-patlican-salatasi-530-gr",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Patlıcan Salatası 530 Gr",
+      "price": 89.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "piyale-mac-cheese-makarna-208-gr",
+      "category": "Temel Gıda",
+      "name": "Piyale Mac & Cheese Makarna 208 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "m-z-ege-citir-tavuk-burger-180-gr",
+      "category": "Temel Gıda",
+      "name": "M.Z Ege Çıtır Tavuk Burger 180 Gr",
+      "price": 40,
+      "oldPrice": 48,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "froland-dondurulmus-su-boregi-600-gr",
+      "category": "Temel Gıda",
+      "name": "Froland Dondurulmuş Su Böreği 600 Gr",
+      "price": 139.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-lahmacun-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Lahmacun 400 Gr",
+      "price": 200,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-ispanakli-tepsi-boregi-650-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Ispanaklı Tepsi Böreği 650 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-peynirli-tepsi-boregi-650-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Peynirli Tepsi Böreği 650 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dr-oetker-speciale-sucuklu-pizza-720-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Speciale Sucuklu Pizza 720 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-dondurulmus-ince-citir-patates-7x7-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş İnce Çıtır Patates 7x7 1 Kg",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "nickelodeon-ninja-turtles-pepperoni-pizza-560-gr",
+      "category": "Temel Gıda",
+      "name": "Nickelodeon Ninja Turtles Pepperoni Pizza 560 Gr",
+      "price": 299.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "veg-bones-ilikli-kemik-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Veg&Bones İlikli Kemik Suyu 480 Ml",
+      "price": 105.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-jumbo-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Jumbo Patates 1 Kg",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dr-oetker-peynirli-pizza-325-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Peynirli Pizza 325 Gr",
+      "price": 169.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dudomi-korili-paket-noodle-350-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Körili Paket Noodle 350 Gr",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ponti-dondurulmus-kupmix-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Ponti Dondurulmuş Küpmix Rulo Börek 500 Gr",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pek-food-klasik-dondurulmus-lahmacun-400-gr",
+      "category": "Temel Gıda",
+      "name": "Pek Food Klasik Dondurulmuş Lahmacun 400 Gr",
+      "price": 179.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-tavuklu-paket-noodle-350-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuklu Paket Noodle 350 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-kori-cesnili-paket-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Paket Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "feast-bamya-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Bamya 450 Gr",
+      "price": 224.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "feast-bamya-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Bamya 450 Gr",
+      "price": 229.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-artizan-pepperoni-pizza-445-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Artizan Pepperoni Pizza 445 Gr",
+      "price": 279.97,
+      "oldPrice": 399.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-bogurtlen-300-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Böğürtlen 300 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "yayla-hazir-salata-aci-miks-120-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Hazır Salata Acı Miks 120 Gr",
+      "price": 48.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "yayla-hazir-salata-aci-miks-120-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Hazır Salata Acı Miks 120 Gr",
+      "price": 76.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "indomie-sebze-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebze Çeşnili Bardak Noodle 60 Gr",
+      "price": 25,
+      "oldPrice": 40.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-sebze-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebze Çeşnili Bardak Noodle 60 Gr",
+      "price": 30.38,
+      "oldPrice": 40.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-sebze-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebze Çeşnili Bardak Noodle 60 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-patatesli-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Patatesli Rulo Börek 500 Gr",
+      "price": 219.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "eker-yogurt-soslu-dip-cips-125-gr",
+      "category": "Temel Gıda",
+      "name": "Eker Yoğurt Soslu Dip&Cips 125 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eker-yogurt-soslu-dip-cips-125-gr",
+      "category": "Temel Gıda",
+      "name": "Eker Yoğurt Soslu Dip&Cips 125 Gr",
+      "price": 50.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-gurme-sogan-halkasi-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Gurme Soğan Halkası 450 Gr",
+      "price": 108.47,
+      "oldPrice": 154.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "superfresh-dondurulmus-bohca-manti-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Bohça Mantı 1 Kg",
+      "price": 215,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-bohca-manti-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Bohça Mantı 1 Kg",
+      "price": 215,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "feast-taze-fasulye-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Taze Fasulye 450 Gr",
+      "price": 139.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-patates-puresi-60-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Patates Püresi 60 Gr",
+      "price": 50.21,
+      "oldPrice": 66.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dr-oetker-guseppe-mozzarella-pizza-412-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Guseppe Mozzarella Pizza 412 Gr",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-pilic-sosisli-sandvic-130-gr",
+      "category": "Temel Gıda",
+      "name": "Beşler Piliç Sosisli Sandviç 130 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tamek-patlican-kizartma-380-gr",
+      "category": "Temel Gıda",
+      "name": "Tamek Patlıcan Kızartma 380 Gr",
+      "price": 73.47,
+      "oldPrice": 104.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "tamek-patlican-kizartma-380-gr",
+      "category": "Temel Gıda",
+      "name": "Tamek Patlıcan Kızartma 380 Gr",
+      "price": 78.71,
+      "oldPrice": 104.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tukas-dondurulmus-parmak-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Tukaş Dondurulmuş Parmak Patates 1 Kg",
+      "price": 169.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "yayla-salata-hazir-eksi-mix-120-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Salata Hazır Ekşi Mix 120 Gr",
+      "price": 49.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "yayla-salata-hazir-eksi-mix-120-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Salata Hazır Ekşi Mix 120 Gr",
+      "price": 76.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pek-food-lahmacun-400-gr",
+      "category": "Temel Gıda",
+      "name": "Pek Food Lahmacun 400 Gr",
+      "price": 209.95,
+      "oldPrice": 279.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-tavuk-cesnili-noodle-5x70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Noodle 5x70 Gr",
+      "price": 64.13,
+      "oldPrice": 85.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "indomie-tavuk-cesnili-noodle-5x70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Noodle 5x70 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tada-salsa-soslu-patatesli-tavuk-250-gr",
+      "category": "Temel Gıda",
+      "name": "Tada Salsa Soslu Patatesli Tavuk 250 Gr",
+      "price": 61.77,
+      "oldPrice": 102.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tada-salsa-soslu-patatesli-tavuk-250-gr",
+      "category": "Temel Gıda",
+      "name": "Tada Salsa Soslu Patatesli Tavuk 250 Gr",
+      "price": 102.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-klasik-pizza-tost-200-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Klasik Pizza Tost 200 Gr",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-kori-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Noodle 75 Gr",
+      "price": 14.96,
+      "oldPrice": 19.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-kori-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-tavuk-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Noodle 70 Gr",
+      "price": 14.96,
+      "oldPrice": 19.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-tavuk-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Noodle 70 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-tavuk-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Noodle 70 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "indomie-tavuk-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Noodle 70 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dudomi-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Bardak Noodle 60 Gr",
+      "price": 29.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "iff-s-dondurulmus-kis-icecegi-140-gr",
+      "category": "Temel Gıda",
+      "name": "Iff's Dondurulmuş Kış İçeceği 140 Gr",
+      "price": 75.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "yayla-sebzeli-tavuk-sote-200-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Sebzeli Tavuk Sote 200 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "yayla-sebzeli-tavuk-sote-200-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Sebzeli Tavuk Sote 200 Gr",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-sushida-teriyaki-tavuklu-onigiri-125-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Sushida Teriyaki Tavuklu Onigiri 125 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-dondurulmus-tirtikli-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Tırtıklı Patates 1 Kg",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-gurme-mozzarella-jambon-sandvic-145-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Gurme Mozzarella Jambon Sandviç 145 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-klasik-tavuklu-sandvic-145-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Klasik Tavuklu Sandviç 145 Gr",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-tavuk-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-tavuk-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+      "price": 30.38,
+      "oldPrice": 40.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-tavuk-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "indomie-tavuk-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+      "price": 40.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "superfresh-pizza-king-4-lu-780-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Pizza King 4'lü 780 Gr",
+      "price": 349.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-pizza-king-4-lu-780-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Pizza King 4'lü 780 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "birinci-hazir-mihlama-kuymak-250-gr",
+      "category": "Temel Gıda",
+      "name": "Birinci Hazır Mıhlama Kuymak 250 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "porsion-dondurulmus-icli-kofte-320-gr",
+      "category": "Temel Gıda",
+      "name": "Porsion Dondurulmuş İçli Köfte 320 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-dana-eti-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Dana Eti Çeşnili Bardak Noodle 60 Gr",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-dana-eti-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Dana Eti Çeşnili Bardak Noodle 60 Gr",
+      "price": 30.38,
+      "oldPrice": 40.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-dana-eti-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Dana Eti Çeşnili Bardak Noodle 60 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-orman-meyveleri-300-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Dondurulmuş Orman Meyveleri 300 Gr",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "pidemiss-kiymali-mini-pide-10x40-gr",
+      "category": "Temel Gıda",
+      "name": "Pidemiss Kıymalı Mini Pide 10x40 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-misir-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Mısır 450 Gr",
+      "price": 94.47,
+      "oldPrice": 134.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-sebzeli-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebzeli Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-sebzeli-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebzeli Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-kori-cesnili-noodle-5x75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+      "price": 64.13,
+      "oldPrice": 85.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "indomie-kori-cesnili-noodle-5x75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-kori-cesnili-noodle-5x75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-kori-cesnili-noodle-5x75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "feast-ince-cubuk-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast İnce Çubuk Patates 1 Kg",
+      "price": 209.97,
+      "oldPrice": 299.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-yemek-kiti-kore-usulu-tavuklu-pilav-370-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Yemek Kiti Kore Usulü Tavuklu Pilav 370 Gr",
+      "price": 157.46,
+      "oldPrice": 209.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-ilikli-kemik-suyuna-ezogelin-corbasi-370-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita İlikli Kemik Suyuna Ezogelin Çorbası 370 Ml",
+      "price": 279.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-haydari-200-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Haydari 200 Gr",
+      "price": 164.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "superfresh-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Çıtır Patates 1 Kg",
+      "price": 159.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "superfresh-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Çıtır Patates 1 Kg",
+      "price": 189.95,
+      "oldPrice": 269.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Çıtır Patates 1 Kg",
+      "price": 264.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-rulo-borek-kiymali-patatesli-500-gr",
+      "category": "Temel Gıda",
+      "name": "Pınar Rulo Börek Kıymalı Patatesli 500 Gr",
+      "price": 264.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "feast-gurme-sogan-halka-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Gurme Soğan Halka 450 Gr",
+      "price": 122.47,
+      "oldPrice": 174.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dr-oetker-guseppe-supreme-extra-karisik-pizza-415-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Guseppe Supreme Extra Karışık Pizza 415 Gr",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-tavuk-suyu-sade-320-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita Tavuk Suyu Sade 320 Ml",
+      "price": 269.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-tavuk-suyu-sade-4x50-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita Tavuk Suyu Sade 4x50 Ml",
+      "price": 139.95,
+      "oldPrice": 189.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "knorr-cabuk-alfredo-bardak-makarna-48-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Alfredo Bardak Makarna 48 Gr",
+      "price": 14.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-ispanak-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Ispanak 450 Gr",
+      "price": 83.97,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-patates-kroket-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Patates Kroket 450 Gr",
+      "price": 80.47,
+      "oldPrice": 114.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-klasik-humus-kitir-ekmekli-130-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Klasik Humus Kıtır Ekmekli 130 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-gurme-soya-soslu-hazir-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Gurme Soya Soslu Hazır Noodle 80 Gr",
+      "price": 20.21,
+      "oldPrice": 26.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-gurme-soya-soslu-hazir-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Gurme Soya Soslu Hazır Noodle 80 Gr",
+      "price": 26.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "pinar-pacanga-boregi-270-gr",
+      "category": "Temel Gıda",
+      "name": "Pınar Paçanga Böreği 270 Gr",
+      "price": 249.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burcu-meksika-fasulyeli-tavuk-salatasi-150-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Meksika Fasulyeli Tavuk Salatası 150 Gr",
+      "price": 104.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "veg-bones-paca-ilikli-kemik-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Veg&Bones Paça/İlikli Kemik Suyu 480 Ml",
+      "price": 111.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-sushida-ton-balikli-onigiri-125-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Sushida Ton Balıklı Onigiri 125 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-patates-2-5-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Patates 2.5 Kg",
+      "price": 279.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-klasik-kasarli-sandvic-145-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Klasik Kaşarlı Sandviç 145 Gr",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "knorr-cabuk-makarna-truflu-penne-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Makarna Trüflü Penne 65 Gr",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-cabuk-makarna-truflu-penne-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Makarna Trüflü Penne 65 Gr",
+      "price": 49.63,
+      "oldPrice": 70.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-cabuk-makarna-truflu-penne-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Makarna Trüflü Penne 65 Gr",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-sushida-california-onigiri-125-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Sushida California Onigiri 125 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-acili-ezme-200-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Acılı Ezme 200 Gr",
+      "price": 124.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sushida-sushi-california-roll-205-gr",
+      "category": "Temel Gıda",
+      "name": "Sushida Sushi California Roll 205 Gr",
+      "price": 399.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-klasik-kasar-salamli-sandvic-145-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Klasik Kaşar Salamlı Sandviç 145 Gr",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "knorr-cabuk-makarna-pesto-fusilli-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Makarna Pesto Fusilli 65 Gr",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-cabuk-makarna-pesto-fusilli-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Makarna Pesto Fusilli 65 Gr",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-cevizli-cig-kofte-350-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Cevizli Çiğ Köfte 350 Gr",
+      "price": 159.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-kuzu-ilikli-kemik-suyu-4x50-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita Kuzu İlikli Kemik Suyu 4x50 Ml",
+      "price": 139.95,
+      "oldPrice": 189.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-dogranmis-sogan-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Doğranmış Soğan 450 Gr",
+      "price": 69.97,
+      "oldPrice": 99.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sushida-sushi-tokyo-mix-190-gr",
+      "category": "Temel Gıda",
+      "name": "Sushida Sushi Tokyo Mix 190 Gr",
+      "price": 399.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-peynirli-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Peynirli Rulo Börek 500 Gr",
+      "price": 219.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-gurme-tavuk-teriyaki-sandvic-220-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Gurme Tavuk Teriyaki Sandviç 220 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "feast-peynirli-cubuk-300-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Peynirli Çubuk 300 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "superfresh-kayseri-mantisi-400-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Kayseri Mantısı 400 Gr",
+      "price": 129.95,
+      "oldPrice": 189.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-kayseri-mantisi-400-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Kayseri Mantısı 400 Gr",
+      "price": 185,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mezzet-saksuka-200-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Şakşuka 200 Gr",
+      "price": 79.9,
+      "oldPrice": 105,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-cabuk-ramen-17-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Ramen 17 Gr",
+      "price": 14.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-kuzu-ilikli-kemik-suyu-320-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita Kuzu İlikli Kemik Suyu 320 Ml",
+      "price": 269.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "superfresh-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Patates 1 Kg",
+      "price": 179.95,
+      "oldPrice": 259.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Patates 1 Kg",
+      "price": 254.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mezzet-haydari-200-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Haydari 200 Gr",
+      "price": 84.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "levent-borek-3-peynirli-400-gr",
+      "category": "Temel Gıda",
+      "name": "Levent Börek 3 Peynirli 400 Gr",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dr-oetker-guseppe-sucuklu-pizza-402-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Guseppe Sucuklu Pizza 402 Gr",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-icli-kofte-300-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen İçli Köfte 300 Gr",
+      "price": 254.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dardanel-mr-no-kasar-salam-peynir-sandvic-130-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Kaşar Salam Peynir Sandviç 130 Gr",
+      "price": 31,
+      "oldPrice": 36.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "superfresh-dondurulmus-pizza-tost-200-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Dondurulmuş Pizza Tost 200 Gr",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-elma-dilim-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Elma Dilim Patates 1 Kg",
+      "price": 264.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-gurme-churros-kesim-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast Gurme Churros Kesim Patates 1 Kg",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "indomie-korili-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Körili Noodle 70 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-ispanakli-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Ispanaklı Rulo Börek 500 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-ispanakli-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Ispanaklı Rulo Börek 500 Gr",
+      "price": 219.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "veg-bones-tavuk-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Veg&Bones Tavuk Suyu 480 Ml",
+      "price": 105.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-pratik-sebze-sote-mix-450-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Pratik Sebze Sote Mix 450 Gr",
+      "price": 104.3,
+      "oldPrice": 149,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "hacioglu-dondurulmus-lahmacun-4x110-gr",
+      "category": "Temel Gıda",
+      "name": "Hacıoğlu Dondurulmuş Lahmacun 4x110 Gr",
+      "price": 220,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-gurme-aci-ve-baharatli-hazir-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Gurme Acı ve Baharatlı Hazır Noodle 80 Gr",
+      "price": 20.21,
+      "oldPrice": 26.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-pizza-tost-klasik-200-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Pizza Tost Klasik 200 Gr",
+      "price": 114.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-tavuk-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Knorr Tavuk Suyu 480 Ml",
+      "price": 126.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-jumbo-tavuk-aromali-noodle-120-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Jumbo Tavuk Aromalı Noodle 120 Gr",
+      "price": 19.13,
+      "oldPrice": 25.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-special-paket-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Special Paket Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-special-paket-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Special Paket Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-kori-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+      "price": 29.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "indomie-kori-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+      "price": 30.38,
+      "oldPrice": 40.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-kori-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "indomie-kori-cesnili-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+      "price": 40.25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "indomie-tavuklu-hazir-noodle-5-adet",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuklu Hazır Noodle 5 Adet",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-peynirli-tepsi-boregi-650-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Peynirli Tepsi Böreği 650 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "indomie-sebze-spesiyal-hazir-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Sebze Spesiyal Hazır Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dr-oetker-pizza-speciale-mista-417-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Pizza Speciale Mista 417 Gr",
+      "price": 154.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "superfresh-orman-meyveleri-300-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Orman Meyveleri 300 Gr",
+      "price": 387.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mezzet-rus-salatasi-250-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Rus Salatası 250 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mezzet-rus-salatasi-250-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Rus Salatası 250 Gr",
+      "price": 38.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-atom-meze-200-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Atom Meze 200 Gr",
+      "price": 164.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-mac-cheese-cabuk-makarna-65-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Mac & Cheese Çabuk Makarna 65 Gr",
+      "price": 69.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tombis-kasarli-salamli-peynirli-sandvic-130-gr",
+      "category": "Temel Gıda",
+      "name": "Tombiş Kaşarlı Salamlı Peynirli Sandviç 130 Gr",
+      "price": 31,
+      "oldPrice": 36.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-tavuk-suyu-2-88-lt",
+      "category": "Temel Gıda",
+      "name": "Knorr Tavuk Suyu 2.88 Lt",
+      "price": 127.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "zel-ilikli-kemik-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Zel İlikli Kemik Suyu 480 Ml",
+      "price": 62.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-cig-kofte-durum-ve-aci-sos-180-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Çiğ Köfte Dürüm Ve Acı Sos 180 Gr",
+      "price": 74.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tommis-citir-tavuk-burger-180-gr",
+      "category": "Temel Gıda",
+      "name": "Tommis Çıtır Tavuk Burger 180 Gr",
+      "price": 48,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dr-oetker-guseppe-4-peynirli-pizza-358-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 Gr",
+      "price": 249.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "indomie-tavuk-kori-tavuk-noodle-75-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Tavuk Köri Tavuk Noodle 75 Gr",
+      "price": 19.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-dondurulmus-kriket-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Kriket Patates 1 Kg",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-ilikli-kemik-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Fide İlikli Kemik Suyu 480 Ml",
+      "price": 33.98,
+      "oldPrice": 67.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dudomi-peynirli-jalapeno-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Peynirli Jalapeno Noodle 80 Gr",
+      "price": 35,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "nudo-vegan-noodle-350-gr",
+      "category": "Temel Gıda",
+      "name": "Nudo Vegan Noodle 350 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dudomi-kremali-feslegenli-peynirli-bardak-noodle-8-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Kremalı Fesleğenli Peynirli Bardak Noodle 8 Gr",
+      "price": 49.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "nudo-tam-bugdayli-noodle-350-gr",
+      "category": "Temel Gıda",
+      "name": "Nudo Tam Buğdaylı Noodle 350 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dudomi-kremali-korili-tavuk-cesnili-bardak-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Kremalı Körili Tavuk Çeşnili Bardak Noodle 80 Gr",
+      "price": 49.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dudomi-tom-yum-bardak-noodle-60-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Tom Yum Bardak Noodle 60 Gr",
+      "price": 39.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "galez-antep-usulu-donuk-icli-kofte-200-gr",
+      "category": "Temel Gıda",
+      "name": "Galez Antep Usulü Donuk İçli Köfte 200 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "galez-lahmacun-400-gr",
+      "category": "Temel Gıda",
+      "name": "Galez Lahmacun 400 Gr",
+      "price": 219.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-dondurulmus-kroket-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Kroket 450 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "feast-dondurulmus-acili-sogan-halkasi-450-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Acılı Soğan Halkası 450 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "pidemiss-kiymali-pide-3x125-gr",
+      "category": "Temel Gıda",
+      "name": "Pidemiss Kıymalı Pide 3x125 Gr",
+      "price": 169.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dudomi-korili-noodle-10x70-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Körili Noodle 10x70 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nissin-yakisoba-kori-soslu-noodle-85-gr",
+      "category": "Temel Gıda",
+      "name": "Nissin Yakisoba Köri Soslu Noodle 85 Gr",
+      "price": 27.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-ince-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş İnce Çıtır Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-manti-400-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Mantı 400 Gr",
+      "price": 185,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "manti-atolyesi-donuk-ozbek-manti-400-gr",
+      "category": "Temel Gıda",
+      "name": "Mantı Atölyesi Donuk Özbek Mantı 400 Gr",
+      "price": 199.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "iff-s-dondurulmus-limon-portakal-nane-ozut-200-ml",
+      "category": "Temel Gıda",
+      "name": "Iff's Dondurulmuş Limon/Portakal Nane Özüt 200 Ml",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sef-franzi-dondurulmus-peynirli-pizza-475-gr",
+      "category": "Temel Gıda",
+      "name": "Şef Franzi Dondurulmuş Peynirli Pizza 475 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nissin-yakisoba-chili-soslu-noodle-84-gr",
+      "category": "Temel Gıda",
+      "name": "Nissin Yakisoba Chili Soslu Noodle 84 Gr",
+      "price": 27.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nissin-yakisoba-japon-soslu-noodle-83-gr",
+      "category": "Temel Gıda",
+      "name": "Nissin Yakisoba Japon Soslu Noodle 83 Gr",
+      "price": 27.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "illaki-durum-cig-kofte-aci-soslu-180-gr",
+      "category": "Temel Gıda",
+      "name": "İllaki Dürüm Çiğ Köfte Acı Soslu 180 Gr",
+      "price": 26,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "yayla-napoliten-soslu-makarna-250-gr",
+      "category": "Temel Gıda",
+      "name": "Yayla Napoliten Soslu Makarna 250 Gr",
+      "price": 73.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indomie-jumbo-korili-paket-noodle-120-gr",
+      "category": "Temel Gıda",
+      "name": "Indomie Jumbo Körili Paket Noodle 120 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "zel-donuk-ilikli-kemik-suyu-480-gr",
+      "category": "Temel Gıda",
+      "name": "Zel Donuk İlikli Kemik Suyu 480 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lavi-visne-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lavi Vişne 400 Gr",
+      "price": 319.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-hizli-dondurulmus-manti-450-gr",
+      "category": "Temel Gıda",
+      "name": "Migros Hızlı Dondurulmuş Mantı 450 Gr",
+      "price": 39.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "feast-dondurulmus-tatli-kocan-misir-corn-cob-700-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Tatlı Koçan Mısır Corn Cob 700 Gr",
+      "price": 224.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kocaman-sushi-set-200-gr",
+      "category": "Temel Gıda",
+      "name": "Kocaman Sushi Set 200 Gr",
+      "price": 389.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "plate-dondurulmus-patates-9x9-2-5-kg",
+      "category": "Temel Gıda",
+      "name": "Plate Dondurulmuş Patates 9x9 2.5 Kg",
+      "price": 244.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pekfood-dondurulmus-nar-eksili-cevizli-lahmacun-400-gr",
+      "category": "Temel Gıda",
+      "name": "Pekfood Dondurulmuş Nar Ekşili/Cevizli Lahmacun 400 Gr",
+      "price": 219,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-frambuaz-300-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Frambuaz 300 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-patatesli-rulo-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Patatesli Rulo Börek 500 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezztat-peynirli-zeytin-ezmeli-baton-sandvic-140-gr",
+      "category": "Temel Gıda",
+      "name": "Lezztat Peynirli Zeytin Ezmeli Baton Sandviç 140 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezztat-peynirli-baton-sandvic-140-gr",
+      "category": "Temel Gıda",
+      "name": "Lezztat Peynirli Baton Sandviç 140 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezztat-peynirli-salamli-baton-sandvic-140-gr",
+      "category": "Temel Gıda",
+      "name": "Lezztat Peynirli Salamlı Baton Sandviç 140 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezztat-peynirli-hindi-fumeli-baton-sandvic-140-gr",
+      "category": "Temel Gıda",
+      "name": "Lezztat Peynirli Hindi Fümeli Baton Sandviç 140 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-pizza-820-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Pizza 820 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-sarkuteri-soleni-pizza-400-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Şarküteri Şöleni Pizza 400 Gr",
+      "price": 139.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-kayseri-dondurulmus-manti-450-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Kayseri Dondurulmuş Mantı 450 Gr",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-ekmek-arasi-sucuk-130-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Ekmek Arası Sucuk 130 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "islak-hamburger-2-adet",
+      "category": "Temel Gıda",
+      "name": "Islak Hamburger 2 Adet",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-parmak-patates-2-5-kg",
+      "category": "Temel Gıda",
+      "name": "İnci Parmak Patates 2.5 Kg",
+      "price": 219,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-kalem-boregi-400-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Kalem Böreği 400 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-mini-patlicanli-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Mini Patlıcanlı Börek 500 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-ince-pizza-king-600-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh İnce Pizza King 600 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-cigkofte-meze-384-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Çiğköfte Meze 384 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-mini-patatesli-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Mini Patatesli Börek 500 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "banetti-mac-cheese-206-gr",
+      "category": "Temel Gıda",
+      "name": "Banetti Mac & Cheese 206 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-ispanakli-peynirli-mini-borek-500-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Ispanaklı Peynirli Mini Börek 500 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-sogan-halkasi-450-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Soğan Halkası 450 Gr",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dr-oetker-dondurulmus-karisik-pizza-405-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Dondurulmuş Karışık Pizza 405 Gr",
+      "price": 195.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-pizza-4x205-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Pizza 4x205 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "İnci Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "knorr-cabuk-mac-cheese-peynirli-makarna-212-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-cabuk-mac-cheese-peynirli-makarna-212-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 Gr",
+      "price": 88.55,
+      "oldPrice": 126.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-cabuk-mac-cheese-peynirli-makarna-212-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 Gr",
+      "price": 124.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sef-franzi-karisik-pizza-545-gr",
+      "category": "Temel Gıda",
+      "name": "Şef Franzi Karışık Pizza 545 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-parmak-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Parmak Patates 1 Kg",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-karisik-pizza-820-gr",
+      "category": "Temel Gıda",
+      "name": "İnci Karışık Pizza 820 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mezzet-etsiz-acili-cig-kofte-sos-384-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Etsiz Acılı Çiğ Köfte & Sos 384 Gr",
+      "price": 42,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "noodlex-tavuk-aromali-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Noodlex Tavuk Aromalı Noodle 70 Gr",
+      "price": 15.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ustade-porsiyon-cig-kofte-380-gr",
+      "category": "Temel Gıda",
+      "name": "Üstade Porsiyon Çiğ Köfte 380 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "superfresh-pizza-king-ince-karisik-pizza-600-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Pizza King İnce Karışık Pizza 600 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-elma-dilim-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "İnci Elma Dilim Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "mezzet-acili-ezme-250-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Acılı Ezme 250 Gr",
+      "price": 41.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pizza-mi-go-peynirli-pizza-dondurulmus-475-gr",
+      "category": "Temel Gıda",
+      "name": "Pizza Mi-Go Peynirli Pizza Dondurulmuş 475 Gr",
+      "price": 199.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "noodlex-kori-cesnili-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Noodlex Köri Çeşnili Noodle 70 Gr",
+      "price": 15.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "peynirli-rulo-borek-75-gr",
+      "category": "Temel Gıda",
+      "name": "Peynirli Rulo Börek 75 Gr",
+      "price": 33.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dr-oetker-dondurulmus-pizza-4-lu-676-gr",
+      "category": "Temel Gıda",
+      "name": "Dr. Oetker Dondurulmuş Pizza 4'lü 676 Gr",
+      "price": 297.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-mr-no-hindi-fumeli-sandvic-145-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Hindi Fümeli Sandviç 145 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dardanel-mr-no-kasarli-salamli-kasarli-cheddarli-sandvic-130-gr",
+      "category": "Temel Gıda",
+      "name": "Dardanel Mr. No Kaşarlı Salamlı/Kaşarlı Cheddarlı Sandviç 130 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pizza-mi-jambonlu-mantarli-pizza-520-gr",
+      "category": "Temel Gıda",
+      "name": "Pizza Mi Jambonlu Mantarlı Pizza 520 Gr",
+      "price": 199.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurvita-sebzeli-ilikli-kemik-suyu-320-ml",
+      "category": "Temel Gıda",
+      "name": "Gurvita Sebzeli İlikli Kemik Suyu 320 Ml",
+      "price": 269.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-patates-kroket-450-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Patates Kroket 450 Gr",
+      "price": 79.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezztat-peynirli-pizza-475-gr",
+      "category": "Temel Gıda",
+      "name": "Lezztat Peynirli Pizza 475 Gr",
+      "price": 94.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurumen-amerikan-salata-200-gr",
+      "category": "Temel Gıda",
+      "name": "Gurumen Amerikan Salata 200 Gr",
+      "price": 124.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "leventborek-dondurulmus-3-peynirli-borek-400-gr",
+      "category": "Temel Gıda",
+      "name": "Leventbörek Dondurulmuş 3 Peynirli Börek 400 Gr",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-tavuk-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Fide Tavuk Suyu 480 Ml",
+      "price": 33.98,
+      "oldPrice": 67.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pizza-mi-go-karisik-pizza-dondurulmus-545-gr",
+      "category": "Temel Gıda",
+      "name": "Pizza Mi-Go Karışık Pizza Dondurulmuş 545 Gr",
+      "price": 199.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lavi-yaban-mersini-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lavi Yaban Mersini 400 Gr",
+      "price": 319.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mezzet-humus-200-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Humus 200 Gr",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-paca-ilikli-kemik-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Fide Paça + İlikli Kemik Suyu 480 Ml",
+      "price": 36.48,
+      "oldPrice": 72.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-sogan-halkasi-450-gr",
+      "category": "Temel Gıda",
+      "name": "İnci Soğan Halkası 450 Gr",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-dolgulu-firinlanmis-manti-500-gr",
+      "category": "Temel Gıda",
+      "name": "Migros Dolgulu Fırınlanmış Mantı 500 Gr",
+      "price": 39.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "indo-mie-gurme-aci-baharatli-noodle-80-gr",
+      "category": "Temel Gıda",
+      "name": "Indo Mie Gurme Acı Baharatlı Noodle 80 Gr",
+      "price": 26.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lavi-bogurtlen-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lavi Böğürtlen 400 Gr",
+      "price": 239.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lavi-frambuaz-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lavi Frambuaz 400 Gr",
+      "price": 384.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "sushimate-crispy-salmon-roll-470-gr",
+      "category": "Temel Gıda",
+      "name": "Sushimate Crispy Salmon Roll 470 Gr",
+      "price": 394.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-cigkofte-1-kg",
+      "category": "Temel Gıda",
+      "name": "Çokça Çiğköfte 1 Kg",
+      "price": 78,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tamkoy-sigara-boregi-1-adet",
+      "category": "Temel Gıda",
+      "name": "Tamköy Sigara Böreği 1 Adet",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "pidemiss-dondurulmus-kiymali-pide-375-gr",
+      "category": "Temel Gıda",
+      "name": "Pidemiss Dondurulmuş Kıymalı Pide 375 Gr",
+      "price": 209.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-dondurulmus-misir-450-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Dondurulmuş Mısır 450 Gr",
+      "price": 57.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pek-food-dondurulmus-lahmacun-4-adet-400-gr",
+      "category": "Temel Gıda",
+      "name": "Pek Food Dondurulmuş Lahmacun 4 Adet 400 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kemsan-tavuk-suyu-105-ml",
+      "category": "Temel Gıda",
+      "name": "Kemsan Tavuk Suyu 105 Ml",
+      "price": 32.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tada-tavuk-fileto-2x135-gr",
+      "category": "Temel Gıda",
+      "name": "Tada Tavuk Fileto 2x135 Gr",
+      "price": 122.97,
+      "oldPrice": 204.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dudomi-tavuklu-noodle-paket-5x70-gr",
+      "category": "Temel Gıda",
+      "name": "Dudomi Tavuklu Noodle Paket 5x70 Gr",
+      "price": 80,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "patatesli-rulo-borek-75-gr",
+      "category": "Temel Gıda",
+      "name": "Patatesli Rulo Börek 75 Gr",
+      "price": 33.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kemsan-ilikli-kemik-suyu-105-ml",
+      "category": "Temel Gıda",
+      "name": "Kemsan İlikli Kemik Suyu 105 Ml",
+      "price": 39.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ispanakli-peynirli-rulo-borek-85-gr",
+      "category": "Temel Gıda",
+      "name": "Ispanaklı Peynirli Rulo Börek 85 Gr",
+      "price": 33.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "superfresh-dondurulmus-patates-7x7-1-kg",
+      "category": "Temel Gıda",
+      "name": "Superfresh Dondurulmuş Patates 7x7 1 Kg",
+      "price": 189,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "sushida-dondurulmus-california-sushi-140-gr",
+      "category": "Temel Gıda",
+      "name": "Sushida Dondurulmuş California Sushi 140 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "isushi-philadelphia-roll-sushi-190-gr",
+      "category": "Temel Gıda",
+      "name": "iSushi Philadelphia Roll Sushi 190 Gr",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-dondurulmus-bezelye-450-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Dondurulmuş Bezelye 450 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zel-tavuk-suyu-480-ml",
+      "category": "Temel Gıda",
+      "name": "Zel Tavuk Suyu 480 Ml",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "gurmepack-izgara-kofte-fusilli-napolitan-300-gr",
+      "category": "Temel Gıda",
+      "name": "Gurmepack Izgara Köfte & Fusilli Napolitan 300 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-su-boregi-800-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Su Böreği 800 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "superfresh-dondurulmus-misir-450-gr",
+      "category": "Temel Gıda",
+      "name": "SuperFresh Dondurulmuş Mısır 450 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dondurulmus-bohca-manti-400-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Dondurulmuş Bohça Mantı 400 Gr",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "feast-dondurulmus-patates-crinky-1-kg",
+      "category": "Temel Gıda",
+      "name": "Feast Dondurulmuş Patates Crinky 1 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mezzet-rus-salatasi-meze-250-gr",
+      "category": "Temel Gıda",
+      "name": "Mezzet Rus Salatası Meze 250 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzungil-vakumlu-cevizli-cig-kofte-500-gr",
+      "category": "Temel Gıda",
+      "name": "Uzungil Vakumlu Cevizli Çiğ Köfte 500 Gr",
+      "price": 82.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-cigkofte-durum-260-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Çiğköfte Dürüm 260 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "tamek-patlican-kizartma-190-gr",
+      "category": "Temel Gıda",
+      "name": "Tamek Patlıcan Kızartma 190 Gr",
+      "price": 53,
+      "oldPrice": 66.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "nimet-dondurulmus-peynirli-tepsi-boregi-800-gr",
+      "category": "Temel Gıda",
+      "name": "Nimet Dondurulmuş Peynirli Tepsi Böreği 800 Gr",
+      "price": 134,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "isushi-california-roll-sushi-190-gr",
+      "category": "Temel Gıda",
+      "name": "Isushi California Roll Sushi 190 Gr",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-bamya-450-gr",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Bamya 450 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-karisik-pizza-505-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Karışık Pizza 505 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-sigara-boregi-400-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Sigara Böreği 400 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "riva-citir-tavuk-burger-tommis-180-gr",
+      "category": "Temel Gıda",
+      "name": "Riva Çıtır Tavuk Burger Tommis 180 Gr",
+      "price": 48,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-kiymali-mini-pide-400-gr",
+      "category": "Temel Gıda",
+      "name": "Dondurulmuş Kıymalı Mini Pide 400 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "noodlex-spesiyal-cesnili-noodle-70-gr",
+      "category": "Temel Gıda",
+      "name": "Noodlex Spesiyal Çeşnili Noodle 70 Gr",
+      "price": 15.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "superfresh-slimmo-king-dondurulmus-pizza-600-gr",
+      "category": "Temel Gıda",
+      "name": "Superfresh Slimmo King Dondurulmuş Pizza 600 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pelmeni-dana-etli-dondurulmus-manti-400-gr",
+      "category": "Temel Gıda",
+      "name": "Pelmeni Dana Etli Dondurulmuş Mantı 400 Gr",
+      "price": 185,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-tane-misir-450-gr",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Tane Mısır 450 Gr",
+      "price": 57.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-orman-meyveleri-350-gr",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Orman Meyveleri 350 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-dondurulmus-parmak-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Dondurulmuş Parmak Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "m-z-ege-hazir-etsiz-cig-kofte-384-gr",
+      "category": "Temel Gıda",
+      "name": "M.z. Ege Hazır Etsiz Çiğ Köfte 384 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "m-z-ege-cig-kofte-1-kg",
+      "category": "Temel Gıda",
+      "name": "M.Z. Ege Çiğ Köfte 1 Kg",
+      "price": 78,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-pizza-4-lu-820-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Pizza 4'lü 820 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-citir-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Çıtır Patates 1 Kg",
+      "price": 105,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "m-z-ege-hazir-rus-salatasi-250-gr",
+      "category": "Temel Gıda",
+      "name": "M.z. Ege Hazır Rus Salatası 250 Gr",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-patates-1-kg",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Patates 1 Kg",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-patatesli-tepsi-boregi-650-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Patatesli Tepsi Böreği 650 Gr",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-bezelye-450-gr",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Bezelye 450 Gr",
+      "price": 49.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-su-boregi-800-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Su Böreği 800 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tada-kasar-salamli-peynirli-sandvic-130-gr",
+      "category": "Temel Gıda",
+      "name": "Tada Kaşar Salamlı Peynirli Sandviç 130 Gr",
+      "price": 31,
+      "oldPrice": 36.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lezzethane-dondurulmus-tepsi-boregi-650-gr",
+      "category": "Temel Gıda",
+      "name": "Lezzethane Dondurulmuş Tepsi Böreği 650 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "m-z-ege-hazir-durum-cig-kofte-180-gr",
+      "category": "Temel Gıda",
+      "name": "M.Z. Ege Hazır Dürüm Çiğ Köfte 180 Gr",
+      "price": 22.5,
+      "oldPrice": 26,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "mutfagim-dondurulmus-manti-450-gr",
+      "category": "Temel Gıda",
+      "name": "Mutfağım Dondurulmuş Mantı 450 Gr",
+      "price": 39.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "feast-orman-meyveleri-300-gr",
+      "category": "Temel Gıda",
+      "name": "Feast Orman Meyveleri 300 Gr",
+      "price": 249.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -14908,6 +17734,1919 @@
         "label": "Palamut 1 Adet",
         "detail": "1 Adet",
         "icon": "🦐"
+      }
+    ],
+    "prepared-meals": [
+      {
+        "id": "rella-mozzarella-sticks-300-gr",
+        "query": "Rella Mozzarella Sticks 300 Gr",
+        "label": "Rella Mozzarella Sticks 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-ince-citir-patates-1-kg",
+        "query": "İnci İnce Çıtır Patates 1 Kg",
+        "label": "İnci İnce Çıtır Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "bizim-vatan-patlican-salatasi-530-gr",
+        "query": "Bizim Vatan Patlıcan Salatası 530 Gr",
+        "label": "Bizim Vatan Patlıcan Salatası 530 Gr",
+        "detail": "530 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "piyale-mac-cheese-makarna-208-gr",
+        "query": "Piyale Mac & Cheese Makarna 208 Gr",
+        "label": "Piyale Mac & Cheese Makarna 208 Gr",
+        "detail": "208 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "m-z-ege-citir-tavuk-burger-180-gr",
+        "query": "M.Z Ege Çıtır Tavuk Burger 180 Gr",
+        "label": "M.Z Ege Çıtır Tavuk Burger 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "froland-dondurulmus-su-boregi-600-gr",
+        "query": "Froland Dondurulmuş Su Böreği 600 Gr",
+        "label": "Froland Dondurulmuş Su Böreği 600 Gr",
+        "detail": "600 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-lahmacun-400-gr",
+        "query": "Lezzethane Dondurulmuş Lahmacun 400 Gr",
+        "label": "Lezzethane Dondurulmuş Lahmacun 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-ispanakli-tepsi-boregi-650-gr",
+        "query": "Nimet Dondurulmuş Ispanaklı Tepsi Böreği 650 Gr",
+        "label": "Nimet Dondurulmuş Ispanaklı Tepsi Böreği 650 Gr",
+        "detail": "650 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-peynirli-tepsi-boregi-650-gr",
+        "query": "Nimet Dondurulmuş Peynirli Tepsi Böreği 650 Gr",
+        "label": "Nimet Dondurulmuş Peynirli Tepsi Böreği 650 Gr",
+        "detail": "650 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-speciale-sucuklu-pizza-720-gr",
+        "query": "Dr. Oetker Speciale Sucuklu Pizza 720 Gr",
+        "label": "Dr. Oetker Speciale Sucuklu Pizza 720 Gr",
+        "detail": "720 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-ince-citir-patates-7x7-1-kg",
+        "query": "Feast Dondurulmuş İnce Çıtır Patates 7x7 1 Kg",
+        "label": "Feast Dondurulmuş İnce Çıtır Patates 7x7 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "nickelodeon-ninja-turtles-pepperoni-pizza-560-gr",
+        "query": "Nickelodeon Ninja Turtles Pepperoni Pizza 560 Gr",
+        "label": "Nickelodeon Ninja Turtles Pepperoni Pizza 560 Gr",
+        "detail": "560 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "veg-bones-ilikli-kemik-suyu-480-ml",
+        "query": "Veg&Bones İlikli Kemik Suyu 480 Ml",
+        "label": "Veg&Bones İlikli Kemik Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-jumbo-patates-1-kg",
+        "query": "Superfresh Dondurulmuş Jumbo Patates 1 Kg",
+        "label": "Superfresh Dondurulmuş Jumbo Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-peynirli-pizza-325-gr",
+        "query": "Dr. Oetker Peynirli Pizza 325 Gr",
+        "label": "Dr. Oetker Peynirli Pizza 325 Gr",
+        "detail": "325 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-korili-paket-noodle-350-gr",
+        "query": "Dudomi Körili Paket Noodle 350 Gr",
+        "label": "Dudomi Körili Paket Noodle 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "ponti-dondurulmus-kupmix-rulo-borek-500-gr",
+        "query": "Ponti Dondurulmuş Küpmix Rulo Börek 500 Gr",
+        "label": "Ponti Dondurulmuş Küpmix Rulo Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pek-food-klasik-dondurulmus-lahmacun-400-gr",
+        "query": "Pek Food Klasik Dondurulmuş Lahmacun 400 Gr",
+        "label": "Pek Food Klasik Dondurulmuş Lahmacun 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuklu-paket-noodle-350-gr",
+        "query": "Indomie Tavuklu Paket Noodle 350 Gr",
+        "label": "Indomie Tavuklu Paket Noodle 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-kori-cesnili-paket-noodle-75-gr",
+        "query": "Indomie Köri Çeşnili Paket Noodle 75 Gr",
+        "label": "Indomie Köri Çeşnili Paket Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-bamya-450-gr",
+        "query": "Feast Bamya 450 Gr",
+        "label": "Feast Bamya 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-artizan-pepperoni-pizza-445-gr",
+        "query": "Superfresh Artizan Pepperoni Pizza 445 Gr",
+        "label": "Superfresh Artizan Pepperoni Pizza 445 Gr",
+        "detail": "445 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-bogurtlen-300-gr",
+        "query": "Superfresh Dondurulmuş Böğürtlen 300 Gr",
+        "label": "Superfresh Dondurulmuş Böğürtlen 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "yayla-hazir-salata-aci-miks-120-gr",
+        "query": "Yayla Hazır Salata Acı Miks 120 Gr",
+        "label": "Yayla Hazır Salata Acı Miks 120 Gr",
+        "detail": "120 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-sebze-cesnili-bardak-noodle-60-gr",
+        "query": "Indomie Sebze Çeşnili Bardak Noodle 60 Gr",
+        "label": "Indomie Sebze Çeşnili Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-patatesli-rulo-borek-500-gr",
+        "query": "Superfresh Patatesli Rulo Börek 500 Gr",
+        "label": "Superfresh Patatesli Rulo Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "eker-yogurt-soslu-dip-cips-125-gr",
+        "query": "Eker Yoğurt Soslu Dip&Cips 125 Gr",
+        "label": "Eker Yoğurt Soslu Dip&Cips 125 Gr",
+        "detail": "125 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-gurme-sogan-halkasi-450-gr",
+        "query": "Superfresh Gurme Soğan Halkası 450 Gr",
+        "label": "Superfresh Gurme Soğan Halkası 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-bohca-manti-1-kg",
+        "query": "Superfresh Dondurulmuş Bohça Mantı 1 Kg",
+        "label": "Superfresh Dondurulmuş Bohça Mantı 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-taze-fasulye-450-gr",
+        "query": "Feast Taze Fasulye 450 Gr",
+        "label": "Feast Taze Fasulye 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-patates-puresi-60-gr",
+        "query": "Knorr Patates Püresi 60 Gr",
+        "label": "Knorr Patates Püresi 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-guseppe-mozzarella-pizza-412-gr",
+        "query": "Dr. Oetker Guseppe Mozzarella Pizza 412 Gr",
+        "label": "Dr. Oetker Guseppe Mozzarella Pizza 412 Gr",
+        "detail": "412 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "besler-pilic-sosisli-sandvic-130-gr",
+        "query": "Beşler Piliç Sosisli Sandviç 130 Gr",
+        "label": "Beşler Piliç Sosisli Sandviç 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tamek-patlican-kizartma-380-gr",
+        "query": "Tamek Patlıcan Kızartma 380 Gr",
+        "label": "Tamek Patlıcan Kızartma 380 Gr",
+        "detail": "380 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tukas-dondurulmus-parmak-patates-1-kg",
+        "query": "Tukaş Dondurulmuş Parmak Patates 1 Kg",
+        "label": "Tukaş Dondurulmuş Parmak Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "yayla-salata-hazir-eksi-mix-120-gr",
+        "query": "Yayla Salata Hazır Ekşi Mix 120 Gr",
+        "label": "Yayla Salata Hazır Ekşi Mix 120 Gr",
+        "detail": "120 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pek-food-lahmacun-400-gr",
+        "query": "Pek Food Lahmacun 400 Gr",
+        "label": "Pek Food Lahmacun 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuk-cesnili-noodle-5x70-gr",
+        "query": "Indomie Tavuk Çeşnili Noodle 5x70 Gr",
+        "label": "Indomie Tavuk Çeşnili Noodle 5x70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tada-salsa-soslu-patatesli-tavuk-250-gr",
+        "query": "Tada Salsa Soslu Patatesli Tavuk 250 Gr",
+        "label": "Tada Salsa Soslu Patatesli Tavuk 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-klasik-pizza-tost-200-gr",
+        "query": "Superfresh Dondurulmuş Klasik Pizza Tost 200 Gr",
+        "label": "Superfresh Dondurulmuş Klasik Pizza Tost 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-kori-noodle-75-gr",
+        "query": "Indomie Köri Noodle 75 Gr",
+        "label": "Indomie Köri Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuk-noodle-70-gr",
+        "query": "Indomie Tavuk Noodle 70 Gr",
+        "label": "Indomie Tavuk Noodle 70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-bardak-noodle-60-gr",
+        "query": "Dudomi Bardak Noodle 60 Gr",
+        "label": "Dudomi Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "iff-s-dondurulmus-kis-icecegi-140-gr",
+        "query": "Iff's Dondurulmuş Kış İçeceği 140 Gr",
+        "label": "Iff's Dondurulmuş Kış İçeceği 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "yayla-sebzeli-tavuk-sote-200-gr",
+        "query": "Yayla Sebzeli Tavuk Sote 200 Gr",
+        "label": "Yayla Sebzeli Tavuk Sote 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-sushida-teriyaki-tavuklu-onigiri-125-gr",
+        "query": "Dardanel Sushida Teriyaki Tavuklu Onigiri 125 Gr",
+        "label": "Dardanel Sushida Teriyaki Tavuklu Onigiri 125 Gr",
+        "detail": "125 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-tirtikli-patates-1-kg",
+        "query": "Feast Dondurulmuş Tırtıklı Patates 1 Kg",
+        "label": "Feast Dondurulmuş Tırtıklı Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-gurme-mozzarella-jambon-sandvic-145-gr",
+        "query": "Dardanel Mr. No Gurme Mozzarella Jambon Sandviç 145 Gr",
+        "label": "Dardanel Mr. No Gurme Mozzarella Jambon Sandviç 145 Gr",
+        "detail": "145 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-klasik-tavuklu-sandvic-145-gr",
+        "query": "Dardanel Mr. No Klasik Tavuklu Sandviç 145 Gr",
+        "label": "Dardanel Mr. No Klasik Tavuklu Sandviç 145 Gr",
+        "detail": "145 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuk-cesnili-bardak-noodle-60-gr",
+        "query": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+        "label": "Indomie Tavuk Çeşnili Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-pizza-king-4-lu-780-gr",
+        "query": "Superfresh Pizza King 4'lü 780 Gr",
+        "label": "Superfresh Pizza King 4'lü 780 Gr",
+        "detail": "780 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "birinci-hazir-mihlama-kuymak-250-gr",
+        "query": "Birinci Hazır Mıhlama Kuymak 250 Gr",
+        "label": "Birinci Hazır Mıhlama Kuymak 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "porsion-dondurulmus-icli-kofte-320-gr",
+        "query": "Porsion Dondurulmuş İçli Köfte 320 Gr",
+        "label": "Porsion Dondurulmuş İçli Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-dana-eti-cesnili-bardak-noodle-60-gr",
+        "query": "Indomie Dana Eti Çeşnili Bardak Noodle 60 Gr",
+        "label": "Indomie Dana Eti Çeşnili Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-orman-meyveleri-300-gr",
+        "query": "SuperFresh Dondurulmuş Orman Meyveleri 300 Gr",
+        "label": "SuperFresh Dondurulmuş Orman Meyveleri 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pidemiss-kiymali-mini-pide-10x40-gr",
+        "query": "Pidemiss Kıymalı Mini Pide 10x40 Gr",
+        "label": "Pidemiss Kıymalı Mini Pide 10x40 Gr",
+        "detail": "40 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-misir-450-gr",
+        "query": "Superfresh Mısır 450 Gr",
+        "label": "Superfresh Mısır 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-sebzeli-noodle-75-gr",
+        "query": "Indomie Sebzeli Noodle 75 Gr",
+        "label": "Indomie Sebzeli Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-kori-cesnili-noodle-5x75-gr",
+        "query": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+        "label": "Indomie Köri Çeşnili Noodle 5x75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-ince-cubuk-patates-1-kg",
+        "query": "Feast İnce Çubuk Patates 1 Kg",
+        "label": "Feast İnce Çubuk Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-yemek-kiti-kore-usulu-tavuklu-pilav-370-gr",
+        "query": "Knorr Yemek Kiti Kore Usulü Tavuklu Pilav 370 Gr",
+        "label": "Knorr Yemek Kiti Kore Usulü Tavuklu Pilav 370 Gr",
+        "detail": "370 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-ilikli-kemik-suyuna-ezogelin-corbasi-370-ml",
+        "query": "Gurvita İlikli Kemik Suyuna Ezogelin Çorbası 370 Ml",
+        "label": "Gurvita İlikli Kemik Suyuna Ezogelin Çorbası 370 Ml",
+        "detail": "370 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-haydari-200-gr",
+        "query": "Gurumen Haydari 200 Gr",
+        "label": "Gurumen Haydari 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-citir-patates-1-kg",
+        "query": "SuperFresh Çıtır Patates 1 Kg",
+        "label": "SuperFresh Çıtır Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "pinar-rulo-borek-kiymali-patatesli-500-gr",
+        "query": "Pınar Rulo Börek Kıymalı Patatesli 500 Gr",
+        "label": "Pınar Rulo Börek Kıymalı Patatesli 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-gurme-sogan-halka-450-gr",
+        "query": "Feast Gurme Soğan Halka 450 Gr",
+        "label": "Feast Gurme Soğan Halka 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-guseppe-supreme-extra-karisik-pizza-415-gr",
+        "query": "Dr. Oetker Guseppe Supreme Extra Karışık Pizza 415 Gr",
+        "label": "Dr. Oetker Guseppe Supreme Extra Karışık Pizza 415 Gr",
+        "detail": "415 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-tavuk-suyu-sade-320-ml",
+        "query": "Gurvita Tavuk Suyu Sade 320 Ml",
+        "label": "Gurvita Tavuk Suyu Sade 320 Ml",
+        "detail": "320 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-tavuk-suyu-sade-4x50-ml",
+        "query": "Gurvita Tavuk Suyu Sade 4x50 Ml",
+        "label": "Gurvita Tavuk Suyu Sade 4x50 Ml",
+        "detail": "50 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-cabuk-alfredo-bardak-makarna-48-gr",
+        "query": "Knorr Çabuk Alfredo Bardak Makarna 48 Gr",
+        "label": "Knorr Çabuk Alfredo Bardak Makarna 48 Gr",
+        "detail": "48 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-ispanak-450-gr",
+        "query": "Superfresh Ispanak 450 Gr",
+        "label": "Superfresh Ispanak 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-patates-kroket-450-gr",
+        "query": "Superfresh Patates Kroket 450 Gr",
+        "label": "Superfresh Patates Kroket 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-klasik-humus-kitir-ekmekli-130-gr",
+        "query": "Dardanel Mr. No Klasik Humus Kıtır Ekmekli 130 Gr",
+        "label": "Dardanel Mr. No Klasik Humus Kıtır Ekmekli 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-gurme-soya-soslu-hazir-noodle-80-gr",
+        "query": "Indomie Gurme Soya Soslu Hazır Noodle 80 Gr",
+        "label": "Indomie Gurme Soya Soslu Hazır Noodle 80 Gr",
+        "detail": "80 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pinar-pacanga-boregi-270-gr",
+        "query": "Pınar Paçanga Böreği 270 Gr",
+        "label": "Pınar Paçanga Böreği 270 Gr",
+        "detail": "270 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "burcu-meksika-fasulyeli-tavuk-salatasi-150-gr",
+        "query": "Burcu Meksika Fasulyeli Tavuk Salatası 150 Gr",
+        "label": "Burcu Meksika Fasulyeli Tavuk Salatası 150 Gr",
+        "detail": "150 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "veg-bones-paca-ilikli-kemik-suyu-480-ml",
+        "query": "Veg&Bones Paça/İlikli Kemik Suyu 480 Ml",
+        "label": "Veg&Bones Paça/İlikli Kemik Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-sushida-ton-balikli-onigiri-125-gr",
+        "query": "Dardanel Sushida Ton Balıklı Onigiri 125 Gr",
+        "label": "Dardanel Sushida Ton Balıklı Onigiri 125 Gr",
+        "detail": "125 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-patates-2-5-kg",
+        "query": "Superfresh Dondurulmuş Patates 2.5 Kg",
+        "label": "Superfresh Dondurulmuş Patates 2.5 Kg",
+        "detail": "2.5 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-klasik-kasarli-sandvic-145-gr",
+        "query": "Dardanel Mr. No Klasik Kaşarlı Sandviç 145 Gr",
+        "label": "Dardanel Mr. No Klasik Kaşarlı Sandviç 145 Gr",
+        "detail": "145 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-cabuk-makarna-truflu-penne-65-gr",
+        "query": "Knorr Çabuk Makarna Trüflü Penne 65 Gr",
+        "label": "Knorr Çabuk Makarna Trüflü Penne 65 Gr",
+        "detail": "65 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-sushida-california-onigiri-125-gr",
+        "query": "Dardanel Sushida California Onigiri 125 Gr",
+        "label": "Dardanel Sushida California Onigiri 125 Gr",
+        "detail": "125 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-acili-ezme-200-gr",
+        "query": "Gurumen Acılı Ezme 200 Gr",
+        "label": "Gurumen Acılı Ezme 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "sushida-sushi-california-roll-205-gr",
+        "query": "Sushida Sushi California Roll 205 Gr",
+        "label": "Sushida Sushi California Roll 205 Gr",
+        "detail": "205 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-klasik-kasar-salamli-sandvic-145-gr",
+        "query": "Dardanel Mr. No Klasik Kaşar Salamlı Sandviç 145 Gr",
+        "label": "Dardanel Mr. No Klasik Kaşar Salamlı Sandviç 145 Gr",
+        "detail": "145 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-cabuk-makarna-pesto-fusilli-65-gr",
+        "query": "Knorr Çabuk Makarna Pesto Fusilli 65 Gr",
+        "label": "Knorr Çabuk Makarna Pesto Fusilli 65 Gr",
+        "detail": "65 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-cevizli-cig-kofte-350-gr",
+        "query": "Gurumen Cevizli Çiğ Köfte 350 Gr",
+        "label": "Gurumen Cevizli Çiğ Köfte 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-kuzu-ilikli-kemik-suyu-4x50-ml",
+        "query": "Gurvita Kuzu İlikli Kemik Suyu 4x50 Ml",
+        "label": "Gurvita Kuzu İlikli Kemik Suyu 4x50 Ml",
+        "detail": "50 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dogranmis-sogan-450-gr",
+        "query": "Superfresh Doğranmış Soğan 450 Gr",
+        "label": "Superfresh Doğranmış Soğan 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "sushida-sushi-tokyo-mix-190-gr",
+        "query": "Sushida Sushi Tokyo Mix 190 Gr",
+        "label": "Sushida Sushi Tokyo Mix 190 Gr",
+        "detail": "190 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-peynirli-rulo-borek-500-gr",
+        "query": "Superfresh Peynirli Rulo Börek 500 Gr",
+        "label": "Superfresh Peynirli Rulo Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-gurme-tavuk-teriyaki-sandvic-220-gr",
+        "query": "Dardanel Mr. No Gurme Tavuk Teriyaki Sandviç 220 Gr",
+        "label": "Dardanel Mr. No Gurme Tavuk Teriyaki Sandviç 220 Gr",
+        "detail": "220 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-peynirli-cubuk-300-gr",
+        "query": "Feast Peynirli Çubuk 300 Gr",
+        "label": "Feast Peynirli Çubuk 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-kayseri-mantisi-400-gr",
+        "query": "Superfresh Kayseri Mantısı 400 Gr",
+        "label": "Superfresh Kayseri Mantısı 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-saksuka-200-gr",
+        "query": "Mezzet Şakşuka 200 Gr",
+        "label": "Mezzet Şakşuka 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-cabuk-ramen-17-gr",
+        "query": "Knorr Çabuk Ramen 17 Gr",
+        "label": "Knorr Çabuk Ramen 17 Gr",
+        "detail": "17 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-kuzu-ilikli-kemik-suyu-320-ml",
+        "query": "Gurvita Kuzu İlikli Kemik Suyu 320 Ml",
+        "label": "Gurvita Kuzu İlikli Kemik Suyu 320 Ml",
+        "detail": "320 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-patates-1-kg",
+        "query": "Superfresh Patates 1 Kg",
+        "label": "Superfresh Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-haydari-200-gr",
+        "query": "Mezzet Haydari 200 Gr",
+        "label": "Mezzet Haydari 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "levent-borek-3-peynirli-400-gr",
+        "query": "Levent Börek 3 Peynirli 400 Gr",
+        "label": "Levent Börek 3 Peynirli 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-guseppe-sucuklu-pizza-402-gr",
+        "query": "Dr. Oetker Guseppe Sucuklu Pizza 402 Gr",
+        "label": "Dr. Oetker Guseppe Sucuklu Pizza 402 Gr",
+        "detail": "402 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-icli-kofte-300-gr",
+        "query": "Gurumen İçli Köfte 300 Gr",
+        "label": "Gurumen İçli Köfte 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-kasar-salam-peynir-sandvic-130-gr",
+        "query": "Dardanel Mr. No Kaşar Salam Peynir Sandviç 130 Gr",
+        "label": "Dardanel Mr. No Kaşar Salam Peynir Sandviç 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-pizza-tost-200-gr",
+        "query": "SuperFresh Dondurulmuş Pizza Tost 200 Gr",
+        "label": "SuperFresh Dondurulmuş Pizza Tost 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-elma-dilim-patates-1-kg",
+        "query": "SuperFresh Elma Dilim Patates 1 Kg",
+        "label": "SuperFresh Elma Dilim Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-gurme-churros-kesim-patates-1-kg",
+        "query": "Feast Gurme Churros Kesim Patates 1 Kg",
+        "label": "Feast Gurme Churros Kesim Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-korili-noodle-70-gr",
+        "query": "Indomie Körili Noodle 70 Gr",
+        "label": "Indomie Körili Noodle 70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-ispanakli-rulo-borek-500-gr",
+        "query": "SuperFresh Ispanaklı Rulo Börek 500 Gr",
+        "label": "SuperFresh Ispanaklı Rulo Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "veg-bones-tavuk-suyu-480-ml",
+        "query": "Veg&Bones Tavuk Suyu 480 Ml",
+        "label": "Veg&Bones Tavuk Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-pratik-sebze-sote-mix-450-gr",
+        "query": "SuperFresh Pratik Sebze Sote Mix 450 Gr",
+        "label": "SuperFresh Pratik Sebze Sote Mix 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "hacioglu-dondurulmus-lahmacun-4x110-gr",
+        "query": "Hacıoğlu Dondurulmuş Lahmacun 4x110 Gr",
+        "label": "Hacıoğlu Dondurulmuş Lahmacun 4x110 Gr",
+        "detail": "110 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-gurme-aci-ve-baharatli-hazir-noodle-80-gr",
+        "query": "Indomie Gurme Acı ve Baharatlı Hazır Noodle 80 Gr",
+        "label": "Indomie Gurme Acı ve Baharatlı Hazır Noodle 80 Gr",
+        "detail": "80 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-pizza-tost-klasik-200-gr",
+        "query": "Superfresh Pizza Tost Klasik 200 Gr",
+        "label": "Superfresh Pizza Tost Klasik 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-tavuk-suyu-480-ml",
+        "query": "Knorr Tavuk Suyu 480 Ml",
+        "label": "Knorr Tavuk Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-jumbo-tavuk-aromali-noodle-120-gr",
+        "query": "Indomie Jumbo Tavuk Aromalı Noodle 120 Gr",
+        "label": "Indomie Jumbo Tavuk Aromalı Noodle 120 Gr",
+        "detail": "120 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-special-paket-noodle-75-gr",
+        "query": "Indomie Special Paket Noodle 75 Gr",
+        "label": "Indomie Special Paket Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-kori-cesnili-bardak-noodle-60-gr",
+        "query": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+        "label": "Indomie Köri Çeşnili Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuklu-hazir-noodle-5-adet",
+        "query": "Indomie Tavuklu Hazır Noodle 5 Adet",
+        "label": "Indomie Tavuklu Hazır Noodle 5 Adet",
+        "detail": "5 Adet",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-peynirli-tepsi-boregi-650-gr",
+        "query": "Superfresh Peynirli Tepsi Böreği 650 Gr",
+        "label": "Superfresh Peynirli Tepsi Böreği 650 Gr",
+        "detail": "650 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-sebze-spesiyal-hazir-noodle-75-gr",
+        "query": "Indomie Sebze Spesiyal Hazır Noodle 75 Gr",
+        "label": "Indomie Sebze Spesiyal Hazır Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-pizza-speciale-mista-417-gr",
+        "query": "Dr. Oetker Pizza Speciale Mista 417 Gr",
+        "label": "Dr. Oetker Pizza Speciale Mista 417 Gr",
+        "detail": "417 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-orman-meyveleri-300-gr",
+        "query": "Superfresh Orman Meyveleri 300 Gr",
+        "label": "Superfresh Orman Meyveleri 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-rus-salatasi-250-gr",
+        "query": "Mezzet Rus Salatası 250 Gr",
+        "label": "Mezzet Rus Salatası 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-atom-meze-200-gr",
+        "query": "Gurumen Atom Meze 200 Gr",
+        "label": "Gurumen Atom Meze 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-mac-cheese-cabuk-makarna-65-gr",
+        "query": "Knorr Mac & Cheese Çabuk Makarna 65 Gr",
+        "label": "Knorr Mac & Cheese Çabuk Makarna 65 Gr",
+        "detail": "65 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tombis-kasarli-salamli-peynirli-sandvic-130-gr",
+        "query": "Tombiş Kaşarlı Salamlı Peynirli Sandviç 130 Gr",
+        "label": "Tombiş Kaşarlı Salamlı Peynirli Sandviç 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-tavuk-suyu-2-88-lt",
+        "query": "Knorr Tavuk Suyu 2.88 Lt",
+        "label": "Knorr Tavuk Suyu 2.88 Lt",
+        "detail": "2.88 L",
+        "icon": "🍲"
+      },
+      {
+        "id": "zel-ilikli-kemik-suyu-480-ml",
+        "query": "Zel İlikli Kemik Suyu 480 Ml",
+        "label": "Zel İlikli Kemik Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-cig-kofte-durum-ve-aci-sos-180-gr",
+        "query": "Gurumen Çiğ Köfte Dürüm Ve Acı Sos 180 Gr",
+        "label": "Gurumen Çiğ Köfte Dürüm Ve Acı Sos 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tommis-citir-tavuk-burger-180-gr",
+        "query": "Tommis Çıtır Tavuk Burger 180 Gr",
+        "label": "Tommis Çıtır Tavuk Burger 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-guseppe-4-peynirli-pizza-358-gr",
+        "query": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 Gr",
+        "label": "Dr. Oetker Guseppe 4 Peynirli Pizza 358 Gr",
+        "detail": "358 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-tavuk-kori-tavuk-noodle-75-gr",
+        "query": "Indomie Tavuk Köri Tavuk Noodle 75 Gr",
+        "label": "Indomie Tavuk Köri Tavuk Noodle 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-kriket-patates-1-kg",
+        "query": "Feast Dondurulmuş Kriket Patates 1 Kg",
+        "label": "Feast Dondurulmuş Kriket Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "fide-ilikli-kemik-suyu-480-ml",
+        "query": "Fide İlikli Kemik Suyu 480 Ml",
+        "label": "Fide İlikli Kemik Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-peynirli-jalapeno-noodle-80-gr",
+        "query": "Dudomi Peynirli Jalapeno Noodle 80 Gr",
+        "label": "Dudomi Peynirli Jalapeno Noodle 80 Gr",
+        "detail": "80 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nudo-vegan-noodle-350-gr",
+        "query": "Nudo Vegan Noodle 350 Gr",
+        "label": "Nudo Vegan Noodle 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-kremali-feslegenli-peynirli-bardak-noodle-8-gr",
+        "query": "Dudomi Kremalı Fesleğenli Peynirli Bardak Noodle 8 Gr",
+        "label": "Dudomi Kremalı Fesleğenli Peynirli Bardak Noodle 8 Gr",
+        "detail": "8 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nudo-tam-bugdayli-noodle-350-gr",
+        "query": "Nudo Tam Buğdaylı Noodle 350 Gr",
+        "label": "Nudo Tam Buğdaylı Noodle 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-kremali-korili-tavuk-cesnili-bardak-noodle-80-gr",
+        "query": "Dudomi Kremalı Körili Tavuk Çeşnili Bardak Noodle 80 Gr",
+        "label": "Dudomi Kremalı Körili Tavuk Çeşnili Bardak Noodle 80 Gr",
+        "detail": "80 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-tom-yum-bardak-noodle-60-gr",
+        "query": "Dudomi Tom Yum Bardak Noodle 60 Gr",
+        "label": "Dudomi Tom Yum Bardak Noodle 60 Gr",
+        "detail": "60 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "galez-antep-usulu-donuk-icli-kofte-200-gr",
+        "query": "Galez Antep Usulü Donuk İçli Köfte 200 Gr",
+        "label": "Galez Antep Usulü Donuk İçli Köfte 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "galez-lahmacun-400-gr",
+        "query": "Galez Lahmacun 400 Gr",
+        "label": "Galez Lahmacun 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-kroket-450-gr",
+        "query": "Feast Dondurulmuş Kroket 450 Gr",
+        "label": "Feast Dondurulmuş Kroket 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-acili-sogan-halkasi-450-gr",
+        "query": "Feast Dondurulmuş Acılı Soğan Halkası 450 Gr",
+        "label": "Feast Dondurulmuş Acılı Soğan Halkası 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pidemiss-kiymali-pide-3x125-gr",
+        "query": "Pidemiss Kıymalı Pide 3x125 Gr",
+        "label": "Pidemiss Kıymalı Pide 3x125 Gr",
+        "detail": "125 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-korili-noodle-10x70-gr",
+        "query": "Dudomi Körili Noodle 10x70 Gr",
+        "label": "Dudomi Körili Noodle 10x70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nissin-yakisoba-kori-soslu-noodle-85-gr",
+        "query": "Nissin Yakisoba Köri Soslu Noodle 85 Gr",
+        "label": "Nissin Yakisoba Köri Soslu Noodle 85 Gr",
+        "detail": "85 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-ince-citir-patates-1-kg",
+        "query": "Nimet Dondurulmuş İnce Çıtır Patates 1 Kg",
+        "label": "Nimet Dondurulmuş İnce Çıtır Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-manti-400-gr",
+        "query": "Superfresh Dondurulmuş Mantı 400 Gr",
+        "label": "Superfresh Dondurulmuş Mantı 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "manti-atolyesi-donuk-ozbek-manti-400-gr",
+        "query": "Mantı Atölyesi Donuk Özbek Mantı 400 Gr",
+        "label": "Mantı Atölyesi Donuk Özbek Mantı 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "iff-s-dondurulmus-limon-portakal-nane-ozut-200-ml",
+        "query": "Iff's Dondurulmuş Limon/Portakal Nane Özüt 200 Ml",
+        "label": "Iff's Dondurulmuş Limon/Portakal Nane Özüt 200 Ml",
+        "detail": "200 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "sef-franzi-dondurulmus-peynirli-pizza-475-gr",
+        "query": "Şef Franzi Dondurulmuş Peynirli Pizza 475 Gr",
+        "label": "Şef Franzi Dondurulmuş Peynirli Pizza 475 Gr",
+        "detail": "475 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nissin-yakisoba-chili-soslu-noodle-84-gr",
+        "query": "Nissin Yakisoba Chili Soslu Noodle 84 Gr",
+        "label": "Nissin Yakisoba Chili Soslu Noodle 84 Gr",
+        "detail": "84 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nissin-yakisoba-japon-soslu-noodle-83-gr",
+        "query": "Nissin Yakisoba Japon Soslu Noodle 83 Gr",
+        "label": "Nissin Yakisoba Japon Soslu Noodle 83 Gr",
+        "detail": "83 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "illaki-durum-cig-kofte-aci-soslu-180-gr",
+        "query": "İllaki Dürüm Çiğ Köfte Acı Soslu 180 Gr",
+        "label": "İllaki Dürüm Çiğ Köfte Acı Soslu 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "yayla-napoliten-soslu-makarna-250-gr",
+        "query": "Yayla Napoliten Soslu Makarna 250 Gr",
+        "label": "Yayla Napoliten Soslu Makarna 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indomie-jumbo-korili-paket-noodle-120-gr",
+        "query": "Indomie Jumbo Körili Paket Noodle 120 Gr",
+        "label": "Indomie Jumbo Körili Paket Noodle 120 Gr",
+        "detail": "120 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "zel-donuk-ilikli-kemik-suyu-480-gr",
+        "query": "Zel Donuk İlikli Kemik Suyu 480 Gr",
+        "label": "Zel Donuk İlikli Kemik Suyu 480 Gr",
+        "detail": "480 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lavi-visne-400-gr",
+        "query": "Lavi Vişne 400 Gr",
+        "label": "Lavi Vişne 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "migros-hizli-dondurulmus-manti-450-gr",
+        "query": "Migros Hızlı Dondurulmuş Mantı 450 Gr",
+        "label": "Migros Hızlı Dondurulmuş Mantı 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-tatli-kocan-misir-corn-cob-700-gr",
+        "query": "Feast Dondurulmuş Tatlı Koçan Mısır Corn Cob 700 Gr",
+        "label": "Feast Dondurulmuş Tatlı Koçan Mısır Corn Cob 700 Gr",
+        "detail": "700 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "kocaman-sushi-set-200-gr",
+        "query": "Kocaman Sushi Set 200 Gr",
+        "label": "Kocaman Sushi Set 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "plate-dondurulmus-patates-9x9-2-5-kg",
+        "query": "Plate Dondurulmuş Patates 9x9 2.5 Kg",
+        "label": "Plate Dondurulmuş Patates 9x9 2.5 Kg",
+        "detail": "2.5 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "pekfood-dondurulmus-nar-eksili-cevizli-lahmacun-400-gr",
+        "query": "Pekfood Dondurulmuş Nar Ekşili/Cevizli Lahmacun 400 Gr",
+        "label": "Pekfood Dondurulmuş Nar Ekşili/Cevizli Lahmacun 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-frambuaz-300-gr",
+        "query": "Superfresh Frambuaz 300 Gr",
+        "label": "Superfresh Frambuaz 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-patatesli-rulo-borek-500-gr",
+        "query": "Lezzethane Dondurulmuş Patatesli Rulo Börek 500 Gr",
+        "label": "Lezzethane Dondurulmuş Patatesli Rulo Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezztat-peynirli-zeytin-ezmeli-baton-sandvic-140-gr",
+        "query": "Lezztat Peynirli Zeytin Ezmeli Baton Sandviç 140 Gr",
+        "label": "Lezztat Peynirli Zeytin Ezmeli Baton Sandviç 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezztat-peynirli-baton-sandvic-140-gr",
+        "query": "Lezztat Peynirli Baton Sandviç 140 Gr",
+        "label": "Lezztat Peynirli Baton Sandviç 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezztat-peynirli-salamli-baton-sandvic-140-gr",
+        "query": "Lezztat Peynirli Salamlı Baton Sandviç 140 Gr",
+        "label": "Lezztat Peynirli Salamlı Baton Sandviç 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezztat-peynirli-hindi-fumeli-baton-sandvic-140-gr",
+        "query": "Lezztat Peynirli Hindi Fümeli Baton Sandviç 140 Gr",
+        "label": "Lezztat Peynirli Hindi Fümeli Baton Sandviç 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-pizza-820-gr",
+        "query": "Nimet Dondurulmuş Pizza 820 Gr",
+        "label": "Nimet Dondurulmuş Pizza 820 Gr",
+        "detail": "820 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tarim-kredi-sarkuteri-soleni-pizza-400-gr",
+        "query": "Tarım Kredi Şarküteri Şöleni Pizza 400 Gr",
+        "label": "Tarım Kredi Şarküteri Şöleni Pizza 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-kayseri-dondurulmus-manti-450-gr",
+        "query": "Nimet Kayseri Dondurulmuş Mantı 450 Gr",
+        "label": "Nimet Kayseri Dondurulmuş Mantı 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tarim-kredi-ekmek-arasi-sucuk-130-gr",
+        "query": "Tarım Kredi Ekmek Arası Sucuk 130 Gr",
+        "label": "Tarım Kredi Ekmek Arası Sucuk 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "islak-hamburger-2-adet",
+        "query": "Islak Hamburger 2 Adet",
+        "label": "Islak Hamburger 2 Adet",
+        "detail": "2 Adet",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-parmak-patates-2-5-kg",
+        "query": "İnci Parmak Patates 2.5 Kg",
+        "label": "İnci Parmak Patates 2.5 Kg",
+        "detail": "2.5 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-kalem-boregi-400-gr",
+        "query": "Nimet Dondurulmuş Kalem Böreği 400 Gr",
+        "label": "Nimet Dondurulmuş Kalem Böreği 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-mini-patlicanli-borek-500-gr",
+        "query": "Nimet Dondurulmuş Mini Patlıcanlı Börek 500 Gr",
+        "label": "Nimet Dondurulmuş Mini Patlıcanlı Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-ince-pizza-king-600-gr",
+        "query": "Superfresh İnce Pizza King 600 Gr",
+        "label": "Superfresh İnce Pizza King 600 Gr",
+        "detail": "600 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "cokca-cigkofte-meze-384-gr",
+        "query": "Çokça Çiğköfte Meze 384 Gr",
+        "label": "Çokça Çiğköfte Meze 384 Gr",
+        "detail": "384 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-mini-patatesli-borek-500-gr",
+        "query": "Nimet Dondurulmuş Mini Patatesli Börek 500 Gr",
+        "label": "Nimet Dondurulmuş Mini Patatesli Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "banetti-mac-cheese-206-gr",
+        "query": "Banetti Mac & Cheese 206 Gr",
+        "label": "Banetti Mac & Cheese 206 Gr",
+        "detail": "206 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-ispanakli-peynirli-mini-borek-500-gr",
+        "query": "Nimet Dondurulmuş Ispanaklı Peynirli Mini Börek 500 Gr",
+        "label": "Nimet Dondurulmuş Ispanaklı Peynirli Mini Börek 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-sogan-halkasi-450-gr",
+        "query": "Nimet Dondurulmuş Soğan Halkası 450 Gr",
+        "label": "Nimet Dondurulmuş Soğan Halkası 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-dondurulmus-karisik-pizza-405-gr",
+        "query": "Dr. Oetker Dondurulmuş Karışık Pizza 405 Gr",
+        "label": "Dr. Oetker Dondurulmuş Karışık Pizza 405 Gr",
+        "detail": "405 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-pizza-4x205-gr",
+        "query": "Nimet Dondurulmuş Pizza 4x205 Gr",
+        "label": "Nimet Dondurulmuş Pizza 4x205 Gr",
+        "detail": "205 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-patates-1-kg",
+        "query": "İnci Patates 1 Kg",
+        "label": "İnci Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "knorr-cabuk-mac-cheese-peynirli-makarna-212-gr",
+        "query": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 Gr",
+        "label": "Knorr Çabuk Mac & Cheese Peynirli Makarna 212 Gr",
+        "detail": "212 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "sef-franzi-karisik-pizza-545-gr",
+        "query": "Şef Franzi Karışık Pizza 545 Gr",
+        "label": "Şef Franzi Karışık Pizza 545 Gr",
+        "detail": "545 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-parmak-patates-1-kg",
+        "query": "Superfresh Dondurulmuş Parmak Patates 1 Kg",
+        "label": "Superfresh Dondurulmuş Parmak Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-karisik-pizza-820-gr",
+        "query": "İnci Karışık Pizza 820 Gr",
+        "label": "İnci Karışık Pizza 820 Gr",
+        "detail": "820 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-etsiz-acili-cig-kofte-sos-384-gr",
+        "query": "Mezzet Etsiz Acılı Çiğ Köfte & Sos 384 Gr",
+        "label": "Mezzet Etsiz Acılı Çiğ Köfte & Sos 384 Gr",
+        "detail": "384 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "noodlex-tavuk-aromali-noodle-70-gr",
+        "query": "Noodlex Tavuk Aromalı Noodle 70 Gr",
+        "label": "Noodlex Tavuk Aromalı Noodle 70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "ustade-porsiyon-cig-kofte-380-gr",
+        "query": "Üstade Porsiyon Çiğ Köfte 380 Gr",
+        "label": "Üstade Porsiyon Çiğ Köfte 380 Gr",
+        "detail": "380 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-patates-1-kg",
+        "query": "Nimet Dondurulmuş Patates 1 Kg",
+        "label": "Nimet Dondurulmuş Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-pizza-king-ince-karisik-pizza-600-gr",
+        "query": "SuperFresh Pizza King İnce Karışık Pizza 600 Gr",
+        "label": "SuperFresh Pizza King İnce Karışık Pizza 600 Gr",
+        "detail": "600 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-elma-dilim-patates-1-kg",
+        "query": "İnci Elma Dilim Patates 1 Kg",
+        "label": "İnci Elma Dilim Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-acili-ezme-250-gr",
+        "query": "Mezzet Acılı Ezme 250 Gr",
+        "label": "Mezzet Acılı Ezme 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pizza-mi-go-peynirli-pizza-dondurulmus-475-gr",
+        "query": "Pizza Mi-Go Peynirli Pizza Dondurulmuş 475 Gr",
+        "label": "Pizza Mi-Go Peynirli Pizza Dondurulmuş 475 Gr",
+        "detail": "475 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "noodlex-kori-cesnili-noodle-70-gr",
+        "query": "Noodlex Köri Çeşnili Noodle 70 Gr",
+        "label": "Noodlex Köri Çeşnili Noodle 70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "peynirli-rulo-borek-75-gr",
+        "query": "Peynirli Rulo Börek 75 Gr",
+        "label": "Peynirli Rulo Börek 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dr-oetker-dondurulmus-pizza-4-lu-676-gr",
+        "query": "Dr. Oetker Dondurulmuş Pizza 4'lü 676 Gr",
+        "label": "Dr. Oetker Dondurulmuş Pizza 4'lü 676 Gr",
+        "detail": "676 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-hindi-fumeli-sandvic-145-gr",
+        "query": "Dardanel Mr. No Hindi Fümeli Sandviç 145 Gr",
+        "label": "Dardanel Mr. No Hindi Fümeli Sandviç 145 Gr",
+        "detail": "145 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dardanel-mr-no-kasarli-salamli-kasarli-cheddarli-sandvic-130-gr",
+        "query": "Dardanel Mr. No Kaşarlı Salamlı/Kaşarlı Cheddarlı Sandviç 130 Gr",
+        "label": "Dardanel Mr. No Kaşarlı Salamlı/Kaşarlı Cheddarlı Sandviç 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pizza-mi-jambonlu-mantarli-pizza-520-gr",
+        "query": "Pizza Mi Jambonlu Mantarlı Pizza 520 Gr",
+        "label": "Pizza Mi Jambonlu Mantarlı Pizza 520 Gr",
+        "detail": "520 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurvita-sebzeli-ilikli-kemik-suyu-320-ml",
+        "query": "Gurvita Sebzeli İlikli Kemik Suyu 320 Ml",
+        "label": "Gurvita Sebzeli İlikli Kemik Suyu 320 Ml",
+        "detail": "320 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-patates-kroket-450-gr",
+        "query": "Superfresh Dondurulmuş Patates Kroket 450 Gr",
+        "label": "Superfresh Dondurulmuş Patates Kroket 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezztat-peynirli-pizza-475-gr",
+        "query": "Lezztat Peynirli Pizza 475 Gr",
+        "label": "Lezztat Peynirli Pizza 475 Gr",
+        "detail": "475 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurumen-amerikan-salata-200-gr",
+        "query": "Gurumen Amerikan Salata 200 Gr",
+        "label": "Gurumen Amerikan Salata 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "leventborek-dondurulmus-3-peynirli-borek-400-gr",
+        "query": "Leventbörek Dondurulmuş 3 Peynirli Börek 400 Gr",
+        "label": "Leventbörek Dondurulmuş 3 Peynirli Börek 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "fide-tavuk-suyu-480-ml",
+        "query": "Fide Tavuk Suyu 480 Ml",
+        "label": "Fide Tavuk Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "pizza-mi-go-karisik-pizza-dondurulmus-545-gr",
+        "query": "Pizza Mi-Go Karışık Pizza Dondurulmuş 545 Gr",
+        "label": "Pizza Mi-Go Karışık Pizza Dondurulmuş 545 Gr",
+        "detail": "545 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lavi-yaban-mersini-400-gr",
+        "query": "Lavi Yaban Mersini 400 Gr",
+        "label": "Lavi Yaban Mersini 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-humus-200-gr",
+        "query": "Mezzet Humus 200 Gr",
+        "label": "Mezzet Humus 200 Gr",
+        "detail": "200 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "fide-paca-ilikli-kemik-suyu-480-ml",
+        "query": "Fide Paça + İlikli Kemik Suyu 480 Ml",
+        "label": "Fide Paça + İlikli Kemik Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "inci-sogan-halkasi-450-gr",
+        "query": "İnci Soğan Halkası 450 Gr",
+        "label": "İnci Soğan Halkası 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "migros-dolgulu-firinlanmis-manti-500-gr",
+        "query": "Migros Dolgulu Fırınlanmış Mantı 500 Gr",
+        "label": "Migros Dolgulu Fırınlanmış Mantı 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "indo-mie-gurme-aci-baharatli-noodle-80-gr",
+        "query": "Indo Mie Gurme Acı Baharatlı Noodle 80 Gr",
+        "label": "Indo Mie Gurme Acı Baharatlı Noodle 80 Gr",
+        "detail": "80 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lavi-bogurtlen-400-gr",
+        "query": "Lavi Böğürtlen 400 Gr",
+        "label": "Lavi Böğürtlen 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lavi-frambuaz-400-gr",
+        "query": "Lavi Frambuaz 400 Gr",
+        "label": "Lavi Frambuaz 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "sushimate-crispy-salmon-roll-470-gr",
+        "query": "Sushimate Crispy Salmon Roll 470 Gr",
+        "label": "Sushimate Crispy Salmon Roll 470 Gr",
+        "detail": "470 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "cokca-cigkofte-1-kg",
+        "query": "Çokça Çiğköfte 1 Kg",
+        "label": "Çokça Çiğköfte 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "tamkoy-sigara-boregi-1-adet",
+        "query": "Tamköy Sigara Böreği 1 Adet",
+        "label": "Tamköy Sigara Böreği 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🍲"
+      },
+      {
+        "id": "pidemiss-dondurulmus-kiymali-pide-375-gr",
+        "query": "Pidemiss Dondurulmuş Kıymalı Pide 375 Gr",
+        "label": "Pidemiss Dondurulmuş Kıymalı Pide 375 Gr",
+        "detail": "375 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "cokca-dondurulmus-misir-450-gr",
+        "query": "Çokça Dondurulmuş Mısır 450 Gr",
+        "label": "Çokça Dondurulmuş Mısır 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pek-food-dondurulmus-lahmacun-4-adet-400-gr",
+        "query": "Pek Food Dondurulmuş Lahmacun 4 Adet 400 Gr",
+        "label": "Pek Food Dondurulmuş Lahmacun 4 Adet 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "kemsan-tavuk-suyu-105-ml",
+        "query": "Kemsan Tavuk Suyu 105 Ml",
+        "label": "Kemsan Tavuk Suyu 105 Ml",
+        "detail": "105 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "tada-tavuk-fileto-2x135-gr",
+        "query": "Tada Tavuk Fileto 2x135 Gr",
+        "label": "Tada Tavuk Fileto 2x135 Gr",
+        "detail": "135 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dudomi-tavuklu-noodle-paket-5x70-gr",
+        "query": "Dudomi Tavuklu Noodle Paket 5x70 Gr",
+        "label": "Dudomi Tavuklu Noodle Paket 5x70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "patatesli-rulo-borek-75-gr",
+        "query": "Patatesli Rulo Börek 75 Gr",
+        "label": "Patatesli Rulo Börek 75 Gr",
+        "detail": "75 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "kemsan-ilikli-kemik-suyu-105-ml",
+        "query": "Kemsan İlikli Kemik Suyu 105 Ml",
+        "label": "Kemsan İlikli Kemik Suyu 105 Ml",
+        "detail": "105 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "ispanakli-peynirli-rulo-borek-85-gr",
+        "query": "Ispanaklı Peynirli Rulo Börek 85 Gr",
+        "label": "Ispanaklı Peynirli Rulo Börek 85 Gr",
+        "detail": "85 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-patates-7x7-1-kg",
+        "query": "Superfresh Dondurulmuş Patates 7x7 1 Kg",
+        "label": "Superfresh Dondurulmuş Patates 7x7 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "sushida-dondurulmus-california-sushi-140-gr",
+        "query": "Sushida Dondurulmuş California Sushi 140 Gr",
+        "label": "Sushida Dondurulmuş California Sushi 140 Gr",
+        "detail": "140 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "isushi-philadelphia-roll-sushi-190-gr",
+        "query": "iSushi Philadelphia Roll Sushi 190 Gr",
+        "label": "iSushi Philadelphia Roll Sushi 190 Gr",
+        "detail": "190 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "cokca-dondurulmus-bezelye-450-gr",
+        "query": "Çokça Dondurulmuş Bezelye 450 Gr",
+        "label": "Çokça Dondurulmuş Bezelye 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "zel-tavuk-suyu-480-ml",
+        "query": "Zel Tavuk Suyu 480 Ml",
+        "label": "Zel Tavuk Suyu 480 Ml",
+        "detail": "480 ml",
+        "icon": "🍲"
+      },
+      {
+        "id": "gurmepack-izgara-kofte-fusilli-napolitan-300-gr",
+        "query": "Gurmepack Izgara Köfte & Fusilli Napolitan 300 Gr",
+        "label": "Gurmepack Izgara Köfte & Fusilli Napolitan 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-su-boregi-800-gr",
+        "query": "Nimet Dondurulmuş Su Böreği 800 Gr",
+        "label": "Nimet Dondurulmuş Su Böreği 800 Gr",
+        "detail": "800 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-dondurulmus-misir-450-gr",
+        "query": "SuperFresh Dondurulmuş Mısır 450 Gr",
+        "label": "SuperFresh Dondurulmuş Mısır 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tarim-kredi-dondurulmus-bohca-manti-400-gr",
+        "query": "Tarım Kredi Dondurulmuş Bohça Mantı 400 Gr",
+        "label": "Tarım Kredi Dondurulmuş Bohça Mantı 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-dondurulmus-patates-crinky-1-kg",
+        "query": "Feast Dondurulmuş Patates Crinky 1 Kg",
+        "label": "Feast Dondurulmuş Patates Crinky 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "mezzet-rus-salatasi-meze-250-gr",
+        "query": "Mezzet Rus Salatası Meze 250 Gr",
+        "label": "Mezzet Rus Salatası Meze 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "uzungil-vakumlu-cevizli-cig-kofte-500-gr",
+        "query": "Uzungil Vakumlu Cevizli Çiğ Köfte 500 Gr",
+        "label": "Uzungil Vakumlu Cevizli Çiğ Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "cokca-cigkofte-durum-260-gr",
+        "query": "Çokça Çiğköfte Dürüm 260 Gr",
+        "label": "Çokça Çiğköfte Dürüm 260 Gr",
+        "detail": "260 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tamek-patlican-kizartma-190-gr",
+        "query": "Tamek Patlıcan Kızartma 190 Gr",
+        "label": "Tamek Patlıcan Kızartma 190 Gr",
+        "detail": "190 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "nimet-dondurulmus-peynirli-tepsi-boregi-800-gr",
+        "query": "Nimet Dondurulmuş Peynirli Tepsi Böreği 800 Gr",
+        "label": "Nimet Dondurulmuş Peynirli Tepsi Böreği 800 Gr",
+        "detail": "800 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "isushi-california-roll-sushi-190-gr",
+        "query": "Isushi California Roll Sushi 190 Gr",
+        "label": "Isushi California Roll Sushi 190 Gr",
+        "detail": "190 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-bamya-450-gr",
+        "query": "Mutfağım Dondurulmuş Bamya 450 Gr",
+        "label": "Mutfağım Dondurulmuş Bamya 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-karisik-pizza-505-gr",
+        "query": "Lezzethane Dondurulmuş Karışık Pizza 505 Gr",
+        "label": "Lezzethane Dondurulmuş Karışık Pizza 505 Gr",
+        "detail": "505 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-sigara-boregi-400-gr",
+        "query": "Lezzethane Dondurulmuş Sigara Böreği 400 Gr",
+        "label": "Lezzethane Dondurulmuş Sigara Böreği 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "riva-citir-tavuk-burger-tommis-180-gr",
+        "query": "Riva Çıtır Tavuk Burger Tommis 180 Gr",
+        "label": "Riva Çıtır Tavuk Burger Tommis 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "dondurulmus-kiymali-mini-pide-400-gr",
+        "query": "Dondurulmuş Kıymalı Mini Pide 400 Gr",
+        "label": "Dondurulmuş Kıymalı Mini Pide 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "noodlex-spesiyal-cesnili-noodle-70-gr",
+        "query": "Noodlex Spesiyal Çeşnili Noodle 70 Gr",
+        "label": "Noodlex Spesiyal Çeşnili Noodle 70 Gr",
+        "detail": "70 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "superfresh-slimmo-king-dondurulmus-pizza-600-gr",
+        "query": "Superfresh Slimmo King Dondurulmuş Pizza 600 Gr",
+        "label": "Superfresh Slimmo King Dondurulmuş Pizza 600 Gr",
+        "detail": "600 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "pelmeni-dana-etli-dondurulmus-manti-400-gr",
+        "query": "Pelmeni Dana Etli Dondurulmuş Mantı 400 Gr",
+        "label": "Pelmeni Dana Etli Dondurulmuş Mantı 400 Gr",
+        "detail": "400 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-tane-misir-450-gr",
+        "query": "Mutfağım Dondurulmuş Tane Mısır 450 Gr",
+        "label": "Mutfağım Dondurulmuş Tane Mısır 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-orman-meyveleri-350-gr",
+        "query": "Mutfağım Dondurulmuş Orman Meyveleri 350 Gr",
+        "label": "Mutfağım Dondurulmuş Orman Meyveleri 350 Gr",
+        "detail": "350 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tarim-kredi-dondurulmus-parmak-patates-1-kg",
+        "query": "Tarım Kredi Dondurulmuş Parmak Patates 1 Kg",
+        "label": "Tarım Kredi Dondurulmuş Parmak Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "m-z-ege-hazir-etsiz-cig-kofte-384-gr",
+        "query": "M.z. Ege Hazır Etsiz Çiğ Köfte 384 Gr",
+        "label": "M.z. Ege Hazır Etsiz Çiğ Köfte 384 Gr",
+        "detail": "384 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "m-z-ege-cig-kofte-1-kg",
+        "query": "M.Z. Ege Çiğ Köfte 1 Kg",
+        "label": "M.Z. Ege Çiğ Köfte 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-pizza-4-lu-820-gr",
+        "query": "Lezzethane Dondurulmuş Pizza 4'lü 820 Gr",
+        "label": "Lezzethane Dondurulmuş Pizza 4'lü 820 Gr",
+        "detail": "820 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-citir-patates-1-kg",
+        "query": "Mutfağım Dondurulmuş Çıtır Patates 1 Kg",
+        "label": "Mutfağım Dondurulmuş Çıtır Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "m-z-ege-hazir-rus-salatasi-250-gr",
+        "query": "M.z. Ege Hazır Rus Salatası 250 Gr",
+        "label": "M.z. Ege Hazır Rus Salatası 250 Gr",
+        "detail": "250 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-patates-1-kg",
+        "query": "Mutfağım Dondurulmuş Patates 1 Kg",
+        "label": "Mutfağım Dondurulmuş Patates 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-patatesli-tepsi-boregi-650-gr",
+        "query": "Lezzethane Dondurulmuş Patatesli Tepsi Böreği 650 Gr",
+        "label": "Lezzethane Dondurulmuş Patatesli Tepsi Böreği 650 Gr",
+        "detail": "650 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-bezelye-450-gr",
+        "query": "Mutfağım Dondurulmuş Bezelye 450 Gr",
+        "label": "Mutfağım Dondurulmuş Bezelye 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-su-boregi-800-gr",
+        "query": "Lezzethane Dondurulmuş Su Böreği 800 Gr",
+        "label": "Lezzethane Dondurulmuş Su Böreği 800 Gr",
+        "detail": "800 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "tada-kasar-salamli-peynirli-sandvic-130-gr",
+        "query": "Tada Kaşar Salamlı Peynirli Sandviç 130 Gr",
+        "label": "Tada Kaşar Salamlı Peynirli Sandviç 130 Gr",
+        "detail": "130 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "lezzethane-dondurulmus-tepsi-boregi-650-gr",
+        "query": "Lezzethane Dondurulmuş Tepsi Böreği 650 Gr",
+        "label": "Lezzethane Dondurulmuş Tepsi Böreği 650 Gr",
+        "detail": "650 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "m-z-ege-hazir-durum-cig-kofte-180-gr",
+        "query": "M.Z. Ege Hazır Dürüm Çiğ Köfte 180 Gr",
+        "label": "M.Z. Ege Hazır Dürüm Çiğ Köfte 180 Gr",
+        "detail": "180 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "mutfagim-dondurulmus-manti-450-gr",
+        "query": "Mutfağım Dondurulmuş Mantı 450 Gr",
+        "label": "Mutfağım Dondurulmuş Mantı 450 Gr",
+        "detail": "450 g",
+        "icon": "🍲"
+      },
+      {
+        "id": "feast-orman-meyveleri-300-gr",
+        "query": "Feast Orman Meyveleri 300 Gr",
+        "label": "Feast Orman Meyveleri 300 Gr",
+        "detail": "300 g",
+        "icon": "🍲"
       }
     ]
   }
