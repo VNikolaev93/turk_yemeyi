@@ -2637,6 +2637,1788 @@
       "price": 10.5,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-rolls-aci-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Rolls Acı Mısır Cipsi 135 Gr",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ruffles-ketcapli-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Ketçaplı Patates Cipsi 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cipso-yogurt-aromali-tirtikli-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Yoğurt Aromalı Tırtıklı Patates Cipsi 160 Gr",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-firindan-parti-boy-134-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Fırından Parti Boy 134 Gr",
+      "price": 84.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "master-potato-orijinal-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Orijinal Cips 160 Gr",
+      "price": 99,
+      "discountPrice": 125,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "master-potato-orijinal-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Orijinal Cips 160 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-orijinal-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Orijinal Cips 160 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-storms-sweet-chili-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Storms Sweet Chili 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-rolls-aci-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Rolls Acı Mısır Cipsi 185 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-yogurt-and-mevsim-yesillikleri-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Yoğurt & Mevsim Yeşillikleri 160 Gr",
+      "price": 84.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pops-sade-pirinc-patlagi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Sade Pirinç Patlağı 50 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-ege-baharatli-nohut-cipsi-75-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Ege Baharatlı Nohut Cipsi 75 Gr",
+      "price": 92.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "zuber-noutos-ege-baharatli-nohut-cipsi-75-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Ege Baharatlı Nohut Cipsi 75 Gr",
+      "price": 93.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pops-peynir-ve-acili-pirinc-patlagi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Peynir ve Acılı Pirinç Patlağı 50 Gr",
+      "price": 40,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "ulker-altinbasak-tahil-cipsi-yogurtlu-ve-mevsim-yesillikli-120-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu Ve Mevsim Yeşillikli 120 Gr",
+      "price": 39.95,
+      "discountPrice": 49,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ulker-altinbasak-tahil-cipsi-yogurtlu-ve-mevsim-yesillikli-120-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu Ve Mevsim Yeşillikli 120 Gr",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ulker-altinbasak-tahil-cipsi-yogurtlu-ve-mevsim-yesillikli-120-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu Ve Mevsim Yeşillikli 120 Gr",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-sutlu-kakao-kaplamali-30-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Sütlü Kakao Kaplamalı 30 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-cilekli-yogurtlu-kaplamali-30-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Çilekli Yoğurtlu Kaplamalı 30 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-originals-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals 160 Gr",
+      "price": 84.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-extreme-misir-cipsi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Extreme Mısır Cipsi 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ruffles-peynir-ve-sogan-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Peynir Ve Soğan Patates Cipsi 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-ketcapli-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Ketçaplı 160 Gr",
+      "price": 84.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-hot-corn-180-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Hot Corn 180 Gr",
+      "price": 82.45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-extreme-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Extreme 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lay-s-klasik-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik Patates Cipsi 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-mega-boy-218-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Mega Boy 218 Gr",
+      "price": 91.45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-mega-boy-193-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Mega Boy 193 Gr",
+      "price": 93.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-firinlanmis-nohut-cipsi-ege-baharatli-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55 Gr",
+      "price": 59.9,
+      "discountPrice": 79.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-nacho-peynir-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Peynir 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "doritos-nacho-peynir-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Peynir 130 Gr",
+      "price": 72,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-ketcapli-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Ketçaplı 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ruffles-ketcapli-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Ketçaplı 125 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-taco-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco 185 Gr",
+      "price": 82.45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ruffles-originals-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ruffles-originals-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-originals-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ruffles-originals-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals 125 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-firinlanmis-nohut-cipsi-chili-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 Gr",
+      "price": 59.9,
+      "discountPrice": 79.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "zuber-noutos-firinlanmis-nohut-cipsi-chili-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 Gr",
+      "price": 80.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "master-potato-soganli-eksi-kremali-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Soğanlı Ekşi Kremalı Cips 160 Gr",
+      "price": 99,
+      "discountPrice": 125,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "master-potato-soganli-eksi-kremali-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Soğanlı Ekşi Kremalı Cips 160 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-soganli-eksi-kremali-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Soğanlı Ekşi Kremalı Cips 160 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cheetos-firindan-peynir-aromali-misir-cerezi-75-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Fırından Peynir Aromalı Mısır Çerezi 75 Gr",
+      "price": 44.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cerezza-dev-yer-fistikli-misir-cerezi-145-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Dev Yer Fıstıklı Mısır Çerezi 145 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-eksi-krema-ve-sogan-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Ekşi Krema ve Soğan 55 Gr",
+      "price": 59.9,
+      "discountPrice": 79.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cheetos-firindan-fistikli-misir-cerezi-75-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Fırından Fıstıklı Mısır Çerezi 75 Gr",
+      "price": 44.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cipso-yogurt-and-mevsim-yesillikli-aromali-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Yoğurt & Mevsim Yeşillikli Aromalı Patates Cipsi 125 Gr",
+      "price": 63.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cipso-yogurt-and-mevsim-yesillikli-aromali-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Yoğurt & Mevsim Yeşillikli Aromalı Patates Cipsi 125 Gr",
+      "price": 64,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "doritos-shots-3x23-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Shots 3x23 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ruffles-ketcap-aromali-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Ketçap Aromalı 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cipso-yogurt-ve-mevsim-yesillikleri-aromali-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Yoğurt Ve Mevsim Yeşillikleri Aromalı Patates Cipsi 160 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-yogurt-ve-mevsim-yesillikleri-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Yoğurt Ve Mevsim Yeşillikleri 55 Gr",
+      "price": 59.9,
+      "discountPrice": 79.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cerezza-kokteyl-super-boy-117-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Kokteyl Süper Boy 117 Gr",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cerezza-kokteyl-super-boy-117-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Kokteyl Süper Boy 117 Gr",
+      "price": 63,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lay-s-klasik-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-klasik-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "lay-s-klasik-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik 125 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-nacho-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho 185 Gr",
+      "price": 82.45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "eti-gong-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pirinç Patlağı 64 Gr",
+      "price": 25.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pirinç Patlağı 64 Gr",
+      "price": 25.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "eti-gong-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pirinç Patlağı 64 Gr",
+      "price": 26,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "eti-gong-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pirinç Patlağı 64 Gr",
+      "price": 26,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "eti-gong-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pirinç Patlağı 64 Gr",
+      "price": 26,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lay-s-yogurt-and-bahar-yesillikleri-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Yoğurt & Bahar Yeşillikleri 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lay-s-yogurt-and-bahar-yesillikleri-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Yoğurt & Bahar Yeşillikleri 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-yogurt-and-bahar-yesillikleri-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Yoğurt & Bahar Yeşillikleri 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-hashas-and-domates-misir-cipsi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Haşhaş & Domates Mısır Cipsi 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-peynirli-baharatli-68-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Peynirli Baharatlı 68 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-original-cips-60-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Original Cips 60 Gr",
+      "price": 60,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patos-aci-baharat-aromali-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Baharat Aromalı Mısır Cipsi 185 Gr",
+      "price": 82,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "patos-aci-baharat-aromali-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Baharat Aromalı Mısır Cipsi 185 Gr",
+      "price": 82,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "patos-aci-baharat-aromali-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Baharat Aromalı Mısır Cipsi 185 Gr",
+      "price": 82,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "zuber-noutos-kajun-baharatli-nohut-cipsi-75-gr",
+      "category": "Atıştırmalık",
+      "name": "Züber Noutos Kajun Baharatlı Nohut Cipsi 75 Gr",
+      "price": 92.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cerezza-sinema-peynir-and-sogan-parti-boy-180-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Sinema Peynir & Soğan Parti Boy 180 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "doritos-taco-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-taco-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "eti-gong-balli-hardalli-68-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Ballı Hardallı 68 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-balli-hardalli-68-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Ballı Hardallı 68 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "master-potato-sebzeli-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Sebzeli Patates Cipsi 160 Gr",
+      "price": 99,
+      "discountPrice": 125,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-sebzeli-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Sebzeli Patates Cipsi 160 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "eti-gong-pops-baharat-cesnili-misir-patlagi-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Baharat Çeşnili Mısır Patlağı 80 Gr",
+      "price": 35,
+      "discountPrice": 53.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pops-baharat-cesnili-misir-patlagi-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Baharat Çeşnili Mısır Patlağı 80 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "eti-gong-pops-peynirli-acili-misir-patlagi-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Peynirli Acılı Mısır Patlağı 80 Gr",
+      "price": 35,
+      "discountPrice": 53.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pops-peynirli-acili-misir-patlagi-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Peynirli Acılı Mısır Patlağı 80 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lay-s-firinlanmis-yogurt-and-mevsim-yesillikleri-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Fırınlanmış Yoğurt & Mevsim Yeşillikleri 110 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lay-s-firinlanmis-yogurt-and-mevsim-yesillikleri-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Fırınlanmış Yoğurt & Mevsim Yeşillikleri 110 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-firinlanmis-yogurt-and-mevsim-yesillikleri-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Fırınlanmış Yoğurt & Mevsim Yeşillikleri 110 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-nacho-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Mısır Cipsi 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-hot-corn-aci-biberli-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Hot Corn Acı Biberli 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "doritos-hot-corn-aci-biberli-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Hot Corn Acı Biberli 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-hot-corn-aci-biberli-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Hot Corn Acı Biberli 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "lay-s-original-patates-cipsi-193-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Original Patates Cipsi 193 Gr",
+      "price": 75.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-klasik-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik 160 Gr",
+      "price": 84.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cerezos-ultra-aci-baharat-aromali-misir-cerezi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezos Ultra Acı Baharat Aromalı Mısır Çerezi 150 Gr",
+      "price": 64.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-acili-baharatli-cips-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Acılı Baharatlı Cips 160 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-taco-baharatli-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Taco Baharatlı Mısır Cipsi 185 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "patos-taco-baharatli-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Taco Baharatlı Mısır Cipsi 185 Gr",
+      "price": 82,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "patos-taco-baharatli-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Taco Baharatlı Mısır Cipsi 185 Gr",
+      "price": 82,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cerezza-dev-baharatli-domates-soslu-misir-cerezi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Dev Baharatlı Domates Soslu Mısır Çerezi 150 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "mcvitie-s-cracker-crisp-sour-cream-and-chive-110-gr",
+      "category": "Atıştırmalık",
+      "name": "McVitie's Cracker Crisp Sour Cream & Chive 110 Gr",
+      "price": 44,
+      "discountPrice": 55,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-sirkeli-super-boy-95-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Sirkeli Süper Boy 95 Gr",
+      "price": 66.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-pops-misir-patlagi-sade-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Pops Mısır Patlağı Sade 80 Gr",
+      "price": 52.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cipso-tirtikli-original-deniz-tuzlu-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tırtıklı Original Deniz Tuzlu Patates Cipsi 160 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cipso-tirtikli-original-deniz-tuzlu-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tırtıklı Original Deniz Tuzlu Patates Cipsi 160 Gr",
+      "price": 59.9,
+      "discountPrice": 84.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cipso-tirtikli-ketcap-aromali-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tırtıklı Ketçap Aromalı Patates Cipsi 160 Gr",
+      "price": 59.9,
+      "discountPrice": 84.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ulker-altinbasak-tahil-cipsi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+      "price": 17.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ulker-altinbasak-tahil-cipsi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+      "price": 17.5,
+      "discountPrice": 22,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ulker-altinbasak-tahil-cipsi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+      "price": 21.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ulker-altinbasak-tahil-cipsi-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+      "price": 22.75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cerezza-popcorn-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Popcorn 80 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cipso-tirtikli-deniz-tuzlu-sade-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tırtıklı Deniz Tuzlu Sade Patates Cipsi 125 Gr",
+      "price": 63.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-taco-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco Mısır Cipsi 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "doritos-nacho-misir-cipsi-218-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Mısır Cipsi 218 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-nacho-misir-cipsi-218-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Mısır Cipsi 218 Gr",
+      "price": 75.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "unistanbul-domates-feslegenli-ekmek-kitiri-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Unistanbul Domates Fesleğenli Ekmek Kıtırı 110 Gr",
+      "price": 119.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cipso-ince-tirtikli-yogurt-mevsim-yesillikleri-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso İnce Tırtıklı Yoğurt Mevsim Yeşillikleri Patates Cipsi 125 Gr",
+      "price": 64,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cheetos-mega-paket-fistik-peynir-biftek-60-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Mega Paket Fıstık Peynir Biftek 60 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-originals-mega-boy-193-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Originals Mega Boy 193 Gr",
+      "price": 93.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "patos-critos-peynir-aromali-misir-cerezi-115-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Critos Peynir Aromalı Mısır Çerezi 115 Gr",
+      "price": 59.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "doritos-nacho-peynirli-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Peynirli Mısır Cipsi 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lay-s-ruffles-doritos-2li-avantaj-paket-176-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Ruffles Doritos 2li Avantaj Paket 176 Gr",
+      "price": 79.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-nacho-mega-boy-218-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Nacho Mega Boy 218 Gr",
+      "price": 91.45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-aci-baharat-aromali-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Baharat Aromalı Mısır Cipsi 135 Gr",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "patos-aci-baharat-aromali-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Baharat Aromalı Mısır Cipsi 135 Gr",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ruffles-doritos-2li-paket-319-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Doritos 2li Paket 319 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "patos-rolls-aci-kirmizi-biber-aromali-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Rolls Acı Kırmızı Biber Aromalı Mısır Cipsi 135 Gr",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "eti-gong-sut-misir-and-acili-68-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Süt Mısır & Acılı 68 Gr",
+      "price": 30,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "eti-gong-sut-misir-and-acili-68-gr",
+      "category": "Atıştırmalık",
+      "name": "Eti Gong Süt Mısır & Acılı 68 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "noutos-yogurt-mevsim-yesillikli-nohut-cipsi-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Noutos Yoğurt Mevsim Yeşillikli Nohut Cipsi 55 Gr",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-nut-fistik-ezmeli-deniz-tuzlu-misir-cipsi-165-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Nut Fıstık Ezmeli Deniz Tuzlu Mısır Cipsi 165 Gr",
+      "price": 59.5,
+      "discountPrice": 84.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cheetos-shots-3lu-paket-42-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Shots 3lü Paket 42 Gr",
+      "price": 24.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cheetos-shots-3lu-paket-42-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Shots 3lü Paket 42 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cheetos-shots-3lu-paket-42-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Shots 3lü Paket 42 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "cheetos-shots-3lu-paket-42-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Shots 3lü Paket 42 Gr",
+      "price": 25,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "lay-s-klasik-mevsim-yesillikli-firindan-yogurtlu-cips-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Klasik Mevsim Yeşillikli Fırından Yoğurtlu Cips 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-taco-baharatli-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Taco Baharatlı Mısır Cipsi 135 Gr",
+      "price": 56.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "master-nut-barbeku-soslu-misir-cerezi-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Nut Barbekü Soslu Mısır Çerezi 110 Gr",
+      "price": 34.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ruffles-max-peynir-and-sogan-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Max Peynir & Soğan 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ruffles-max-peynir-and-sogan-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Max Peynir & Soğan 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "doritos-taco-baharatli-super-121-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco Baharatlı Süper 121 Gr",
+      "price": 72,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "master-potato-barbeku-cesnili-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Barbekü Çeşnili Patates Cipsi 160 Gr",
+      "price": 99,
+      "discountPrice": 125,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-potato-barbeku-cesnili-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Barbekü Çeşnili Patates Cipsi 160 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "lay-s-yogurt-ve-mevsim-yesillikleri-cips-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Lay's Yoğurt Ve Mevsim Yeşillikleri Cips 125 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cipso-tube-patates-cipsi-sade-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tube Patates Cipsi Sade 160 Gr",
+      "price": 110,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cipso-tube-patates-cipsi-sade-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Cipso Tube Patates Cipsi Sade 160 Gr",
+      "price": 110,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "doritos-taco-nacho-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco Nacho Mısır Cipsi 135 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "cheetos-firindan-multipack-60-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Fırından Multipack 60 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "doritos-turca-flamin-hot-extreme-hot-misir-cipsi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Turca Flamin Hot Extreme Hot Mısır Cipsi 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ruffles-orijinal-peynirli-sogan-ketcap-patates-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Ruffles Orijinal Peynirli Soğan Ketçap Patates Cipsi 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "master-potato-original-patates-cipsi-160-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Potato Original Patates Cipsi 160 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-aci-biber-and-limon-misir-cipsi-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Acı Biber & Limon Mısır Cipsi 125 Gr",
+      "price": 55.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "doritos-storms-mexicano-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Storms Mexicano 125 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-storms-mexicano-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Storms Mexicano 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "doritos-storm-flamin-hot-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Storm Flamin Hot 125 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doritos-storm-flamin-hot-125-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Storm Flamin Hot 125 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-misir-ve-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Migros Mısır ve Pirinç Patlağı 64 Gr",
+      "price": 16.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-taco-aromali-misir-ve-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Migros Taco Aromalı Mısır ve Pirinç Patlağı 64 Gr",
+      "price": 17.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fropie-firinlanmis-nohut-cipsi-tutsulu-biber-cesnili-50-gr",
+      "category": "Atıştırmalık",
+      "name": "Fropie Fırınlanmış Nohut Cipsi Tütsülü Biber Çeşnili 50 Gr",
+      "price": 74.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-cool-original-misir-cipsi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Cool Original Mısır Cipsi 130 Gr",
+      "price": 62,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-pesto-sos-cesnili-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Pesto Sos Çeşnili Patates Cipsi 200 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patito-pesto-barbeku-aromali-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Patito Pesto Barbekü Aromalı Patates Cipsi 200 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-aci-misir-cipsi-185-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Acı Mısır Cipsi 185 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "master-puff-ketcap-cesnili-misir-cerezi-90-gr",
+      "category": "Atıştırmalık",
+      "name": "Master Puff Ketçap Çeşnili Mısır Çerezi 90 Gr",
+      "price": 44.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "patos-rolls-chilli-lime-misir-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Patos Rolls Chilli Lime Mısır Cipsi 135 Gr",
+      "price": 61.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patito-peynir-soganli-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Patito Peynir Soğanlı Patates Cipsi 200 Gr",
+      "price": 50,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "lorenz-chipsletten-sea-salt-patates-cipsi-100-gr",
+      "category": "Atıştırmalık",
+      "name": "Lorenz Chipsletten Sea Salt Patates Cipsi 100 Gr",
+      "price": 129.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-barbeku-sos-cesnili-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Barbekü Sos Çeşnili Patates Cipsi 200 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cerezza-domates-baharat-aromali-misir-cerezi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Domates Baharat Aromalı Mısır Çerezi 150 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-ince-truf-mantarli-patates-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba İnce Trüf Mantarlı Patates Cipsi 135 Gr",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-bbq-aromali-tirtikli-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba BBQ Aromalı Tırtıklı Patates Cipsi 200 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-pesto-aromali-tirtikli-patates-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba Pesto Aromalı Tırtıklı Patates Cipsi 200 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-yer-fistikli-misir-cerezi-55-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Yer Fıstıklı Mısır Çerezi 55 Gr",
+      "price": 17.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-pop-corn-patlamis-misir-60-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Pop Corn Patlamış Mısır 60 Gr",
+      "price": 24.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-sut-misiri-cesnili-misir-cerezi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Süt Mısırı Çeşnili Mısır Çerezi 130 Gr",
+      "price": 36.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-pops-pirinc-ve-misir-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Pops Pirinç Ve Mısır Patlağı 64 Gr",
+      "price": 15.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "doritos-taco-ruffles-original-24-adet",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco Ruffles Original 24 Adet",
+      "price": 69.9,
+      "discountPrice": 94.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-eksi-krema-soganli-ince-patates-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba Ekşi Krema Soğanlı İnce Patates Cipsi 135 Gr",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-tirtikli-patates-cipsi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba Tırtıklı Patates Cipsi 150 Gr",
+      "price": 46.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cerezza-patlamis-misir-cips-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Çerezza Patlamış Mısır Cips 80 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "unistanbul-cartocci-cikolatali-portakalli-ekmek-cipsi-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Unistanbul Cartocci Çikolatalı Portakallı Ekmek Cipsi 110 Gr",
+      "price": 99.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-duz-sade-patates-cipsi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Düz Sade Patates Cipsi 150 Gr",
+      "price": 46.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "amigo-ultra-taco-100-gr",
+      "category": "Atıştırmalık",
+      "name": "Amigo Ultra Taco 100 Gr",
+      "price": 36.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-ince-tatli-aci-patates-cipsi-135-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba İnce Tatlı Acı Patates Cipsi 135 Gr",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "cheetos-biftek-ve-fistikli-misir-cerezi-46-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Biftek ve Fıstıklı Mısır Çerezi 46 Gr",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "unistanbul-cartocci-balli-tarcinli-ekmek-cipsi-110-gr",
+      "category": "Atıştırmalık",
+      "name": "Unistanbul Cartocci Ballı Tarçınlı Ekmek Cipsi 110 Gr",
+      "price": 99.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "cheetos-mega-peynir-aromali-misir-cerezi-80-gr",
+      "category": "Atıştırmalık",
+      "name": "Cheetos Mega Peynir Aromalı Mısır Çerezi 80 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "samba-ince-patates-cipsi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Samba İnce Patates Cipsi 150 Gr",
+      "price": 46.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-taco-aromali-misir-ve-pirinc-patlagi-64-gr",
+      "category": "Atıştırmalık",
+      "name": "Tarım Kredi Taco Aromalı Mısır Ve Pirinç Patlağı 64 Gr",
+      "price": 16.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doritos-taco-shots-misir-cipsi-3x23-gr",
+      "category": "Atıştırmalık",
+      "name": "Doritos Taco Shots Mısır Cipsi 3x23 Gr",
+      "price": 33,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-cok-tahilli-pirinc-patlagi-60-gr",
+      "category": "Atıştırmalık",
+      "name": "Tarım Kredi Çok Tahıllı Pirinç Patlağı 60 Gr",
+      "price": 17.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "stark-fistikli-peynirli-biftekli-cips-48-gr",
+      "category": "Atıştırmalık",
+      "name": "Stark Fıstıklı Peynirli Biftekli Cips 48 Gr",
+      "price": 17,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "party-baharatli-peynirli-mix-misir-cipsi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Party Baharatlı Peynirli Mix Mısır Cipsi 130 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "party-bal-ve-hardal-aromali-misir-cipsi-200-gr",
+      "category": "Atıştırmalık",
+      "name": "Party Bal ve Hardal Aromalı Mısır Cipsi 200 Gr",
+      "price": 52,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "star-krak-yer-fistikli-misir-cerezi-150-gr",
+      "category": "Atıştırmalık",
+      "name": "Star Krak Yer Fıstıklı Mısır Çerezi 150 Gr",
+      "price": 45,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "patito-baharat-mevsimsel-kasik-cips-90-gr",
+      "category": "Atıştırmalık",
+      "name": "Patito Baharat Mevsimsel Kaşık Cips 90 Gr",
+      "price": 39,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "party-haslanmis-aci-biber-cesnili-misir-cipsi-300-gr",
+      "category": "Atıştırmalık",
+      "name": "Party Haşlanmış Acı Biber Çeşnili Mısır Cipsi 300 Gr",
+      "price": 72.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "party-taco-peynir-barbeku-misir-cerezi-130-gr",
+      "category": "Atıştırmalık",
+      "name": "Party Taco Peynir Barbekü Mısır Çerezi 130 Gr",
+      "price": 32,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -3781,6 +5563,1037 @@
         "label": "Dost Bardak Ayran 200 Ml",
         "detail": "200 ml",
         "icon": "🥛"
+      }
+    ],
+    "chips": [
+      {
+        "id": "patos-rolls-aci-misir-cipsi-135-gr",
+        "query": "Patos Rolls Acı Mısır Cipsi 135 Gr",
+        "label": "Patos Rolls Acı Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-ketcapli-patates-cipsi-125-gr",
+        "query": "Ruffles Ketçaplı Patates Cipsi 125 Gr",
+        "label": "Ruffles Ketçaplı Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-yogurt-aromali-tirtikli-patates-cipsi-160-gr",
+        "query": "Cipso Yoğurt Aromalı Tırtıklı Patates Cipsi 160 Gr",
+        "label": "Cipso Yoğurt Aromalı Tırtıklı Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-firindan-parti-boy-134-gr",
+        "query": "Lay's Fırından Parti Boy 134 Gr",
+        "label": "Lay's Fırından Parti Boy 134 Gr",
+        "detail": "134 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-orijinal-cips-160-gr",
+        "query": "Master Potato Orijinal Cips 160 Gr",
+        "label": "Master Potato Orijinal Cips 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-storms-sweet-chili-125-gr",
+        "query": "Doritos Storms Sweet Chili 125 Gr",
+        "label": "Doritos Storms Sweet Chili 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-rolls-aci-misir-cipsi-185-gr",
+        "query": "Patos Rolls Acı Mısır Cipsi 185 Gr",
+        "label": "Patos Rolls Acı Mısır Cipsi 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-yogurt-and-mevsim-yesillikleri-160-gr",
+        "query": "Lay's Yoğurt & Mevsim Yeşillikleri 160 Gr",
+        "label": "Lay's Yoğurt & Mevsim Yeşillikleri 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pops-sade-pirinc-patlagi-50-gr",
+        "query": "Eti Gong Pops Sade Pirinç Patlağı 50 Gr",
+        "label": "Eti Gong Pops Sade Pirinç Patlağı 50 Gr",
+        "detail": "50 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-ege-baharatli-nohut-cipsi-75-gr",
+        "query": "Züber Noutos Ege Baharatlı Nohut Cipsi 75 Gr",
+        "label": "Züber Noutos Ege Baharatlı Nohut Cipsi 75 Gr",
+        "detail": "75 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pops-peynir-ve-acili-pirinc-patlagi-50-gr",
+        "query": "Eti Gong Pops Peynir ve Acılı Pirinç Patlağı 50 Gr",
+        "label": "Eti Gong Pops Peynir ve Acılı Pirinç Patlağı 50 Gr",
+        "detail": "50 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ulker-altinbasak-tahil-cipsi-yogurtlu-ve-mevsim-yesillikli-120-gr",
+        "query": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu Ve Mevsim Yeşillikli 120 Gr",
+        "label": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu Ve Mevsim Yeşillikli 120 Gr",
+        "detail": "120 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-sutlu-kakao-kaplamali-30-gr",
+        "query": "Eti Gong Sütlü Kakao Kaplamalı 30 Gr",
+        "label": "Eti Gong Sütlü Kakao Kaplamalı 30 Gr",
+        "detail": "30 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-cilekli-yogurtlu-kaplamali-30-gr",
+        "query": "Eti Gong Çilekli Yoğurtlu Kaplamalı 30 Gr",
+        "label": "Eti Gong Çilekli Yoğurtlu Kaplamalı 30 Gr",
+        "detail": "30 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-originals-160-gr",
+        "query": "Ruffles Originals 160 Gr",
+        "label": "Ruffles Originals 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-extreme-misir-cipsi-130-gr",
+        "query": "Doritos Extreme Mısır Cipsi 130 Gr",
+        "label": "Doritos Extreme Mısır Cipsi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-peynir-ve-sogan-patates-cipsi-125-gr",
+        "query": "Ruffles Peynir Ve Soğan Patates Cipsi 125 Gr",
+        "label": "Ruffles Peynir Ve Soğan Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-ketcapli-160-gr",
+        "query": "Ruffles Ketçaplı 160 Gr",
+        "label": "Ruffles Ketçaplı 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-hot-corn-180-gr",
+        "query": "Doritos Hot Corn 180 Gr",
+        "label": "Doritos Hot Corn 180 Gr",
+        "detail": "180 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-extreme-130-gr",
+        "query": "Doritos Extreme 130 Gr",
+        "label": "Doritos Extreme 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-klasik-patates-cipsi-125-gr",
+        "query": "Lay's Klasik Patates Cipsi 125 Gr",
+        "label": "Lay's Klasik Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-mega-boy-218-gr",
+        "query": "Doritos Mega Boy 218 Gr",
+        "label": "Doritos Mega Boy 218 Gr",
+        "detail": "218 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-mega-boy-193-gr",
+        "query": "Lay's Mega Boy 193 Gr",
+        "label": "Lay's Mega Boy 193 Gr",
+        "detail": "193 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-firinlanmis-nohut-cipsi-ege-baharatli-55-gr",
+        "query": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55 Gr",
+        "label": "Züber Noutos Fırınlanmış Nohut Cipsi Ege Baharatlı 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-peynir-130-gr",
+        "query": "Doritos Nacho Peynir 130 Gr",
+        "label": "Doritos Nacho Peynir 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-ketcapli-125-gr",
+        "query": "Ruffles Ketçaplı 125 Gr",
+        "label": "Ruffles Ketçaplı 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-185-gr",
+        "query": "Doritos Taco 185 Gr",
+        "label": "Doritos Taco 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-originals-125-gr",
+        "query": "Ruffles Originals 125 Gr",
+        "label": "Ruffles Originals 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-firinlanmis-nohut-cipsi-chili-55-gr",
+        "query": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 Gr",
+        "label": "Züber Noutos Fırınlanmış Nohut Cipsi Chili 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-soganli-eksi-kremali-cips-160-gr",
+        "query": "Master Potato Soğanlı Ekşi Kremalı Cips 160 Gr",
+        "label": "Master Potato Soğanlı Ekşi Kremalı Cips 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-firindan-peynir-aromali-misir-cerezi-75-gr",
+        "query": "Cheetos Fırından Peynir Aromalı Mısır Çerezi 75 Gr",
+        "label": "Cheetos Fırından Peynir Aromalı Mısır Çerezi 75 Gr",
+        "detail": "75 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-dev-yer-fistikli-misir-cerezi-145-gr",
+        "query": "Çerezza Dev Yer Fıstıklı Mısır Çerezi 145 Gr",
+        "label": "Çerezza Dev Yer Fıstıklı Mısır Çerezi 145 Gr",
+        "detail": "145 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-eksi-krema-ve-sogan-55-gr",
+        "query": "Züber Noutos Ekşi Krema ve Soğan 55 Gr",
+        "label": "Züber Noutos Ekşi Krema ve Soğan 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-firindan-fistikli-misir-cerezi-75-gr",
+        "query": "Cheetos Fırından Fıstıklı Mısır Çerezi 75 Gr",
+        "label": "Cheetos Fırından Fıstıklı Mısır Çerezi 75 Gr",
+        "detail": "75 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-yogurt-and-mevsim-yesillikli-aromali-patates-cipsi-125-gr",
+        "query": "Cipso Yoğurt & Mevsim Yeşillikli Aromalı Patates Cipsi 125 Gr",
+        "label": "Cipso Yoğurt & Mevsim Yeşillikli Aromalı Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-shots-3x23-gr",
+        "query": "Doritos Shots 3x23 Gr",
+        "label": "Doritos Shots 3x23 Gr",
+        "detail": "3x23 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-ketcap-aromali-125-gr",
+        "query": "Ruffles Ketçap Aromalı 125 Gr",
+        "label": "Ruffles Ketçap Aromalı 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-yogurt-ve-mevsim-yesillikleri-aromali-patates-cipsi-160-gr",
+        "query": "Cipso Yoğurt Ve Mevsim Yeşillikleri Aromalı Patates Cipsi 160 Gr",
+        "label": "Cipso Yoğurt Ve Mevsim Yeşillikleri Aromalı Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-yogurt-ve-mevsim-yesillikleri-55-gr",
+        "query": "Züber Noutos Yoğurt Ve Mevsim Yeşillikleri 55 Gr",
+        "label": "Züber Noutos Yoğurt Ve Mevsim Yeşillikleri 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-kokteyl-super-boy-117-gr",
+        "query": "Çerezza Kokteyl Süper Boy 117 Gr",
+        "label": "Çerezza Kokteyl Süper Boy 117 Gr",
+        "detail": "117 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-klasik-125-gr",
+        "query": "Lay's Klasik 125 Gr",
+        "label": "Lay's Klasik 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-185-gr",
+        "query": "Doritos Nacho 185 Gr",
+        "label": "Doritos Nacho 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pirinc-patlagi-64-gr",
+        "query": "Eti Gong Pirinç Patlağı 64 Gr",
+        "label": "Eti Gong Pirinç Patlağı 64 Gr",
+        "detail": "64 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-yogurt-and-bahar-yesillikleri-125-gr",
+        "query": "Lay's Yoğurt & Bahar Yeşillikleri 125 Gr",
+        "label": "Lay's Yoğurt & Bahar Yeşillikleri 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-hashas-and-domates-misir-cipsi-130-gr",
+        "query": "Doritos Haşhaş & Domates Mısır Cipsi 130 Gr",
+        "label": "Doritos Haşhaş & Domates Mısır Cipsi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-peynirli-baharatli-68-gr",
+        "query": "Eti Gong Peynirli Baharatlı 68 Gr",
+        "label": "Eti Gong Peynirli Baharatlı 68 Gr",
+        "detail": "68 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-original-cips-60-gr",
+        "query": "Master Potato Original Cips 60 Gr",
+        "label": "Master Potato Original Cips 60 Gr",
+        "detail": "60 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-aci-baharat-aromali-misir-cipsi-185-gr",
+        "query": "Patos Acı Baharat Aromalı Mısır Cipsi 185 Gr",
+        "label": "Patos Acı Baharat Aromalı Mısır Cipsi 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "zuber-noutos-kajun-baharatli-nohut-cipsi-75-gr",
+        "query": "Züber Noutos Kajun Baharatlı Nohut Cipsi 75 Gr",
+        "label": "Züber Noutos Kajun Baharatlı Nohut Cipsi 75 Gr",
+        "detail": "75 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-sinema-peynir-and-sogan-parti-boy-180-gr",
+        "query": "Çerezza Sinema Peynir & Soğan Parti Boy 180 Gr",
+        "label": "Çerezza Sinema Peynir & Soğan Parti Boy 180 Gr",
+        "detail": "180 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-135-gr",
+        "query": "Doritos Taco 135 Gr",
+        "label": "Doritos Taco 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-balli-hardalli-68-gr",
+        "query": "Eti Gong Ballı Hardallı 68 Gr",
+        "label": "Eti Gong Ballı Hardallı 68 Gr",
+        "detail": "68 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-sebzeli-patates-cipsi-160-gr",
+        "query": "Master Potato Sebzeli Patates Cipsi 160 Gr",
+        "label": "Master Potato Sebzeli Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pops-baharat-cesnili-misir-patlagi-80-gr",
+        "query": "Eti Gong Pops Baharat Çeşnili Mısır Patlağı 80 Gr",
+        "label": "Eti Gong Pops Baharat Çeşnili Mısır Patlağı 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pops-peynirli-acili-misir-patlagi-80-gr",
+        "query": "Eti Gong Pops Peynirli Acılı Mısır Patlağı 80 Gr",
+        "label": "Eti Gong Pops Peynirli Acılı Mısır Patlağı 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-firinlanmis-yogurt-and-mevsim-yesillikleri-110-gr",
+        "query": "Lay's Fırınlanmış Yoğurt & Mevsim Yeşillikleri 110 Gr",
+        "label": "Lay's Fırınlanmış Yoğurt & Mevsim Yeşillikleri 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-misir-cipsi-135-gr",
+        "query": "Doritos Nacho Mısır Cipsi 135 Gr",
+        "label": "Doritos Nacho Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-hot-corn-aci-biberli-130-gr",
+        "query": "Doritos Hot Corn Acı Biberli 130 Gr",
+        "label": "Doritos Hot Corn Acı Biberli 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-original-patates-cipsi-193-gr",
+        "query": "Lay's Original Patates Cipsi 193 Gr",
+        "label": "Lay's Original Patates Cipsi 193 Gr",
+        "detail": "193 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-klasik-160-gr",
+        "query": "Lay's Klasik 160 Gr",
+        "label": "Lay's Klasik 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezos-ultra-aci-baharat-aromali-misir-cerezi-150-gr",
+        "query": "Çerezos Ultra Acı Baharat Aromalı Mısır Çerezi 150 Gr",
+        "label": "Çerezos Ultra Acı Baharat Aromalı Mısır Çerezi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-acili-baharatli-cips-160-gr",
+        "query": "Master Potato Acılı Baharatlı Cips 160 Gr",
+        "label": "Master Potato Acılı Baharatlı Cips 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-taco-baharatli-misir-cipsi-185-gr",
+        "query": "Patos Taco Baharatlı Mısır Cipsi 185 Gr",
+        "label": "Patos Taco Baharatlı Mısır Cipsi 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-dev-baharatli-domates-soslu-misir-cerezi-150-gr",
+        "query": "Çerezza Dev Baharatlı Domates Soslu Mısır Çerezi 150 Gr",
+        "label": "Çerezza Dev Baharatlı Domates Soslu Mısır Çerezi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "mcvitie-s-cracker-crisp-sour-cream-and-chive-110-gr",
+        "query": "McVitie's Cracker Crisp Sour Cream & Chive 110 Gr",
+        "label": "McVitie's Cracker Crisp Sour Cream & Chive 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-sirkeli-super-boy-95-gr",
+        "query": "Lay's Sirkeli Süper Boy 95 Gr",
+        "label": "Lay's Sirkeli Süper Boy 95 Gr",
+        "detail": "95 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-pops-misir-patlagi-sade-80-gr",
+        "query": "Eti Gong Pops Mısır Patlağı Sade 80 Gr",
+        "label": "Eti Gong Pops Mısır Patlağı Sade 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-tirtikli-original-deniz-tuzlu-patates-cipsi-160-gr",
+        "query": "Cipso Tırtıklı Original Deniz Tuzlu Patates Cipsi 160 Gr",
+        "label": "Cipso Tırtıklı Original Deniz Tuzlu Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-tirtikli-ketcap-aromali-patates-cipsi-160-gr",
+        "query": "Cipso Tırtıklı Ketçap Aromalı Patates Cipsi 160 Gr",
+        "label": "Cipso Tırtıklı Ketçap Aromalı Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ulker-altinbasak-tahil-cipsi-50-gr",
+        "query": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+        "label": "Ülker Altınbaşak Tahıl Cipsi 50 Gr",
+        "detail": "50 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-popcorn-80-gr",
+        "query": "Çerezza Popcorn 80 Gr",
+        "label": "Çerezza Popcorn 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-tirtikli-deniz-tuzlu-sade-patates-cipsi-125-gr",
+        "query": "Cipso Tırtıklı Deniz Tuzlu Sade Patates Cipsi 125 Gr",
+        "label": "Cipso Tırtıklı Deniz Tuzlu Sade Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-misir-cipsi-135-gr",
+        "query": "Doritos Taco Mısır Cipsi 135 Gr",
+        "label": "Doritos Taco Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-misir-cipsi-218-gr",
+        "query": "Doritos Nacho Mısır Cipsi 218 Gr",
+        "label": "Doritos Nacho Mısır Cipsi 218 Gr",
+        "detail": "218 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "unistanbul-domates-feslegenli-ekmek-kitiri-110-gr",
+        "query": "Unistanbul Domates Fesleğenli Ekmek Kıtırı 110 Gr",
+        "label": "Unistanbul Domates Fesleğenli Ekmek Kıtırı 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-ince-tirtikli-yogurt-mevsim-yesillikleri-patates-cipsi-125-gr",
+        "query": "Cipso İnce Tırtıklı Yoğurt Mevsim Yeşillikleri Patates Cipsi 125 Gr",
+        "label": "Cipso İnce Tırtıklı Yoğurt Mevsim Yeşillikleri Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-mega-paket-fistik-peynir-biftek-60-gr",
+        "query": "Cheetos Mega Paket Fıstık Peynir Biftek 60 Gr",
+        "label": "Cheetos Mega Paket Fıstık Peynir Biftek 60 Gr",
+        "detail": "60 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-originals-mega-boy-193-gr",
+        "query": "Ruffles Originals Mega Boy 193 Gr",
+        "label": "Ruffles Originals Mega Boy 193 Gr",
+        "detail": "193 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-critos-peynir-aromali-misir-cerezi-115-gr",
+        "query": "Patos Critos Peynir Aromalı Mısır Çerezi 115 Gr",
+        "label": "Patos Critos Peynir Aromalı Mısır Çerezi 115 Gr",
+        "detail": "115 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-peynirli-misir-cipsi-135-gr",
+        "query": "Doritos Nacho Peynirli Mısır Cipsi 135 Gr",
+        "label": "Doritos Nacho Peynirli Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-ruffles-doritos-2li-avantaj-paket-176-gr",
+        "query": "Lay's Ruffles Doritos 2li Avantaj Paket 176 Gr",
+        "label": "Lay's Ruffles Doritos 2li Avantaj Paket 176 Gr",
+        "detail": "176 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-nacho-mega-boy-218-gr",
+        "query": "Doritos Nacho Mega Boy 218 Gr",
+        "label": "Doritos Nacho Mega Boy 218 Gr",
+        "detail": "218 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-aci-baharat-aromali-misir-cipsi-135-gr",
+        "query": "Patos Acı Baharat Aromalı Mısır Cipsi 135 Gr",
+        "label": "Patos Acı Baharat Aromalı Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-doritos-2li-paket-319-gr",
+        "query": "Ruffles Doritos 2li Paket 319 Gr",
+        "label": "Ruffles Doritos 2li Paket 319 Gr",
+        "detail": "319 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-rolls-aci-kirmizi-biber-aromali-misir-cipsi-135-gr",
+        "query": "Patos Rolls Acı Kırmızı Biber Aromalı Mısır Cipsi 135 Gr",
+        "label": "Patos Rolls Acı Kırmızı Biber Aromalı Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "eti-gong-sut-misir-and-acili-68-gr",
+        "query": "Eti Gong Süt Mısır & Acılı 68 Gr",
+        "label": "Eti Gong Süt Mısır & Acılı 68 Gr",
+        "detail": "68 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "noutos-yogurt-mevsim-yesillikli-nohut-cipsi-55-gr",
+        "query": "Noutos Yoğurt Mevsim Yeşillikli Nohut Cipsi 55 Gr",
+        "label": "Noutos Yoğurt Mevsim Yeşillikli Nohut Cipsi 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-nut-fistik-ezmeli-deniz-tuzlu-misir-cipsi-165-gr",
+        "query": "Master Nut Fıstık Ezmeli Deniz Tuzlu Mısır Cipsi 165 Gr",
+        "label": "Master Nut Fıstık Ezmeli Deniz Tuzlu Mısır Cipsi 165 Gr",
+        "detail": "165 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-shots-3lu-paket-42-gr",
+        "query": "Cheetos Shots 3lü Paket 42 Gr",
+        "label": "Cheetos Shots 3lü Paket 42 Gr",
+        "detail": "3l",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-klasik-mevsim-yesillikli-firindan-yogurtlu-cips-125-gr",
+        "query": "Lay's Klasik Mevsim Yeşillikli Fırından Yoğurtlu Cips 125 Gr",
+        "label": "Lay's Klasik Mevsim Yeşillikli Fırından Yoğurtlu Cips 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-taco-baharatli-misir-cipsi-135-gr",
+        "query": "Patos Taco Baharatlı Mısır Cipsi 135 Gr",
+        "label": "Patos Taco Baharatlı Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-nut-barbeku-soslu-misir-cerezi-110-gr",
+        "query": "Master Nut Barbekü Soslu Mısır Çerezi 110 Gr",
+        "label": "Master Nut Barbekü Soslu Mısır Çerezi 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-max-peynir-and-sogan-125-gr",
+        "query": "Ruffles Max Peynir & Soğan 125 Gr",
+        "label": "Ruffles Max Peynir & Soğan 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-baharatli-super-121-gr",
+        "query": "Doritos Taco Baharatlı Süper 121 Gr",
+        "label": "Doritos Taco Baharatlı Süper 121 Gr",
+        "detail": "121 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-barbeku-cesnili-patates-cipsi-160-gr",
+        "query": "Master Potato Barbekü Çeşnili Patates Cipsi 160 Gr",
+        "label": "Master Potato Barbekü Çeşnili Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lay-s-yogurt-ve-mevsim-yesillikleri-cips-125-gr",
+        "query": "Lay's Yoğurt Ve Mevsim Yeşillikleri Cips 125 Gr",
+        "label": "Lay's Yoğurt Ve Mevsim Yeşillikleri Cips 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cipso-tube-patates-cipsi-sade-160-gr",
+        "query": "Cipso Tube Patates Cipsi Sade 160 Gr",
+        "label": "Cipso Tube Patates Cipsi Sade 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-nacho-misir-cipsi-135-gr",
+        "query": "Doritos Taco Nacho Mısır Cipsi 135 Gr",
+        "label": "Doritos Taco Nacho Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-firindan-multipack-60-gr",
+        "query": "Cheetos Fırından Multipack 60 Gr",
+        "label": "Cheetos Fırından Multipack 60 Gr",
+        "detail": "60 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-turca-flamin-hot-extreme-hot-misir-cipsi-130-gr",
+        "query": "Doritos Turca Flamin Hot Extreme Hot Mısır Cipsi 130 Gr",
+        "label": "Doritos Turca Flamin Hot Extreme Hot Mısır Cipsi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "ruffles-orijinal-peynirli-sogan-ketcap-patates-cipsi-125-gr",
+        "query": "Ruffles Orijinal Peynirli Soğan Ketçap Patates Cipsi 125 Gr",
+        "label": "Ruffles Orijinal Peynirli Soğan Ketçap Patates Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-potato-original-patates-cipsi-160-gr",
+        "query": "Master Potato Original Patates Cipsi 160 Gr",
+        "label": "Master Potato Original Patates Cipsi 160 Gr",
+        "detail": "160 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-aci-biber-and-limon-misir-cipsi-125-gr",
+        "query": "Doritos Acı Biber & Limon Mısır Cipsi 125 Gr",
+        "label": "Doritos Acı Biber & Limon Mısır Cipsi 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-storms-mexicano-125-gr",
+        "query": "Doritos Storms Mexicano 125 Gr",
+        "label": "Doritos Storms Mexicano 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-storm-flamin-hot-125-gr",
+        "query": "Doritos Storm Flamin Hot 125 Gr",
+        "label": "Doritos Storm Flamin Hot 125 Gr",
+        "detail": "125 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "migros-misir-ve-pirinc-patlagi-64-gr",
+        "query": "Migros Mısır ve Pirinç Patlağı 64 Gr",
+        "label": "Migros Mısır ve Pirinç Patlağı 64 Gr",
+        "detail": "64 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "migros-taco-aromali-misir-ve-pirinc-patlagi-64-gr",
+        "query": "Migros Taco Aromalı Mısır ve Pirinç Patlağı 64 Gr",
+        "label": "Migros Taco Aromalı Mısır ve Pirinç Patlağı 64 Gr",
+        "detail": "64 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "fropie-firinlanmis-nohut-cipsi-tutsulu-biber-cesnili-50-gr",
+        "query": "Fropie Fırınlanmış Nohut Cipsi Tütsülü Biber Çeşnili 50 Gr",
+        "label": "Fropie Fırınlanmış Nohut Cipsi Tütsülü Biber Çeşnili 50 Gr",
+        "detail": "50 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-cool-original-misir-cipsi-130-gr",
+        "query": "Doritos Cool Original Mısır Cipsi 130 Gr",
+        "label": "Doritos Cool Original Mısır Cipsi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-pesto-sos-cesnili-patates-cipsi-200-gr",
+        "query": "Amigo Pesto Sos Çeşnili Patates Cipsi 200 Gr",
+        "label": "Amigo Pesto Sos Çeşnili Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patito-pesto-barbeku-aromali-patates-cipsi-200-gr",
+        "query": "Patito Pesto Barbekü Aromalı Patates Cipsi 200 Gr",
+        "label": "Patito Pesto Barbekü Aromalı Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-aci-misir-cipsi-185-gr",
+        "query": "Patos Acı Mısır Cipsi 185 Gr",
+        "label": "Patos Acı Mısır Cipsi 185 Gr",
+        "detail": "185 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "master-puff-ketcap-cesnili-misir-cerezi-90-gr",
+        "query": "Master Puff Ketçap Çeşnili Mısır Çerezi 90 Gr",
+        "label": "Master Puff Ketçap Çeşnili Mısır Çerezi 90 Gr",
+        "detail": "90 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patos-rolls-chilli-lime-misir-cipsi-135-gr",
+        "query": "Patos Rolls Chilli Lime Mısır Cipsi 135 Gr",
+        "label": "Patos Rolls Chilli Lime Mısır Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patito-peynir-soganli-patates-cipsi-200-gr",
+        "query": "Patito Peynir Soğanlı Patates Cipsi 200 Gr",
+        "label": "Patito Peynir Soğanlı Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "lorenz-chipsletten-sea-salt-patates-cipsi-100-gr",
+        "query": "Lorenz Chipsletten Sea Salt Patates Cipsi 100 Gr",
+        "label": "Lorenz Chipsletten Sea Salt Patates Cipsi 100 Gr",
+        "detail": "100 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-barbeku-sos-cesnili-patates-cipsi-200-gr",
+        "query": "Amigo Barbekü Sos Çeşnili Patates Cipsi 200 Gr",
+        "label": "Amigo Barbekü Sos Çeşnili Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-domates-baharat-aromali-misir-cerezi-150-gr",
+        "query": "Çerezza Domates Baharat Aromalı Mısır Çerezi 150 Gr",
+        "label": "Çerezza Domates Baharat Aromalı Mısır Çerezi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-ince-truf-mantarli-patates-cipsi-135-gr",
+        "query": "Samba İnce Trüf Mantarlı Patates Cipsi 135 Gr",
+        "label": "Samba İnce Trüf Mantarlı Patates Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-bbq-aromali-tirtikli-patates-cipsi-200-gr",
+        "query": "Samba BBQ Aromalı Tırtıklı Patates Cipsi 200 Gr",
+        "label": "Samba BBQ Aromalı Tırtıklı Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-pesto-aromali-tirtikli-patates-cipsi-200-gr",
+        "query": "Samba Pesto Aromalı Tırtıklı Patates Cipsi 200 Gr",
+        "label": "Samba Pesto Aromalı Tırtıklı Patates Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-yer-fistikli-misir-cerezi-55-gr",
+        "query": "Amigo Yer Fıstıklı Mısır Çerezi 55 Gr",
+        "label": "Amigo Yer Fıstıklı Mısır Çerezi 55 Gr",
+        "detail": "55 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-pop-corn-patlamis-misir-60-gr",
+        "query": "Amigo Pop Corn Patlamış Mısır 60 Gr",
+        "label": "Amigo Pop Corn Patlamış Mısır 60 Gr",
+        "detail": "60 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-sut-misiri-cesnili-misir-cerezi-130-gr",
+        "query": "Amigo Süt Mısırı Çeşnili Mısır Çerezi 130 Gr",
+        "label": "Amigo Süt Mısırı Çeşnili Mısır Çerezi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-pops-pirinc-ve-misir-patlagi-64-gr",
+        "query": "Amigo Pops Pirinç Ve Mısır Patlağı 64 Gr",
+        "label": "Amigo Pops Pirinç Ve Mısır Patlağı 64 Gr",
+        "detail": "64 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-ruffles-original-24-adet",
+        "query": "Doritos Taco Ruffles Original 24 Adet",
+        "label": "Doritos Taco Ruffles Original 24 Adet",
+        "detail": "24 Adet",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-eksi-krema-soganli-ince-patates-cipsi-135-gr",
+        "query": "Samba Ekşi Krema Soğanlı İnce Patates Cipsi 135 Gr",
+        "label": "Samba Ekşi Krema Soğanlı İnce Patates Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-tirtikli-patates-cipsi-150-gr",
+        "query": "Samba Tırtıklı Patates Cipsi 150 Gr",
+        "label": "Samba Tırtıklı Patates Cipsi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cerezza-patlamis-misir-cips-80-gr",
+        "query": "Çerezza Patlamış Mısır Cips 80 Gr",
+        "label": "Çerezza Patlamış Mısır Cips 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "unistanbul-cartocci-cikolatali-portakalli-ekmek-cipsi-110-gr",
+        "query": "Unistanbul Cartocci Çikolatalı Portakallı Ekmek Cipsi 110 Gr",
+        "label": "Unistanbul Cartocci Çikolatalı Portakallı Ekmek Cipsi 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-duz-sade-patates-cipsi-150-gr",
+        "query": "Amigo Düz Sade Patates Cipsi 150 Gr",
+        "label": "Amigo Düz Sade Patates Cipsi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "amigo-ultra-taco-100-gr",
+        "query": "Amigo Ultra Taco 100 Gr",
+        "label": "Amigo Ultra Taco 100 Gr",
+        "detail": "100 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-ince-tatli-aci-patates-cipsi-135-gr",
+        "query": "Samba İnce Tatlı Acı Patates Cipsi 135 Gr",
+        "label": "Samba İnce Tatlı Acı Patates Cipsi 135 Gr",
+        "detail": "135 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-biftek-ve-fistikli-misir-cerezi-46-gr",
+        "query": "Cheetos Biftek ve Fıstıklı Mısır Çerezi 46 Gr",
+        "label": "Cheetos Biftek ve Fıstıklı Mısır Çerezi 46 Gr",
+        "detail": "46 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "unistanbul-cartocci-balli-tarcinli-ekmek-cipsi-110-gr",
+        "query": "Unistanbul Cartocci Ballı Tarçınlı Ekmek Cipsi 110 Gr",
+        "label": "Unistanbul Cartocci Ballı Tarçınlı Ekmek Cipsi 110 Gr",
+        "detail": "110 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "cheetos-mega-peynir-aromali-misir-cerezi-80-gr",
+        "query": "Cheetos Mega Peynir Aromalı Mısır Çerezi 80 Gr",
+        "label": "Cheetos Mega Peynir Aromalı Mısır Çerezi 80 Gr",
+        "detail": "80 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "samba-ince-patates-cipsi-150-gr",
+        "query": "Samba İnce Patates Cipsi 150 Gr",
+        "label": "Samba İnce Patates Cipsi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "tarim-kredi-taco-aromali-misir-ve-pirinc-patlagi-64-gr",
+        "query": "Tarım Kredi Taco Aromalı Mısır Ve Pirinç Patlağı 64 Gr",
+        "label": "Tarım Kredi Taco Aromalı Mısır Ve Pirinç Patlağı 64 Gr",
+        "detail": "64 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "doritos-taco-shots-misir-cipsi-3x23-gr",
+        "query": "Doritos Taco Shots Mısır Cipsi 3x23 Gr",
+        "label": "Doritos Taco Shots Mısır Cipsi 3x23 Gr",
+        "detail": "3x23 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "tarim-kredi-cok-tahilli-pirinc-patlagi-60-gr",
+        "query": "Tarım Kredi Çok Tahıllı Pirinç Patlağı 60 Gr",
+        "label": "Tarım Kredi Çok Tahıllı Pirinç Patlağı 60 Gr",
+        "detail": "60 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "stark-fistikli-peynirli-biftekli-cips-48-gr",
+        "query": "Stark Fıstıklı Peynirli Biftekli Cips 48 Gr",
+        "label": "Stark Fıstıklı Peynirli Biftekli Cips 48 Gr",
+        "detail": "48 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "party-baharatli-peynirli-mix-misir-cipsi-130-gr",
+        "query": "Party Baharatlı Peynirli Mix Mısır Cipsi 130 Gr",
+        "label": "Party Baharatlı Peynirli Mix Mısır Cipsi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "party-bal-ve-hardal-aromali-misir-cipsi-200-gr",
+        "query": "Party Bal ve Hardal Aromalı Mısır Cipsi 200 Gr",
+        "label": "Party Bal ve Hardal Aromalı Mısır Cipsi 200 Gr",
+        "detail": "200 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "star-krak-yer-fistikli-misir-cerezi-150-gr",
+        "query": "Star Krak Yer Fıstıklı Mısır Çerezi 150 Gr",
+        "label": "Star Krak Yer Fıstıklı Mısır Çerezi 150 Gr",
+        "detail": "150 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "patito-baharat-mevsimsel-kasik-cips-90-gr",
+        "query": "Patito Baharat Mevsimsel Kaşık Cips 90 Gr",
+        "label": "Patito Baharat Mevsimsel Kaşık Cips 90 Gr",
+        "detail": "90 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "party-haslanmis-aci-biber-cesnili-misir-cipsi-300-gr",
+        "query": "Party Haşlanmış Acı Biber Çeşnili Mısır Cipsi 300 Gr",
+        "label": "Party Haşlanmış Acı Biber Çeşnili Mısır Cipsi 300 Gr",
+        "detail": "300 g",
+        "icon": "🥔"
+      },
+      {
+        "id": "party-taco-peynir-barbeku-misir-cerezi-130-gr",
+        "query": "Party Taco Peynir Barbekü Mısır Çerezi 130 Gr",
+        "label": "Party Taco Peynir Barbekü Mısır Çerezi 130 Gr",
+        "detail": "130 g",
+        "icon": "🥔"
       }
     ]
   }
