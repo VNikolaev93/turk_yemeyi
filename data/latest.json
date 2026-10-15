@@ -8550,6 +8550,537 @@
       "price": 169.5,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "aytac-dondurulmus-maydanozlu-dana-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Aytaç Dondurulmuş Maydanozlu Dana Köfte 500 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "et-ve-sut-kurumu-kiyma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Et Ve Süt Kurumu Kıyma 1 Kg",
+      "price": 600,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ekoburger-545-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Ekoburger 545 Gr",
+      "price": 789.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-illaki-inegol-kofte-390-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar İllaki İnegöl Köfte 390 Gr",
+      "price": 689.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-dana-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Dana Köfte 500 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-dana-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Dana Döner 250 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "pismis-parmak-misket-kofte-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pişmiş Parmak Misket Köfte 250 Gr",
+      "price": 155,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "namet-soslu-dana-parmak-kofte-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Soslu Dana Parmak Köfte 250 Gr",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "maret-dondurulmus-soslu-dana-doner-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Maret Dondurulmuş Soslu Dana Döner 200 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dana-sarimsakli-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Sarımsaklı Köfte 320 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "ozpan-kebap-isit-ye-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Özpan Kebap Isıt Ye 160 Gr",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bonfilet-dondurulmus-dana-kuzu-kiyma-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bonfilet Dondurulmuş Dana Kuzu Kıyma 500 Gr",
+      "price": 319,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bonfilet-dondurulmus-dana-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bonfilet Dondurulmuş Dana Döner 250 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "donuk-pismis-dana-doner-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Pişmiş Dana Döner 500 Gr",
+      "price": 309,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dana-usta-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Usta Köfte 320 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bonfilet-steak-burger-360-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bonfilet Steak Burger 360 Gr",
+      "price": 245,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-dana-kiyma-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Dana Kıyma 1 Kg",
+      "price": 645,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "ramiz-inegol-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ramiz İnegöl Köfte 500 Gr",
+      "price": 359,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dana-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Kıyma 400 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-dana-izgara-kofte-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Dana Izgara Köfte 400 Gr",
+      "price": 269,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "akcasaray-akcaabat-dana-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Akçasaray Akçaabat Dana Köfte 500 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "ramiz-dondurulmus-dana-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Ramiz Dondurulmuş Dana Köfte 500 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kombinet-dana-kusbasi-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kombinet Dana Kuşbaşı 400 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-dana-kuzu-kasarli-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "İnci Dana Kuzu Kaşarlı Köfte 500 Gr",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezzetlim-dana-doner-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezzetlim Dana Döner 300 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kombinet-dondurulmus-dana-hamburger-kofte-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kombinet Dondurulmuş Dana Hamburger Köfte 225 Gr",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-misket-kofte-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Misket Köfte 400 Gr",
+      "price": 379.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-dana-kusbasi-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Dana Kuşbaşı 400 Gr",
+      "price": 350,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-izmir-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap İzmir Köfte 320 Gr",
+      "price": 275.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "torku-dondurulmus-dana-kuzu-cizbiz-kofte-390-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Torku Dondurulmuş Dana Kuzu Cızbız Köfte 390 Gr",
+      "price": 329,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezzetlim-dana-kusbasi-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezzetlim Dana Kuşbaşı 400 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-cizbiz-kofte-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Cızbız Köfte 200 Gr",
+      "price": 179.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-klasik-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Klasik Köfte 320 Gr",
+      "price": 299.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-dag-kekikli-dana-coban-kofte-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Dağ Kekikli Dana Çoban Köfte 400 Gr",
+      "price": 379.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-dana-kuzu-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Dana Kuzu Kıyma 400 Gr",
+      "price": 320,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "bastaci-dana-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Baştacı Dana Döner 250 Gr",
+      "price": 205,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-tekirdag-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Tekirdağ Köfte 320 Gr",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "besler-donuk-dana-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Beşler Donuk Dana Döner 250 Gr",
+      "price": 235,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-dana-hamburger-kofte-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "İnci Dana Hamburger Köfte 225 Gr",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-dana-newyork-steak-skinpack-1-kg",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Dana Newyork Steak Skinpack 1 Kg",
+      "price": 999.95,
+      "oldPrice": 1209.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "namet-pismis-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Namet Pişmiş Döner 250 Gr",
+      "price": 179.95,
+      "oldPrice": 279.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "lezzetlim-dana-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Lezzetlim Dana Kıyma 400 Gr",
+      "price": 330,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-dana-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Dana Kıyma 400 Gr",
+      "price": 330,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "uzman-kasap-izgara-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Uzman Kasap Izgara Köfte 320 Gr",
+      "price": 179.95,
+      "oldPrice": 269.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "inci-dana-kuzu-kasap-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "İnci Dana Kuzu Kasap Köfte 500 Gr",
+      "price": 349,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "donuk-dana-kusbasi-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Dana Kuşbaşı 400 Gr",
+      "price": 260,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "konet-donuk-pismis-dana-doner-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Konet Donuk Pişmiş Dana Döner 250 Gr",
+      "price": 180,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "donuk-dana-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Donuk Dana Kıyma 400 Gr",
+      "price": 230,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "hamburger-kofte-360-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Hamburger Köfte 360 Gr",
+      "price": 289.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-inegol-kofte-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin İnegöl Köfte 400 Gr",
+      "price": 315,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dana-izgara-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Izgara Köfte 320 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dondurulmus-hamburger-koftesi-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dondurulmuş Hamburger Köftesi 225 Gr",
+      "price": 175,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dondurulmus-kasarli-kasap-kofte-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dondurulmuş Kaşarlı Kasap Köfte 500 Gr",
+      "price": 349,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-sote-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Sote 400 Gr",
+      "price": 360,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dana-kasap-kofte-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dana Kasap Köfte 320 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-kusbasi-et-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Kuşbaşı Et 400 Gr",
+      "price": 350,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-kuzu-izgara-kofte-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Kuzu Izgara Köfte 400 Gr",
+      "price": 315,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-dana-kuzu-doner-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin Dana Kuzu Döner 300 Gr",
+      "price": 239,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "emin-20-yagli-dana-kiyma-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Emin %20 Yağlı Dana Kıyma 400 Gr",
+      "price": 238,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -13881,6 +14412,421 @@
         "label": "Dardanel Ekonomik Ton Balığı 250 Gr",
         "detail": "250 g",
         "icon": "🐟"
+      }
+    ],
+    "red-meat": [
+      {
+        "id": "aytac-dondurulmus-maydanozlu-dana-kofte-500-gr",
+        "query": "Aytaç Dondurulmuş Maydanozlu Dana Köfte 500 Gr",
+        "label": "Aytaç Dondurulmuş Maydanozlu Dana Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "et-ve-sut-kurumu-kiyma-1-kg",
+        "query": "Et Ve Süt Kurumu Kıyma 1 Kg",
+        "label": "Et Ve Süt Kurumu Kıyma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥩"
+      },
+      {
+        "id": "pinar-ekoburger-545-gr",
+        "query": "Pınar Ekoburger 545 Gr",
+        "label": "Pınar Ekoburger 545 Gr",
+        "detail": "545 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "pinar-illaki-inegol-kofte-390-gr",
+        "query": "Pınar İllaki İnegöl Köfte 390 Gr",
+        "label": "Pınar İllaki İnegöl Köfte 390 Gr",
+        "detail": "390 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dondurulmus-dana-kofte-500-gr",
+        "query": "Dondurulmuş Dana Köfte 500 Gr",
+        "label": "Dondurulmuş Dana Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "donuk-dana-doner-250-gr",
+        "query": "Donuk Dana Döner 250 Gr",
+        "label": "Donuk Dana Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "pismis-parmak-misket-kofte-250-gr",
+        "query": "Pişmiş Parmak Misket Köfte 250 Gr",
+        "label": "Pişmiş Parmak Misket Köfte 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "namet-soslu-dana-parmak-kofte-250-gr",
+        "query": "Namet Soslu Dana Parmak Köfte 250 Gr",
+        "label": "Namet Soslu Dana Parmak Köfte 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "maret-dondurulmus-soslu-dana-doner-200-gr",
+        "query": "Maret Dondurulmuş Soslu Dana Döner 200 Gr",
+        "label": "Maret Dondurulmuş Soslu Dana Döner 200 Gr",
+        "detail": "200 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dana-sarimsakli-kofte-320-gr",
+        "query": "Dana Sarımsaklı Köfte 320 Gr",
+        "label": "Dana Sarımsaklı Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "ozpan-kebap-isit-ye-160-gr",
+        "query": "Özpan Kebap Isıt Ye 160 Gr",
+        "label": "Özpan Kebap Isıt Ye 160 Gr",
+        "detail": "160 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "bonfilet-dondurulmus-dana-kuzu-kiyma-500-gr",
+        "query": "Bonfilet Dondurulmuş Dana Kuzu Kıyma 500 Gr",
+        "label": "Bonfilet Dondurulmuş Dana Kuzu Kıyma 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "bonfilet-dondurulmus-dana-doner-250-gr",
+        "query": "Bonfilet Dondurulmuş Dana Döner 250 Gr",
+        "label": "Bonfilet Dondurulmuş Dana Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "donuk-pismis-dana-doner-500-gr",
+        "query": "Donuk Pişmiş Dana Döner 500 Gr",
+        "label": "Donuk Pişmiş Dana Döner 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dana-usta-kofte-320-gr",
+        "query": "Dana Usta Köfte 320 Gr",
+        "label": "Dana Usta Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "bonfilet-steak-burger-360-gr",
+        "query": "Bonfilet Steak Burger 360 Gr",
+        "label": "Bonfilet Steak Burger 360 Gr",
+        "detail": "360 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dondurulmus-dana-kiyma-1-kg",
+        "query": "Dondurulmuş Dana Kıyma 1 Kg",
+        "label": "Dondurulmuş Dana Kıyma 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥩"
+      },
+      {
+        "id": "ramiz-inegol-kofte-500-gr",
+        "query": "Ramiz İnegöl Köfte 500 Gr",
+        "label": "Ramiz İnegöl Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dana-kiyma-400-gr",
+        "query": "Dana Kıyma 400 Gr",
+        "label": "Dana Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "besler-dana-izgara-kofte-400-gr",
+        "query": "Beşler Dana Izgara Köfte 400 Gr",
+        "label": "Beşler Dana Izgara Köfte 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "akcasaray-akcaabat-dana-kofte-500-gr",
+        "query": "Akçasaray Akçaabat Dana Köfte 500 Gr",
+        "label": "Akçasaray Akçaabat Dana Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "ramiz-dondurulmus-dana-kofte-500-gr",
+        "query": "Ramiz Dondurulmuş Dana Köfte 500 Gr",
+        "label": "Ramiz Dondurulmuş Dana Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "kombinet-dana-kusbasi-400-gr",
+        "query": "Kombinet Dana Kuşbaşı 400 Gr",
+        "label": "Kombinet Dana Kuşbaşı 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "inci-dana-kuzu-kasarli-kofte-500-gr",
+        "query": "İnci Dana Kuzu Kaşarlı Köfte 500 Gr",
+        "label": "İnci Dana Kuzu Kaşarlı Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "lezzetlim-dana-doner-300-gr",
+        "query": "Lezzetlim Dana Döner 300 Gr",
+        "label": "Lezzetlim Dana Döner 300 Gr",
+        "detail": "300 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "kombinet-dondurulmus-dana-hamburger-kofte-225-gr",
+        "query": "Kombinet Dondurulmuş Dana Hamburger Köfte 225 Gr",
+        "label": "Kombinet Dondurulmuş Dana Hamburger Köfte 225 Gr",
+        "detail": "225 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-misket-kofte-400-gr",
+        "query": "Uzman Kasap Misket Köfte 400 Gr",
+        "label": "Uzman Kasap Misket Köfte 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-dana-kusbasi-400-gr",
+        "query": "Uzman Kasap Dana Kuşbaşı 400 Gr",
+        "label": "Uzman Kasap Dana Kuşbaşı 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-izmir-kofte-320-gr",
+        "query": "Uzman Kasap İzmir Köfte 320 Gr",
+        "label": "Uzman Kasap İzmir Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "torku-dondurulmus-dana-kuzu-cizbiz-kofte-390-gr",
+        "query": "Torku Dondurulmuş Dana Kuzu Cızbız Köfte 390 Gr",
+        "label": "Torku Dondurulmuş Dana Kuzu Cızbız Köfte 390 Gr",
+        "detail": "390 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "lezzetlim-dana-kusbasi-400-gr",
+        "query": "Lezzetlim Dana Kuşbaşı 400 Gr",
+        "label": "Lezzetlim Dana Kuşbaşı 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-cizbiz-kofte-200-gr",
+        "query": "Uzman Kasap Cızbız Köfte 200 Gr",
+        "label": "Uzman Kasap Cızbız Köfte 200 Gr",
+        "detail": "200 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-klasik-kofte-320-gr",
+        "query": "Uzman Kasap Klasik Köfte 320 Gr",
+        "label": "Uzman Kasap Klasik Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-dag-kekikli-dana-coban-kofte-400-gr",
+        "query": "Uzman Kasap Dağ Kekikli Dana Çoban Köfte 400 Gr",
+        "label": "Uzman Kasap Dağ Kekikli Dana Çoban Köfte 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-dana-kuzu-kiyma-400-gr",
+        "query": "Uzman Kasap Dana Kuzu Kıyma 400 Gr",
+        "label": "Uzman Kasap Dana Kuzu Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "bastaci-dana-doner-250-gr",
+        "query": "Baştacı Dana Döner 250 Gr",
+        "label": "Baştacı Dana Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-tekirdag-kofte-320-gr",
+        "query": "Uzman Kasap Tekirdağ Köfte 320 Gr",
+        "label": "Uzman Kasap Tekirdağ Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "besler-donuk-dana-doner-250-gr",
+        "query": "Beşler Donuk Dana Döner 250 Gr",
+        "label": "Beşler Donuk Dana Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "inci-dana-hamburger-kofte-225-gr",
+        "query": "İnci Dana Hamburger Köfte 225 Gr",
+        "label": "İnci Dana Hamburger Köfte 225 Gr",
+        "detail": "225 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-dana-newyork-steak-skinpack-1-kg",
+        "query": "Uzman Kasap Dana Newyork Steak Skinpack 1 Kg",
+        "label": "Uzman Kasap Dana Newyork Steak Skinpack 1 Kg",
+        "detail": "1 kg",
+        "icon": "🥩"
+      },
+      {
+        "id": "namet-pismis-doner-250-gr",
+        "query": "Namet Pişmiş Döner 250 Gr",
+        "label": "Namet Pişmiş Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "lezzetlim-dana-kiyma-400-gr",
+        "query": "Lezzetlim Dana Kıyma 400 Gr",
+        "label": "Lezzetlim Dana Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-dana-kiyma-400-gr",
+        "query": "Uzman Kasap Dana Kıyma 400 Gr",
+        "label": "Uzman Kasap Dana Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "uzman-kasap-izgara-kofte-320-gr",
+        "query": "Uzman Kasap Izgara Köfte 320 Gr",
+        "label": "Uzman Kasap Izgara Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "inci-dana-kuzu-kasap-kofte-500-gr",
+        "query": "İnci Dana Kuzu Kasap Köfte 500 Gr",
+        "label": "İnci Dana Kuzu Kasap Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "donuk-dana-kusbasi-400-gr",
+        "query": "Donuk Dana Kuşbaşı 400 Gr",
+        "label": "Donuk Dana Kuşbaşı 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "konet-donuk-pismis-dana-doner-250-gr",
+        "query": "Konet Donuk Pişmiş Dana Döner 250 Gr",
+        "label": "Konet Donuk Pişmiş Dana Döner 250 Gr",
+        "detail": "250 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "donuk-dana-kiyma-400-gr",
+        "query": "Donuk Dana Kıyma 400 Gr",
+        "label": "Donuk Dana Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "hamburger-kofte-360-gr",
+        "query": "Hamburger Köfte 360 Gr",
+        "label": "Hamburger Köfte 360 Gr",
+        "detail": "360 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-inegol-kofte-400-gr",
+        "query": "Emin İnegöl Köfte 400 Gr",
+        "label": "Emin İnegöl Köfte 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dana-izgara-kofte-320-gr",
+        "query": "Dana Izgara Köfte 320 Gr",
+        "label": "Dana Izgara Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dondurulmus-hamburger-koftesi-225-gr",
+        "query": "Emin Dondurulmuş Hamburger Köftesi 225 Gr",
+        "label": "Emin Dondurulmuş Hamburger Köftesi 225 Gr",
+        "detail": "225 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dondurulmus-kasarli-kasap-kofte-500-gr",
+        "query": "Emin Dondurulmuş Kaşarlı Kasap Köfte 500 Gr",
+        "label": "Emin Dondurulmuş Kaşarlı Kasap Köfte 500 Gr",
+        "detail": "500 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dana-sote-400-gr",
+        "query": "Emin Dana Sote 400 Gr",
+        "label": "Emin Dana Sote 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "dana-kasap-kofte-320-gr",
+        "query": "Dana Kasap Köfte 320 Gr",
+        "label": "Dana Kasap Köfte 320 Gr",
+        "detail": "320 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dana-kusbasi-et-400-gr",
+        "query": "Emin Dana Kuşbaşı Et 400 Gr",
+        "label": "Emin Dana Kuşbaşı Et 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dana-kuzu-izgara-kofte-400-gr",
+        "query": "Emin Dana Kuzu Izgara Köfte 400 Gr",
+        "label": "Emin Dana Kuzu Izgara Köfte 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-dana-kuzu-doner-300-gr",
+        "query": "Emin Dana Kuzu Döner 300 Gr",
+        "label": "Emin Dana Kuzu Döner 300 Gr",
+        "detail": "300 g",
+        "icon": "🥩"
+      },
+      {
+        "id": "emin-20-yagli-dana-kiyma-400-gr",
+        "query": "Emin %20 Yağlı Dana Kıyma 400 Gr",
+        "label": "Emin %20 Yağlı Dana Kıyma 400 Gr",
+        "detail": "400 g",
+        "icon": "🥩"
       }
     ]
   }
