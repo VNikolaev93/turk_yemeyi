@@ -9153,6 +9153,33 @@
       "price": 79.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-jumbo-karides-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Jumbo Karides 200 Gr",
+      "price": 349.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuzuoglu-vakumlu-somon-dilim-fileto-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kuzuoğlu Vakumlu Somon Dilim Fileto 400 Gr",
+      "price": 359,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "palamut-1-adet",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Palamut 1 Adet",
+      "price": 349.99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -14957,6 +14984,29 @@
         "label": "Tavuk Ciğeri 1 Kg",
         "detail": "1 kg",
         "icon": "🥘"
+      }
+    ],
+    "fresh-seafood": [
+      {
+        "id": "migros-jumbo-karides-200-gr",
+        "query": "Migros Jumbo Karides 200 Gr",
+        "label": "Migros Jumbo Karides 200 Gr",
+        "detail": "200 g",
+        "icon": "🦐"
+      },
+      {
+        "id": "kuzuoglu-vakumlu-somon-dilim-fileto-400-gr",
+        "query": "Kuzuoğlu Vakumlu Somon Dilim Fileto 400 Gr",
+        "label": "Kuzuoğlu Vakumlu Somon Dilim Fileto 400 Gr",
+        "detail": "400 g",
+        "icon": "🦐"
+      },
+      {
+        "id": "palamut-1-adet",
+        "query": "Palamut 1 Adet",
+        "label": "Palamut 1 Adet",
+        "detail": "1 Adet",
+        "icon": "🦐"
       }
     ]
   }
