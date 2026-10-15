@@ -11907,6 +11907,2346 @@
       "price": 249.9,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tukas-ranch-bbq-hardal-aci-sos-335-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ranch Bbq Hardal Acı Sos 335 Gr",
+      "price": 33.5,
+      "oldPrice": 49,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-ketcap-375-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ketçap 375 Gr",
+      "price": 99.71,
+      "oldPrice": 132.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doganay-nare-100-limon-suyu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Doğanay Nare %100 Limon Suyu 250 Ml",
+      "price": 45.95,
+      "oldPrice": 59.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-besamel-sos-70-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Beşamel Sos 70 Gr",
+      "price": 56.63,
+      "oldPrice": 80.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-besamel-sos-70-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Beşamel Sos 70 Gr",
+      "price": 59.96,
+      "oldPrice": 79.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "barilla-pesto-genovese-sos-190-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Pesto Genovese Sos 190 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-pesto-genovese-sos-190-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Pesto Genovese Sos 190 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-truflu-mayonez-220-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Trüflü Mayonez 220 Gr",
+      "price": 177.71,
+      "oldPrice": 236.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-burger-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calvé Burger Sos 245 Gr",
+      "price": 104.96,
+      "oldPrice": 139.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "tat-yogun-lezzet-mayonez-330-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Yoğun Lezzet Mayonez 330 Gr",
+      "price": 119.96,
+      "oldPrice": 159.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tat-yogun-lezzet-mayonez-330-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Yoğun Lezzet Mayonez 330 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-yogun-lezzet-mayonez-330-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Yoğun Lezzet Mayonez 330 Gr",
+      "price": 159.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kuhne-aci-ve-klasik-hardal-255-gr",
+      "category": "Temel Gıda",
+      "name": "Kühne Acı Ve Klasik Hardal 255 Gr",
+      "price": 49,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-sarimsakli-mayonez-335-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Sarımsaklı Mayonez 335 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tukas-ketcap-400-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ketçap 400 Gr",
+      "price": 54.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-light-mayonez-420-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Light Mayonez 420 Gr",
+      "price": 182.21,
+      "oldPrice": 242.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "tat-katkisiz-tatli-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Katkısız Tatlı Ketçap 650 Gr",
+      "price": 104.96,
+      "oldPrice": 139.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "zuhre-ana-ananas-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Zühre Ana Ananas Sirkesi 500 Ml",
+      "price": 149.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-mac-cheese-makarna-sosu-50-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Mac & Cheese Makarna Sosu 50 Gr",
+      "price": 48.95,
+      "oldPrice": 63.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "taris-balsamik-sirke-cam-250-ml",
+      "category": "Temel Gıda",
+      "name": "Tariş Balsamik Sirke Cam 250 Ml",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "tat-sweet-chili-ketcap-390-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Sweet Chili Ketçap 390 Gr",
+      "price": 76.46,
+      "oldPrice": 101.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fici-salata-sosu-350-ml",
+      "category": "Temel Gıda",
+      "name": "Fıçı Salata Sosu 350 Ml",
+      "price": 42.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-ranch-sos-335-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ranch Sos 335 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "taris-uzum-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Tariş Üzüm Sirkesi 500 Ml",
+      "price": 67.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-salata-sosu-cam-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Salata Sosu Cam 250 Ml",
+      "price": 174.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "taris-elma-sirkesi-cam-500-ml",
+      "category": "Temel Gıda",
+      "name": "Tariş Elma Sirkesi Cam 500 Ml",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-burger-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Burger Sos 310 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-sarimsakli-mayonezli-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Sarımsaklı Mayonezli Sos 310 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-hardal-sos-320-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Hardal Sos 320 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "knorr-truf-bolonez-makarna-sosu-45-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Trüf & Bolonez Makarna Sosu 45 Gr",
+      "price": 47.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-barbeku-sos-400-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Barbekü Sos 400 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-ranch-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Ranch Sos 310 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "berona-pesto-makarna-sosu-190-gr",
+      "category": "Temel Gıda",
+      "name": "Berona Pesto Makarna Sosu 190 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-aci-sos-330-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Acı Sos 330 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-barbeku-sos-350-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Barbekü Sos 350 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "burcu-lutenitsa-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Lutenitsa Sos 310 Gr",
+      "price": 59.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hp-balli-bbq-sos-465-gr",
+      "category": "Temel Gıda",
+      "name": "Hp Ballı Bbq Sos 465 Gr",
+      "price": 192.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "chef-seasons-kizarmis-patates-sos-320-gr",
+      "category": "Temel Gıda",
+      "name": "Chef Seasons Kızarmış Patates Sos 320 Gr",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "berrak-dobipa-cevizli-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Berrak Dobipa Cevizli Sos 310 Gr",
+      "price": 126.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "berrak-dobipa-ajvar-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Berrak Dobipa Ajvar Sos 310 Gr",
+      "price": 121.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Migros Soya Sosu 250 Ml",
+      "price": 75.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "aiko-tuzu-azaltilmis-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Aiko Tuzu Azaltılmış Soya Sosu 250 Ml",
+      "price": 239.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tat-aci-sos-230-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Acı Sos 230 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tukas-napoliten-arrabbiata-basilico-makarna-sosu-360-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Napoliten/Arrabbiata/Basilico Makarna Sosu 360 Gr",
+      "price": 37.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "piyale-makarna-sosu-napoliten-340-gr",
+      "category": "Temel Gıda",
+      "name": "Piyale Makarna Sosu Napoliten 340 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "bagdat-zeytin-sosu-40-gr",
+      "category": "Temel Gıda",
+      "name": "Bağdat Zeytin Sosu 40 Gr",
+      "price": 64.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "sef-franzi-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Şef Franzi Soya Sosu 250 Ml",
+      "price": 75.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-aci-peri-peri-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Acı Peri Peri Sos 245 Gr",
+      "price": 104.96,
+      "oldPrice": 139.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-balsamik-sirkeli-glaze-sos-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Balsamik Sirkeli Glaze Sos 250 Ml",
+      "price": 238.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tukas-ajvar-sos-350-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ajvar Sos 350 Gr",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "piyale-makarna-sosu-pesto-190-gr",
+      "category": "Temel Gıda",
+      "name": "Piyale Makarna Sosu Pesto 190 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-sarimsakli-aci-sos-100-gr",
+      "category": "Temel Gıda",
+      "name": "Kühne Sarımsaklı Acı Sos 100 Gr",
+      "price": 62.97,
+      "oldPrice": 89.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-hamburger-sos-330-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Hamburger Sos 330 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-chipotle-sos-315-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Chipotle Sos 315 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrefour-selection-aci-biber-sos-100-ml",
+      "category": "Temel Gıda",
+      "name": "Carrefour Selection Acı Biber Sos 100 Ml",
+      "price": 42,
+      "oldPrice": 59.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-ranch-sos-310-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Ranch Sos 310 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-limon-suyu-750-ml",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Limon Suyu 750 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-chipotle-mayonez-225-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Chipotle Mayonez 225 Gr",
+      "price": 157.46,
+      "oldPrice": 209.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-ketcap-460-gr-mayonez-385-gr-ikili-set",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Ketçap 460 Gr + Mayonez 385 Gr İkili Set",
+      "price": 284.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "sitoglu-100-nar-eksisi-cam-surahi-340-gr",
+      "category": "Temel Gıda",
+      "name": "Şitoğlu %100 Nar Ekşisi Cam Sürahi 340 Gr",
+      "price": 105,
+      "oldPrice": 139,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-balsamik-sirke-condimento-rose-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Balsamik Sirke Condimento Rose 250 Ml",
+      "price": 191.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-balsamik-sirke-condimento-bianco-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Balsamik Sirke Condimento Bianco 250 Ml",
+      "price": 191.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tukas-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Mayonez 840 Gr",
+      "price": 47.5,
+      "oldPrice": 58.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tukas-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ketçap 1 Kg",
+      "price": 42.5,
+      "oldPrice": 52.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "tat-aile-paketi-ketcap-900-gr-az-yagli-mayonez-780-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Aile Paketi Ketçap 900 Gr + Az Yağlı Mayonez 780 Gr",
+      "price": 196,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "burcu-mayonez-550-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Mayonez 550 Gr",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "torku-beyaz-sirke-5-lt",
+      "category": "Temel Gıda",
+      "name": "Torku Beyaz Sirke 5 Lt",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-tatli-ketcap-250-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Tatlı Ketçap 250 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ketçap 650 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tukas-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ketçap 650 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "kilikya-beyaz-sirke-5-lt",
+      "category": "Temel Gıda",
+      "name": "Kilikya Beyaz Sirke 5 Lt",
+      "price": 59.5,
+      "oldPrice": 75,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-acili-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Acılı Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "raz-100-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Raz %100 Nar Ekşisi 250 Ml",
+      "price": 256.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-acili-ketcap-500-gr",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Acılı Ketçap 500 Gr",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Nar Ekşisi 250 Ml",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Beyaz Sirke 2 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-tatli-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Tatlı Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-mayonez-220-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Mayonez 220 Gr",
+      "price": 64.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-uzum-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Üzüm Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-az-yagli-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Az Yağlı Mayonez 840 Gr",
+      "price": 112,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-mayonez-430-gr",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Mayonez 430 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-organik-alic-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Organik Alıç Sirkesi 500 Ml",
+      "price": 272.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "galle-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Galle Beyaz Sirke 2 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burcu-mayonez-460-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Mayonez 460 Gr",
+      "price": 98.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "burcu-aci-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Acı Ketçap 650 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "galle-100-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Galle %100 Nar Ekşisi 250 Ml",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-elma-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Elma Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-ketcap-610-gr",
+      "category": "Temel Gıda",
+      "name": "Calvé Ketçap 610 Gr",
+      "price": 129.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-acili-mayonez-230-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Acılı Mayonez 230 Gr",
+      "price": 197.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "burcu-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Ketçap 650 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kemal-kukrer-100-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kemal Kükrer %100 Elma Sirkesi 500 Ml",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "doganay-100-nar-eksisi-cam-250-ml",
+      "category": "Temel Gıda",
+      "name": "Doğanay %100 Nar Ekşisi Cam 250 Ml",
+      "price": 239.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-acili-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Migros Acılı Ketçap 1 Kg",
+      "price": 84.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-tatli-ketcap-500-gr",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Tatlı Ketçap 500 Gr",
+      "price": 55,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "antalya-recelcisi-100-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Antalya Reçelcisi %100 Nar Ekşisi 250 Ml",
+      "price": 229.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Çokça Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "siha-sarimsak-ezmesi-90-gr",
+      "category": "Temel Gıda",
+      "name": "Siha Sarımsak Ezmesi 90 Gr",
+      "price": 203.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-uzum-sirkesi-2-lt",
+      "category": "Temel Gıda",
+      "name": "Fersan Üzüm Sirkesi 2 Lt",
+      "price": 242.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-hardal-335-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Hardal 335 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-sarimsakli-mayonez-205-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Sarımsaklı Mayonez 205 Gr",
+      "price": 129.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "kemal-kukrer-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Kemal Kükrer Nar Ekşisi 250 Ml",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Migros Mayonez 840 Gr",
+      "price": 151.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "yakamoz-uzum-sirkesi-2-lt",
+      "category": "Temel Gıda",
+      "name": "Yakamoz Üzüm Sirkesi 2 Lt",
+      "price": 69.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-acili-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Çokça Acılı Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "antalya-recelcisi-100-erik-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Antalya Reçelcisi %100 Erik Ekşisi 250 Ml",
+      "price": 229.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-sarimsakli-mayonez-235-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Sarımsaklı Mayonez 235 Gr",
+      "price": 197.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-aci-ketcap-250-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Acı Ketçap 250 Gr",
+      "price": 32.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "cokca-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Çokça Mayonez 840 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "heinz-mayonez-400-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Mayonez 400 Gr",
+      "price": 139,
+      "oldPrice": 190,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Bizim Vatan Mayonez 840 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "antalya-recelcisi-100-visne-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Antalya Reçelcisi %100 Vişne Ekşisi 250 Ml",
+      "price": 229.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-mayonez-cam-460-gr",
+      "category": "Temel Gıda",
+      "name": "Pınar Mayonez Cam 460 Gr",
+      "price": 269.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "galle-uzum-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Galle Üzüm Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ormanozu-organik-yabani-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Ormanözü Organik Yabani Elma Sirkesi 500 Ml",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-100-nar-eksisi-350-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi %100 Nar Ekşisi 350 Gr",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-katkisiz-mayonez-350-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Katkısız Mayonez 350 Gr",
+      "price": 89,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-katkisiz-acisiz-ketcap-410-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Katkısız Acısız Ketçap 410 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-acili-ketcap-410-gr",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Acılı Ketçap 410 Gr",
+      "price": 65,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-acisso-160-ml",
+      "category": "Temel Gıda",
+      "name": "Knorr Acisso 160 Ml",
+      "price": 141.33,
+      "oldPrice": 201.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "galle-elma-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Galle Elma Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-anadolu-elma-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Anadolu Elma Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "carrefour-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Carrefour Beyaz Sirke 2 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-45-yagli-mayonez-870-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol %45 Yağlı Mayonez 870 Gr",
+      "price": 117,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-ketcap-mayonez-eko-paket-1-2-kg",
+      "category": "Temel Gıda",
+      "name": "Tukaş Ketçap Mayonez Eko Paket 1.2 Kg",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-anadolu-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Anadolu Beyaz Sirke 2 Lt",
+      "price": 36.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Bolbol Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-sarimsakli-mayonez-sos-300-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Sarımsaklı Mayonez Sos 300 Gr",
+      "price": 58.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ormanozu-organik-alic-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Ormanözü Organik Alıç Sirkesi 500 Ml",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "heinz-ketcap-700-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ketçap 700 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-anadolu-uzum-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Tarım Kredi Anadolu Üzüm Sirkesi 750 Ml",
+      "price": 31,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-mayonez-840-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Mayonez 840 Gr",
+      "price": 149,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "efor-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Efor Beyaz Sirke 2 Lt",
+      "price": 32.5,
+      "oldPrice": 36.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fici-uzum-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Fıçı Üzüm Sirkesi 750 Ml",
+      "price": 27.5,
+      "oldPrice": 31,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ormanozu-sumakli-narli-eksi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Ormanözü Sumaklı Narlı Ekşi 250 Ml",
+      "price": 149.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fici-elma-sirkesi-750-ml",
+      "category": "Temel Gıda",
+      "name": "Fıçı Elma Sirkesi 750 Ml",
+      "price": 27.5,
+      "oldPrice": 31,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "ormanozu-organik-uzum-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Ormanözü Organik Üzüm Sirkesi 500 Ml",
+      "price": 99.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-aci-ketcap-1-kg",
+      "category": "Temel Gıda",
+      "name": "Bolbol Acı Ketçap 1 Kg",
+      "price": 83,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-truf-mantarli-aci-sos-105-gr",
+      "category": "Temel Gıda",
+      "name": "Kühne Trüf Mantarlı Acı Sos 105 Gr",
+      "price": 62.97,
+      "oldPrice": 89.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "bolbol-tatli-biber-sosu-300-gr",
+      "category": "Temel Gıda",
+      "name": "Bolbol Tatlı Biber Sosu 300 Gr",
+      "price": 69,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "yeni-kavaklidere-100-limon-suyu-750-ml",
+      "category": "Temel Gıda",
+      "name": "Yeni Kavaklıdere %100 Limon Suyu 750 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tigullio-gran-pesto-genovese-sos-190-gr",
+      "category": "Temel Gıda",
+      "name": "Tigullio Gran Pesto Genovese Sos 190 Gr",
+      "price": 164.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "fici-limon-suyu-750-ml",
+      "category": "Temel Gıda",
+      "name": "Fıçı Limon Suyu 750 Ml",
+      "price": 54.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "calve-bbq-sos-290-gr",
+      "category": "Temel Gıda",
+      "name": "Calvé BBQ Sos 290 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "calve-cheddar-sos-240-gr",
+      "category": "Temel Gıda",
+      "name": "Calvé Cheddar Sos 240 Gr",
+      "price": 75,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "doganay-100-limon-suyu-500-ml",
+      "category": "Temel Gıda",
+      "name": "Doğanay %100 Limon Suyu 500 Ml",
+      "price": 99,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-mayonez-550-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Mayonez 550 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tukas-mayonez-550-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Mayonez 550 Gr",
+      "price": 95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-uzum-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Üzüm Sirkesi 500 Ml",
+      "price": 92.37,
+      "oldPrice": 131.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "doganay-100-limon-suyu-500-ml",
+      "category": "Temel Gıda",
+      "name": "Doğanay %100 Limon Suyu 500 Ml",
+      "price": 69.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Soya Sosu 250 Ml",
+      "price": 234.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-cam-mayonez-500-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Cam Mayonez 500 Gr",
+      "price": 290.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-tatli-ketcap-390-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Tatlı Ketçap 390 Gr",
+      "price": 117.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "hellmann-s-mayonez-385-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Mayonez 385 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-mayonez-385-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Mayonez 385 Gr",
+      "price": 189.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "calve-ketcap-610-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Ketçap 610 Gr",
+      "price": 101.21,
+      "oldPrice": 134.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-ketcap-610-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Ketçap 610 Gr",
+      "price": 134.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-uzum-sirkesi-1-lt",
+      "category": "Temel Gıda",
+      "name": "Fersan Üzüm Sirkesi 1 Lt",
+      "price": 161.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-pesto-rosso-makarna-sosu-200-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Pesto Rosso Makarna Sosu 200 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "calve-cheddar-sos-240-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 74,
+      "oldPrice": 119,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-cheddar-sos-240-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 89.96,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "calve-cheddar-sos-240-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 94.88,
+      "oldPrice": 126.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-cheddar-sos-240-gr-2",
+      "category": "Temel Gıda",
+      "name": "Calve Cheddar Sos 240 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-detox-dogal-sirke-anali-uzum-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Detox Doğal Sirke Analı Üzüm Sirkesi 500 Ml",
+      "price": 194.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-barbeku-sos-290-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Barbekü Sos 290 Gr",
+      "price": 89.96,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-barbeku-sos-290-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Barbekü Sos 290 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Soya Sosu 250 Ml",
+      "price": 167.97,
+      "oldPrice": 239.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Elma Sirkesi 500 Ml",
+      "price": 105.67,
+      "oldPrice": 150.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-acili-ketcap-375-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Acılı Ketçap 375 Gr",
+      "price": 99.71,
+      "oldPrice": 132.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schedro-acili-hardal-120-gr",
+      "category": "Temel Gıda",
+      "name": "Schedro Acılı Hardal 120 Gr",
+      "price": 94.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-kremali-mantar-makarna-sosu-52-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Kremalı Mantar Makarna Sosu 52 Gr",
+      "price": 48.95,
+      "oldPrice": 63.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-balsamik-sirke-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Balsamik Sirke 500 Ml",
+      "price": 232.37,
+      "oldPrice": 331.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-teriyaki-sos-250-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Teriyaki Sos 250 Ml",
+      "price": 167.97,
+      "oldPrice": 239.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-100-nar-eksisi-250-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne %100 Nar Ekşisi 250 Ml",
+      "price": 209.97,
+      "oldPrice": 299.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-aci-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Acı Ketçap 650 Gr",
+      "price": 139.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-cheetos-peynir-aromali-sos-240-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Cheetos Peynir Aromalı Sos 240 Gr",
+      "price": 119.96,
+      "oldPrice": 159.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-kori-sos-260-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Köri Sos 260 Gr",
+      "price": 104.96,
+      "oldPrice": 139.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-acili-ketcap-430-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Acılı Ketçap 430 Gr",
+      "price": 126.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "calve-mayonez-540-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Mayonez 540 Gr",
+      "price": 153.71,
+      "oldPrice": 204.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-mayonez-540-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Mayonez 540 Gr",
+      "price": 199.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-mayonez-540-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Mayonez 540 Gr",
+      "price": 204.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-barbeku-sos-250-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Barbekü Sos 250 Gr",
+      "price": 154.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-hardal-255-gr",
+      "category": "Temel Gıda",
+      "name": "Kühne Hardal 255 Gr",
+      "price": 69.97,
+      "oldPrice": 99.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-uzum-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Üzüm Sirkesi 500 Ml",
+      "price": 109.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-hardal-sos-250-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Hardal Sos 250 Gr",
+      "price": 134.96,
+      "oldPrice": 179.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-kirmizi-aci-biber-sosu-100-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Kırmızı Acı Biber Sosu 100 Ml",
+      "price": 62.97,
+      "oldPrice": 89.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-elma-sirkesi-pet-500-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Elma Sirkesi Pet 500 Ml",
+      "price": 121.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "ferfresh-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Ferfresh Beyaz Sirke 2 Lt",
+      "price": 139.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-organik-ketcap-580-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Organik Ketçap 580 Gr",
+      "price": 215.21,
+      "oldPrice": 286.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schedro-67-yagli-mayonez-300-gr",
+      "category": "Temel Gıda",
+      "name": "Schedro %67 Yağlı Mayonez 300 Gr",
+      "price": 134.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-ketcap-460-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Ketçap 460 Gr",
+      "price": 131.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-tatli-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Tatlı Ketçap 650 Gr",
+      "price": 139.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "icim-sef-pestolu-krema-200-ml",
+      "category": "Temel Gıda",
+      "name": "İçim Şef Pestolu Krema 200 Ml",
+      "price": 42.5,
+      "oldPrice": 49.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "calve-ranch-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ranch Sos 245 Gr",
+      "price": 74,
+      "oldPrice": 119,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-ranch-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ranch Sos 245 Gr",
+      "price": 89.96,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "calve-ranch-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ranch Sos 245 Gr",
+      "price": 94.88,
+      "oldPrice": 126.5,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-ranch-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ranch Sos 245 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "calve-ranch-sos-245-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ranch Sos 245 Gr",
+      "price": 119,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "calve-ketcap-610-gr-mayonez-380-gr-set",
+      "category": "Temel Gıda",
+      "name": "Calve Ketçap 610 Gr + Mayonez 380 Gr Set",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "deli-chef-aciszo-aci-sos-255-gr",
+      "category": "Temel Gıda",
+      "name": "Deli Chef Acıszo Acı Sos 255 Gr",
+      "price": 62.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "schedro-72-yagli-mayonez-300-gr",
+      "category": "Temel Gıda",
+      "name": "Schedro %72 Yağlı Mayonez 300 Gr",
+      "price": 144.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "heinz-ketcap-460-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ketçap 460 Gr",
+      "price": 99,
+      "oldPrice": 137,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "taris-uzum-sirkesi-2-lt",
+      "category": "Temel Gıda",
+      "name": "Tariş Üzüm Sirkesi 2 Lt",
+      "price": 135,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "taris-uzum-sirkesi-2-lt",
+      "category": "Temel Gıda",
+      "name": "Tariş Üzüm Sirkesi 2 Lt",
+      "price": 172.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-detox-dogal-sirke-anali-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Detox Doğal Sirke Analı Elma Sirkesi 500 Ml",
+      "price": 194.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "calve-acili-ketcap-610-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Acılı Ketçap 610 Gr",
+      "price": 129.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-acili-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Acılı Ketçap 650 Gr",
+      "price": 79,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "tukas-acili-ketcap-650-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Acılı Ketçap 650 Gr",
+      "price": 85,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-balsamik-sirke-250-ml",
+      "category": "Temel Gıda",
+      "name": "Fersan Balsamik Sirke 250 Ml",
+      "price": 207.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-beyaz-sirke-1-lt",
+      "category": "Temel Gıda",
+      "name": "Kühne Beyaz Sirke 1 Lt",
+      "price": 56.67,
+      "oldPrice": 80.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fersan-elma-sirkesi-1-lt",
+      "category": "Temel Gıda",
+      "name": "Fersan Elma Sirkesi 1 Lt",
+      "price": 172.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tat-hardal-230-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Hardal 230 Gr",
+      "price": 109,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tat-hardal-230-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Hardal 230 Gr",
+      "price": 139,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-sarimsakli-ketcap-375-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Sarımsaklı Ketçap 375 Gr",
+      "price": 99.71,
+      "oldPrice": 132.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-sirke-beyaz-karbonatli-1-lt",
+      "category": "Temel Gıda",
+      "name": "Kühne Sirke Beyaz Karbonatlı 1 Lt",
+      "price": 62.97,
+      "oldPrice": 89.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-cevizli-pesto-makarna-sosu-190-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Cevizli Pesto Makarna Sosu 190 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-ketcap-430-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Ketçap 430 Gr",
+      "price": 126.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-taneli-hardal-345-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Taneli Hardal 345 Gr",
+      "price": 237.71,
+      "oldPrice": 316.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-pesto-makarna-sosu-50-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Pesto Makarna Sosu 50 Gr",
+      "price": 48.95,
+      "oldPrice": 63.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "burcu-karma-makarna-sosu-310-gr",
+      "category": "Temel Gıda",
+      "name": "Burcu Karma Makarna Sosu 310 Gr",
+      "price": 74.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-sarimsakli-mayonez-400-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Sarımsaklı Mayonez 400 Gr",
+      "price": 209.96,
+      "oldPrice": 279.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-ketcap-570-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ketçap 570 Gr",
+      "price": 127.46,
+      "oldPrice": 169.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-filtresiz-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+      "price": 125.97,
+      "oldPrice": 179.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-acili-mayonez-405-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Acılı Mayonez 405 Gr",
+      "price": 209.96,
+      "oldPrice": 279.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-smoky-mayonez-225-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Smoky Mayonez 225 Gr",
+      "price": 157.46,
+      "oldPrice": 209.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "heinz-mayonez-505-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Mayonez 505 Gr",
+      "price": 155,
+      "oldPrice": 239.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-mayonez-505-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Mayonez 505 Gr",
+      "price": 179.96,
+      "oldPrice": 239.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "heinz-mayonez-505-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Mayonez 505 Gr",
+      "price": 229,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-kremali-truf-mantarli-makarna-sosu-52-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 Gr",
+      "price": 48.95,
+      "oldPrice": 63.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-kremali-truf-mantarli-makarna-sosu-52-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 Gr",
+      "price": 56.63,
+      "oldPrice": 80.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "heinz-ranch-sos-225-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ranch Sos 225 Gr",
+      "price": 74.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-ranch-sos-225-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Ranch Sos 225 Gr",
+      "price": 94.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "icim-sef-mantarli-kremali-sos-200-ml",
+      "category": "Temel Gıda",
+      "name": "İçim Şef Mantarlı Kremalı Sos 200 Ml",
+      "price": 64.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pastavilla-pesto-makarna-sosu-190-gr",
+      "category": "Temel Gıda",
+      "name": "Pastavilla Pesto Makarna Sosu 190 Gr",
+      "price": 161.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-balli-hardal-260-gr",
+      "category": "Temel Gıda",
+      "name": "Calvé Ballı Hardal 260 Gr",
+      "price": 140.21,
+      "oldPrice": 186.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-alic-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Alıç Sirkesi 500 Ml",
+      "price": 111.97,
+      "oldPrice": 159.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-arrabbiata-makarna-sosu-400-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Arrabbiata Makarna Sosu 400 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-ketcap-375-gr-mayonez-330-gr-ikili-set",
+      "category": "Temel Gıda",
+      "name": "Heinz Ketçap 375 Gr + Mayonez 330 Gr İkili Set",
+      "price": 206.96,
+      "oldPrice": 275.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-ketcap-610-gr-mayonez-540-gr-ikili-set",
+      "category": "Temel Gıda",
+      "name": "Calve Ketçap 610 Gr + Mayonez 540 Gr İkili Set",
+      "price": 169.95,
+      "oldPrice": 309.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "knorr-4-peynirli-makarna-sosu-50-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr 4 Peynirli Makarna Sosu 50 Gr",
+      "price": 48.95,
+      "oldPrice": 63.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pastavilla-napoliten-makarna-sosu-300-gr",
+      "category": "Temel Gıda",
+      "name": "Pastavilla Napoliten Makarna Sosu 300 Gr",
+      "price": 124.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-sodyumu-azaltilmis-soya-sosu-250-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Sodyumu Azaltılmış Soya Sosu 250 Ml",
+      "price": 166.57,
+      "oldPrice": 237.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tat-siki-dostlar-ketcap-mayonez-seti-1-21-kg",
+      "category": "Temel Gıda",
+      "name": "Tat Sıkı Dostlar Ketçap Mayonez Seti 1.21 Kg",
+      "price": 289.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-aci-sos-160-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Acı Sos 160 Gr",
+      "price": 159.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "calve-truflu-mayonez-235-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Trüflü Mayonez 235 Gr",
+      "price": 147.71,
+      "oldPrice": 196.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-truflu-mayonez-235-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Trüflü Mayonez 235 Gr",
+      "price": 196.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-mayonez-330-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Mayonez 330 Gr",
+      "price": 142.46,
+      "oldPrice": 189.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-organik-elma-sirkesi-500-ml",
+      "category": "Temel Gıda",
+      "name": "Kühne Organik Elma Sirkesi 500 Ml",
+      "price": 209.97,
+      "oldPrice": 299.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "knorr-bolonez-makarna-sosu-45-gr",
+      "category": "Temel Gıda",
+      "name": "Knorr Bolonez Makarna Sosu 45 Gr",
+      "price": 56.63,
+      "oldPrice": 80.9,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "calve-aci-sos-265-gr",
+      "category": "Temel Gıda",
+      "name": "Calve Acı Sos 265 Gr",
+      "price": 89.96,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tukas-aci-sos-380-gr",
+      "category": "Temel Gıda",
+      "name": "Tukaş Acı Sos 380 Gr",
+      "price": 59,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kuhne-beyaz-sirke-2-lt",
+      "category": "Temel Gıda",
+      "name": "Kühne Beyaz Sirke 2 Lt",
+      "price": 83.97,
+      "oldPrice": 119.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hellmann-s-truflu-mayonez-235-gr",
+      "category": "Temel Gıda",
+      "name": "Hellmann's Trüflü Mayonez 235 Gr",
+      "price": 229.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-pesto-mayonez-225-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Pesto Mayonez 225 Gr",
+      "price": 157.46,
+      "oldPrice": 209.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "barilla-napoletana-makarna-sosu-400-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Napoletana Makarna Sosu 400 Gr",
+      "price": 179,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-napoletana-makarna-sosu-400-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Napoletana Makarna Sosu 400 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tat-acili-ketcap-390-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Acılı Ketçap 390 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "tat-ketcap-390-gr",
+      "category": "Temel Gıda",
+      "name": "Tat Ketçap 390 Gr",
+      "price": 115,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "hp-klasik-barbeku-sos-465-gr",
+      "category": "Temel Gıda",
+      "name": "HP Klasik Barbekü Sos 465 Gr",
+      "price": 192.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "barilla-basilico-makarna-sosu-400-gr",
+      "category": "Temel Gıda",
+      "name": "Barilla Basilico Makarna Sosu 400 Gr",
+      "price": 182.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "heinz-hardal-445-gr",
+      "category": "Temel Gıda",
+      "name": "Heinz Hardal 445 Gr",
+      "price": 262.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -19647,6 +21987,1632 @@
         "label": "Feast Orman Meyveleri 300 Gr",
         "detail": "300 g",
         "icon": "🍲"
+      }
+    ],
+    "sauces-vinegars": [
+      {
+        "id": "tukas-ranch-bbq-hardal-aci-sos-335-gr",
+        "query": "Tukaş Ranch Bbq Hardal Acı Sos 335 Gr",
+        "label": "Tukaş Ranch Bbq Hardal Acı Sos 335 Gr",
+        "detail": "335 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ketcap-375-gr",
+        "query": "Heinz Ketçap 375 Gr",
+        "label": "Heinz Ketçap 375 Gr",
+        "detail": "375 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "doganay-nare-100-limon-suyu-250-ml",
+        "query": "Doğanay Nare %100 Limon Suyu 250 Ml",
+        "label": "Doğanay Nare %100 Limon Suyu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-besamel-sos-70-gr",
+        "query": "Knorr Beşamel Sos 70 Gr",
+        "label": "Knorr Beşamel Sos 70 Gr",
+        "detail": "70 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-pesto-genovese-sos-190-gr",
+        "query": "Barilla Pesto Genovese Sos 190 Gr",
+        "label": "Barilla Pesto Genovese Sos 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-truflu-mayonez-220-gr",
+        "query": "Heinz Trüflü Mayonez 220 Gr",
+        "label": "Heinz Trüflü Mayonez 220 Gr",
+        "detail": "220 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-burger-sos-245-gr",
+        "query": "Calvé Burger Sos 245 Gr",
+        "label": "Calvé Burger Sos 245 Gr",
+        "detail": "245 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-yogun-lezzet-mayonez-330-gr",
+        "query": "Tat Yoğun Lezzet Mayonez 330 Gr",
+        "label": "Tat Yoğun Lezzet Mayonez 330 Gr",
+        "detail": "330 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-aci-ve-klasik-hardal-255-gr",
+        "query": "Kühne Acı Ve Klasik Hardal 255 Gr",
+        "label": "Kühne Acı Ve Klasik Hardal 255 Gr",
+        "detail": "255 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-sarimsakli-mayonez-335-gr",
+        "query": "Tukaş Sarımsaklı Mayonez 335 Gr",
+        "label": "Tukaş Sarımsaklı Mayonez 335 Gr",
+        "detail": "335 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ketcap-400-gr",
+        "query": "Tukaş Ketçap 400 Gr",
+        "label": "Tukaş Ketçap 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-light-mayonez-420-gr",
+        "query": "Heinz Light Mayonez 420 Gr",
+        "label": "Heinz Light Mayonez 420 Gr",
+        "detail": "420 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-katkisiz-tatli-ketcap-650-gr",
+        "query": "Tat Katkısız Tatlı Ketçap 650 Gr",
+        "label": "Tat Katkısız Tatlı Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "zuhre-ana-ananas-sirkesi-500-ml",
+        "query": "Zühre Ana Ananas Sirkesi 500 Ml",
+        "label": "Zühre Ana Ananas Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-mac-cheese-makarna-sosu-50-gr",
+        "query": "Knorr Mac & Cheese Makarna Sosu 50 Gr",
+        "label": "Knorr Mac & Cheese Makarna Sosu 50 Gr",
+        "detail": "50 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "taris-balsamik-sirke-cam-250-ml",
+        "query": "Tariş Balsamik Sirke Cam 250 Ml",
+        "label": "Tariş Balsamik Sirke Cam 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-sweet-chili-ketcap-390-gr",
+        "query": "Tat Sweet Chili Ketçap 390 Gr",
+        "label": "Tat Sweet Chili Ketçap 390 Gr",
+        "detail": "390 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fici-salata-sosu-350-ml",
+        "query": "Fıçı Salata Sosu 350 Ml",
+        "label": "Fıçı Salata Sosu 350 Ml",
+        "detail": "350 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ranch-sos-335-gr",
+        "query": "Tukaş Ranch Sos 335 Gr",
+        "label": "Tukaş Ranch Sos 335 Gr",
+        "detail": "335 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "taris-uzum-sirkesi-500-ml",
+        "query": "Tariş Üzüm Sirkesi 500 Ml",
+        "label": "Tariş Üzüm Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-salata-sosu-cam-250-ml",
+        "query": "Fersan Salata Sosu Cam 250 Ml",
+        "label": "Fersan Salata Sosu Cam 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "taris-elma-sirkesi-cam-500-ml",
+        "query": "Tariş Elma Sirkesi Cam 500 Ml",
+        "label": "Tariş Elma Sirkesi Cam 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-burger-sos-310-gr",
+        "query": "Çokça Burger Sos 310 Gr",
+        "label": "Çokça Burger Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-sarimsakli-mayonezli-sos-310-gr",
+        "query": "Çokça Sarımsaklı Mayonezli Sos 310 Gr",
+        "label": "Çokça Sarımsaklı Mayonezli Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-hardal-sos-320-gr",
+        "query": "Çokça Hardal Sos 320 Gr",
+        "label": "Çokça Hardal Sos 320 Gr",
+        "detail": "320 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-truf-bolonez-makarna-sosu-45-gr",
+        "query": "Knorr Trüf & Bolonez Makarna Sosu 45 Gr",
+        "label": "Knorr Trüf & Bolonez Makarna Sosu 45 Gr",
+        "detail": "45 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-barbeku-sos-400-gr",
+        "query": "Tukaş Barbekü Sos 400 Gr",
+        "label": "Tukaş Barbekü Sos 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-ranch-sos-310-gr",
+        "query": "Çokça Ranch Sos 310 Gr",
+        "label": "Çokça Ranch Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "berona-pesto-makarna-sosu-190-gr",
+        "query": "Berona Pesto Makarna Sosu 190 Gr",
+        "label": "Berona Pesto Makarna Sosu 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-aci-sos-330-gr",
+        "query": "Çokça Acı Sos 330 Gr",
+        "label": "Çokça Acı Sos 330 Gr",
+        "detail": "330 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-barbeku-sos-350-gr",
+        "query": "Çokça Barbekü Sos 350 Gr",
+        "label": "Çokça Barbekü Sos 350 Gr",
+        "detail": "350 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-lutenitsa-sos-310-gr",
+        "query": "Burcu Lutenitsa Sos 310 Gr",
+        "label": "Burcu Lutenitsa Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hp-balli-bbq-sos-465-gr",
+        "query": "Hp Ballı Bbq Sos 465 Gr",
+        "label": "Hp Ballı Bbq Sos 465 Gr",
+        "detail": "465 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "chef-seasons-kizarmis-patates-sos-320-gr",
+        "query": "Chef Seasons Kızarmış Patates Sos 320 Gr",
+        "label": "Chef Seasons Kızarmış Patates Sos 320 Gr",
+        "detail": "320 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "berrak-dobipa-cevizli-sos-310-gr",
+        "query": "Berrak Dobipa Cevizli Sos 310 Gr",
+        "label": "Berrak Dobipa Cevizli Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "berrak-dobipa-ajvar-sos-310-gr",
+        "query": "Berrak Dobipa Ajvar Sos 310 Gr",
+        "label": "Berrak Dobipa Ajvar Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "migros-soya-sosu-250-ml",
+        "query": "Migros Soya Sosu 250 Ml",
+        "label": "Migros Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "aiko-tuzu-azaltilmis-soya-sosu-250-ml",
+        "query": "Aiko Tuzu Azaltılmış Soya Sosu 250 Ml",
+        "label": "Aiko Tuzu Azaltılmış Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-aci-sos-230-gr",
+        "query": "Tat Acı Sos 230 Gr",
+        "label": "Tat Acı Sos 230 Gr",
+        "detail": "230 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-napoliten-arrabbiata-basilico-makarna-sosu-360-gr",
+        "query": "Tukaş Napoliten/Arrabbiata/Basilico Makarna Sosu 360 Gr",
+        "label": "Tukaş Napoliten/Arrabbiata/Basilico Makarna Sosu 360 Gr",
+        "detail": "360 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "piyale-makarna-sosu-napoliten-340-gr",
+        "query": "Piyale Makarna Sosu Napoliten 340 Gr",
+        "label": "Piyale Makarna Sosu Napoliten 340 Gr",
+        "detail": "340 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bagdat-zeytin-sosu-40-gr",
+        "query": "Bağdat Zeytin Sosu 40 Gr",
+        "label": "Bağdat Zeytin Sosu 40 Gr",
+        "detail": "40 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "sef-franzi-soya-sosu-250-ml",
+        "query": "Şef Franzi Soya Sosu 250 Ml",
+        "label": "Şef Franzi Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-aci-peri-peri-sos-245-gr",
+        "query": "Calve Acı Peri Peri Sos 245 Gr",
+        "label": "Calve Acı Peri Peri Sos 245 Gr",
+        "detail": "245 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-balsamik-sirkeli-glaze-sos-250-ml",
+        "query": "Fersan Balsamik Sirkeli Glaze Sos 250 Ml",
+        "label": "Fersan Balsamik Sirkeli Glaze Sos 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ajvar-sos-350-gr",
+        "query": "Tukaş Ajvar Sos 350 Gr",
+        "label": "Tukaş Ajvar Sos 350 Gr",
+        "detail": "350 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "piyale-makarna-sosu-pesto-190-gr",
+        "query": "Piyale Makarna Sosu Pesto 190 Gr",
+        "label": "Piyale Makarna Sosu Pesto 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-sarimsakli-aci-sos-100-gr",
+        "query": "Kühne Sarımsaklı Acı Sos 100 Gr",
+        "label": "Kühne Sarımsaklı Acı Sos 100 Gr",
+        "detail": "100 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-hamburger-sos-330-gr",
+        "query": "Bolbol Hamburger Sos 330 Gr",
+        "label": "Bolbol Hamburger Sos 330 Gr",
+        "detail": "330 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-chipotle-sos-315-gr",
+        "query": "Bolbol Chipotle Sos 315 Gr",
+        "label": "Bolbol Chipotle Sos 315 Gr",
+        "detail": "315 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "carrefour-selection-aci-biber-sos-100-ml",
+        "query": "Carrefour Selection Acı Biber Sos 100 Ml",
+        "label": "Carrefour Selection Acı Biber Sos 100 Ml",
+        "detail": "100 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-ranch-sos-310-gr",
+        "query": "Bolbol Ranch Sos 310 Gr",
+        "label": "Bolbol Ranch Sos 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-limon-suyu-750-ml",
+        "query": "Bizim Vatan Limon Suyu 750 Ml",
+        "label": "Bizim Vatan Limon Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-chipotle-mayonez-225-gr",
+        "query": "Heinz Chipotle Mayonez 225 Gr",
+        "label": "Heinz Chipotle Mayonez 225 Gr",
+        "detail": "225 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-ketcap-460-gr-mayonez-385-gr-ikili-set",
+        "query": "Hellmann's Ketçap 460 Gr + Mayonez 385 Gr İkili Set",
+        "label": "Hellmann's Ketçap 460 Gr + Mayonez 385 Gr İkili Set",
+        "detail": "Hellmann's",
+        "icon": "🍶"
+      },
+      {
+        "id": "sitoglu-100-nar-eksisi-cam-surahi-340-gr",
+        "query": "Şitoğlu %100 Nar Ekşisi Cam Sürahi 340 Gr",
+        "label": "Şitoğlu %100 Nar Ekşisi Cam Sürahi 340 Gr",
+        "detail": "340 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-balsamik-sirke-condimento-rose-250-ml",
+        "query": "Fersan Balsamik Sirke Condimento Rose 250 Ml",
+        "label": "Fersan Balsamik Sirke Condimento Rose 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-balsamik-sirke-condimento-bianco-250-ml",
+        "query": "Fersan Balsamik Sirke Condimento Bianco 250 Ml",
+        "label": "Fersan Balsamik Sirke Condimento Bianco 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-mayonez-840-gr",
+        "query": "Tukaş Mayonez 840 Gr",
+        "label": "Tukaş Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ketcap-1-kg",
+        "query": "Tukaş Ketçap 1 Kg",
+        "label": "Tukaş Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-aile-paketi-ketcap-900-gr-az-yagli-mayonez-780-gr",
+        "query": "Tat Aile Paketi Ketçap 900 Gr + Az Yağlı Mayonez 780 Gr",
+        "label": "Tat Aile Paketi Ketçap 900 Gr + Az Yağlı Mayonez 780 Gr",
+        "detail": "780 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-mayonez-550-gr",
+        "query": "Burcu Mayonez 550 Gr",
+        "label": "Burcu Mayonez 550 Gr",
+        "detail": "550 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "torku-beyaz-sirke-5-lt",
+        "query": "Torku Beyaz Sirke 5 Lt",
+        "label": "Torku Beyaz Sirke 5 Lt",
+        "detail": "5 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-tatli-ketcap-250-gr",
+        "query": "Çokça Tatlı Ketçap 250 Gr",
+        "label": "Çokça Tatlı Ketçap 250 Gr",
+        "detail": "250 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ketcap-650-gr",
+        "query": "Tukaş Ketçap 650 Gr",
+        "label": "Tukaş Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kilikya-beyaz-sirke-5-lt",
+        "query": "Kilikya Beyaz Sirke 5 Lt",
+        "label": "Kilikya Beyaz Sirke 5 Lt",
+        "detail": "5 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-acili-ketcap-1-kg",
+        "query": "Bizim Vatan Acılı Ketçap 1 Kg",
+        "label": "Bizim Vatan Acılı Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "raz-100-nar-eksisi-250-ml",
+        "query": "Raz %100 Nar Ekşisi 250 Ml",
+        "label": "Raz %100 Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-acili-ketcap-500-gr",
+        "query": "Bizim Vatan Acılı Ketçap 500 Gr",
+        "label": "Bizim Vatan Acılı Ketçap 500 Gr",
+        "detail": "500 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-nar-eksisi-250-ml",
+        "query": "Bizim Vatan Nar Ekşisi 250 Ml",
+        "label": "Bizim Vatan Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-beyaz-sirke-2-lt",
+        "query": "Bizim Vatan Beyaz Sirke 2 Lt",
+        "label": "Bizim Vatan Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-tatli-ketcap-1-kg",
+        "query": "Bizim Vatan Tatlı Ketçap 1 Kg",
+        "label": "Bizim Vatan Tatlı Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-mayonez-220-gr",
+        "query": "Çokça Mayonez 220 Gr",
+        "label": "Çokça Mayonez 220 Gr",
+        "detail": "220 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-uzum-sirkesi-750-ml",
+        "query": "Bizim Vatan Üzüm Sirkesi 750 Ml",
+        "label": "Bizim Vatan Üzüm Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-az-yagli-mayonez-840-gr",
+        "query": "Çokça Az Yağlı Mayonez 840 Gr",
+        "label": "Çokça Az Yağlı Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-mayonez-430-gr",
+        "query": "Bizim Vatan Mayonez 430 Gr",
+        "label": "Bizim Vatan Mayonez 430 Gr",
+        "detail": "430 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-organik-alic-sirkesi-500-ml",
+        "query": "Fersan Organik Alıç Sirkesi 500 Ml",
+        "label": "Fersan Organik Alıç Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "galle-beyaz-sirke-2-lt",
+        "query": "Galle Beyaz Sirke 2 Lt",
+        "label": "Galle Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-mayonez-460-gr",
+        "query": "Burcu Mayonez 460 Gr",
+        "label": "Burcu Mayonez 460 Gr",
+        "detail": "460 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-aci-ketcap-650-gr",
+        "query": "Burcu Acı Ketçap 650 Gr",
+        "label": "Burcu Acı Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "galle-100-nar-eksisi-250-ml",
+        "query": "Galle %100 Nar Ekşisi 250 Ml",
+        "label": "Galle %100 Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-elma-sirkesi-750-ml",
+        "query": "Bizim Vatan Elma Sirkesi 750 Ml",
+        "label": "Bizim Vatan Elma Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ketcap-610-gr",
+        "query": "Calvé Ketçap 610 Gr",
+        "label": "Calvé Ketçap 610 Gr",
+        "detail": "610 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-acili-mayonez-230-gr",
+        "query": "Hellmann's Acılı Mayonez 230 Gr",
+        "label": "Hellmann's Acılı Mayonez 230 Gr",
+        "detail": "230 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-ketcap-650-gr",
+        "query": "Burcu Ketçap 650 Gr",
+        "label": "Burcu Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kemal-kukrer-100-elma-sirkesi-500-ml",
+        "query": "Kemal Kükrer %100 Elma Sirkesi 500 Ml",
+        "label": "Kemal Kükrer %100 Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "doganay-100-nar-eksisi-cam-250-ml",
+        "query": "Doğanay %100 Nar Ekşisi Cam 250 Ml",
+        "label": "Doğanay %100 Nar Ekşisi Cam 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "migros-acili-ketcap-1-kg",
+        "query": "Migros Acılı Ketçap 1 Kg",
+        "label": "Migros Acılı Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-tatli-ketcap-500-gr",
+        "query": "Bizim Vatan Tatlı Ketçap 500 Gr",
+        "label": "Bizim Vatan Tatlı Ketçap 500 Gr",
+        "detail": "500 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "antalya-recelcisi-100-nar-eksisi-250-ml",
+        "query": "Antalya Reçelcisi %100 Nar Ekşisi 250 Ml",
+        "label": "Antalya Reçelcisi %100 Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-ketcap-1-kg",
+        "query": "Çokça Ketçap 1 Kg",
+        "label": "Çokça Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "siha-sarimsak-ezmesi-90-gr",
+        "query": "Siha Sarımsak Ezmesi 90 Gr",
+        "label": "Siha Sarımsak Ezmesi 90 Gr",
+        "detail": "90 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-uzum-sirkesi-2-lt",
+        "query": "Fersan Üzüm Sirkesi 2 Lt",
+        "label": "Fersan Üzüm Sirkesi 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-hardal-335-gr",
+        "query": "Tukaş Hardal 335 Gr",
+        "label": "Tukaş Hardal 335 Gr",
+        "detail": "335 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-sarimsakli-mayonez-205-gr",
+        "query": "Tat Sarımsaklı Mayonez 205 Gr",
+        "label": "Tat Sarımsaklı Mayonez 205 Gr",
+        "detail": "205 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kemal-kukrer-nar-eksisi-250-ml",
+        "query": "Kemal Kükrer Nar Ekşisi 250 Ml",
+        "label": "Kemal Kükrer Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "migros-mayonez-840-gr",
+        "query": "Migros Mayonez 840 Gr",
+        "label": "Migros Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "yakamoz-uzum-sirkesi-2-lt",
+        "query": "Yakamoz Üzüm Sirkesi 2 Lt",
+        "label": "Yakamoz Üzüm Sirkesi 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-acili-ketcap-1-kg",
+        "query": "Çokça Acılı Ketçap 1 Kg",
+        "label": "Çokça Acılı Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "antalya-recelcisi-100-erik-eksisi-250-ml",
+        "query": "Antalya Reçelcisi %100 Erik Ekşisi 250 Ml",
+        "label": "Antalya Reçelcisi %100 Erik Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-sarimsakli-mayonez-235-gr",
+        "query": "Hellmann's Sarımsaklı Mayonez 235 Gr",
+        "label": "Hellmann's Sarımsaklı Mayonez 235 Gr",
+        "detail": "235 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-aci-ketcap-250-gr",
+        "query": "Çokça Acı Ketçap 250 Gr",
+        "label": "Çokça Acı Ketçap 250 Gr",
+        "detail": "250 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "cokca-mayonez-840-gr",
+        "query": "Çokça Mayonez 840 Gr",
+        "label": "Çokça Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-mayonez-400-gr",
+        "query": "Heinz Mayonez 400 Gr",
+        "label": "Heinz Mayonez 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bizim-vatan-mayonez-840-gr",
+        "query": "Bizim Vatan Mayonez 840 Gr",
+        "label": "Bizim Vatan Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "antalya-recelcisi-100-visne-eksisi-250-ml",
+        "query": "Antalya Reçelcisi %100 Vişne Ekşisi 250 Ml",
+        "label": "Antalya Reçelcisi %100 Vişne Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "pinar-mayonez-cam-460-gr",
+        "query": "Pınar Mayonez Cam 460 Gr",
+        "label": "Pınar Mayonez Cam 460 Gr",
+        "detail": "460 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "galle-uzum-sirkesi-750-ml",
+        "query": "Galle Üzüm Sirkesi 750 Ml",
+        "label": "Galle Üzüm Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "ormanozu-organik-yabani-elma-sirkesi-500-ml",
+        "query": "Ormanözü Organik Yabani Elma Sirkesi 500 Ml",
+        "label": "Ormanözü Organik Yabani Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-100-nar-eksisi-350-gr",
+        "query": "Tarım Kredi %100 Nar Ekşisi 350 Gr",
+        "label": "Tarım Kredi %100 Nar Ekşisi 350 Gr",
+        "detail": "350 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-katkisiz-mayonez-350-gr",
+        "query": "Tarım Kredi Katkısız Mayonez 350 Gr",
+        "label": "Tarım Kredi Katkısız Mayonez 350 Gr",
+        "detail": "350 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-katkisiz-acisiz-ketcap-410-gr",
+        "query": "Tarım Kredi Katkısız Acısız Ketçap 410 Gr",
+        "label": "Tarım Kredi Katkısız Acısız Ketçap 410 Gr",
+        "detail": "410 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-acili-ketcap-410-gr",
+        "query": "Tarım Kredi Acılı Ketçap 410 Gr",
+        "label": "Tarım Kredi Acılı Ketçap 410 Gr",
+        "detail": "410 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-acisso-160-ml",
+        "query": "Knorr Acisso 160 Ml",
+        "label": "Knorr Acisso 160 Ml",
+        "detail": "160 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "galle-elma-sirkesi-750-ml",
+        "query": "Galle Elma Sirkesi 750 Ml",
+        "label": "Galle Elma Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-anadolu-elma-sirkesi-750-ml",
+        "query": "Tarım Kredi Anadolu Elma Sirkesi 750 Ml",
+        "label": "Tarım Kredi Anadolu Elma Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "carrefour-beyaz-sirke-2-lt",
+        "query": "Carrefour Beyaz Sirke 2 Lt",
+        "label": "Carrefour Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-45-yagli-mayonez-870-gr",
+        "query": "Bolbol %45 Yağlı Mayonez 870 Gr",
+        "label": "Bolbol %45 Yağlı Mayonez 870 Gr",
+        "detail": "870 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-ketcap-mayonez-eko-paket-1-2-kg",
+        "query": "Tukaş Ketçap Mayonez Eko Paket 1.2 Kg",
+        "label": "Tukaş Ketçap Mayonez Eko Paket 1.2 Kg",
+        "detail": "1.2 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-anadolu-beyaz-sirke-2-lt",
+        "query": "Tarım Kredi Anadolu Beyaz Sirke 2 Lt",
+        "label": "Tarım Kredi Anadolu Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-ketcap-1-kg",
+        "query": "Bolbol Ketçap 1 Kg",
+        "label": "Bolbol Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-sarimsakli-mayonez-sos-300-gr",
+        "query": "Bolbol Sarımsaklı Mayonez Sos 300 Gr",
+        "label": "Bolbol Sarımsaklı Mayonez Sos 300 Gr",
+        "detail": "300 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "ormanozu-organik-alic-sirkesi-500-ml",
+        "query": "Ormanözü Organik Alıç Sirkesi 500 Ml",
+        "label": "Ormanözü Organik Alıç Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ketcap-700-gr",
+        "query": "Heinz Ketçap 700 Gr",
+        "label": "Heinz Ketçap 700 Gr",
+        "detail": "700 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tarim-kredi-anadolu-uzum-sirkesi-750-ml",
+        "query": "Tarım Kredi Anadolu Üzüm Sirkesi 750 Ml",
+        "label": "Tarım Kredi Anadolu Üzüm Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-mayonez-840-gr",
+        "query": "Bolbol Mayonez 840 Gr",
+        "label": "Bolbol Mayonez 840 Gr",
+        "detail": "840 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "efor-beyaz-sirke-2-lt",
+        "query": "Efor Beyaz Sirke 2 Lt",
+        "label": "Efor Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "fici-uzum-sirkesi-750-ml",
+        "query": "Fıçı Üzüm Sirkesi 750 Ml",
+        "label": "Fıçı Üzüm Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "ormanozu-sumakli-narli-eksi-250-ml",
+        "query": "Ormanözü Sumaklı Narlı Ekşi 250 Ml",
+        "label": "Ormanözü Sumaklı Narlı Ekşi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "fici-elma-sirkesi-750-ml",
+        "query": "Fıçı Elma Sirkesi 750 Ml",
+        "label": "Fıçı Elma Sirkesi 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "ormanozu-organik-uzum-sirkesi-500-ml",
+        "query": "Ormanözü Organik Üzüm Sirkesi 500 Ml",
+        "label": "Ormanözü Organik Üzüm Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-aci-ketcap-1-kg",
+        "query": "Bolbol Acı Ketçap 1 Kg",
+        "label": "Bolbol Acı Ketçap 1 Kg",
+        "detail": "1 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-truf-mantarli-aci-sos-105-gr",
+        "query": "Kühne Trüf Mantarlı Acı Sos 105 Gr",
+        "label": "Kühne Trüf Mantarlı Acı Sos 105 Gr",
+        "detail": "105 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "bolbol-tatli-biber-sosu-300-gr",
+        "query": "Bolbol Tatlı Biber Sosu 300 Gr",
+        "label": "Bolbol Tatlı Biber Sosu 300 Gr",
+        "detail": "300 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "yeni-kavaklidere-100-limon-suyu-750-ml",
+        "query": "Yeni Kavaklıdere %100 Limon Suyu 750 Ml",
+        "label": "Yeni Kavaklıdere %100 Limon Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tigullio-gran-pesto-genovese-sos-190-gr",
+        "query": "Tigullio Gran Pesto Genovese Sos 190 Gr",
+        "label": "Tigullio Gran Pesto Genovese Sos 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fici-limon-suyu-750-ml",
+        "query": "Fıçı Limon Suyu 750 Ml",
+        "label": "Fıçı Limon Suyu 750 Ml",
+        "detail": "750 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-bbq-sos-290-gr",
+        "query": "Calvé BBQ Sos 290 Gr",
+        "label": "Calvé BBQ Sos 290 Gr",
+        "detail": "290 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-cheddar-sos-240-gr",
+        "query": "Calvé Cheddar Sos 240 Gr",
+        "label": "Calvé Cheddar Sos 240 Gr",
+        "detail": "240 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "doganay-100-limon-suyu-500-ml",
+        "query": "Doğanay %100 Limon Suyu 500 Ml",
+        "label": "Doğanay %100 Limon Suyu 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-mayonez-550-gr",
+        "query": "Tukaş Mayonez 550 Gr",
+        "label": "Tukaş Mayonez 550 Gr",
+        "detail": "550 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-uzum-sirkesi-500-ml",
+        "query": "Kühne Üzüm Sirkesi 500 Ml",
+        "label": "Kühne Üzüm Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-soya-sosu-250-ml",
+        "query": "Fersan Soya Sosu 250 Ml",
+        "label": "Fersan Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-cam-mayonez-500-gr",
+        "query": "Calve Cam Mayonez 500 Gr",
+        "label": "Calve Cam Mayonez 500 Gr",
+        "detail": "500 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-tatli-ketcap-390-gr",
+        "query": "Tat Tatlı Ketçap 390 Gr",
+        "label": "Tat Tatlı Ketçap 390 Gr",
+        "detail": "390 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-mayonez-385-gr",
+        "query": "Hellmann's Mayonez 385 Gr",
+        "label": "Hellmann's Mayonez 385 Gr",
+        "detail": "385 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ketcap-610-gr-2",
+        "query": "Calve Ketçap 610 Gr",
+        "label": "Calve Ketçap 610 Gr",
+        "detail": "610 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-uzum-sirkesi-1-lt",
+        "query": "Fersan Üzüm Sirkesi 1 Lt",
+        "label": "Fersan Üzüm Sirkesi 1 Lt",
+        "detail": "1 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-pesto-rosso-makarna-sosu-200-gr",
+        "query": "Barilla Pesto Rosso Makarna Sosu 200 Gr",
+        "label": "Barilla Pesto Rosso Makarna Sosu 200 Gr",
+        "detail": "200 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-cheddar-sos-240-gr-2",
+        "query": "Calve Cheddar Sos 240 Gr",
+        "label": "Calve Cheddar Sos 240 Gr",
+        "detail": "240 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-detox-dogal-sirke-anali-uzum-sirkesi-500-ml",
+        "query": "Fersan Detox Doğal Sirke Analı Üzüm Sirkesi 500 Ml",
+        "label": "Fersan Detox Doğal Sirke Analı Üzüm Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-barbeku-sos-290-gr",
+        "query": "Calve Barbekü Sos 290 Gr",
+        "label": "Calve Barbekü Sos 290 Gr",
+        "detail": "290 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-soya-sosu-250-ml",
+        "query": "Kühne Soya Sosu 250 Ml",
+        "label": "Kühne Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-elma-sirkesi-500-ml",
+        "query": "Kühne Elma Sirkesi 500 Ml",
+        "label": "Kühne Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-acili-ketcap-375-gr",
+        "query": "Heinz Acılı Ketçap 375 Gr",
+        "label": "Heinz Acılı Ketçap 375 Gr",
+        "detail": "375 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "schedro-acili-hardal-120-gr",
+        "query": "Schedro Acılı Hardal 120 Gr",
+        "label": "Schedro Acılı Hardal 120 Gr",
+        "detail": "120 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-kremali-mantar-makarna-sosu-52-gr",
+        "query": "Knorr Kremalı Mantar Makarna Sosu 52 Gr",
+        "label": "Knorr Kremalı Mantar Makarna Sosu 52 Gr",
+        "detail": "52 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-balsamik-sirke-500-ml",
+        "query": "Kühne Balsamik Sirke 500 Ml",
+        "label": "Kühne Balsamik Sirke 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-teriyaki-sos-250-ml",
+        "query": "Kühne Teriyaki Sos 250 Ml",
+        "label": "Kühne Teriyaki Sos 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-100-nar-eksisi-250-ml",
+        "query": "Kühne %100 Nar Ekşisi 250 Ml",
+        "label": "Kühne %100 Nar Ekşisi 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-aci-ketcap-650-gr",
+        "query": "Tat Acı Ketçap 650 Gr",
+        "label": "Tat Acı Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-cheetos-peynir-aromali-sos-240-gr",
+        "query": "Calve Cheetos Peynir Aromalı Sos 240 Gr",
+        "label": "Calve Cheetos Peynir Aromalı Sos 240 Gr",
+        "detail": "240 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-kori-sos-260-gr",
+        "query": "Calve Köri Sos 260 Gr",
+        "label": "Calve Köri Sos 260 Gr",
+        "detail": "260 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-acili-ketcap-430-gr",
+        "query": "Calve Acılı Ketçap 430 Gr",
+        "label": "Calve Acılı Ketçap 430 Gr",
+        "detail": "430 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-mayonez-540-gr",
+        "query": "Calve Mayonez 540 Gr",
+        "label": "Calve Mayonez 540 Gr",
+        "detail": "540 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-barbeku-sos-250-gr",
+        "query": "Heinz Barbekü Sos 250 Gr",
+        "label": "Heinz Barbekü Sos 250 Gr",
+        "detail": "250 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-hardal-255-gr",
+        "query": "Kühne Hardal 255 Gr",
+        "label": "Kühne Hardal 255 Gr",
+        "detail": "255 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-uzum-sirkesi-500-ml",
+        "query": "Fersan Üzüm Sirkesi 500 Ml",
+        "label": "Fersan Üzüm Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-hardal-sos-250-gr",
+        "query": "Calve Hardal Sos 250 Gr",
+        "label": "Calve Hardal Sos 250 Gr",
+        "detail": "250 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-kirmizi-aci-biber-sosu-100-ml",
+        "query": "Kühne Kırmızı Acı Biber Sosu 100 Ml",
+        "label": "Kühne Kırmızı Acı Biber Sosu 100 Ml",
+        "detail": "100 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-elma-sirkesi-pet-500-ml",
+        "query": "Fersan Elma Sirkesi Pet 500 Ml",
+        "label": "Fersan Elma Sirkesi Pet 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "ferfresh-beyaz-sirke-2-lt",
+        "query": "Ferfresh Beyaz Sirke 2 Lt",
+        "label": "Ferfresh Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-organik-ketcap-580-gr",
+        "query": "Heinz Organik Ketçap 580 Gr",
+        "label": "Heinz Organik Ketçap 580 Gr",
+        "detail": "580 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "schedro-67-yagli-mayonez-300-gr",
+        "query": "Schedro %67 Yağlı Mayonez 300 Gr",
+        "label": "Schedro %67 Yağlı Mayonez 300 Gr",
+        "detail": "300 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-ketcap-460-gr",
+        "query": "Hellmann's Ketçap 460 Gr",
+        "label": "Hellmann's Ketçap 460 Gr",
+        "detail": "460 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-tatli-ketcap-650-gr",
+        "query": "Tat Tatlı Ketçap 650 Gr",
+        "label": "Tat Tatlı Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "icim-sef-pestolu-krema-200-ml",
+        "query": "İçim Şef Pestolu Krema 200 Ml",
+        "label": "İçim Şef Pestolu Krema 200 Ml",
+        "detail": "200 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ranch-sos-245-gr",
+        "query": "Calve Ranch Sos 245 Gr",
+        "label": "Calve Ranch Sos 245 Gr",
+        "detail": "245 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ketcap-610-gr-mayonez-380-gr-set",
+        "query": "Calve Ketçap 610 Gr + Mayonez 380 Gr Set",
+        "label": "Calve Ketçap 610 Gr + Mayonez 380 Gr Set",
+        "detail": "Calve",
+        "icon": "🍶"
+      },
+      {
+        "id": "deli-chef-aciszo-aci-sos-255-gr",
+        "query": "Deli Chef Acıszo Acı Sos 255 Gr",
+        "label": "Deli Chef Acıszo Acı Sos 255 Gr",
+        "detail": "255 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "schedro-72-yagli-mayonez-300-gr",
+        "query": "Schedro %72 Yağlı Mayonez 300 Gr",
+        "label": "Schedro %72 Yağlı Mayonez 300 Gr",
+        "detail": "300 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ketcap-460-gr",
+        "query": "Heinz Ketçap 460 Gr",
+        "label": "Heinz Ketçap 460 Gr",
+        "detail": "460 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "taris-uzum-sirkesi-2-lt",
+        "query": "Tariş Üzüm Sirkesi 2 Lt",
+        "label": "Tariş Üzüm Sirkesi 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-detox-dogal-sirke-anali-elma-sirkesi-500-ml",
+        "query": "Fersan Detox Doğal Sirke Analı Elma Sirkesi 500 Ml",
+        "label": "Fersan Detox Doğal Sirke Analı Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-acili-ketcap-610-gr",
+        "query": "Calve Acılı Ketçap 610 Gr",
+        "label": "Calve Acılı Ketçap 610 Gr",
+        "detail": "610 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-acili-ketcap-650-gr",
+        "query": "Tukaş Acılı Ketçap 650 Gr",
+        "label": "Tukaş Acılı Ketçap 650 Gr",
+        "detail": "650 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-balsamik-sirke-250-ml",
+        "query": "Fersan Balsamik Sirke 250 Ml",
+        "label": "Fersan Balsamik Sirke 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-beyaz-sirke-1-lt",
+        "query": "Kühne Beyaz Sirke 1 Lt",
+        "label": "Kühne Beyaz Sirke 1 Lt",
+        "detail": "1 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "fersan-elma-sirkesi-1-lt",
+        "query": "Fersan Elma Sirkesi 1 Lt",
+        "label": "Fersan Elma Sirkesi 1 Lt",
+        "detail": "1 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-hardal-230-gr",
+        "query": "Tat Hardal 230 Gr",
+        "label": "Tat Hardal 230 Gr",
+        "detail": "230 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-sarimsakli-ketcap-375-gr",
+        "query": "Heinz Sarımsaklı Ketçap 375 Gr",
+        "label": "Heinz Sarımsaklı Ketçap 375 Gr",
+        "detail": "375 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-sirke-beyaz-karbonatli-1-lt",
+        "query": "Kühne Sirke Beyaz Karbonatlı 1 Lt",
+        "label": "Kühne Sirke Beyaz Karbonatlı 1 Lt",
+        "detail": "1 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-cevizli-pesto-makarna-sosu-190-gr",
+        "query": "Barilla Cevizli Pesto Makarna Sosu 190 Gr",
+        "label": "Barilla Cevizli Pesto Makarna Sosu 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ketcap-430-gr",
+        "query": "Calve Ketçap 430 Gr",
+        "label": "Calve Ketçap 430 Gr",
+        "detail": "430 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-taneli-hardal-345-gr",
+        "query": "Calve Taneli Hardal 345 Gr",
+        "label": "Calve Taneli Hardal 345 Gr",
+        "detail": "345 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-pesto-makarna-sosu-50-gr",
+        "query": "Knorr Pesto Makarna Sosu 50 Gr",
+        "label": "Knorr Pesto Makarna Sosu 50 Gr",
+        "detail": "50 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "burcu-karma-makarna-sosu-310-gr",
+        "query": "Burcu Karma Makarna Sosu 310 Gr",
+        "label": "Burcu Karma Makarna Sosu 310 Gr",
+        "detail": "310 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-sarimsakli-mayonez-400-gr",
+        "query": "Heinz Sarımsaklı Mayonez 400 Gr",
+        "label": "Heinz Sarımsaklı Mayonez 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ketcap-570-gr",
+        "query": "Heinz Ketçap 570 Gr",
+        "label": "Heinz Ketçap 570 Gr",
+        "detail": "570 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-filtresiz-elma-sirkesi-500-ml",
+        "query": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+        "label": "Kühne Filtresiz Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-acili-mayonez-405-gr",
+        "query": "Heinz Acılı Mayonez 405 Gr",
+        "label": "Heinz Acılı Mayonez 405 Gr",
+        "detail": "405 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-smoky-mayonez-225-gr",
+        "query": "Heinz Smoky Mayonez 225 Gr",
+        "label": "Heinz Smoky Mayonez 225 Gr",
+        "detail": "225 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-mayonez-505-gr",
+        "query": "Heinz Mayonez 505 Gr",
+        "label": "Heinz Mayonez 505 Gr",
+        "detail": "505 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-kremali-truf-mantarli-makarna-sosu-52-gr",
+        "query": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 Gr",
+        "label": "Knorr Kremalı Trüf Mantarlı Makarna Sosu 52 Gr",
+        "detail": "52 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ranch-sos-225-gr",
+        "query": "Heinz Ranch Sos 225 Gr",
+        "label": "Heinz Ranch Sos 225 Gr",
+        "detail": "225 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "icim-sef-mantarli-kremali-sos-200-ml",
+        "query": "İçim Şef Mantarlı Kremalı Sos 200 Ml",
+        "label": "İçim Şef Mantarlı Kremalı Sos 200 Ml",
+        "detail": "200 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "pastavilla-pesto-makarna-sosu-190-gr",
+        "query": "Pastavilla Pesto Makarna Sosu 190 Gr",
+        "label": "Pastavilla Pesto Makarna Sosu 190 Gr",
+        "detail": "190 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-balli-hardal-260-gr",
+        "query": "Calvé Ballı Hardal 260 Gr",
+        "label": "Calvé Ballı Hardal 260 Gr",
+        "detail": "260 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-alic-sirkesi-500-ml",
+        "query": "Kühne Alıç Sirkesi 500 Ml",
+        "label": "Kühne Alıç Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-arrabbiata-makarna-sosu-400-gr",
+        "query": "Barilla Arrabbiata Makarna Sosu 400 Gr",
+        "label": "Barilla Arrabbiata Makarna Sosu 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-ketcap-375-gr-mayonez-330-gr-ikili-set",
+        "query": "Heinz Ketçap 375 Gr + Mayonez 330 Gr İkili Set",
+        "label": "Heinz Ketçap 375 Gr + Mayonez 330 Gr İkili Set",
+        "detail": "Heinz",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-ketcap-610-gr-mayonez-540-gr-ikili-set",
+        "query": "Calve Ketçap 610 Gr + Mayonez 540 Gr İkili Set",
+        "label": "Calve Ketçap 610 Gr + Mayonez 540 Gr İkili Set",
+        "detail": "Calve",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-4-peynirli-makarna-sosu-50-gr",
+        "query": "Knorr 4 Peynirli Makarna Sosu 50 Gr",
+        "label": "Knorr 4 Peynirli Makarna Sosu 50 Gr",
+        "detail": "50 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "pastavilla-napoliten-makarna-sosu-300-gr",
+        "query": "Pastavilla Napoliten Makarna Sosu 300 Gr",
+        "label": "Pastavilla Napoliten Makarna Sosu 300 Gr",
+        "detail": "300 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-sodyumu-azaltilmis-soya-sosu-250-ml",
+        "query": "Kühne Sodyumu Azaltılmış Soya Sosu 250 Ml",
+        "label": "Kühne Sodyumu Azaltılmış Soya Sosu 250 Ml",
+        "detail": "250 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-siki-dostlar-ketcap-mayonez-seti-1-21-kg",
+        "query": "Tat Sıkı Dostlar Ketçap Mayonez Seti 1.21 Kg",
+        "label": "Tat Sıkı Dostlar Ketçap Mayonez Seti 1.21 Kg",
+        "detail": "1.21 kg",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-aci-sos-160-gr",
+        "query": "Heinz Acı Sos 160 Gr",
+        "label": "Heinz Acı Sos 160 Gr",
+        "detail": "160 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-truflu-mayonez-235-gr",
+        "query": "Calve Trüflü Mayonez 235 Gr",
+        "label": "Calve Trüflü Mayonez 235 Gr",
+        "detail": "235 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-mayonez-330-gr",
+        "query": "Heinz Mayonez 330 Gr",
+        "label": "Heinz Mayonez 330 Gr",
+        "detail": "330 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-organik-elma-sirkesi-500-ml",
+        "query": "Kühne Organik Elma Sirkesi 500 Ml",
+        "label": "Kühne Organik Elma Sirkesi 500 Ml",
+        "detail": "500 ml",
+        "icon": "🍶"
+      },
+      {
+        "id": "knorr-bolonez-makarna-sosu-45-gr",
+        "query": "Knorr Bolonez Makarna Sosu 45 Gr",
+        "label": "Knorr Bolonez Makarna Sosu 45 Gr",
+        "detail": "45 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "calve-aci-sos-265-gr",
+        "query": "Calve Acı Sos 265 Gr",
+        "label": "Calve Acı Sos 265 Gr",
+        "detail": "265 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tukas-aci-sos-380-gr",
+        "query": "Tukaş Acı Sos 380 Gr",
+        "label": "Tukaş Acı Sos 380 Gr",
+        "detail": "380 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "kuhne-beyaz-sirke-2-lt",
+        "query": "Kühne Beyaz Sirke 2 Lt",
+        "label": "Kühne Beyaz Sirke 2 Lt",
+        "detail": "2 L",
+        "icon": "🍶"
+      },
+      {
+        "id": "hellmann-s-truflu-mayonez-235-gr",
+        "query": "Hellmann's Trüflü Mayonez 235 Gr",
+        "label": "Hellmann's Trüflü Mayonez 235 Gr",
+        "detail": "235 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-pesto-mayonez-225-gr",
+        "query": "Heinz Pesto Mayonez 225 Gr",
+        "label": "Heinz Pesto Mayonez 225 Gr",
+        "detail": "225 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-napoletana-makarna-sosu-400-gr",
+        "query": "Barilla Napoletana Makarna Sosu 400 Gr",
+        "label": "Barilla Napoletana Makarna Sosu 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-acili-ketcap-390-gr",
+        "query": "Tat Acılı Ketçap 390 Gr",
+        "label": "Tat Acılı Ketçap 390 Gr",
+        "detail": "390 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "tat-ketcap-390-gr",
+        "query": "Tat Ketçap 390 Gr",
+        "label": "Tat Ketçap 390 Gr",
+        "detail": "390 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "hp-klasik-barbeku-sos-465-gr",
+        "query": "HP Klasik Barbekü Sos 465 Gr",
+        "label": "HP Klasik Barbekü Sos 465 Gr",
+        "detail": "465 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "barilla-basilico-makarna-sosu-400-gr",
+        "query": "Barilla Basilico Makarna Sosu 400 Gr",
+        "label": "Barilla Basilico Makarna Sosu 400 Gr",
+        "detail": "400 g",
+        "icon": "🍶"
+      },
+      {
+        "id": "heinz-hardal-445-gr",
+        "query": "Heinz Hardal 445 Gr",
+        "label": "Heinz Hardal 445 Gr",
+        "detail": "445 g",
+        "icon": "🍶"
       }
     ]
   }
