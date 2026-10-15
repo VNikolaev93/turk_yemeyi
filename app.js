@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-17";
+const DATA_REVISION = "2026-10-15-18";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -49,6 +49,16 @@ const categories = {
       { id: "dairy-fats", label: "Tereyağı ve Margarin", icon: "🧈", products: [] },
       { id: "other-dairy", label: "Diğer Süt Ürünleri", icon: "🥛", products: [] },
       { id: "dairy-eggs", label: "Yumurta", icon: "🥚", products: [] }
+    ]
+  },
+  breakfast: {
+    title: "Kahvaltılık",
+    subcategories: [
+      { id: "breakfast-cereals-bars-granola", label: "Kahvaltılık Gevrek Bar ve Granola", icon: "🥣", products: [] },
+      { id: "honey-jam", label: "Bal ve Reçel", icon: "🍯", products: [] },
+      { id: "spreads-breakfast-sauces", label: "Sürülebilir Ürünler ve Kahvaltılık Soslar", icon: "🥄", products: [] },
+      { id: "halva-tahini-molasses", label: "Helva Tahin ve Pekmez", icon: "🍬", products: [] },
+      { id: "olives", label: "Zeytin", icon: "🫒", products: [] }
     ]
   },
   meat: {
