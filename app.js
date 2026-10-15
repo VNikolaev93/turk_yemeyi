@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-12";
+const DATA_REVISION = "2026-10-15-13";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -73,7 +73,23 @@ const categories = {
   },
   staples: {
     title: "Temel Gıda",
-    subcategories: []
+    subcategories: [
+      { id: "prepared-meals", label: "Hazır Yemekler", icon: "🍲", products: [] },
+      { id: "sauces-vinegars", label: "Sos ve Sirkeler", icon: "🍶", products: [] },
+      { id: "spices-mixes", label: "Baharat ve Harçlar", icon: "🧂", products: [] },
+      { id: "legumes", label: "Bakliyat", icon: "🫘", products: [] },
+      { id: "bakery", label: "Ekmek ve Unlu Mamüller", icon: "🥖", products: [] },
+      { id: "pasta-noodles", label: "Mantı Makarna ve Erişte", icon: "🍝", products: [] },
+      { id: "baking-ingredients", label: "Pasta Malzemeleri", icon: "🍰", products: [] },
+      { id: "baby-food", label: "Bebek Mamaları", icon: "🍼", products: [] },
+      { id: "cooking-oils", label: "Sıvı Yağlar", icon: "🫗", products: [] },
+      { id: "flour-semolina", label: "Un ve İrmik", icon: "🌾", products: [] },
+      { id: "prepared-food-mixes", label: "Hazır Gıda Karışımları", icon: "🥣", products: [] },
+      { id: "canned-food", label: "Konserve", icon: "🥫", products: [] },
+      { id: "pickles", label: "Turşu", icon: "🥒", products: [] },
+      { id: "sugar-sweeteners", label: "Şeker ve Tatlandırıcılar", icon: "🍬", products: [] },
+      { id: "tomato-paste", label: "Salça", icon: "🍅", products: [] }
+    ]
   },
   snacks: {
     title: "Atıştırmalık",
