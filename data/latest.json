@@ -7902,6 +7902,654 @@
       "price": 139,
       "oldPrice": null,
       "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuzey-balik-cipura-600-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kuzey Balık Çipura 600 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-klasik-ton-baligi-3x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Klasik Ton Balığı 3x80 Gr",
+      "price": 317.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-somon-poset-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Somon Poşet 80 Gr",
+      "price": 174.71,
+      "oldPrice": 232.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-zeytinyagli-ton-baligi-2x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Zeytinyağlı Ton Balığı 2x140 Gr",
+      "price": 307.97,
+      "oldPrice": 439.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-aycicek-yagli-ton-baligi-280-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Ayçiçek Yağlı Ton Balığı 280 Gr",
+      "price": 285.57,
+      "oldPrice": 407.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-ton-baligi-poset-80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Ton Balığı Poşet 80 Gr",
+      "price": 141.71,
+      "oldPrice": 188.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-kinoali-ton-150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Kinoalı Ton 150 Gr",
+      "price": 165.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-sardalya-125-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Sardalya 125 Gr",
+      "price": 117.71,
+      "oldPrice": 156.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-ac-ye-meksika-fasulyeli-ton-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Aç Ye Meksika Fasulyeli Ton 160 Gr",
+      "price": 140.21,
+      "oldPrice": 186.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dardanel-ac-ye-meksika-fasulyeli-ton-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Aç Ye Meksika Fasulyeli Ton 160 Gr",
+      "price": 186.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-ton-baligi-2x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Ton Balığı 2x140 Gr",
+      "price": 472.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-aycicekyagli-ton-baligi-2x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Ayçiçekyağlı Ton Balığı 2x140 Gr",
+      "price": 429.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-fume-ton-baligi-2x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Füme Ton Balığı 2x140 Gr",
+      "price": 299.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-zeytinyagli-iri-parcali-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Zeytinyağlı İri Parçalı Ton Balığı 2x160 Gr",
+      "price": 257.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-soguk-sikim-zeytinyagli-ton-bonfile-185-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Soğuk Sıkım Zeytinyağlı Ton Bonfile 185 Gr",
+      "price": 247.46,
+      "oldPrice": 329.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-light-ton-baligi-2x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Light Ton Balığı 2x140 Gr",
+      "price": 424.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-kinoali-ton-baligi-ac-ye-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Kinoalı Ton Balığı Aç Ye 160 Gr",
+      "price": 140.21,
+      "oldPrice": 186.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-ton-baligi-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Ton Balığı 225 Gr",
+      "price": 439.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-aycicekyagli-ton-baligi-225-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Ayçiçekyağlı Ton Balığı 225 Gr",
+      "price": 406.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-zeytinyagli-ton-baligi-3x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Zeytinyağlı Ton Balığı 3x80 Gr",
+      "price": 349.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "balik-dunyasi-turk-somonu-440-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Türk Somonu 440 Gr",
+      "price": 165,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-uskumru-fileto-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Uskumru Fileto 500 Gr",
+      "price": 225,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "balik-dunyasi-uskumru-fileto-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Uskumru Fileto 500 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-misirli-ac-ye-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Mısırlı Aç Ye 160 Gr",
+      "price": 140.21,
+      "oldPrice": 186.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dardanel-misirli-ac-ye-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Mısırlı Aç Ye 160 Gr",
+      "price": 186.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-dilimli-somon-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Dilimli Somon 500 Gr",
+      "price": 275,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-zeytinyagli-ton-baligi-3x75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Zeytinyağlı Ton Balığı 3x75 Gr",
+      "price": 293.97,
+      "oldPrice": 419.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-light-ton-baligi-3x75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Light Ton Balığı 3x75 Gr",
+      "price": 268.07,
+      "oldPrice": 382.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "superfresh-aycicek-yagli-ton-baligi-3x75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Ayçiçek Yağlı Ton Balığı 3x75 Gr",
+      "price": 268.07,
+      "oldPrice": 382.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "superfresh-aycicek-yagli-ton-baligi-3x140-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Ayçiçek Yağlı Ton Balığı 3x140 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "dardanel-4-tahilli-ton-ac-ye-160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel 4 Tahıllı Ton Aç Ye 160 Gr",
+      "price": 187.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dondurulmus-norvec-somon-dilim-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dondurulmuş Norveç Somon Dilim 500 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "balik-dunyasi-dondurulmus-somon-10-glaze-440-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Dondurulmuş Somon %10 Glaze 440 Gr",
+      "price": 165,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "omega61-dondurulmus-karadeniz-somon-fileto-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Omega61 Dondurulmuş Karadeniz Somon Fileto 500 Gr",
+      "price": 499.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-ton-soguk-sikim-sizma-zeytinyagli-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Ton Soğuk Sıkım Sızma Zeytinyağlı 2x160 Gr",
+      "price": 389.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "mezzemarin-dondurulmus-halka-kalamar-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Mezzemarin Dondurulmuş Halka Kalamar 200 Gr",
+      "price": 89.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "dardanel-ekonomik-ton-baligi-3x140-g",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Ekonomik Ton Balığı 3x140 G",
+      "price": 289,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "balik-dunyasi-dondurulmus-sardalya-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Dondurulmuş Sardalya 500 Gr",
+      "price": 99.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "balik-dunyasi-dondurulmus-temizlenmis-cipura-550-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Dondurulmuş Temizlenmiş Çipura 550 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "wawa-konserve-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Wawa Konserve Ton Balığı 2x160 Gr",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "bizim-vatan-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Bizim Vatan Ton Balığı 2x160 Gr",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "wawa-ton-baligi-konservesi-3x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Wawa Ton Balığı Konservesi 3x80 Gr",
+      "price": 125,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ton-baligi-light-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Ton Balığı Light 300 Gr",
+      "price": 429.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-zeytinyagli-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Zeytinyağlı Ton Balığı 2x160 Gr",
+      "price": 369.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-torik-lakerda-200-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Torik Lakerda 200 Gr",
+      "price": 399.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "balik-dunyasi-dondurulmus-temizlenmis-hamsi-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Dondurulmuş Temizlenmiş Hamsi 500 Gr",
+      "price": 109.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "dardanel-konserve-ton-baligi-3x75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Konserve Ton Balığı 3x75 Gr",
+      "price": 399,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-ton-baligi-300-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Ton Balığı 300 Gr",
+      "price": 429.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "kalite-tonla-zeytinyagli-ton-baligi-2x150-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kalite Tonla Zeytinyağlı Ton Balığı 2x150 Gr",
+      "price": 269.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "pinar-halka-kalamar-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Pınar Halka Kalamar 400 Gr",
+      "price": 699.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "fish-fish-karides-50-glaze-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fish Fish Karides %50 Glaze 500 Gr",
+      "price": 265,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-acili-ton-baligi-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Acılı Ton Balığı 320 Gr",
+      "price": 301.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "tada-acili-sardalya-konservesi-125-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tada Acılı Sardalya Konservesi 125 Gr",
+      "price": 141.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-turk-somonu-fume-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Türk Somonu Füme 100 Gr",
+      "price": 269.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "A101",
+      "productId": "balik-dunyasi-dondurulmus-karides-50-glaze-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Balık Dünyası Dondurulmuş Karides %50 Glaze 400 Gr",
+      "price": 209,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-light-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Light Ton Balığı 2x160 Gr",
+      "price": 334.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-klasik-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Klasik Ton Balığı 2x160 Gr",
+      "price": 334.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Şok",
+      "productId": "dardanel-fish-finger-400-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Fish Finger 400 Gr",
+      "price": 269.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "migros-somon-fume-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Migros Somon Füme 100 Gr",
+      "price": 354.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "dardanel-zeytinyagli-ton-4x75-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Zeytinyağlı Ton 4x75 Gr",
+      "price": 264.95,
+      "oldPrice": 439.95,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "rozen-31-40-jumbo-et-karides-175-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Rozen 31/40 Jumbo Et Karides 175 Gr",
+      "price": 334.9,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuzey-balik-dondurulmus-somon-steak-dilim-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kuzey Balık Dondurulmuş Somon Steak Dilim 500 Gr",
+      "price": 279,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Carrefour",
+      "productId": "leroy-kirinti-fume-100-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Leroy Kırıntı Füme 100 Gr",
+      "price": 129,
+      "oldPrice": 159,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Migros",
+      "productId": "fide-light-ton-baligi-3x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fide Light Ton Balığı 3x80 Gr",
+      "price": 317.95,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "fish-fish-donuk-temizlenmis-hamsi-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Fish Fish Donuk Temizlenmiş Hamsi 500 Gr",
+      "price": 199,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-ton-baligi-2x160-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Ton Balığı 2x160 Gr",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "tarim-kredi-ton-baligi-3x80-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Tarım Kredi Ton Balığı 3x80 Gr",
+      "price": 129,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "superfresh-superton-ton-baligi-270-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Superfresh Superton Ton Balığı 270 Gr",
+      "price": 159,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuzey-balik-dondurulmus-alabalik-fileto-500-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kuzey Balık Dondurulmuş Alabalık Fileto 500 Gr",
+      "price": 299,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "derya-ton-baligi-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Derya Ton Balığı 320 Gr",
+      "price": 145,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "Koop Market",
+      "productId": "kuzey-balik-dondurulmus-temizlenmis-alabalik-320-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Kuzey Balık Dondurulmuş Temizlenmiş Alabalık 320 Gr",
+      "price": 169,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
+    },
+    {
+      "store": "BİM",
+      "productId": "dardanel-ekonomik-ton-baligi-250-gr",
+      "category": "Et, Tavuk ve Balık",
+      "name": "Dardanel Ekonomik Ton Balığı 250 Gr",
+      "price": 169.5,
+      "oldPrice": null,
+      "checkedAt": "2026-10-14T00:00:00+03:00"
     }
   ],
   "storesWithoutCurrentData": [],
@@ -12741,6 +13389,498 @@
         "label": "Tazem Piliç Kalçalı But 850 Gr",
         "detail": "850 g",
         "icon": "🍗"
+      }
+    ],
+    "seafood": [
+      {
+        "id": "kuzey-balik-cipura-600-gr",
+        "query": "Kuzey Balık Çipura 600 Gr",
+        "label": "Kuzey Balık Çipura 600 Gr",
+        "detail": "600 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-klasik-ton-baligi-3x80-gr",
+        "query": "Fide Klasik Ton Balığı 3x80 Gr",
+        "label": "Fide Klasik Ton Balığı 3x80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-somon-poset-80-gr",
+        "query": "Dardanel Zeytinyağlı Somon Poşet 80 Gr",
+        "label": "Dardanel Zeytinyağlı Somon Poşet 80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-zeytinyagli-ton-baligi-2x140-gr",
+        "query": "Superfresh Zeytinyağlı Ton Balığı 2x140 Gr",
+        "label": "Superfresh Zeytinyağlı Ton Balığı 2x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-aycicek-yagli-ton-baligi-280-gr",
+        "query": "Superfresh Ayçiçek Yağlı Ton Balığı 280 Gr",
+        "label": "Superfresh Ayçiçek Yağlı Ton Balığı 280 Gr",
+        "detail": "280 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-ton-baligi-poset-80-gr",
+        "query": "Dardanel Zeytinyağlı Ton Balığı Poşet 80 Gr",
+        "label": "Dardanel Zeytinyağlı Ton Balığı Poşet 80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-kinoali-ton-150-gr",
+        "query": "Superfresh Kinoalı Ton 150 Gr",
+        "label": "Superfresh Kinoalı Ton 150 Gr",
+        "detail": "150 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-sardalya-125-gr",
+        "query": "Dardanel Zeytinyağlı Sardalya 125 Gr",
+        "label": "Dardanel Zeytinyağlı Sardalya 125 Gr",
+        "detail": "125 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-ac-ye-meksika-fasulyeli-ton-160-gr",
+        "query": "Dardanel Aç Ye Meksika Fasulyeli Ton 160 Gr",
+        "label": "Dardanel Aç Ye Meksika Fasulyeli Ton 160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-ton-baligi-2x140-gr",
+        "query": "Dardanel Zeytinyağlı Ton Balığı 2x140 Gr",
+        "label": "Dardanel Zeytinyağlı Ton Balığı 2x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-aycicekyagli-ton-baligi-2x140-gr",
+        "query": "Dardanel Ayçiçekyağlı Ton Balığı 2x140 Gr",
+        "label": "Dardanel Ayçiçekyağlı Ton Balığı 2x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-fume-ton-baligi-2x140-gr",
+        "query": "Dardanel Füme Ton Balığı 2x140 Gr",
+        "label": "Dardanel Füme Ton Balığı 2x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "migros-zeytinyagli-iri-parcali-ton-baligi-2x160-gr",
+        "query": "Migros Zeytinyağlı İri Parçalı Ton Balığı 2x160 Gr",
+        "label": "Migros Zeytinyağlı İri Parçalı Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-soguk-sikim-zeytinyagli-ton-bonfile-185-gr",
+        "query": "Dardanel Soğuk Sıkım Zeytinyağlı Ton Bonfile 185 Gr",
+        "label": "Dardanel Soğuk Sıkım Zeytinyağlı Ton Bonfile 185 Gr",
+        "detail": "185 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-light-ton-baligi-2x140-gr",
+        "query": "Dardanel Light Ton Balığı 2x140 Gr",
+        "label": "Dardanel Light Ton Balığı 2x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-kinoali-ton-baligi-ac-ye-160-gr",
+        "query": "Dardanel Kinoalı Ton Balığı Aç Ye 160 Gr",
+        "label": "Dardanel Kinoalı Ton Balığı Aç Ye 160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-ton-baligi-225-gr",
+        "query": "Dardanel Zeytinyağlı Ton Balığı 225 Gr",
+        "label": "Dardanel Zeytinyağlı Ton Balığı 225 Gr",
+        "detail": "225 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-aycicekyagli-ton-baligi-225-gr",
+        "query": "Dardanel Ayçiçekyağlı Ton Balığı 225 Gr",
+        "label": "Dardanel Ayçiçekyağlı Ton Balığı 225 Gr",
+        "detail": "225 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-zeytinyagli-ton-baligi-3x80-gr",
+        "query": "Fide Zeytinyağlı Ton Balığı 3x80 Gr",
+        "label": "Fide Zeytinyağlı Ton Balığı 3x80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-turk-somonu-440-gr",
+        "query": "Balık Dünyası Türk Somonu 440 Gr",
+        "label": "Balık Dünyası Türk Somonu 440 Gr",
+        "detail": "440 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dondurulmus-uskumru-fileto-500-gr",
+        "query": "Dondurulmuş Uskumru Fileto 500 Gr",
+        "label": "Dondurulmuş Uskumru Fileto 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-uskumru-fileto-500-gr",
+        "query": "Balık Dünyası Uskumru Fileto 500 Gr",
+        "label": "Balık Dünyası Uskumru Fileto 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-misirli-ac-ye-160-gr",
+        "query": "Dardanel Mısırlı Aç Ye 160 Gr",
+        "label": "Dardanel Mısırlı Aç Ye 160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dondurulmus-dilimli-somon-500-gr",
+        "query": "Dondurulmuş Dilimli Somon 500 Gr",
+        "label": "Dondurulmuş Dilimli Somon 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-zeytinyagli-ton-baligi-3x75-gr",
+        "query": "Superfresh Zeytinyağlı Ton Balığı 3x75 Gr",
+        "label": "Superfresh Zeytinyağlı Ton Balığı 3x75 Gr",
+        "detail": "75 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-light-ton-baligi-3x75-gr",
+        "query": "Superfresh Light Ton Balığı 3x75 Gr",
+        "label": "Superfresh Light Ton Balığı 3x75 Gr",
+        "detail": "75 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-aycicek-yagli-ton-baligi-3x75-gr",
+        "query": "Superfresh Ayçiçek Yağlı Ton Balığı 3x75 Gr",
+        "label": "Superfresh Ayçiçek Yağlı Ton Balığı 3x75 Gr",
+        "detail": "75 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-aycicek-yagli-ton-baligi-3x140-gr",
+        "query": "Superfresh Ayçiçek Yağlı Ton Balığı 3x140 Gr",
+        "label": "Superfresh Ayçiçek Yağlı Ton Balığı 3x140 Gr",
+        "detail": "140 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-4-tahilli-ton-ac-ye-160-gr",
+        "query": "Dardanel 4 Tahıllı Ton Aç Ye 160 Gr",
+        "label": "Dardanel 4 Tahıllı Ton Aç Ye 160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dondurulmus-norvec-somon-dilim-500-gr",
+        "query": "Dondurulmuş Norveç Somon Dilim 500 Gr",
+        "label": "Dondurulmuş Norveç Somon Dilim 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-dondurulmus-somon-10-glaze-440-gr",
+        "query": "Balık Dünyası Dondurulmuş Somon %10 Glaze 440 Gr",
+        "label": "Balık Dünyası Dondurulmuş Somon %10 Glaze 440 Gr",
+        "detail": "440 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "omega61-dondurulmus-karadeniz-somon-fileto-500-gr",
+        "query": "Omega61 Dondurulmuş Karadeniz Somon Fileto 500 Gr",
+        "label": "Omega61 Dondurulmuş Karadeniz Somon Fileto 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-ton-soguk-sikim-sizma-zeytinyagli-2x160-gr",
+        "query": "Fide Ton Soğuk Sıkım Sızma Zeytinyağlı 2x160 Gr",
+        "label": "Fide Ton Soğuk Sıkım Sızma Zeytinyağlı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "mezzemarin-dondurulmus-halka-kalamar-200-gr",
+        "query": "Mezzemarin Dondurulmuş Halka Kalamar 200 Gr",
+        "label": "Mezzemarin Dondurulmuş Halka Kalamar 200 Gr",
+        "detail": "200 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-ekonomik-ton-baligi-3x140-g",
+        "query": "Dardanel Ekonomik Ton Balığı 3x140 G",
+        "label": "Dardanel Ekonomik Ton Balığı 3x140 G",
+        "detail": "140 G",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-dondurulmus-sardalya-500-gr",
+        "query": "Balık Dünyası Dondurulmuş Sardalya 500 Gr",
+        "label": "Balık Dünyası Dondurulmuş Sardalya 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-dondurulmus-temizlenmis-cipura-550-gr",
+        "query": "Balık Dünyası Dondurulmuş Temizlenmiş Çipura 550 Gr",
+        "label": "Balık Dünyası Dondurulmuş Temizlenmiş Çipura 550 Gr",
+        "detail": "550 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "wawa-konserve-ton-baligi-2x160-gr",
+        "query": "Wawa Konserve Ton Balığı 2x160 Gr",
+        "label": "Wawa Konserve Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "bizim-vatan-ton-baligi-2x160-gr",
+        "query": "Bizim Vatan Ton Balığı 2x160 Gr",
+        "label": "Bizim Vatan Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "wawa-ton-baligi-konservesi-3x80-gr",
+        "query": "Wawa Ton Balığı Konservesi 3x80 Gr",
+        "label": "Wawa Ton Balığı Konservesi 3x80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "pinar-ton-baligi-light-300-gr",
+        "query": "Pınar Ton Balığı Light 300 Gr",
+        "label": "Pınar Ton Balığı Light 300 Gr",
+        "detail": "300 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-zeytinyagli-ton-baligi-2x160-gr",
+        "query": "Fide Zeytinyağlı Ton Balığı 2x160 Gr",
+        "label": "Fide Zeytinyağlı Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "migros-torik-lakerda-200-gr",
+        "query": "Migros Torik Lakerda 200 Gr",
+        "label": "Migros Torik Lakerda 200 Gr",
+        "detail": "200 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-dondurulmus-temizlenmis-hamsi-500-gr",
+        "query": "Balık Dünyası Dondurulmuş Temizlenmiş Hamsi 500 Gr",
+        "label": "Balık Dünyası Dondurulmuş Temizlenmiş Hamsi 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-konserve-ton-baligi-3x75-gr",
+        "query": "Dardanel Konserve Ton Balığı 3x75 Gr",
+        "label": "Dardanel Konserve Ton Balığı 3x75 Gr",
+        "detail": "75 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "pinar-ton-baligi-300-gr",
+        "query": "Pınar Ton Balığı 300 Gr",
+        "label": "Pınar Ton Balığı 300 Gr",
+        "detail": "300 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "kalite-tonla-zeytinyagli-ton-baligi-2x150-gr",
+        "query": "Kalite Tonla Zeytinyağlı Ton Balığı 2x150 Gr",
+        "label": "Kalite Tonla Zeytinyağlı Ton Balığı 2x150 Gr",
+        "detail": "150 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "pinar-halka-kalamar-400-gr",
+        "query": "Pınar Halka Kalamar 400 Gr",
+        "label": "Pınar Halka Kalamar 400 Gr",
+        "detail": "400 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fish-fish-karides-50-glaze-500-gr",
+        "query": "Fish Fish Karides %50 Glaze 500 Gr",
+        "label": "Fish Fish Karides %50 Glaze 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-acili-ton-baligi-320-gr",
+        "query": "Fide Acılı Ton Balığı 320 Gr",
+        "label": "Fide Acılı Ton Balığı 320 Gr",
+        "detail": "320 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "tada-acili-sardalya-konservesi-125-gr",
+        "query": "Tada Acılı Sardalya Konservesi 125 Gr",
+        "label": "Tada Acılı Sardalya Konservesi 125 Gr",
+        "detail": "125 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "migros-turk-somonu-fume-100-gr",
+        "query": "Migros Türk Somonu Füme 100 Gr",
+        "label": "Migros Türk Somonu Füme 100 Gr",
+        "detail": "100 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "balik-dunyasi-dondurulmus-karides-50-glaze-400-gr",
+        "query": "Balık Dünyası Dondurulmuş Karides %50 Glaze 400 Gr",
+        "label": "Balık Dünyası Dondurulmuş Karides %50 Glaze 400 Gr",
+        "detail": "400 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-light-ton-baligi-2x160-gr",
+        "query": "Fide Light Ton Balığı 2x160 Gr",
+        "label": "Fide Light Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-klasik-ton-baligi-2x160-gr",
+        "query": "Fide Klasik Ton Balığı 2x160 Gr",
+        "label": "Fide Klasik Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-fish-finger-400-gr",
+        "query": "Dardanel Fish Finger 400 Gr",
+        "label": "Dardanel Fish Finger 400 Gr",
+        "detail": "400 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "migros-somon-fume-100-gr",
+        "query": "Migros Somon Füme 100 Gr",
+        "label": "Migros Somon Füme 100 Gr",
+        "detail": "100 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-zeytinyagli-ton-4x75-gr",
+        "query": "Dardanel Zeytinyağlı Ton 4x75 Gr",
+        "label": "Dardanel Zeytinyağlı Ton 4x75 Gr",
+        "detail": "75 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "rozen-31-40-jumbo-et-karides-175-gr",
+        "query": "Rozen 31/40 Jumbo Et Karides 175 Gr",
+        "label": "Rozen 31/40 Jumbo Et Karides 175 Gr",
+        "detail": "175 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "kuzey-balik-dondurulmus-somon-steak-dilim-500-gr",
+        "query": "Kuzey Balık Dondurulmuş Somon Steak Dilim 500 Gr",
+        "label": "Kuzey Balık Dondurulmuş Somon Steak Dilim 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "leroy-kirinti-fume-100-gr",
+        "query": "Leroy Kırıntı Füme 100 Gr",
+        "label": "Leroy Kırıntı Füme 100 Gr",
+        "detail": "100 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fide-light-ton-baligi-3x80-gr",
+        "query": "Fide Light Ton Balığı 3x80 Gr",
+        "label": "Fide Light Ton Balığı 3x80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "fish-fish-donuk-temizlenmis-hamsi-500-gr",
+        "query": "Fish Fish Donuk Temizlenmiş Hamsi 500 Gr",
+        "label": "Fish Fish Donuk Temizlenmiş Hamsi 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "tarim-kredi-ton-baligi-2x160-gr",
+        "query": "Tarım Kredi Ton Balığı 2x160 Gr",
+        "label": "Tarım Kredi Ton Balığı 2x160 Gr",
+        "detail": "160 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "tarim-kredi-ton-baligi-3x80-gr",
+        "query": "Tarım Kredi Ton Balığı 3x80 Gr",
+        "label": "Tarım Kredi Ton Balığı 3x80 Gr",
+        "detail": "80 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "superfresh-superton-ton-baligi-270-gr",
+        "query": "Superfresh Superton Ton Balığı 270 Gr",
+        "label": "Superfresh Superton Ton Balığı 270 Gr",
+        "detail": "270 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "kuzey-balik-dondurulmus-alabalik-fileto-500-gr",
+        "query": "Kuzey Balık Dondurulmuş Alabalık Fileto 500 Gr",
+        "label": "Kuzey Balık Dondurulmuş Alabalık Fileto 500 Gr",
+        "detail": "500 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "derya-ton-baligi-320-gr",
+        "query": "Derya Ton Balığı 320 Gr",
+        "label": "Derya Ton Balığı 320 Gr",
+        "detail": "320 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "kuzey-balik-dondurulmus-temizlenmis-alabalik-320-gr",
+        "query": "Kuzey Balık Dondurulmuş Temizlenmiş Alabalık 320 Gr",
+        "label": "Kuzey Balık Dondurulmuş Temizlenmiş Alabalık 320 Gr",
+        "detail": "320 g",
+        "icon": "🐟"
+      },
+      {
+        "id": "dardanel-ekonomik-ton-baligi-250-gr",
+        "query": "Dardanel Ekonomik Ton Balığı 250 Gr",
+        "label": "Dardanel Ekonomik Ton Balığı 250 Gr",
+        "detail": "250 g",
+        "icon": "🐟"
       }
     ]
   }
