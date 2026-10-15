@@ -31,7 +31,7 @@ let activeCategory = null;
 let activeSubcategory = null;
 let offers = [];
 let unavailableStores = [];
-const DATA_REVISION = "2026-10-15-11";
+const DATA_REVISION = "2026-10-15-12";
 const categories = {
   produce: {
     title: "Meyve ve Sebze",
@@ -73,10 +73,7 @@ const categories = {
   },
   staples: {
     title: "Temel Gıda",
-    subcategories: [
-      { id: "bakery", label: "Ekmek ve Unlu Mamüller", icon: "🥖", products: [{ id: "superfresh-milfoy-hamuru-1kg", query: "superfresh milföy hamuru 1 kg", label: "Superfresh Milföy Hamuru", detail: "1 kg", icon: "🥖" }] },
-      { id: "sauce", label: "Sos", icon: "🍅", products: [{ id: "calve-mayonez-540g", query: "calve mayonez 540 gr", label: "Calve Mayonez", detail: "540 g", icon: "🍅" }, { id: "calve-cheddar-sos-240g", query: "calve cheddar sos 240 gr", label: "Calve Cheddar Sos", detail: "240 g", icon: "🍅" }] }
-    ]
+    subcategories: []
   },
   snacks: {
     title: "Atıştırmalık",
